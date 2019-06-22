@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<!-- ================================ -->
+<!-- Define topics for the What's New -->
+<!-- ================================ -->
+<toc label="What's New">
+	<topic href="whatsNew/jdt_whatsnew.html#Java12"        			label="Java12"         	/>
+	<topic href="whatsNew/jdt_whatsnew.html#JavaEditor"           	label="Java Editor"            	/>
+	<topic href="whatsNew/jdt_whatsnew.html#JavaViewsAndDialogs"    label="Java Views and Dialogs"         	/>
+	<topic href="whatsNew/jdt_whatsnew.html#Debug"                	label="Debug"          />
+	<topic href="whatsNew/jdt_whatsnew.html#JDTDev"                	label="JDT Developers"          />
+</toc>

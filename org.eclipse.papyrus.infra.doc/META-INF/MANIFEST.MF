@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.papyrus.infra.doc
+Bundle-SymbolicName: org.eclipse.papyrus.infra.doc;singleton:=true
+Built-By: genie.papyrus
+Require-Bundle: org.eclipse.help;bundle-version="[3.7.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/papyru
+ s/org.eclipse.papyrus.git;path="plugins/doc/org.eclipse.papyrus.infra
+ .doc";commitId=8d9e61b2b52ba51d774875bc4fca0f7403fc10f4
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 1.2.0.201906122339
+Bundle-Name: %Bundle-Name
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_192
+
+Name: plugin.xml
+SHA-256-Digest: XBC709rTBBwhCANnACinKCVX9Ek5SPZzjkSv/SJBNJ8=
+
+Name: about.html
+SHA-256-Digest: GABWBDpwHnjjVGm5lFsPqtC0Ceq2Fcx6QbS3n2WAKvE=
+
+Name: resource/stylesheet.css
+SHA-256-Digest: 3vs3dYcUwi3xBG+SyDBSWf/6HzATpV9Y+wZlglFbKj4=
+
+Name: toc.xml
+SHA-256-Digest: my8FgR3fOPLWkZdO7hOrvoKAO1+DiiWe1fClSpNWPOA=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.infra.doc
+ /pom.xml
+SHA-256-Digest: lXR5IqWqsETyUSPXEImVwPB+VizSh/pRrwTYChpDOys=
+
+Name: resource/PapyrusLeftBanner.gif
+SHA-256-Digest: EPMID+E/YfAKAXTSinr5VSRLahif5NKLeletf/Jxwbg=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.infra.doc
+ /pom.properties
+SHA-256-Digest: VPGOuqCTLADTSNhkaj5HFa7hFf0F3TFQPdZqBzVA3YY=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: S5DZJc1j4m6rdIHXBJG4ZIID3m3+TvgBKKxm4ZsS/lQ=
+

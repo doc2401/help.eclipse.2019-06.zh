@@ -1,0 +1,396 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: tPRAuC+eygiOUtvIdUDTM/nQNYVa7
+ u5356kgtX6+96g=
+SHA-256-Digest-Manifest: r3nqCR34mp5z3v0aYQNGojBJkDygKJPrR2DB+wibHJM=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: K2tIIc6KLWl5Pt+x0Wt5CaO92zIgi/KhwctuUVlB0U0=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: 2c2fT2LME0ZKLC6UO35Gkdbm5HQi+jyoU8Cwjs6DpBU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.BarycentricCrossingReducer.html
+SHA-256-Digest: uevVNPMUqeqI8nHi5UumxUlX1M9hP8RwBMn5WEREp6U=
+
+Name: reference/api/org/eclipse/gef/layout/class-use/LayoutProperties.
+ html
+SHA-256-Digest: fKwuMrAYl2Wgpw0QhLUiSdRuRpWIbod+1BwtxV2awU0=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.CrossingReducer.html
+SHA-256-Digest: J/Sxsdkb2zXVXgiwuiLk+Yufe55W7eUpvjpRWX9KdTI=
+
+Name: reference/api/org/eclipse/gef/layout/package-tree.html
+SHA-256-Digest: cuP9Ek+MT4GDnnl+TSaTbNZVxM3arzY/YjJvke6OpNc=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: 2cclJoWDZeDBuneURvBSP6jtF1Bv1u0j3VRBetf4ym0=
+
+Name: reference/wiki/Layout-toc.xml
+SHA-256-Digest: r5f9qtF7aCihVSZqeo61Qki/trx/FofYBQAeYC7I9oY=
+
+Name: book.css
+SHA-256-Digest: OrOMZcDhVRKVQeOjA7gK7OevS/gzHMHlYNqqoyLxoHo=
+
+Name: about.ini
+SHA-256-Digest: E/MFHqbh59kyPS3W18LJs3iX9hQALC2kFL2BMdlR10s=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/TreeLa
+ youtHelper.TreeNodeFactory.html
+SHA-256-Digest: YYEfp3Wp50J3JCnETm+G4BnANYDtDoJgR6+oRjRcLtY=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: 7d3tYJdsFawRGh5f3E0ogVf1inf61TTa8fj6AU3e03I=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Horizo
+ ntalShiftAlgorithm.html
+SHA-256-Digest: eoGNL8U/GUMCzJhxm+L0lg3qMGlGwI8A5l0k51DQHhg=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: 1R+Wurjhn1rIGWrXWDoiSaqR7T1w/EP6ygzFvaZy+EY=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: OIy00iI/O4LyvsUp+Uw/vlInIClVYAWae0IUM9tIgvU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Compos
+ iteLayoutAlgorithm.html
+SHA-256-Digest: OgN0vRUxjvfOzwgX0Y8lp5kOYK7ecyivk9WwV0kIorI=
+
+Name: reference/api/org/eclipse/gef/layout/class-use/ILayoutFilter.htm
+ l
+SHA-256-Digest: URZwlXYG2aFuKk/xl/2kyjd1/RDALNC77ddMv3Mi05s=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.html
+SHA-256-Digest: ppoeWw0h2QI/V7F5Myxg/qslmWpUgSDOc2b1SvRrfxE=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/SpaceT
+ reeLayoutAlgorithm.html
+SHA-256-Digest: GHyJ+XdgoJf4IrhJtdVAq5EnrEz6NhYUVQxROXFzBmI=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: GKJXR/jci4jF/mufO0nIyXZ4T8jjQWWhxGTjMBrrrDA=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: 1WRz9nG5CthSh1ShSGuuyn3Old/KzhNYASgBXGo8wiQ=
+
+Name: toc.xml
+SHA-256-Digest: KEd+rN/mi6T0ViDA2RXC7yZyJhGm5Ked7qM/TGw9o5U=
+
+Name: reference/api/org/eclipse/gef/layout/package-use.html
+SHA-256-Digest: TPupSP6LtsEp7QbD53WamAsShxiC0fo4DSfE15nzTKo=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/GridLa
+ youtAlgorithm.html
+SHA-256-Digest: vtZK0gieBmG4JJgj0oZawq2cBvT+UU8C2P42mX0VFhA=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/RadialLayoutAlgo
+ rithm.html
+SHA-256-Digest: vPCBDGxHADdBFZDqzTCMX+XDODYiBUj/zRyo4/DOEbc=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: v8AQ0CapSOmhAhy+u8Bbtr/us+aCvQig2eZ7MVqXC+Q=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/package-tree.htm
+ l
+SHA-256-Digest: fqkx5xUahvJHmlUV7Bzpg96VQTjbBTourz8q45R9dYU=
+
+Name: reference/api/org/eclipse/gef/layout/ILayoutAlgorithm.html
+SHA-256-Digest: gh4E3+UiZE9IU+xXHWoNfSzpf7Ao24h9ntM2XheUQjw=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: 9K8UPaIrEZfe6J6kaTOsPM6vE9vL6RHCq7v2cvSPgLs=
+
+Name: reference/wiki/images/layout/GEF-Layout-layout.png
+SHA-256-Digest: 29YPtDVnRQUxmjPkXNg0vcGwvD1jkuynBPHdWauP1PE=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: +sOP0uMOFxW9tqqyuKm3eDQAbdGyg2r5opCkc1NSxEA=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Spring
+ LayoutAlgorithm.html
+SHA-256-Digest: LYBncWw2nIENWH27GYgfAWR/+qG5h/1XLauk/EzWC6Y=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/TreeLayoutHelper
+ .TreeNodeFactory.html
+SHA-256-Digest: glEk8SX3XCF8OIBNTm0HP6I/sGH2Nkg/8uuuCrCSY8w=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: BNprg/JhOFzgGDziuyWRm07efKaWtN0FdiEMC3TlVv4=
+
+Name: about.mappings
+SHA-256-Digest: EpsrsYXVMXErGquqToKZba2nrxC99JicZ3Hqp+8eX14=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/CompositeLayoutA
+ lgorithm.html
+SHA-256-Digest: cATW7x0IFtxMD8dGWLx7JdyE3WTi1Ey1r7QfdPlUrmU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/package-use.html
+SHA-256-Digest: dqj34youYl84BS2vmKplbgvG6FYNaSuddoNnZoOkekE=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: /HPZfdlFBzmHESuim3h383gyWwc7V76dhaj8/Ijv9/4=
+
+Name: reference/wiki/images/layout/GEF-Layout-spring.png
+SHA-256-Digest: 6K4+/eV9qYcRYWGIr91kLVrnWhF+j0Ew3WHgI0kTKwY=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: JjUSy6cJfDhSq1MnVjU+3u9pOqv+wdh+uteSoznRqcw=
+
+Name: reference/wiki/images/layout/GEF-Layout-algorithms-treebased.png
+SHA-256-Digest: 1nqv3MjeQ7cxpsa3SFzQgI4FyLmvTmC/UfYyZ7Pvkkc=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.DFSLayerProvider.html
+SHA-256-Digest: FJzBO+q0c0L+hF+PqPnt/FhRMvDCIWS5E357VJImT3w=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: WykbvOFTwNbTmEpZas68B9kphT3sHwiiR5hXPtTVxqQ=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: 0bhL+uODsnzotPqMtB11RMc5+B2T4gHRPVtohaJCaS4=
+
+Name: reference/wiki/images/layout/GEF-Layout-algorithms-simple.png
+SHA-256-Digest: zo7+RXl1zRo5CdUzpF0UfZWNNPe3F9jD8Ao8IHr1JZ4=
+
+Name: reference/api/package-list
+SHA-256-Digest: 7rVXflGvkAVFiwZBP7yNxIihO0utBnfm5nNQnxlPAWg=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/TreeLayoutHelper
+ .TreeListener.html
+SHA-256-Digest: BCVFB4LBi6ATwqhmWM3lUWxYX6nJRpfMWwSk1qlFQbU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/package-frame.ht
+ ml
+SHA-256-Digest: Ka+/OHB7cOjJOOitX6wM3SAHB4SZNnP/kDIOGch/L8o=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/TreeLa
+ youtHelper.TreeNode.html
+SHA-256-Digest: UB8hy/FwdPim7hAoJ/BbRa3RNPEu6IcN7ukLc8tBBPk=
+
+Name: about.properties
+SHA-256-Digest: i/Aj96+012rTXjp3OD1mR1RUYFjEVkqrcYvq6HSVLMQ=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: lQd7wRmWgzbsAPKQuH5ikDh1MSaLGV+Sa25OSMUdprs=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: 2L1PS26X/NJYrdCLO4FwnhQbvPjK/pepeAgDPY/Du94=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/BoxLay
+ outAlgorithm.html
+SHA-256-Digest: SBHRj311TgxkLS69zB9f2Cup1Lokn+4LX08cI+GQPg0=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.GreedyCrossingReducer.html
+SHA-256-Digest: oETAmyfP12bat4K/5Tm/SPKsIe8knWqEBNAlY8A1nVU=
+
+Name: reference/wiki/images/layout/GEF-Layout-sugiyama.png
+SHA-256-Digest: 21QfUGhRfEyzNkgm0bYxtcaJ+TOHMYEzpXHg1UGf9XY=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.SimpleLayerProvider.html
+SHA-256-Digest: JAA/xa/CUhafgN/g5aYb2HhifBI6wTz+mEUiHNelwDg=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.SplitCrossingReducer.html
+SHA-256-Digest: SScgUKYF4oCdLE37tpMg9khdq013kFMYHd0WSrkf/f4=
+
+Name: reference/api/org/eclipse/gef/layout/package-frame.html
+SHA-256-Digest: kWs2mN0P75/KX35Lsd3KNDOrcAx5qEQxSn20fbhRf8E=
+
+Name: reference/wiki/images/layout/components.layout.jpeg
+SHA-256-Digest: 0vyDEbjxb65sJKXokplKM2a3MZfdI2SGGpVPl5LrOEI=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: SKGDqCemr2EuwzYdrDn4LO13PGqFYmQqUEo7652ppng=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/BoxLayoutAlgorit
+ hm.html
+SHA-256-Digest: UhiS0+4/koUhPaDYVTuFIxAjzu2FESfmqxEYlo1EEnY=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: 5iT8t6I7ulTCA1Nwsi4jpWHR4CipDMYhXLWzcXPzeVs=
+
+Name: reference/wiki/images/layout/algorithms-sugiyama.png
+SHA-256-Digest: gEIubwmLTcBVxpmEPcBNCoIj9E8PvC4gyZ48NkJKjXQ=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SpaceTreeLayoutA
+ lgorithm.html
+SHA-256-Digest: 1xBW5ny3+atpBDUnX/wVOUGSxCECh0iUBvlH2kN89UU=
+
+Name: reference/api/script.js
+SHA-256-Digest: KhEzeKXrCxzdCqX8cPdclh/J0LxUx0tmkOQtBGzkPj0=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/TreeLa
+ youtHelper.TreeListener.html
+SHA-256-Digest: vo6Pgr++uNbZDFnbUljkyRRwFJBZbowd7fNPtxcuVBk=
+
+Name: reference/api/org/eclipse/gef/layout/class-use/LayoutContext.htm
+ l
+SHA-256-Digest: n4G0qsYLt//tLuyLaO3zQq59XPKqDU+yZ3Z8e3uYtuw=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.NodeWrapper.html
+SHA-256-Digest: ImfW1TUOPbt9H7H0H5qkNh0bo62XbQAufc5+XdE01gE=
+
+Name: reference/wiki/images/layout/GEF-Layout-algorithms-sugiyama.png
+SHA-256-Digest: cGh1HKjgWxsEf2JqSPU5gW2vH7pUd/0e6Wfx1FKRFzY=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/TreeLa
+ youtAlgorithm.html
+SHA-256-Digest: 9tlkmdjfRYARFzcpV+F7+gHnYzGXXT5p0WtdQhEJKcQ=
+
+Name: reference/wiki/images/layout/GEF-Layout-radial.png
+SHA-256-Digest: 1K/fYwuYCYy0Pp5EC948pXD1dJSxtmzMmrK0GBbroZg=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SpringLayoutAlgo
+ rithm.html
+SHA-256-Digest: D7GlAsGRhuQICre63gZibTxTdodOUu1uCkdqT6G7/2Y=
+
+Name: reference/api/org/eclipse/gef/layout/LayoutContext.html
+SHA-256-Digest: tBNIIyULDfcir4DN+DCmKbgzPNH0WhQz8yx3aIr1dg4=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/HorizontalShiftA
+ lgorithm.html
+SHA-256-Digest: 8iBcqI7xqrbWHDY7C05LUL9zwd3SXrnPMXSb+Ka+yLU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.Direction.html
+SHA-256-Digest: Ul5GXpFlL2t1x1n5PS0AJxwEnQ0ggzLr+GvFEDRtRec=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/package-summary.
+ html
+SHA-256-Digest: lU+8EryGCgKrNamUKlxnsOAC4pzO+FJMHkvvcBHxACk=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: DoLACgrszmDxd0i82m+w+JX2kXhjjeXrOlDOwv03wpk=
+
+Name: reference/wiki/Layout.html
+SHA-256-Digest: USASXOXajSoX1LQtzUXYjKJW0YeHcWoiLdDmrZALYto=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/TreeLayoutHelper
+ .TreeNode.html
+SHA-256-Digest: RxYiBXQ1Ak8alPbgL02eeHLVjb6FhZX/G2Bm3czYiug=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: UGKbkkzAGSFVbETkSPAQx4XcQsIc5WsjnKNe3Ekpq9A=
+
+Name: reference/api/allclasses-frame.html
+SHA-256-Digest: GYx0jqDNX+QfkYTRsNIwbdReVtcyWznIEJ5rB/bP124=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.SimpleLayerProvider.html
+SHA-256-Digest: mVaE0WHwGuu7Ml6vRc766gJSeb55Md4nwljqFhqIs4A=
+
+Name: reference/wiki/images/layout/Zest-tree-layout-dag.png
+SHA-256-Digest: lLukdGxSguo0t+HTOt+d5No5S8qr744mqiivICqIjPM=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.CrossingReducer.html
+SHA-256-Digest: 6FujjqH3aPceoL8EZRRRQD35pmZ8Akxl+cU0XZMUTFI=
+
+Name: reference/api/allclasses-noframe.html
+SHA-256-Digest: ggzPWqFKiVhvOSN1sjkUvDuVV+09RYcSVQ9NbI/jze0=
+
+Name: reference/api/index.html
+SHA-256-Digest: LeZkUxr5a64iad0Wel+67IyW2QVK3d6jeBwqlzqHuI0=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/TreeLa
+ youtHelper.html
+SHA-256-Digest: sgqebF+KgmpjUL8ivzqk/RpzLg038j9TzROChLMF8qU=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.GreedyCrossingReducer.html
+SHA-256-Digest: vHRhIjVeDKvxg9Adne21nghuQOzRDdwV6vVhDGGU4tg=
+
+Name: reference/api/org/eclipse/gef/layout/package-summary.html
+SHA-256-Digest: y5Kh10t1m7YFyEPU83HPFB146SjCYAP9oevvcly0pW4=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: 4TEvEysKePpyDo4ISD1lkH8GDnKV8W2Goa/VPryD0eU=
+
+Name: reference/wiki/images/layout/Zest-tree-layout-spacetree.png
+SHA-256-Digest: GaPCGgh3Br32SNO4P5EMIdX0YxQp7kUTz8JNGWpM1FM=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/TreeLayoutHelper
+ .html
+SHA-256-Digest: D05occjQRjPvzR7NEMMDKesq+CSAdHbR36KuwCO/UYM=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.DFSLayerProvider.html
+SHA-256-Digest: 3B0epRMGILYtd61XaBV/T17nGe+xidrTSAH24kXNGjY=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.BarycentricCrossingReducer.html
+SHA-256-Digest: 6cl7WwaWxAEEYaq5DBMyQLQBbaZ1bKH4cqsRNol5qI4=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: mtfgTQSaf1KFflXDdH9IW8V1SwdS/XKNU0x8WrEhBUI=
+
+Name: about.html
+SHA-256-Digest: XIAW3iP7OQU3Woo0skVEm9BKSc2o6t+OCZxcDCq/f0k=
+
+Name: reference/api/org/eclipse/gef/layout/ILayoutFilter.html
+SHA-256-Digest: Bp6XYSODLUoTlHn+9j2FcRo/K6lIij7yDUB7J9/ekz0=
+
+Name: reference/api/org/eclipse/gef/layout/class-use/ILayoutAlgorithm.
+ html
+SHA-256-Digest: qNZw4Imh72ggANTJeyc5Sp9m/wfESzhZk3sqij6Jv9s=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: nY3yrH1YBNcQKlt2PuKNlP4o7NxDyJ5RuXl+AuHB1Sc=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Radial
+ LayoutAlgorithm.html
+SHA-256-Digest: iJeNuAhN4qb5WuEwWb5g6WuOwLwyvaaUkD9C28z16uc=
+
+Name: reference/api/org/eclipse/gef/layout/LayoutProperties.html
+SHA-256-Digest: nhzvJpPaF4onZ3a7jE31X9BSDEfFKrv6c83bwj/PmL4=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: rapLRgsilHzK1UjFVDiXfEfRdzT1FpuEnYPSKee9iK8=
+
+Name: reference/wiki/images/layout/GEF-Layout-listeners.png
+SHA-256-Digest: vV2l+45Fl2YEsVmtqN4lrkOcueLSkIyy1CJp8raSBBg=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.LayerProvider.html
+SHA-256-Digest: 9JgWv/a8DnEh8B9jqlicR1t1OLHKJVF2VoEnIUehkNQ=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/TreeLayoutAlgori
+ thm.html
+SHA-256-Digest: PsnHwuC075Bd02gfp7hHPO/MwzEqsm9w3aL4JIkCLL8=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.Direction.html
+SHA-256-Digest: laXjldqGZt+RvOLjcoXsRKPJOiQN/PXIfCpsStWIlWk=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: pfGI6I4bspJnJcdXt2YFAaPrjEVdDDtciPa4rcb5tiI=
+
+Name: reference/api/overview-frame.html
+SHA-256-Digest: bqlSpTTl8q9L8DtSOCxG07n5GRotSY7cq55ymd6/3kw=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.LayerProvider.html
+SHA-256-Digest: kn+SbJ4/MVOJzvv4KbqiAYoph10yVY9+2XYPh6w5rXA=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/GridLayoutAlgori
+ thm.html
+SHA-256-Digest: CtacnvoQ0ncGZjqfkMJLdrsKAvpaILOAQPgGoPi9Oyw=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.SplitCrossingReducer.html
+SHA-256-Digest: Z19cCuGZzzN0nh0PEzqHis1ywtdjGF+pCDqNgmzBo1A=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/class-use/Sugiya
+ maLayoutAlgorithm.NodeWrapper.html
+SHA-256-Digest: nI+Myp04FW8FOO/zIcS/0ScQWARWvIgm9LY9DzzzGM8=
+
+Name: reference/api/org/eclipse/gef/layout/algorithms/SugiyamaLayoutAl
+ gorithm.html
+SHA-256-Digest: Uw6lzC7z55Mn1tUatC0MWSVrwxPIGb5Z+su4IFHR86A=
+

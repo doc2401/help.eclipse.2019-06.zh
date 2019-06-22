@@ -1,0 +1,5018 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: OkfcloK2J/I62qiDlzXLxoQDvs1UL
+ WM0evE+PzBy6ok=
+SHA-256-Digest-Manifest: vFwZWrw+8W3LmkaLckWJ7abCpyrl1ZxCp7h/jCh6Aao=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: reference/views/shared/ref-shownull.htm
+SHA-256-Digest: uUJxIgeu9kVAZmXwSNjFPdrgJ19vXdeKw4gpWDjUcS0=
+
+Name: images/org.eclipse.debug.ui/elcl16/copyviewtoclipboard_tsk.png
+SHA-256-Digest: Cdo4GjFFOoohRLPm75z5f6O7Q+Ti/++a1SFLqU8AzYc=
+
+Name: images/org.eclipse.jdt.junit/obj16/testfail.png
+SHA-256-Digest: m0OBy92FHTo/2TbWRw5u2nBBCDRLOM8rK8FnlGGa54M=
+
+Name: images/org.eclipse.jdt.debug.ui/wizban/java_attach_wiz.png
+SHA-256-Digest: /cHH+ZEcpUsXIRS6Lju575IC1FtUD4gm7gdPwPenp1E=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/exit_ovr.png
+SHA-256-Digest: OqKzyhB1HbngGfku4ctFZ51HL7Da5oEBNS/KWGqtEEE=
+
+Name: gettingStarted/images/replace_local_element.png
+SHA-256-Digest: jKrCwtVzaX/xaFOsRNUqsZmzwgxjpPJ42ThbcVv9zbI=
+
+Name: images/org.eclipse.debug.ui/elcl16/rem_all_triggers.png
+SHA-256-Digest: keg07JmJMrFFHB5tQM1pxu6egO2zXLkmAO4EGvWw940=
+
+Name: tips/images/warn-deprecation-opt.png
+SHA-256-Digest: xSTDlla3dldg/FRFMvDPABYUccj8wRUWlBao0Ir89t0=
+
+Name: tasks/tasks-9.htm
+SHA-256-Digest: 2YeGiIpdFEEhM8lA4JWgIUNtdSQiD1FRS1p/lJ3mhSE=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerinterface_private_obj.png
+SHA-256-Digest: C7HDN/3B1S5ilhv5Umyu1nu7LDuiwAIZp+NLxssqG/g=
+
+Name: reference/views/shared/ref-viewonly.htm
+SHA-256-Digest: HNeEI1exMRflW0cWpu361SmA+dhwawP/ENO7Vusfs10=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/variable_hover.png
+SHA-256-Digest: sTdRe5psJPIvSh3KTA626CwKLjU9k0RKmbmEQ++ukrg=
+
+Name: gettingStarted/images/view_debugshell_display_done.png
+SHA-256-Digest: 4wwHt7wqTWqPtpk5w6xC6xy29yMciPmSZtYKIUZcaaQ=
+
+Name: reference/preferences/java/ref-preferences-junit.htm
+SHA-256-Digest: WngIFSC0SWWReBvMW4TnsZFDu+zWm+7Zp7xeCl1F8Ms=
+
+Name: images/org.eclipse.jdt.ui/obj16/int_obj.png
+SHA-256-Digest: jJ+lZFpU4Qpr8TOpxjBLoFNEgeyIAuv1Cyl/RSK4VI0=
+
+Name: tips/images/compare-java.png
+SHA-256-Digest: 8+9+HboqJu0vW4oDBSFT7nRAMqkOuvOuguAnxjCyd1Y=
+
+Name: reference/views/variables/ref-createwatch.htm
+SHA-256-Digest: C6g0SCk3BR/E+vwU6i/4hiHYU3fhMgHk2HnxS932IL0=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout1.htm
+SHA-256-Digest: r0L6/6dG8aT9dulGJMC0AQoAX16JBZafAV7HCmi7Pm4=
+
+Name: reference/views/debug/ref-filterpackage.htm
+SHA-256-Digest: CeCH9ue+d2viHdzFhwE0D//bfzuIvLXsYpeClZXmdfY=
+
+Name: images/org.eclipse.jdt.ui/etool16/newpack_wiz.png
+SHA-256-Digest: rK73ncaYG9nGZrCPo6MKa+eK4A1dnvQFbkgMDupmAm4=
+
+Name: images/org.eclipse.jdt.debug.ui/eview16/thread_and_monitor_view.
+ png
+SHA-256-Digest: Mh7cs5N9HrwZ8EKAy/unwie+Ek3Sgec3bc2lxdCyy+k=
+
+Name: tips/images/breadcrumb.png
+SHA-256-Digest: vOZ6uJNtNM+WH8INW0kMzSzHGFyy58ne9BRqDDl/pLA=
+
+Name: gettingStarted/qs-DetectingExistingLayout.htm
+SHA-256-Digest: mgMWRiieBPglsjNTAgy1Mna/pR4u54RRX1N2Z8tFCg0=
+
+Name: tips/images/configure-problem-severity.png
+SHA-256-Digest: KeMXSgQZnlFOatOzjiHqO8UrzpoOl2jVOJ5Ksb92JVU=
+
+Name: reference/menus/run/images/ref-run_history.PNG
+SHA-256-Digest: 25aomgQgggvh46naz5jjjmbRTK4WzoYGF8h3yU5tVv8=
+
+Name: images/org.eclipse.jdt.ui/etool16/newclass_wiz.png
+SHA-256-Digest: dOxFOK0+RqjjtSE1BOWMptVLj651e0/2YipjKJ4cthE=
+
+Name: reference/views/console/ref-display_action.htm
+SHA-256-Digest: jj7k/a7xfkn9S2cW+mVju1hFqYji26vv1pTfiCvFUbA=
+
+Name: gettingStarted/images/wiz_new_class_dialog_superchecked.png
+SHA-256-Digest: 2bvB57qICXywNhN+2/KieVrni8HJj60R/guEn250hsI=
+
+Name: reference/views/debug/images/ref-viewmng_menu.PNG
+SHA-256-Digest: FoWMG6bEUtQGpqmWomGGrnW5ZiurmmrVQaAog+XwXNE=
+
+Name: images/org.eclipse.jdt.ui/etool16/newsbook_wiz.png
+SHA-256-Digest: GvfFMcLK3B1f2LCHHjSr4fBYOw10Qei0AZBeViVpSoU=
+
+Name: images/org.eclipse.jdt.ui/elcl16/hide_internalized.png
+SHA-256-Digest: cJw8pEF5TsXNemRm1VDX91ghg3QiQwElB/cnifQyOfY=
+
+Name: images/org.eclipse.jdt.ui/elcl16/configure_output_folder.png
+SHA-256-Digest: 4eiKiaJHaPWx0EMo0+D+KGWbzmlJGQC/6/KRU3/hQUA=
+
+Name: gettingStarted/qs-7.htm
+SHA-256-Digest: aQdvNdcpAgOMRlLMZi45ZFOAM6yYMx0MWg1qaWHk7Z8=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/conditional_ovr_disabled.p
+ ng
+SHA-256-Digest: UiG3KI/TnvW8/WfrH1QbwtGXWABHkVsSav7tvIqbwBo=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/scrapbook.png
+SHA-256-Digest: +iSIblJTgUN6fVkFuwvPgZ9MsW1/nRp9ScMmmc1B7bA=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout48.png
+SHA-256-Digest: 0yZMKflsCOfhikE6vlQ9XctWVpaI/XKeEZze9HQki1A=
+
+Name: reference/views/debug/ref-layout_breadcrumb.htm
+SHA-256-Digest: WHwCj9Q2ghiZRw55U4/jKi+d+3jfAKAnK/ktXroF1/U=
+
+Name: reference/views/debug/images/ref-monitors_unsupported.PNG
+SHA-256-Digest: Q/l6PP7zB5HTJ8d1GT9OgCJwAdPwGFY0WFXvOV0SVS8=
+
+Name: gettingStarted/qs-Navigate.htm
+SHA-256-Digest: 2paY4s73g6BXvE73pJywd4soNmjrAZZ7hz8CD2j10lU=
+
+Name: images/org.eclipse.jdt.ui/ovr16/run_co.png
+SHA-256-Digest: zTXalXjRoVQHRpXyNF01mMB9R0N/4pWhHEVb3pwgZcU=
+
+Name: gettingStarted/images/j2se50/wiz_new_java_project_myproject.png
+SHA-256-Digest: ZZJq0etEQjz6lKZb2mXb7F6btYHxN5BZAMvhUEOTbn4=
+
+Name: images/org.eclipse.jdt.junit/obj16/test.png
+SHA-256-Digest: 78tQpLDvA2dlG081hP3II+az/Y66vpzwVG3Owc63bW8=
+
+Name: gettingStarted/images/qs-DetectingExistingLayout4.png
+SHA-256-Digest: KgR6PBIg6+pW0o1zLyckKaKyUED7ZoF6NA8jhT7n9BQ=
+
+Name: tasks/images/task-add_jre_std_vm.PNG
+SHA-256-Digest: mDFY7vXM3WZ/dEMy3/7cCPD+h7bMANj06rqqHk5FMVY=
+
+Name: reference/views/breakpoints/ref-gotofile_viewaction.htm
+SHA-256-Digest: uhHQ6CJRPW4rTTsoxHGQZpizkcWZVJQ/XOONZVOy7gA=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/installed_ovr_disabled.png
+SHA-256-Digest: EV+rveuzrn9PQq2d2fry7NqyyuGKAvQjC/1ASBvFQ3Y=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/resume_co.png
+SHA-256-Digest: Q490O16Zf/0uclK8I1nZCEmvZvmjoVBeJjDweoBFm5s=
+
+Name: tips/images/quickfix-addcast2.png
+SHA-256-Digest: 7wzME5kTsL3GipGzr7yysS9iqalIX8rekQSCQlQe4b4=
+
+Name: images/org.eclipse.jdt.junit/elcl16/relaunchf.png
+SHA-256-Digest: zZ+DMi5HvcStJSdGwKw1ODZWPeSbf0/k14Xt4/wCdsY=
+
+Name: reference/views/expressions/ref-expressions_view.htm
+SHA-256-Digest: GZWHs4duoLUO05EK2Eyt/Ptps48Hd0SKXZc0ZRDj0iE=
+
+Name: images/org.eclipse.debug.ui/obj16/expression_obj.png
+SHA-256-Digest: o2FDTsxy0TAWH0jBFRyv1DZyHT3JBzApfDXMJAgk7pM=
+
+Name: images/org.eclipse.jdt.ui/elcl16/smartmode_co.png
+SHA-256-Digest: SHA06ChmFlUlo1o7Isr4s6Leg824ty1gkNppKzj33CE=
+
+Name: images/org.eclipse.jdt.junit/elcl16/hierarchicalLayout.png
+SHA-256-Digest: EPcd7gRlfKE7lhcmc4hAhNmaHVMMBp740CRen4cGe7w=
+
+Name: tips/images/localhistory-replace.png
+SHA-256-Digest: +wDvyoKhk2fV1AO/jNbjBIzl2Jd2K+kW0jNO8UMkqdk=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/step_into_selection.png
+SHA-256-Digest: 63GQXak3qOcAfyPCGNkiyLUp5vZ/8Ymb8ZZzlIG4V7w=
+
+Name: tasks/images/task-add-exception-breakpoint.PNG
+SHA-256-Digest: Xi5S4N63QS2vy6SHeIitaRINgqoN0XFfWY0Al1qRSYQ=
+
+Name: tips/images/packages-hierarchical.png
+SHA-256-Digest: 94l4/rfu97/uTlXOwEtmTT3bOQN8hX3QEajYY9cgCPA=
+
+Name: whatsNew/images/formatter-switch.png
+SHA-256-Digest: IHKWcU24vo0g8pfGu5BUHqirPcotMcTcYtv6MzI6Y58=
+
+Name: reference/views/expressions/ref-convert.htm
+SHA-256-Digest: SFZoP2SuCvnpU1hj70WxUn4ysUvcdvTJ+HsSZqRBzko=
+
+Name: images/org.eclipse.debug.ui/elcl16/printview_tsk.png
+SHA-256-Digest: Dx1RxkCz7rvxb6wQgfhUMznkLU5vTgFiu6Q8FeqwvAM=
+
+Name: images/org.eclipse.jdt.ui/obj16/quickassist_obj.png
+SHA-256-Digest: sXw2hUwnYcodOx0wqOFtCTovR7HcvZNDI+/jjY6cyfU=
+
+Name: images/org.eclipse.jdt.junit/elcl16/select_prev.png
+SHA-256-Digest: RmdB7lBOwEQ9NqmJwDWu1iOraaPR4upFxdNszvA480M=
+
+Name: tasks/images/tasks_200a.png
+SHA-256-Digest: /jlnEsGvqQzdx4MDcJ/Cp4FR2nN0A50dR6yfe8MAqyA=
+
+Name: reference/views/ref-view-junit.htm
+SHA-256-Digest: AoBKqn8EhFDevff5nZTC11Pt8eU1lLWGtTRHFUTASuk=
+
+Name: reference/breakpoints/ref-hitcount_option.htm
+SHA-256-Digest: B/56x+BIM02mQbbxJNTZJ/tTVxzBFfH259RIaY1Iazw=
+
+Name: reference/preferences/java/codestyle/ref-preferences-cleanup.htm
+SHA-256-Digest: y6TRX7pFc1hObs8+nCzzOwtHLmxBgEkjiomuZYLYPp8=
+
+Name: images/org.eclipse.debug.ui/elcl16/next_thread_nav.png
+SHA-256-Digest: jATdKW+PMSKtfWXrHWjhyQwfY1mPl4I+fzPpLf3YT9Y=
+
+Name: tips/images/compress-packages2.png
+SHA-256-Digest: 2sgY9TsQME3/HQJlFvNPENMdWkRWi3NE8yxFqUJmFOw=
+
+Name: tasks/tasks-35.htm
+SHA-256-Digest: reKGu/mdK4nyKMn74RFCDR02JNb9G13MKpDrrfxS+Aw=
+
+Name: reference/views/breakpoints/ref-hitcount_contextaction.htm
+SHA-256-Digest: 9WQh0HJW84JOQi3qU7Q4w8n+DcjeujyB0aKpt+2HoIQ=
+
+Name: reference/views/breakpoints/ref-uncaught_contextaction.htm
+SHA-256-Digest: 1+HpfvnO0TSnIRspm7TS2zLLUSqhUr0s4oTgzEGNBbQ=
+
+Name: reference/preferences/java/codestyle/ref-preferences-code-templa
+ tes.htm
+SHA-256-Digest: qruAZ407bAWQaZEK3xAk140wpv2cmcZeLsU7DTmLbVY=
+
+Name: images/org.eclipse.jdt.ui/elcl16/external_browser.png
+SHA-256-Digest: VEcU8D+75dRm+Hz8zxJXp8uZUYVl9c8DZyqYsvTWiQY=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout64.png
+SHA-256-Digest: HKaICmaJUHoND8Y4EmfdklAGLzQSwPnCFtMnvUUbsjM=
+
+Name: images/org.eclipse.debug.ui/obj16/threads_obj.png
+SHA-256-Digest: xklgpEHWpBEMYCmEjWIMzuiv64OlWxVQJb6xa54jpx8=
+
+Name: tasks/images/task-add_jre_ee_file.PNG
+SHA-256-Digest: rsVuk8JhpNqv2ZWSyaKNv5glX5m2YB7RQUV5xfU+BJs=
+
+Name: reference/ref-tostring-templates.htm
+SHA-256-Digest: oKrwRkFnZ8YgFVnu5p20KwK/3GQ7E6IumeyQkcN3+rc=
+
+Name: reference/views/shared/ref-showreferences.htm
+SHA-256-Digest: 6ZxzVGYJH6uApvekkVoH6wAuqX79ROQcoqBMa2OLLGk=
+
+Name: images/org.eclipse.jdt.ui/eview16/members.png
+SHA-256-Digest: 0puMp9fVf6nwO7tREdCHp9Rp1fXc3SHjUdm95XqCcs0=
+
+Name: images/org.eclipse.jdt.junit/elcl16/cfilter.png
+SHA-256-Digest: ZN/MtYYyChFFteEjsVV+k+xn3d3UdGzaj5ZZ9E2Uqfk=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/activate-debug-view.png
+SHA-256-Digest: x2H3afeDjUlq7pt8acVfOh8B/g6PqIO9sr45TGv8MDQ=
+
+Name: images/org.eclipse.debug.ui/obj16/terminatedlaunch_obj.png
+SHA-256-Digest: fycg32V9mS3F5Gk70nT0BsPp+XT1z/jpGMIB7Lgdr2k=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_move.png
+SHA-256-Digest: IoaGBuDGk+EYoeldhERZmUjmEzQg3KKBjjYQ+cbq3ds=
+
+Name: reference/views/shared/ref-showtypenames.htm
+SHA-256-Digest: M4o/RP8ac4hB5PygjNgLtlBFR2yXMsfUTQYYCtWUblQ=
+
+Name: concepts/concept-java-perspective.htm
+SHA-256-Digest: LrGwh8sQvrfbfrIFWN6csYqP9azBIAGZcsG/qJadSIw=
+
+Name: gettingStarted/images/java7/add-exceptions-to-existin-catch-clau
+ se.png
+SHA-256-Digest: XhcHKxpeikba2A3THHRaWO2CThK8zNpNKV9KtHce/WM=
+
+Name: images/org.eclipse.debug.ui/dtool16/term_restart.png
+SHA-256-Digest: stGKK9zMBfPwO1wp4LhrvR29dTWSBPvUN21zFiu9Ytk=
+
+Name: images/org.eclipse.jdt.ui/etool16/jdoc_hover_edit.png
+SHA-256-Digest: 3Oi761RLeuGhHKjsevEI+8YmXBIa2rZJwDOZaTzyrW0=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/insp_sbook.png
+SHA-256-Digest: Au/p7Fy+U8yM55r/EmejRS3aZkRG07igPQ4Nfk1TWJU=
+
+Name: reference/views/display/images/ref-debug_shell_view.PNG
+SHA-256-Digest: LlGYwXC3fRt9UeGS1+ez+pWnF6nO1psILM3FCoXNGnQ=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/monitor_obj.png
+SHA-256-Digest: djHWLTa2vp4tnpjYhP9LqY9X7kVwnFHjViBfQD0+thA=
+
+Name: gettingStarted/images/editor_vectortest_toarray_template.png
+SHA-256-Digest: Wlbb9Ik4sHG2KG/yXtahYnidDNouCYxv8VwRPwS1Njw=
+
+Name: images/org.eclipse.jdt.ui/obj16/occ_write.png
+SHA-256-Digest: R8/VH1X/1/kTFQXXNkDOAagzonrdta9yrhDhulfoVvQ=
+
+Name: reference/propertypages/images/rundebug-proppage.PNG
+SHA-256-Digest: B9Bo2sbr/ofXN7XeG4jqiU0qh07oY783U1yIdGXKB5o=
+
+Name: images/org.eclipse.jdt.ui/obj16/occ_read.png
+SHA-256-Digest: kKPdv6VwDAZTCNSCWzSz9QQ7V7mC+awmL0Ecy/jxI+0=
+
+Name: images/org.eclipse.debug.ui/dlcl16/suspend_co.png
+SHA-256-Digest: AOe528XVTIS7Dagh95d5rQ6UoYh1KcSnGDmA7ep98GI=
+
+Name: reference/ref-actions-toolbar.htm
+SHA-256-Digest: sX2xXJxNGxfPwtx2PrZNUwHkswadkfkkeTXhmCPYhyA=
+
+Name: gettingStarted/qs-11.htm
+SHA-256-Digest: 9kb3hjDgvNS01BEYFiLPqvNywjV025c1orwWNHjubHQ=
+
+Name: reference/views/breakpoints/ref-showsupported_viewaction.htm
+SHA-256-Digest: Io3Um96TCO6DV9jL9WFlkoS6KzhtxKd928BI6P0CFHs=
+
+Name: images/org.eclipse.jdt.junit/obj16/exc_catch.png
+SHA-256-Digest: E7bIuHLm6Q6FLsO8syjotLgvlr/Um32LRWQQYJxvlq8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/private_co.png
+SHA-256-Digest: Zdx0aqqS8FyX5YUWUrFkF3IWfoCEZVeirNk/yYRDQDo=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff3.png
+SHA-256-Digest: WmD6ANlpmczk1FzecIwpU8MUo8rdz8OMK8E2iz56g/Q=
+
+Name: tasks/task-create_scrapbook_page.htm
+SHA-256-Digest: cOOR8GHMDnm6oSB7uZ5hIV/MVzo8JHpK820z8jParOI=
+
+Name: gettingStarted/images/editor_mytestcase_getters.png
+SHA-256-Digest: B/ynXKtzsJ1e22sgwgxCy70fU45bM85ZQGrLbd9lS+w=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout10.png
+SHA-256-Digest: nikhkPl0DW87ClLeJaibl8mXhpEAc0Cz2ho7s1uG4FU=
+
+Name: reference/ref-apt-automaticProcessorOptions.htm
+SHA-256-Digest: 7KdmT63t95+9ouR3WN6TDEZUprj154ywbq67GCphQWo=
+
+Name: images/org.eclipse.jdt.ui/obj16/jsbook_obj.png
+SHA-256-Digest: eMAYEJRfDDjPVXiBdCbMkGxlghdu9Awodz0gmDzXFD0=
+
+Name: gettingStarted/images/editor_vectortest_inspect.png
+SHA-256-Digest: AtaVGZWikecmEMXdr+zMl0lvAuLKJnVgar0i4YZPDFM=
+
+Name: gettingStarted/images/java7/remove-safevarargs-2.png
+SHA-256-Digest: MXS8M4T4wN4mPND1/2QQQpdF/uJ9T5RixUni6nhbhxo=
+
+Name: tips/images/compare-properties.png
+SHA-256-Digest: OeKMVC29eX6QdZcVMNSs5nANCuUMxk2u0bdij9Y7URY=
+
+Name: images/org.eclipse.debug.ui/obj16/ldebug_obj.png
+SHA-256-Digest: nHmZIo8zTYXIOxwK0wbdgGFzDWDKFb46D1La8Ct2+io=
+
+Name: images/org.eclipse.jdt.ui/obj16/class_default_obj.png
+SHA-256-Digest: jTAAsLco5JgZ5BskHUTfanMhYgEkr1gvNg74dNoTyRs=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_caughtco
+ ntext.PNG
+SHA-256-Digest: l96nHHZZc8HU/pMqdqNWDW+O5jjX82eG5P385EyywnA=
+
+Name: images/org.eclipse.jdt.ui/obj16/cf_src_obj.png
+SHA-256-Digest: avr0UuCGmNSjFbwPl1FGQwlhKmTXfa6KpfTnSO9yCAc=
+
+Name: gettingStarted/images/view_debugshell_display.png
+SHA-256-Digest: 54uY+oW3opk98JcYn8l0V1tUtrMrTNVP7IUEbGL4RjU=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_defaultw
+ orkingset_dialog.PNG
+SHA-256-Digest: qCuPWHlcuptn4WJ4RZQrDBmhK/by7j+AN5ysvVM5KRY=
+
+Name: images/org.eclipse.jdt.ui/elcl16/clear_co.png
+SHA-256-Digest: +ixa8CNp5mX6IbOAKR9DU9XL2BW25PxPahpw7LCyj1Q=
+
+Name: reference/views/expressions/images/ref-addwatchexpression_dialog
+ .PNG
+SHA-256-Digest: s6m+W/wpD1bvTevGAt+OFmaxifNcdbl20CX45Bai0Q8=
+
+Name: tips/images/todo-example.png
+SHA-256-Digest: jiuBrQcBchGW21Jn6NeIGkwfd3kqpykRlnMPNu9Snws=
+
+Name: reference/ref-menu-project.htm
+SHA-256-Digest: pZTG5xfP7v38TRLeP8hpEC+DmVFPwDVkewS6hZ4+TTo=
+
+Name: concepts/concept-java-editor.htm
+SHA-256-Digest: hoKAWA1Y+yPdxgIZywCz8M7BagZZquQvVSL7rVwrf1s=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout57.png
+SHA-256-Digest: Xq9zEtRdGBWETxgU0ZK4/FO+vL4Vw0+hD0BCDH3GcdA=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout3.htm
+SHA-256-Digest: Llz4SI7PErn4pX643JWfQBV2Q8KU1Pc4CjU+J/GkqXE=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/run_sbook.png
+SHA-256-Digest: duS6tGEFHOmLPozhmqoI9STvW3QOwiLziYbnM1rk1+E=
+
+Name: images/org.eclipse.debug.ui/eview16/debug_persp.png
+SHA-256-Digest: NEvF6owHwYFxdpt4i0+amEt9mICLqK8A9U6AZsON2mk=
+
+Name: gettingStarted/images/view_outline_vectortest_filtered.png
+SHA-256-Digest: 5iIclEM1oymLSX3gmyGKiVqFp/pypxjJwVkO+fXnbjE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/static_co.png
+SHA-256-Digest: /0S8TR17npyuEyGqyywMoBshy4J8jo3qqvqdo5JOOYQ=
+
+Name: reference/views/variables/images/ref-variables_view.PNG
+SHA-256-Digest: 1Q7W3phvHP50S39xgKCSZcbw4vf+L/+ATkVb+GmBtc4=
+
+Name: images/org.eclipse.jdt.ui/obj16/file_obj.png
+SHA-256-Digest: 1+ZDgxS+Is/l7P3ml+9GZcIp9Y5tauStyj5YcQTQgfw=
+
+Name: tasks/task-memory-inspect.htm
+SHA-256-Digest: 93mCpfmR4p/JyMnAZtfsa/j0Ana1TsuRO6ryOI2Gyvc=
+
+Name: images/org.eclipse.jdt.ui/ovr16/library_ovr.gif
+SHA-256-Digest: 2HR0Hxqt7fbE9WxQZ8b36g7KGu6nxkuOK24j2YXe/88=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/write_obj.png
+SHA-256-Digest: nD6OgeK5ojSG2ukB1aZiVVGr/erS2W/ifvkwOzL1zlQ=
+
+Name: reference/breakpoints/images/ref-watchpoint_access_option.PNG
+SHA-256-Digest: gcGnwG1y5bdqmN56N3yEUPXe3hjHSaj6fHIsa1QJJQU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout62.png
+SHA-256-Digest: rczYTpSimGHZJxZsjgmooRER7aD62e3yo3hFLz16VNc=
+
+Name: reference/preferences/java/editor/ref-preferences-content-assist
+ -advanced.htm
+SHA-256-Digest: 7F1392tw8Z8bBq4wfGyS12vEHI7n0+gZS0qqcYCnSpI=
+
+Name: gettingStarted/images/view_package_explorer_junit_exp.png
+SHA-256-Digest: xYCICqfa3EaUnRK6GmTZ9pxTMNqV3eao4fL7DC7zV+U=
+
+Name: images/org.eclipse.jdt.ui/obj16/intf_obj.png
+SHA-256-Digest: uhgUfiMgycF/6Tx3cjMojlgGiWzoHHCxM2zta0ayoIs=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerinterface_default_obj.png
+SHA-256-Digest: DIfqMfyLzNJ9igdfTPDp22XtOPnPgmHqX6dER+5QJE0=
+
+Name: images/org.eclipse.jdt.ui/elcl16/super_co.png
+SHA-256-Digest: Q0IF21SqqyFbtuSi7dFjPP5ZhHaOlI2D38aRwqj6+2Q=
+
+Name: tips/images/rename-options.png
+SHA-256-Digest: DteKfcq5N5qkGEp2Eey+9NmNtHdUtGqiHTqp/33en2Q=
+
+Name: images/org.eclipse.jdt.ui/elcl16/localtypes_co.png
+SHA-256-Digest: ur729X8hWku8ri/Sc/BKn3JVLHLxLQrJg5qNBabtya8=
+
+Name: images/org.eclipse.debug.ui/elcl16/changevariablevalue_co.png
+SHA-256-Digest: SYULQNT+M2TRsTQadwQRNAGz2qWZQ0tfhQR/sI0t1Hw=
+
+Name: reference/views/console/images/ref-openlink_context.PNG
+SHA-256-Digest: 42cvx0IMYgEZrLRCHzTDhKSddqrDnOXGiytQkcRHLkg=
+
+Name: reference/preferences/java/ref-preferences-installed-jres.htm
+SHA-256-Digest: JRvKlMuxQCa/vMrFvpr/nR7BNbDLvfORPYDdQLFbJl0=
+
+Name: gettingStarted/images/view_package_explorer_vectortest_error.png
+SHA-256-Digest: yvO10fE9kW+PvCdEvhEqBHhSov8Khu0W71bkFxIwaVY=
+
+Name: images/org.eclipse.jdt.ui/elcl16/removea_exc.png
+SHA-256-Digest: PNPw69aG5AV/Ieq4hVU3ctn0Y4Rr9VUqg9dVl+P2YBQ=
+
+Name: images/org.eclipse.jdt.ui/elcl16/configure_buildpath_filters.png
+SHA-256-Digest: CtNX3oWxutHP8XMjD9j7eM+PdL2UB+mxiGha1UUAH8M=
+
+Name: images/org.eclipse.debug.ui/ovr16/stcksync_ov.png
+SHA-256-Digest: 82cokQzmccTTtpYnPyBTisfVHXKQ5/7OHlSrdHwzIXY=
+
+Name: images/org.eclipse.jdt.ui/obj16/methpro_obj.png
+SHA-256-Digest: BGr2Qe2f7xEn89V0fCah+aDHptPz7xseV1abNfyhka0=
+
+Name: reference/menus/run/ref-open_debug_dialog.htm
+SHA-256-Digest: lbyWtGisComv2nvrCzvvBSXF7evpfWOxqYy/odSXMP8=
+
+Name: tips/images/camel-case-nav-1.png
+SHA-256-Digest: GmGotRiU0OmPGx1ndUtgkTzA4Xh8+H/iDSwi9TOve+Q=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_rename.png
+SHA-256-Digest: NijuCNASx53zA/InUa9jQrNAeQMRbbL+5ZBtNu1wUvA=
+
+Name: gettingStarted/images/j2se50/inferred-generic.png
+SHA-256-Digest: cpxAQftBECHlZ79qgzEFWrZBUxBzkwce54+9AaY7rbg=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_runtest_locked
+ .png
+SHA-256-Digest: +7WLi8Tm7RJW+Gb6HSGa93T37xOj8eV9oyKsv80hm+U=
+
+Name: images/org.eclipse.jdt.ui/etool16/shift_r_edit.png
+SHA-256-Digest: wr4yAqKvCL9txylrqQPn+d98GyFG8FOuaLvUIW/s62A=
+
+Name: reference/views/console/images/ref-prefs_context.PNG
+SHA-256-Digest: UBL8At7P58tbUPrIpPSr3pfduJnyBBj5Q/5WZjR6Ydo=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/uncaught_ovr_disabled.png
+SHA-256-Digest: F/EmKQyrTCUQTuMsTwrGVbj2EP2HTtG2PWOI8qBLoRw=
+
+Name: images/org.eclipse.jdt.junit/ovr16/failed_ovr.png
+SHA-256-Digest: 0r5hxUEjAu90QAfbewZlMGAtbwyCHtoiPBzv2p/IsiQ=
+
+Name: images/org.eclipse.debug.ui/obj16/brkp_obj.png
+SHA-256-Digest: 8jDQ91I2H9/1KuSrmri1I0fKGpdCPWG3kMnpDV6zJQw=
+
+Name: reference/ref-jdt-glossary.htm
+SHA-256-Digest: 6zlMRQZB3A/qo8dHZQuX85nqToCUALmqfypC12CdPqY=
+
+Name: reference/menus/run/ref-open_run_dialog.htm
+SHA-256-Digest: T4WE34h/wLuTjWAxirWeb82fTDp5I/HRX1VbYjyXzYc=
+
+Name: tasks/task-apply_hit_count.htm
+SHA-256-Digest: Qd/HB41fYegANn0VtO3s3J7CEj/WDF6a5J0fiF0oXvo=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout5b.png
+SHA-256-Digest: yMoXetpsz7ghGiy9TU8v9CHLVcktrZWdSxX5ybPZCLg=
+
+Name: images/org.eclipse.jdt.ui/eview16/hierch_persp.png
+SHA-256-Digest: 06qD2ah616AEsvndA9y+geIplZCAulvglH807AA/1jM=
+
+Name: tasks/tasks-37.htm
+SHA-256-Digest: zm1v4HfZHlByDKPcxNSSnLb0KYuqHxH1EPZLlcWZHcI=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_properti
+ es_dialog.PNG
+SHA-256-Digest: rH4XLdLKpXIZ3myEkpAvh48VtGjo/RsTr51sQQBIIyw=
+
+Name: reference/views/expressions/ref-remove.htm
+SHA-256-Digest: PJJXG8pzEqZBXoYZS9h0wXR7fIWICCQDZARBhLjTPoI=
+
+Name: tasks/task-preparing_to_debug.htm
+SHA-256-Digest: /NyoWpQohBDOpzuTeVdfmKAQ2W+eo/edH3+pRDmdefU=
+
+Name: reference/preferences/java/debug/ref-installed_jres.htm
+SHA-256-Digest: 4nUKEb3NlZg4hQaxax6GEsNW/k3RVDjX3d5FRQShoKk=
+
+Name: tips/images/javadoc-location.png
+SHA-256-Digest: 7fu9QC1gPIGxtssmucm5YPVynQ4LfI2UoblhXShUht8=
+
+Name: reference/views/console/ref-autoformat_action.htm
+SHA-256-Digest: IXkno3i8t/hRZG8aYIJ6lYHjzyYn66ErwUHbhQKOWrw=
+
+Name: images/org.eclipse.debug.ui/elcl16/terminate_co.png
+SHA-256-Digest: lPOQVLpOlu8TLvzyH/tRjC5R1ldCT/sQ1nx7V+pbjgo=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff1.png
+SHA-256-Digest: XEUqXa8yZwtQIqNAbsROJo9jbOysOdhAxwmTXwxtNmM=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout55.png
+SHA-256-Digest: 1MidYx45M1qJg/FjbtvKGvi1Kk0rxEfiYgEGVYhrXRU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout12.png
+SHA-256-Digest: gb/d7qhfH9jukmZZKoc8DMqfqk3h9V1Cdk1ndE5DKeY=
+
+Name: reference/views/shared/ref-find.htm
+SHA-256-Digest: jtwSVsL8L09IKRRGms58LSWJNJgf8XRCFRzL8PGmgl4=
+
+Name: gettingStarted/images/java7/content-assist-diamond-2.png
+SHA-256-Digest: OUGaJ6c5OnbiCK4R6ggmO94iSNYM1qQmSzWOO9eYlXU=
+
+Name: images/org.eclipse.jdt.ui/obj16/methpri_obj.png
+SHA-256-Digest: eGRzpOG8bcFT22Q6i/7rzmUXypZgxhM1buEUn6/kdnw=
+
+Name: images/org.eclipse.jdt.ui/elcl16/inher_co.png
+SHA-256-Digest: 6vQTpis0w31wyD72r5mcvo67fFNKN6ZqXbkj0rzysDQ=
+
+Name: reference/preferences/run-debug/ref-launch_configurations.htm
+SHA-256-Digest: 9D9xrg5XoqTM0QZ+Z8d2wFqXkumg5PkW+McWFVW+Nic=
+
+Name: topics_WhatsNew.xml
+SHA-256-Digest: dYqLg3IFntvl6aKR5MoozOzrJ/t/w724AtYJ5SptmuM=
+
+Name: gettingStarted/images/editor_testcase_error_hover.png
+SHA-256-Digest: d1KGQA6Wn9ou/kCYkU69OQHoCbFAWgJro9dexjNxO0w=
+
+Name: reference/views/shared/ref-collapseall.htm
+SHA-256-Digest: 4ECLqKAgAJKasIjglcKWbgAg7blgcDiO9kjhE5XnprQ=
+
+Name: images/org.eclipse.jdt.ui/elcl16/cpyqual_menu.png
+SHA-256-Digest: xXSQq4OhBAFnmYGRBcFbUT/BGCf5cbN2Ki7FbU8LM8M=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerclass_public_obj.png
+SHA-256-Digest: 5ptnXVuKtslY6b+ZMrEab22lGFJQwY0PdzopttACJlQ=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jexceptiond_obj.png
+SHA-256-Digest: 2FDbKqnx03iZn2UZxrTCMJ+sbAxTzG0FShgKWLFR0lg=
+
+Name: images/org.eclipse.ltk.ui.refactoring/elcl16/date_mode.png
+SHA-256-Digest: BhFYyOgNjX+zMHfn6Fj8lcHybJ8VhHEmwg7qtFTM6jk=
+
+Name: gettingStarted/images/j2se50/compiler-property-page.png
+SHA-256-Digest: eHx9wuugvF8kOR7/t47/bfLFZcCHKzAicjS7mlT1IGQ=
+
+Name: gettingStarted/images/java7/redundant-type-arguments-warning.png
+SHA-256-Digest: HxB0kZFmf2faYdANUWw3H8Vkaj+UDVHAI5AyBlYiFcM=
+
+Name: gettingStarted/images/qs-OrganizeSources6.png
+SHA-256-Digest: Q4Pfa1vx7W3SdfMJKIxpo89cKRtXnQEXGl1zp/zj+fQ=
+
+Name: reference/breakpoints/images/ref-breakpoint_enabled.PNG
+SHA-256-Digest: 3RPIB55XPWgOrQrY1QP8po4j1Bv/mqRHrjN22G5TpxI=
+
+Name: reference/views/debug/images/ref-editlaunchconfig.PNG
+SHA-256-Digest: xB+5YlyJvVxDnx+yf6sEs0OWmPODG9fsslKGrqU4h/E=
+
+Name: tasks/task-ant_javac_adapter.htm
+SHA-256-Digest: yx8j0b66jas4PJuiCFk+zL0hMfAxNgwJhrNOocDU5Q4=
+
+Name: images/org.eclipse.jdt.ui/obj16/warning_obj.png
+SHA-256-Digest: oGg0dC8AlvJWw0KF/uzz8rW84pbixp/E4ETjdRaUPOQ=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/disp_sbook.png
+SHA-256-Digest: R4SIXNNeQy2HvP7xXdqxSG7HNL1nIhol1TWPlz1VvCc=
+
+Name: reference/views/expressions/ref-disable.htm
+SHA-256-Digest: dMUCkc13Ger60panwZvjFnOVSviMLwNNRP5WHzQT28c=
+
+Name: images/org.eclipse.jdt.ui/elcl16/goto_input.png
+SHA-256-Digest: 68p+Wn67QFipe/LmCqbJvgi77NHMiuyORoZLKPim0F4=
+
+Name: images/org.eclipse.ui.console/elcl16/lock_co.png
+SHA-256-Digest: wAFyR6EmkpYYou9WowY8lCeNsK+h7YVx7yTosvf1i1U=
+
+Name: images/org.eclipse.jdt.ui/etool16/comment_edit.png
+SHA-256-Digest: lzfGlvxUlIHFlYDmBah65FTLF7hNtOsJR1/yGlW70IA=
+
+Name: reference/menus/run/ref-run_as.htm
+SHA-256-Digest: LRFU92iGToS2Kp8dzIEKmYrOTo97nLln9NTPSGwOfy8=
+
+Name: whatsNew/images/quickfix-missing-case-switch-expression.png
+SHA-256-Digest: 1JGvGRWlK6S5I+cTVdk/8RezfSjPlVZmHUR2nMk2M/w=
+
+Name: reference/views/debug/ref-terminateall.htm
+SHA-256-Digest: QDMUib9zjc2T4iDr60HcutoEUztuYngUX85TemjWQRE=
+
+Name: reference/ref-dialog-javadoc-location.htm
+SHA-256-Digest: wLIAIInUWMMKqGJFpq81nap5CTSxbL9KYwr/HcfjkjM=
+
+Name: images/org.eclipse.jdt.ui/obj16/inclusion_filter_attrib.png
+SHA-256-Digest: CPEdg3LFj7a2upFtw6WpsqXNSr/Q/ScIKaFfMQknG7U=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/composite_change.png
+SHA-256-Digest: 8GTBjDGBAri6sTLOfeMpb6btxOX93WhEkc/jSAXB0P8=
+
+Name: tips/images/extract_local_to_var.png
+SHA-256-Digest: wVY60L/W4md41thFV2hpvrhOOizkgdVcO0bRP3Yas3Y=
+
+Name: reference/menus/run/images/ref-run_as.PNG
+SHA-256-Digest: psmap+WIYOqYbBgFzzMtq1Wxq1gBavaYfuXL0+Uf2QQ=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/resume_co.png
+SHA-256-Digest: pzg44V3YFhZW8SSCdSA5I4o5Jfo06rur/vo193Tzgb0=
+
+Name: gettingStarted/images/qs-OrganizeSources2.png
+SHA-256-Digest: srV3xGgAXpLYnBOk6r+A9McQ0GuT9pXS010HBybqF3o=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jexcept_obj.png
+SHA-256-Digest: MVn/oUt42a3JqyT06wBr6Mlnb3YIKnXwe+h+qbd0gNk=
+
+Name: gettingStarted/images/editor_testsuite_extract_method.png
+SHA-256-Digest: YCdVqjy5QXqd5jfkbLt22hzF/RTNOK0Ayv+ta2Muaek=
+
+Name: images/org.eclipse.jdt.ui/obj16/over_co.png
+SHA-256-Digest: shN0rEoU2OeQjbbSXvTb1bsoayfO09uzvASaWoQ/Bc8=
+
+Name: gettingStarted/intro/overview.htm
+SHA-256-Digest: ZloLPiw9a71md2VihSiHh+CJ1+j+vP0XxF9Am1TL58c=
+
+Name: whatsNew/images/quickfix-configure-severity-12.png
+SHA-256-Digest: geej79CztT2DFGdzWuea7KwQTOxPTKr7SC9mwo6x5So=
+
+Name: tips/images/packages-flat.png
+SHA-256-Digest: /hlTkCAhG+P0K9NTVbrsVf2XHpGev+1KIxC9F/PJFDg=
+
+Name: concepts/concept-java-project.htm
+SHA-256-Digest: lpJq4QL+DuiNazmsYO1lWGAZhzDrZ0VMSdfQIw2eBUk=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/thread_and_monitor_obj.png
+SHA-256-Digest: +6KcBZvN7zCGelNoOHQ+cKeFKiEFf/4MYy/aCz9l8KU=
+
+Name: reference/ref-wizard-source-folder.htm
+SHA-256-Digest: KrPZVVWRxYwtFgTTJccSE8IsXGE1cwfLLoQcQeDbxi8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout35.png
+SHA-256-Digest: FCLf6rO2kgSEfJo8zz3AS6Gu91P3jn9UyPegU27oTxk=
+
+Name: images/org.eclipse.jdt.ui/obj16/classf_generate.png
+SHA-256-Digest: 6UB1L7lmrlCNkLQtt8azxi97XqMrK+TfSH20XTLBaRo=
+
+Name: reference/preferences/run-debug/ref-default_launchers.htm
+SHA-256-Digest: UO70BFXERPgYqGDJxW2DbYL0mmTFHx5db1IHYRxuVzA=
+
+Name: reference/views/breakpoints/ref-breakpoints_view.htm
+SHA-256-Digest: OVxa8Ik7Rq2FtlT26THBTtGi/acrMKBFOiqlfAdDTx8=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/watch_exp.png
+SHA-256-Digest: CcyfgrbzEMbvl6yD0bmvY8UPWxE3ivur0fI35OYOfwg=
+
+Name: gettingStarted/images/java7/mark-occurrences-exception-thrown-by
+ -automatic-close.png
+SHA-256-Digest: X0deD5V41O+0KMzo+Hsh70iPZ2FWSjVlT8IRdRY9Mt8=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/date_obj.png
+SHA-256-Digest: ULGj6LHJrqigc5xjG9GgV3/EFMbaw5okVaBYiSNXN9U=
+
+Name: tasks/images/task-memory-add-monitor.gif
+SHA-256-Digest: 8an6jfQg2kPbBKox8ju5+rj8OohQbVAPVeGIIFjygQE=
+
+Name: tips/images/link-with-editor-in-occs.png
+SHA-256-Digest: jm6c/ipJ56pGWNbzZYLTMjTytdEidGdYg2U+BAjlsYc=
+
+Name: gettingStarted/images/java7/remove-exception.png
+SHA-256-Digest: 8iuM2DwEmc9q1V2S3JaTlDZndyAunrdBcctxxIoyBvg=
+
+Name: reference/ref-properties-task-tags.htm
+SHA-256-Digest: JCANqbLHcoPvU4D1Q2wPE2SrbtbvJpRI2rm/ehTTUn8=
+
+Name: concepts/cscrapbook.htm
+SHA-256-Digest: FyecLTb+CC6y4xvJheurbKE0BMCujG2udtbSddDjaCs=
+
+Name: reference/views/expressions/ref-removeall.htm
+SHA-256-Digest: JqFFKSnoXWB06s4CW8nSMGwEV1aVnlXXVO4QLHr/DqU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout68.png
+SHA-256-Digest: XNNmttzoZnYGn/Xz5j5/HwI7lFbNFxYC2tufFViKvWk=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_accessco
+ ntext.PNG
+SHA-256-Digest: EoWzMKI0mhN3pb3oNu5prL3croMl8SQC6VoNOuZyLOE=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_entrycon
+ text.PNG
+SHA-256-Digest: bsMJpoh9WUSaL8O7mXBa411n3GBcr4ko6KyU+baYomM=
+
+Name: whatsNew/images/module-dependencies-cropped.png
+SHA-256-Digest: 1CbkxLG0c52Qe8wW8uw8wS66klys9GKdhsn1VhsW46w=
+
+Name: images/org.eclipse.debug.ui/elcl16/stepover_co.png
+SHA-256-Digest: WcxfWBOvRKOyLKV6toFXdPp3VQYBvB/ucqUU/pPJsj4=
+
+Name: tips/images/delegate-method.png
+SHA-256-Digest: I3u3drEqJF2hPVqdE9vVmY9ZJOgqQbpiV0q8axacEwY=
+
+Name: reference/breakpoints/ref-caught_option.htm
+SHA-256-Digest: 2Hf36uQL+A/MTK8xgRSk/pilCTTm2mMN2ioMFYSq1Gc=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_details.
+ PNG
+SHA-256-Digest: NFgZfF40rAzX6VvvD/QAoBVZBtlgejw/CjkNGcepvg4=
+
+Name: tips/images/group-problems.png
+SHA-256-Digest: I0JsRCV7EUAvA4h1GMyTvz8l9vKpj/WtkZGj3DxiXUQ=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff7.png
+SHA-256-Digest: VHMaiU2L+djY06ABAky8kLgPhSBdPcxFJESFqtzJ4Ug=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerclass_protected_obj.png
+SHA-256-Digest: OtmJVY6c3H64WYK/KKrYilRgG+lJukJrc8NkM8caNQI=
+
+Name: images/org.eclipse.jdt.ui/obj16/cp_order_obj.png
+SHA-256-Digest: BOcQZmf0PlIaxPFPlyg8ytXm/OSPPDyNd5aPJCqUT8A=
+
+Name: images/org.eclipse.ltk.ui.refactoring/elcl16/filter_ps.png
+SHA-256-Digest: 16mkbuTX75Fu65mvQY6n1+yhytzk1GQVhWCbbnzhFrA=
+
+Name: tips/images/potential-null-ref.png
+SHA-256-Digest: tnVcHfDuBs82SeO8urGLetwcFrxuC5PyGWPikpERjrw=
+
+Name: concepts/concept-inclusion-exclusion-patterns.htm
+SHA-256-Digest: rpBhVy4fCwOY3Sm2EH57JoQTa44fROL5woU2Khk5Ybo=
+
+Name: reference/views/shared/images/ref-viewlayoutmenu.PNG
+SHA-256-Digest: PYSh8+osE6J/hu3s0RK9kDui+TX9O+fK0AdpHYW1go8=
+
+Name: reference/ref-dialog-open-type.htm
+SHA-256-Digest: /+KQ/wMTyr4XVhYzL66UMF3CzB5N+w67hmdeRs3qrYo=
+
+Name: images/org.eclipse.jdt.ui/elcl16/copy_qualified.png
+SHA-256-Digest: nwyoSPAFJSdRHVfSmFG+fcEiDzBwhI10LoFIKRyPBBU=
+
+Name: gettingStarted/images/java7/ee-page.png
+SHA-256-Digest: AlZeNzJ9aIkJg/hQb0PwZaHGDurPWl45ZxObSCgqui4=
+
+Name: tips/images/parameter-hints.png
+SHA-256-Digest: VS/eCbTQw0vkKgob0LnmjmQ9mrCWd/QWZ4FB0etWC54=
+
+Name: images/org.eclipse.debug.ui/elcl16/drop_to_frame.png
+SHA-256-Digest: bOB4e25GLExPDuITziCD7sw8H3pE6gF2kjx/a+U2Umg=
+
+Name: tasks/tasks-232.htm
+SHA-256-Digest: OKDBsVkJUheCG4y3q7SN1vQfhwX7tX6q07mcuwuMHBI=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout53.png
+SHA-256-Digest: Mm03DarO1w5m5TT/KEUW42RGaxqaVJRpySZj08gpfT0=
+
+Name: gettingStarted/images/view_outline_vectortest.png
+SHA-256-Digest: 2Qp9pQWf9PfNOR9L5/9tUIN0QExb4L5PYn4iHRkMkBU=
+
+Name: reference/views/breakpoints/ref-caught_contextaction.htm
+SHA-256-Digest: DlVXWuyIsXAN2y7r4y1I4Tf7dEyReyUy6UMuhR63YmU=
+
+Name: images/org.eclipse.jdt.ui/elcl16/hierarchicalLayout.png
+SHA-256-Digest: LxRVG+wOci+weRl/GeGhCOEAX+S0TaDCPhDo+0dtow4=
+
+Name: images/org.eclipse.jdt.ui/elcl16/file_mode.png
+SHA-256-Digest: yOSTTjU9TNZF0dKuT6Gck1q0tsSxPDZ7vj4JovoIV9Y=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout21.png
+SHA-256-Digest: XYdRZRgY1KOuscorp9BjmdsxxKO0TYsY4N9rbYo2zwA=
+
+Name: reference/views/expressions/ref-addwatch.htm
+SHA-256-Digest: 5vzuOa46Dz45Y/FDin8vQRfVsGDfvKYg3CXSWnEPbr0=
+
+Name: gettingStarted/images/run_dropdown.png
+SHA-256-Digest: kpC4GhY/XTWi2ggGiz7C9uzI/BnAvL7xVFhD2dxwuWc=
+
+Name: images/org.eclipse.jdt.ui/obj16/annotation_obj.png
+SHA-256-Digest: QPHcNWbjFXvr0/0MiTMZuwPmsnsg5GHupzbAMf8n2Cg=
+
+Name: images/org.eclipse.jdt.ui/obj16/html_tag_obj.png
+SHA-256-Digest: YPnNWobpEM7tT1+E76jMCgKEo3yfAzGJocjty/cP+dY=
+
+Name: reference/ref-menu-navigate.htm
+SHA-256-Digest: gIkfl5CYko1iY/3dYB+9FDi2Fq8FtPc44RxJdZiU1io=
+
+Name: gettingStarted/images/run_dialog.png
+SHA-256-Digest: sD1bHqp/KQFGaMbdx5cn4ultIhUvm8FNeY+HlZ8mX/4=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/entry_ovr_disabled.png
+SHA-256-Digest: 1BPD4daHXTijc4I+EkpRqFIp05uDDXLR5DwJKcK+Uhc=
+
+Name: images/org.eclipse.jdt.ui/eview16/classfilegeneration_tab.png
+SHA-256-Digest: ClXVU0jSuX5tbk2Z5dN9u91Cwj5UblvfUNUoX3Pfac0=
+
+Name: gettingStarted/images/qs-OrganizeSources4.png
+SHA-256-Digest: 4oSN6501DziUU7VWpieWa838RAEUSxQOGqkxPo5tlIA=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss8.png
+SHA-256-Digest: uGDAi8SIpfDyOUJS6/BGswhMVkUT+DPD25hxHdlQsxA=
+
+Name: images/org.eclipse.jdt.ui/obj16/jar_obj.png
+SHA-256-Digest: G0pvMDBlvDXc9LbijNtR7Bwe9jztC1q7ZfyX50dA9Ks=
+
+Name: tips/images/camel-case-nav-3.png
+SHA-256-Digest: t/N8ncD6P5aIvpS/ElAcGKunXPda9GVM9P+A9rpG9Pg=
+
+Name: images/org.eclipse.debug.ui/elcl16/rem_all_co.png
+SHA-256-Digest: ei9rq6kKLYahgY4AO/GVyGrsFt6Q2datnCOAoG+7UdQ=
+
+Name: images/org.eclipse.jdt.ui/combined/auto_module_2x.png
+SHA-256-Digest: 5hSDFAMM3rIHohybWPFsV+mDSL2korQ9DUStyDtaKao=
+
+Name: images/org.eclipse.jdt.ui/obj16/localvariable_obj.png
+SHA-256-Digest: 8N9+PgRxU3Zyid6w/DsQL2pc+ypLYhNO+7yc/skj04Y=
+
+Name: reference/views/ref-java-editor.htm
+SHA-256-Digest: IHoiMn6QVmPbwMSRKfQvlOpbFFyf3gXg9QhDlBTrGAY=
+
+Name: tips/images/quick-outline-inherited.png
+SHA-256-Digest: ZCz3BZi1qJT080sUOdfRBBIdxvT4n83cccCTxcKagGI=
+
+Name: reference/views/debug/ref-properties.htm
+SHA-256-Digest: jLztJyOUod6czBv15mdm1IvIXjeFweI/iTvY73rKQsA=
+
+Name: images/org.eclipse.jdt.ui/obj16/change.png
+SHA-256-Digest: F53g5EJAsJKecYe27BfjQTF99I+DLGzYJxMC8vNy3tA=
+
+Name: reference/views/console/ref-prefs_action.htm
+SHA-256-Digest: jLr3Au1QM/tOfkgH7xC6ZVBMdKkm9nXi+Bz+k7hEPw0=
+
+Name: tasks/task-choose_config_jre.htm
+SHA-256-Digest: 7fdPFUeDVyPE3G7SIh61BJ8fvSavhWvXxPby8EiPUOE=
+
+Name: reference/views/shared/images/ref-selectcolumnsdialog.PNG
+SHA-256-Digest: bbEDa7EF6PKROjdO/nvRTdLIY/BUMc7mvUjlSN2i6Pc=
+
+Name: tips/images/templates-create-method.png
+SHA-256-Digest: lwl4CWpmKJhV3NvhiqJrEu5zrO0qOdw2lKC2Lgq7oro=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/run_exc.png
+SHA-256-Digest: koLgVKIe4I1/MV8Ev10Ucr53Cvh6pp7VoZczraKBreQ=
+
+Name: gettingStarted/images/j2se50/editor_override_annotation_hover.pn
+ g
+SHA-256-Digest: +NfKFk1LnbVeoQkv2yBFbuFgLM/NmNAwNs+M4tIP4Ec=
+
+Name: images/org.eclipse.jdt.ui/ovr16/class_abs_tsk.png
+SHA-256-Digest: NRrcwAD+3awpnrNTyP9aFu7yH8LEVthUmSnZLhMs3bU=
+
+Name: tips/images/code-assist-anonym1.png
+SHA-256-Digest: WTkOq6m14tnNOLem2hfiiY5ZlpRm/sydPuwuTdVTSeo=
+
+Name: images/org.eclipse.jdt.ui/elcl16/synced.png
+SHA-256-Digest: 9ALLWbBHSbj5MvkfiXAeI0DU7/TjprCLhROMZApUWqQ=
+
+Name: images/org.eclipse.debug.ui/obj16/debugt_obj.png
+SHA-256-Digest: 8rXanRuW8lWHj3LuAnxC+BPz9NLz3OI3FDKuJf7hmyY=
+
+Name: tips/images/unavoidable-generic-type-problems-example.txt
+SHA-256-Digest: yMmMApiJRm9A4Fwi/lcPbuKK2NEACA8wizDsfeuyIwU=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/file_change.png
+SHA-256-Digest: NJWS0/3yza/9SB/oBJgWJdm0DJQcbFF2QKm257m6k5c=
+
+Name: gettingStarted/images/icon_junit_successfull_workspace_modifed.p
+ ng
+SHA-256-Digest: bWIvfixMDFT4s4gyIM9ml/bABK/6YHb2VREoc3//RZ8=
+
+Name: reference/preferences/run-debug/ref-view_management.htm
+SHA-256-Digest: TmMIrh9aKTPX92Wz6RDqGEBUMpnzLt/LiW1ZeTvM4/w=
+
+Name: gettingStarted/images/java7/add-safevarargs-to-declaration.png
+SHA-256-Digest: CSVM+SOFmYIfM74f5DufjBnENlmUTMlaDKev4NmFnqE=
+
+Name: images/org.eclipse.jdt.ui/obj16/exclusion_filter_attrib.png
+SHA-256-Digest: JJlJVZ2D5GRTSmTR9Pzsw9QjIl8v8t2IIq3HoiwxIsI=
+
+Name: gettingStarted/images/workbench_java_browsing.png
+SHA-256-Digest: G8JQVMhfLcL9yHt08K5GbTG0IZt8rAQpz1yoFRgPgx4=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/debug_exc.png
+SHA-256-Digest: EUuK1thihH1UwHcYzd5jxJ8FDCRwQNV1His3twIVEWE=
+
+Name: tips/images/convert-to-lambda.png
+SHA-256-Digest: J2Lxkb71boaS0rPOgYt8w72hgwrKCOKmxydoTE5wC9M=
+
+Name: images/org.eclipse.jdt.ui/obj16/settings_obj.png
+SHA-256-Digest: DCztoOFyej0PDwXysuOh8vSJ6SnIjzA/WzdTzM07Wno=
+
+Name: images/org.eclipse.jdt.junit/elcl16/th_horizontal.png
+SHA-256-Digest: 5BQ2CfWIaLU83CzZR+tGyf3F3f0jmPLK4ojOoTzaHFc=
+
+Name: tips/images/warn-deprecation-x.png
+SHA-256-Digest: +GyUvEd26si51jxGWvaR2BEiJfXgV0c/XggNCibwXaE=
+
+Name: reference/views/shared/ref-allreferences.htm
+SHA-256-Digest: sAykv4vg4TDqEnPqDAXI2siZZrx9bdAQ5CcMs74+IvY=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/newsbook_wiz.png
+SHA-256-Digest: X87mVwbzNkGgTBN9hA7vIIByJte1HAaTguVY9FSABEk=
+
+Name: reference/ref-menu-refactor.htm
+SHA-256-Digest: oY+noRFGSiaAYTMAi80AEU0ykHx5kTvs8kkCDx9w5SE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/hierarchy_co.png
+SHA-256-Digest: K6LEl5W06wWy5B5KlUODk636KIZZyBxKHCzyHHt9TZ0=
+
+Name: images/org.eclipse.jdt.junit/obj16/testassumptionfailed.gif
+SHA-256-Digest: 0YYgw9nl6j7UVGtFs0ALtbYp6PHDkfiPP4d5J2tnqXc=
+
+Name: gettingStarted/images/view_outline_delete_import.png
+SHA-256-Digest: NcLrVe4uj3TcRgrFVEemj1CzPKklwraATNFZBHNQ9Qw=
+
+Name: images/org.eclipse.jdt.ui/elcl16/filter_ps.png
+SHA-256-Digest: OwgMKNe4LjcmOfdbgKt7Nc0M6kT0IJ4uzAKPNrx9Css=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/package_obj.png
+SHA-256-Digest: Nd/fNud0XqoxV+WRKnYZ8Z0mxGRrlirL++E83FnHvRg=
+
+Name: reference/views/console/ref-console_view.htm
+SHA-256-Digest: +XfzOjbfSpXyk82EbHWyWfFUSP8AyJaKI0wFUqUkkTQ=
+
+Name: reference/propertypages/ref-properties-rundebug.htm
+SHA-256-Digest: AbvCpWpFOPHW1s+Bz6daIHgetcQmccE2UrET/B3f+II=
+
+Name: tasks/task-avoiding_resource_leaks.htm
+SHA-256-Digest: +z1nDwACLgDqdYWG3z3QHwLNQg9R9l1TBgU4kF6Wbl4=
+
+Name: concepts/concept-java-views-presentation.htm
+SHA-256-Digest: Jp1LBy471G+5KwZAXAxwsj2HSvb3V27i5gyolzzLESM=
+
+Name: reference/views/shared/images/ref-detailpane_dialog.PNG
+SHA-256-Digest: DYOsVMQQ4S37JMJg+z6D/8LIhpkYKFnrAPa1BkZSSoU=
+
+Name: reference/views/debug/images/ref-properties_dialog2.PNG
+SHA-256-Digest: 4zeOMzvJdM7AhgHNBitCH081mwtnTuIG3VemmJMSHI8=
+
+Name: images/org.eclipse.jdt.ui/etool16/java_attach.png
+SHA-256-Digest: D5nvEh1blad4AcBzadcxprfrgIj9gMJh0gFqrNl4w4s=
+
+Name: reference/views/ref-viewsandeditors.htm
+SHA-256-Digest: hwSCf4o4S/5qnsy1dIf387ExjaBmZdk09CKM3PRGDWE=
+
+Name: reference/ref-properties-build-path.htm
+SHA-256-Digest: obll9ndR/+cMg/glQxMoBuLZ2HO1UmiCA1Ab69YoMS4=
+
+Name: images/org.eclipse.debug.ui/elcl16/stepbystep_co.png
+SHA-256-Digest: FeFrwSqOdOkKWnc6SB0xzNP+IdVeCCCGfff9zeuMTQk=
+
+Name: tips/images/call_hierarchy.png
+SHA-256-Digest: pg5boNRX8Om2Mje6NtkixZL4so/uzjErugttvYFFRpc=
+
+Name: tips/images/quick-fix-unimplemented-methods.png
+SHA-256-Digest: RakFCcY5MOTcW/cTplIkFLbydVFH7Z+yb8XK0MU4baI=
+
+Name: reference/propertypages/ref-properties-buildpath-modularity.htm
+SHA-256-Digest: 6P5Iji0q6yhEGjFsJV26XrJCnetyD0VnF+nvQH0CS9U=
+
+Name: reference/images/ref-breadcrumb.png
+SHA-256-Digest: SciMa7OQVwoXUiwH7VkII/EBJQkRV3q0PGPOPEzzrw8=
+
+Name: tips/images/unavoidable-generic-type-problems-example.png
+SHA-256-Digest: Z5U25b8dsgWBplzTPkCHDhEKrp6qpn0E88ud621pvA4=
+
+Name: gettingStarted/images/java7/twr-warning.png
+SHA-256-Digest: qLdNgi9n6nnZXYwHfuHiE9prJdgi1+zvtsDJEnzRIfw=
+
+Name: reference/views/debug/ref-editsourcelookup.htm
+SHA-256-Digest: VS/1yWWC06ug/AJSCk5dDPW4OISCzJW6AGcEc18MFH8=
+
+Name: tasks/task-inspect_evaluation_result.htm
+SHA-256-Digest: O6QRVH1BKqx1RH2Ygt7ofd8yZHmaDHx6ryuiYObMUYw=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_cast.png
+SHA-256-Digest: WtW0dzplLLu470EAFzOtGh2vAZW8ovcH//FCgMzVQ3A=
+
+Name: images/org.eclipse.jdt.ui/obj16/type_separator.png
+SHA-256-Digest: zfE+wBSlut4+sXb11bnvN8AMUag5eXZvzBG0FPu+RiQ=
+
+Name: images/org.eclipse.debug.ui/dlcl16/stepinto_co.png
+SHA-256-Digest: 92HNkle+5OnbJdsjhG13/0AUX3DxN9ZsRD+fCuT6DT0=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/deadlock.png
+SHA-256-Digest: +fpPzJt/3i7cGMFc0TGaW103KF4VTFmauoGsnhD1+Xw=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff5.png
+SHA-256-Digest: ei/mG+WdMBUiTCUvq9wpx87q31Yi/9XMSvUXmoTDUsc=
+
+Name: gettingStarted/images/j2se50/infer-generic.png
+SHA-256-Digest: 4fl6SFQyn+L8qlzaSlSGzjxBz4CTZJtmP9w8YMDEvLs=
+
+Name: images/org.eclipse.debug.ui/dlcl16/changevariablevalue_co.png
+SHA-256-Digest: KjqO04gbXgMSKrjNqjkz+dOH4OO8mHe8i+tpDrAcrKk=
+
+Name: reference/views/breakpoints/ref-remove_viewaction.htm
+SHA-256-Digest: GlwhPo3AiB9sfkFOCchgtKABt39ZM8VYVGw3xQ1pwIE=
+
+Name: tasks/images/tasks-excetpion-filtering-page.PNG
+SHA-256-Digest: JjygX3JmLOapWxikdKfnKJukOIuOPtwqvOs2svA1HKc=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/hyperlink_step.png
+SHA-256-Digest: qvcDBzYfmPwNQnPSDWA03CH4pi1yDumPsDIQmeCSEY0=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss6.png
+SHA-256-Digest: DbBvmp9nKStqlf9BnXzct7OHHkF0FXCLH5os/1brESg=
+
+Name: reference/preferences/run-debug/images/ref-default_launchers.PNG
+SHA-256-Digest: Sf0Lr6O7sd+DYRQ1gSFPeazTZ0VdMdd0xs2hXfpRgdE=
+
+Name: images/org.eclipse.debug.ui/elcl16/terminate_rem_co.png
+SHA-256-Digest: 3LdXsEs04ShIppTcELwXVpn1FeIzdop5Snw6nZTg3G4=
+
+Name: tips/images/colored-labels.png
+SHA-256-Digest: XcoeF7jiiUdtDoUZ4wbJnNvQgm6Fycehpy6PVcGm3aU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout51.png
+SHA-256-Digest: 6j2KsWH1azIBHgCVj5jrJ4R163Zb/vktIjGQoilq2B8=
+
+Name: images/org.eclipse.jdt.ui/obj16/compare_field.png
+SHA-256-Digest: JfJGrQ3Gt48qgUSGmFnuS6/+P9+Xvq+9NWUmM+LQ14o=
+
+Name: images/org.eclipse.jdt.ui/obj16/no_breakpoint.png
+SHA-256-Digest: 51etkD4pxwEkqC7edWQBzAz8CJkUDN/70IKU2+dP6tI=
+
+Name: images/org.eclipse.jdt.ui/eview16/errorwarning_tab.png
+SHA-256-Digest: PaMmqIKtHCtBM0JEysml/SfeZkYq6ff7W0pgquils6I=
+
+Name: tips/images/camel-case-nav-5.png
+SHA-256-Digest: 3NBElBi+1hd5QdBxOC3gfFNPNKD4AnOomKUUktM9BlY=
+
+Name: tips/images/typing-preferences.png
+SHA-256-Digest: EaeIFp33pxsxWQdbXfPDmJez3RvJdiGmIuwpyRdEr88=
+
+Name: tips/images/camel-case-nav-6.png
+SHA-256-Digest: jnUClHgsFVx5ELtBaX2toDdX6fkE61EM9TyPb3cD5WU=
+
+Name: gettingStarted/images/editor_myscrap_sysytem_get.png
+SHA-256-Digest: /JvllqHY+lHSmxmBfMEeUG9oUKWcWaUa53GWWoIWwQA=
+
+Name: index/_1.si
+SHA-256-Digest: EptjSYLfhoeUZa/du0mEN8AL42pFEWcl/4O6r/84KIs=
+
+Name: tips/images/spelling-correction-proposal.png
+SHA-256-Digest: Ag7QAEuve+/ogP1mX+1b5eIo63xNs8iDCFJeSaJE52U=
+
+Name: gettingStarted/images/editor_mytestcase_import.png
+SHA-256-Digest: lnmwCS39gO42u8FKCYp1UP+vJiBP++MNlCCzQt51Elg=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/suspend_co.png
+SHA-256-Digest: CuLnQlyrOBFny51dC17kBClRWvlPa6vHbgldQKh4JqY=
+
+Name: images/org.eclipse.jdt.ui/elcl16/sub_co.png
+SHA-256-Digest: UNAGBsdRxr80AkG7WXgUxCQelplmu0nIKF0X8+qPLZY=
+
+Name: images/org.eclipse.debug.ui/wizban/run_wiz.png
+SHA-256-Digest: YkSFARxmGK8d9xYbeZ02IFUmq+0vGVPRJa0KV8TEOjE=
+
+Name: topics_Tasks.xml
+SHA-256-Digest: d1jBq8IeqoNtx5hLt6SbofPNAA9R9DARsCxkw9r+mpA=
+
+Name: reference/views/console/ref-format_action.htm
+SHA-256-Digest: 6wqFRwGfJPzOYHH3Xwq7bM84X+MeL9/x8dKIgf+7lcE=
+
+Name: images/org.eclipse.ui.console/elcl16/cut_edit.png
+SHA-256-Digest: 3dP3V2cmjBEfuEz63iwfWhA8F3CUyLjOlKME4C80pYc=
+
+Name: tips/images/file-associations-page.png
+SHA-256-Digest: Lj+5AzedAuxePNP7ZNv3IsFV4Ljf4sZP7spJOFwTYBE=
+
+Name: images/org.eclipse.debug.ui/elcl16/expandall.png
+SHA-256-Digest: qXoqtXUHsri2A3Izujm2sZG44qVA1TFHNYuEGil0++M=
+
+Name: concepts/clocdbug.htm
+SHA-256-Digest: eXLyrpIBPGwOnbAGU4+1f40jR5Br2akJAxmqEe/eoxg=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/final_co.png
+SHA-256-Digest: s4u43KX5xr5fD/x1Ey6ecEaiqEXZQLDKeng3+uKs66k=
+
+Name: images/org.eclipse.jdt.junit/elcl16/lock.png
+SHA-256-Digest: /iYmaVeZK4PRX2VmTBlW0A5QMc3uImGPGZZG6gPm9wk=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout23.png
+SHA-256-Digest: 8gOjjW4MBygYn9al4V1CzcLTVMDhuFw77oq9lkQkhgM=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout66.png
+SHA-256-Digest: hHgyfg7OqwCpwdcWThPL9XlyzTAUzk+LbkQdNJCe5a0=
+
+Name: images/org.eclipse.jdt.ui/eview16/projects.png
+SHA-256-Digest: mbuyWQmhpcW9UYFBSSO0kuigsjLKVD2avoeaP4Ik478=
+
+Name: tips/images/folding-preferences.png
+SHA-256-Digest: 5OWcl9AysnHEIkT8jkxZyunGtdpk7LHP3yHiZ9gQvsA=
+
+Name: reference/views/console/ref-show_err_action.htm
+SHA-256-Digest: S1BtoHlrpy2LRbFW6ne8xUYeS4ykOAFPqYvygJWLqm0=
+
+Name: reference/ref-properties-compiler.htm
+SHA-256-Digest: RgioXKecMPvaGPRrYeHJQyjBDsmvDolt5rVMXqfFffs=
+
+Name: reference/menus/run/ref-add_class_load_breakpoint.htm
+SHA-256-Digest: f24LXVWzkUa7z9AO0Mld3qvLvTIOhoKXP4fzpGlg/38=
+
+Name: gettingStarted/images/search_next.png
+SHA-256-Digest: vUd7xfMM07E5mBX3yLnqMI2riOq78OuZlxLxiuRcOV0=
+
+Name: whatsNew/images/quickfix-open-missing-projects.png
+SHA-256-Digest: UjTb8aOTmTDXUFung+W2WW2eh88Ega8IfVhULpR1JKw=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout24.png
+SHA-256-Digest: KLzHjORnljwY3/e6dPOhygpqNiUKkQ480WdVDdsoL7A=
+
+Name: gettingStarted/images/add_as_source_folder.png
+SHA-256-Digest: 1f5OjNJNwuLbI+2ah75h9ahmrBVWS2CaWWHmTkr8Jgo=
+
+Name: reference/preferences/java/debug/ref-primitive_display_options.h
+ tm
+SHA-256-Digest: hM4gAkkurCiMhd2zhwF5Zs/LZlH/E1TdTHRDwpPoPiU=
+
+Name: images/org.eclipse.ui.console/elcl16/console_view.png
+SHA-256-Digest: 2VROl9NANqy9PKvB98xwxpVwcKgNdWHSCBHpPfpawUM=
+
+Name: tips/images/quickfix-create-for-loop-collection.txt
+SHA-256-Digest: j8eRbif79BQdnhy6GsC7M9rhrW5JOsmYg7kj7nDpdQs=
+
+Name: reference/breakpoints/ref-enabled_option.htm
+SHA-256-Digest: Qxkj0dYkx/yZski4ScGyqo60n3ktTkA8H3lufoyuI+w=
+
+Name: tips/images/inplace_outline.png
+SHA-256-Digest: +F5OwfQNHld59UjasnWc8jhECJh3z5UPH1eszr/1KRY=
+
+Name: images/org.eclipse.jdt.ui/obj16/unknown_obj.png
+SHA-256-Digest: pAy4R+TdxQlJPw9Q61TX4zb8y2cPWTXkrrxssYK9jPs=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/stop_in_main.png
+SHA-256-Digest: dHRPTM6CXP1oVth97pWpNs4THUHit3I6XJ+YkGGznCY=
+
+Name: reference/views/debug/ref-stepreturn.htm
+SHA-256-Digest: 2toZSaJUQYtmncWV18qaELnxn2QtX1hx0JhBKqOUN9k=
+
+Name: images/org.eclipse.jdt.ui/obj16/add_correction.png
+SHA-256-Digest: Zw5LI52al3ISc200VTGXSoS93rAayhE4h9r5N71P1lQ=
+
+Name: images/org.eclipse.debug.ui/eview16/debug_view.png
+SHA-256-Digest: Drb+jzrL82tYCuL9fSmeyIrkx2cQDDRmOYwlQDDVZ2c=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/autoform_menu.png
+SHA-256-Digest: KCw4PqLAXaMHKEPgkiF/e2TRpYi7JC7HGbQfT1WwDB8=
+
+Name: images/org.eclipse.debug.ui/elcl16/runtoline_co.png
+SHA-256-Digest: mAGqI9l5fUM22hUwRsLui3t47Nv7KnnPdV/rFXeEswI=
+
+Name: reference/views/breakpoints/ref-entry_contextaction.htm
+SHA-256-Digest: 9rYThMMRX3ag5CTAbNFhxYHdyNip3ZzupUeG98bDwno=
+
+Name: gettingStarted/images/view_console_noarg.png
+SHA-256-Digest: A6N+FpZrZ8N4P7EXRC8JZSyw28P8QsgEIsJrKN3bf3k=
+
+Name: images/org.eclipse.jdt.ui/elcl16/public_co.png
+SHA-256-Digest: 75FF05eVQtWyLKyO3ATv3smF3sG+8ndKQqgv+o4enac=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jsbook_run_obj.png
+SHA-256-Digest: 1IKvnRbFzs36CMyy5ssM2R3fJVUgBkOI2JUgF4kWWvQ=
+
+Name: tips/images/code-assist-fieldname.png
+SHA-256-Digest: G4p+ZliG7L+SLVPhIcpcVuva+4oFRUn171VpuLkXZ2Y=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss3.png
+SHA-256-Digest: d8Iq3Bnc8aYaMPP5fAN6sIkZJl4wNh7ZxlSsT4KertA=
+
+Name: tasks/task-add_line_breakpoints.htm
+SHA-256-Digest: ou28U6NdKyvawm67PDwIFmI65KwSKpuCewz8fWR7EBo=
+
+Name: gettingStarted/images/view_search_runTest.png
+SHA-256-Digest: r8jnWFMOTSrUN4SCrugxFAgxELbqfghqF0jE7X2XVWY=
+
+Name: reference/views/ref-call-hierarchy.htm
+SHA-256-Digest: FQ2e2rb7TI9jGxmr4KZuoB2dWSVVUmmDN8pK/++Xh70=
+
+Name: tips/images/code-assist-with-import.png
+SHA-256-Digest: OkCxyIRwj6C+mzzf46Dv63e1fgloUYgzLlZq5saQwUQ=
+
+Name: reference/views/console/ref-open_action.htm
+SHA-256-Digest: fIel/oMIQX1sxQVO8yr5XF779iPe1bfdEYnMjAdKmf4=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout32.png
+SHA-256-Digest: 9mhbnbwV3GjjIzBQSygZ+QBa5ivRVtZXpFbzfuECRS0=
+
+Name: gettingStarted/images/editor_vectortest_problem_hover.png
+SHA-256-Digest: p5hI2/rhf9LGe8nQl7hZF0lizvC0N1Ciefz3w040QlU=
+
+Name: reference/views/console/images/ref-open_console_menu.PNG
+SHA-256-Digest: 2R7wkE2X0yTAyfOMIKGBZiHysfqp6WnyI0KcomYp4HM=
+
+Name: tips/images/quick-assist-remove-surrounding.png
+SHA-256-Digest: QP+ksFX8xTgtKi7eVJCFepoarlgpBs8YO0X+ydIY46M=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerclass_private_obj.png
+SHA-256-Digest: N7GpNAhXJJ1yLfyBtJ8rpNunwG41xFf3+yMv2ZV43qk=
+
+Name: images/org.eclipse.debug.ui/elcl16/prop_ps.png
+SHA-256-Digest: pU70w9qW/IQ/1wuR69PlrxqKzI3sb3CG3ks1RBiBRfs=
+
+Name: images/org.eclipse.jdt.ui/elcl16/th_automatic.png
+SHA-256-Digest: P5kQJR/OOSYXdrHKg+9CRJJnfAMYL1V2ZYeB7KiiAtc=
+
+Name: images/org.eclipse.jdt.ui/ovr16/write.png
+SHA-256-Digest: zoCHsvsK4uO1bMyyHAhcuLgg3lYOTolyUKoUcMalETQ=
+
+Name: tips/images/mark-occurrences.png
+SHA-256-Digest: HJQFu7jKXMETNNJqZ7Ud41DOKginP/52wITTC8X5Gzc=
+
+Name: images/org.eclipse.jdt.ui/etool16/newjprj_wiz.png
+SHA-256-Digest: WwuwM5FZRgMk1+XxkJQEgv/pIIcg1RzUnNOR+52F/MI=
+
+Name: images/org.eclipse.debug.ui/obj16/stckframe_obj.png
+SHA-256-Digest: btaI3UTZLHcb2b+Iksb6GYE7WvAU1T9j9SOnMlVD39E=
+
+Name: whatsNew/images/parameter-name-codeminings.png
+SHA-256-Digest: RHjDx1I8gIttXGJX7mDXGI/g+OhlIRmoyn9rOdkBBwM=
+
+Name: gettingStarted/images/view_variables_1.png
+SHA-256-Digest: eW5ASKqIAj35L0nsGLflULrvZ79u0y94CG3LP4Pntkc=
+
+Name: reference/preferences/java/compiler/ref-preferences-javadoc.htm
+SHA-256-Digest: M3QPdiaLh2WhADTD6lraSMxK0haXFZ8vOOutMGOEajE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/view_menu.png
+SHA-256-Digest: zSMrYI1vms77ygJEpAKUKNxjZL3mj6uK70v0M01XvyU=
+
+Name: tips/images/new-project-with-ee.png
+SHA-256-Digest: MGIUtnD6xUcbVcmkrskWadCWhd+VtnassV2BNk851Q4=
+
+Name: images/org.eclipse.jdt.ui/eview16/call_hierarchy.png
+SHA-256-Digest: nNH63ToxejaQteYMAvAyEzkwLb5GXXQJaSbYzDaBICw=
+
+Name: gettingStarted/images/editor_myscrap_display.png
+SHA-256-Digest: 4zn1YSigfSBQOE/l3d5hezmUN7PCzKPaqSekgFDFAh4=
+
+Name: tips/images/hierarchy-lockview.png
+SHA-256-Digest: yNA2Yu2RrijjjdGgLyg2DGhd5HV1vU92x03Z9pB61hE=
+
+Name: images/org.eclipse.jdt.ui/obj16/annotation_private_obj.png
+SHA-256-Digest: GrVklBBZ5Lasl34/EyarJyHM9MBXfGnZIsICSmj7GL8=
+
+Name: images/org.eclipse.jdt.ui/etool16/shift_l_edit.png
+SHA-256-Digest: hKAY2I6TRFXkl9fpPb+4aaU7V546ZG7YxdPRha5YB1c=
+
+Name: reference/breakpoints/ref-suspendsubclass_option.htm
+SHA-256-Digest: cTgs9eO0Wx83hRsAr3Ed3Ram7q5cPUXGrEhuzEsSRp4=
+
+Name: images/org.eclipse.jdt.ui/elcl16/hide_ignored.png
+SHA-256-Digest: d4RhsLGUT2beCBjNA2DwVDrfF5MiwLSRIc7bG01LzAQ=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/context_menu_launch.png
+SHA-256-Digest: vAefqNh4uxJ3WdguYkwjOpv3pNNArhd24rngsC1nNkY=
+
+Name: reference/breakpoints/ref-modification_option.htm
+SHA-256-Digest: 2zYkiwUPJphRE6gFjzdHg2knqrbVtlFfdz5xGEWJhhw=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/watchpoint_condition.png
+SHA-256-Digest: AvEQlXolpvKcm/+zDtWPtO8YmeyKVRdONb+P3NuTdZg=
+
+Name: gettingStarted/images/edit_undo_refactoring_menu.png
+SHA-256-Digest: repitnOgOdMLjjUkVdPZPgzx7ohrB0doY+LOE/cCxho=
+
+Name: tasks/images/task-memory-link-panes.gif
+SHA-256-Digest: sstlrUuU0dc7VCpYbAYWsOYZ1hMVNtcyGz/24JQdLpc=
+
+Name: reference/views/shared/images/ref-detailpane.PNG
+SHA-256-Digest: TM3yU+lrEWTFKQmL7eHMTCGvBb/r/sfKBJzDpBM+EBU=
+
+Name: reference/ref-toolbar-run.htm
+SHA-256-Digest: YwrbKxxqwG8gfhxuM3x068gNyx2nvBPeMrETumyKyhA=
+
+Name: tasks/tasks-debug-launch.htm
+SHA-256-Digest: TxoAsoyRwCTblpt0T6+GSOQTGdqh+8Uu+NoocTWI2u4=
+
+Name: reference/views/ref-view-javadoc.htm
+SHA-256-Digest: ihY0xROyVmjPQvOmhL58msNZJjCziOegfonu/rd/r20=
+
+Name: images/org.eclipse.jdt.ui/elcl16/fields_co.png
+SHA-256-Digest: gm4/7MotUnalk1fDyoELwhwtWD/BgEcDHDYKcflRM3w=
+
+Name: tasks/task-memory-remove.htm
+SHA-256-Digest: UhlkWpwGZU0L7pMqOILoU+Xf/TssdZRncMGOEw0oPe4=
+
+Name: reference/ref-wizard-refactorings.htm
+SHA-256-Digest: 3Xt3V6QECDVMGtDJDtab3b8A8/qmXI+UEYEfXNDm9Vo=
+
+Name: images/org.eclipse.jdt.ui/combined/reads_module_2x.png
+SHA-256-Digest: 1qrvd2hCj/j56VstfSmP0g3pipuWX13jUeOiEM87TWs=
+
+Name: images/org.eclipse.debug.ui/elcl16/disabled_co.png
+SHA-256-Digest: YO5oZP+gQGnbSecKJer3/oHduRruRiQgrh+ZXalDpz0=
+
+Name: images/org.eclipse.jdt.ui/elcl16/impl_co.png
+SHA-256-Digest: G/SG38Uxh2eiRq7TX+GzpS+n0Sck7ff5u3/a+iRlxsM=
+
+Name: reference/views/console/ref-removelaunch_action.htm
+SHA-256-Digest: +KIb51X+XsA+0EMS2HCEQKJiptyGkzbkB7JdPiLtJhg=
+
+Name: images/org.eclipse.jdt.ui/obj16/jexceptiond_obj.png
+SHA-256-Digest: QVA9U2zS63FmpIOOml4e9nnBhUROKMizIJXxq+8MGPQ=
+
+Name: images/org.eclipse.jdt.ui/obj16/implm_co.png
+SHA-256-Digest: bYRfIKC1bMgDpvYfEkbs3/SskvgZm/CN5zwO1qKfrCQ=
+
+Name: images/org.eclipse.debug.ui/elcl16/lock_co.png
+SHA-256-Digest: J77mSmqA76bLNAK0+N59efibxu/02DE0DRcgrOpDgbk=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/debug_exc.png
+SHA-256-Digest: 6vT3XGRXetB5Oa/QqzkjS8anXW0Y3vTsxHrWmqo+A4I=
+
+Name: images/org.eclipse.jdt.ui/ovr16/recursive_co.png
+SHA-256-Digest: sgZGcyJrc3iuSCL4tQSUATV+BG6B3LmV5qa028dlAgI=
+
+Name: gettingStarted/images/java7/twr-example.png
+SHA-256-Digest: hH4KRS9J+WJeLm/NKpgtvip9zN4iQtUkZLP39w0hnz8=
+
+Name: tips/images/hover-on-lambda.png
+SHA-256-Digest: TDZ6Lngo8W0X3v7mT0MDJXhVOKjlsDQG3WvLpuBm93E=
+
+Name: gettingStarted/images/icon_junit_successfull.png
+SHA-256-Digest: VZlgsHkhMKOCzP4+KeddJmajqWRVaASklPA2Ffjq3oc=
+
+Name: gettingStarted/images/pref_editor.png
+SHA-256-Digest: G1M8r1Pby/gsScAi5scnaGQunPBn8ybq2m6weOHxykg=
+
+Name: reference/ref-apt-factoryPath.htm
+SHA-256-Digest: WLTdPltfGgEQfDF2k2Np9I3HxRFHYdO++t9CwxAl9aI=
+
+Name: gettingStarted/images/restore_local_history.png
+SHA-256-Digest: EVoD28JDmbUixWOUmFAXoWyT2g7bnfiuJX0+0aKCiR8=
+
+Name: images/org.eclipse.jdt.debug.ui/wizban/java_app_wiz.png
+SHA-256-Digest: limAWSmroyo/9QrhBetubpDLxv0x6Dzs7h0ri+fbzqs=
+
+Name: images/org.eclipse.jdt.ui/ovr16/native_co.png
+SHA-256-Digest: jiqJ7rEy73T8yz3eEAOt7w1NOwoOWE2gTIp9WiZqzkA=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_modconte
+ xt.PNG
+SHA-256-Digest: kUIe749nEbtubsOzDUmP7HLvOsBfBkU3qGokLPU7EME=
+
+Name: reference/ref-dialog-working-set-assignments.htm
+SHA-256-Digest: UFF52+kayCMs3yw6cqYsUCyYVAR/86+kYk2R4t/YSjY=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout15.png
+SHA-256-Digest: UnLKuSTxWtqdrdBLYBEmoLFvQBjttQxKdRM1y0Q77Io=
+
+Name: reference/views/shared/ref-assignvalue.htm
+SHA-256-Digest: Cu3xxp+yedtIS8pDZWwP2o3ctXzyRhMC5UF5QAKv+vc=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jmeth_obj.png
+SHA-256-Digest: /FHeyiFYI36ByA3X7UCUSIksQuJ8jd//n6KakgjI53I=
+
+Name: reference/breakpoints/images/ref-watchpoint_mod.PNG
+SHA-256-Digest: YAwKgtbb232cEWYLBOILHZ8IPWmLmhnyiiE+dlaPJac=
+
+Name: images/org.eclipse.ui.editors/etool16/prev_nav.png
+SHA-256-Digest: mRxf9wtTkvDBRMQjF5W+tBHQkfS2RclEadh4Dgfa254=
+
+Name: reference/views/debug/ref-layout_automatic.htm
+SHA-256-Digest: madD9SdJloJVhB0b+rrucN/5l3nrAQ7GJl9gezK7SQQ=
+
+Name: images/org.eclipse.jdt.ui/obj16/methpub_obj.png
+SHA-256-Digest: XZ/XfQ/0OWN/7lSWlDi/5RBlSaW1cFsMzIp8unP+Z4Q=
+
+Name: tasks/task-view_runtime_exceptions.htm
+SHA-256-Digest: h2mexw6YT2IEtxG3FY8ztZOalskjgAu9aYV7sjx38nc=
+
+Name: gettingStarted/images/editor_testcase_error_unsaved.png
+SHA-256-Digest: bx+ycgk7wcZmYgz15/pC8+ZLGfD3h6w1U8AGqWTov6E=
+
+Name: tips/images/packages-compound.png
+SHA-256-Digest: NBSe6G9r+QqDorf8T0GgfBFhIeCu0oA85kEWew23CZo=
+
+Name: images/org.eclipse.debug.ui/etool16/profile_exc.png
+SHA-256-Digest: WifzUwtd/Cm/4TgfxXWHd4x9sULWkBGN0kxpi7OMHc8=
+
+Name: reference/ref-menu-file.htm
+SHA-256-Digest: UVwxWu7qrUtY4r0ESClUMYgZzBxD4wew2diUC44t168=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/method-breakpoint.png
+SHA-256-Digest: f6Bc2NyL6eLLELwJQoyAKMucTOWm9v8ScN1eQ+Ub3I4=
+
+Name: tasks/task-executing_an_expression.htm
+SHA-256-Digest: 8fWCgpjMdKvJvav602ZAm2oTuob32B82YNTTT/bRIjY=
+
+Name: tasks/tasks-74.htm
+SHA-256-Digest: DpIVY3y3xyzywuHYbWWxyeligR7Kdw+V7DJVwv/RfjE=
+
+Name: tips/images/project-specific-settings.png
+SHA-256-Digest: kz95o3wo20LXPk92gKXEVhS8MlLLHOXsoXI9MGrE8pU=
+
+Name: reference/views/shared/ref-findreplace.htm
+SHA-256-Digest: H3Q22DUMXOL7srN53Nvr9VTfWinkh+1EutAqgvCmOfU=
+
+Name: images/org.eclipse.jdt.ui/ovr16/error_co_buildpath.png
+SHA-256-Digest: wzhqoJDF+0UnQ2XlqOlGYX9pVWSA4cQgPBckXKRXQ7I=
+
+Name: tips/images/surroundwith.png
+SHA-256-Digest: kYrx1sZn8YTylDByaTPSRo4JdMwCvoFqw4y9XiJ6haw=
+
+Name: reference/views/debug/ref-relaunch.htm
+SHA-256-Digest: nLDlZ4LxZuoCTz8RvDUAQQGccsN8/rF/fdG3fvRBYZ0=
+
+Name: tips/images/gettersetter-quickassist.png
+SHA-256-Digest: FasgYuBnEDiRJHKN+QBBSGCxuS9o0Fd+uqUKw4qgVhU=
+
+Name: images/org.eclipse.debug.ui/elcl16/export_brkpts.png
+SHA-256-Digest: fd5BsEsRzuV1YEr2+rREbLL2oHEhluXohgJuPNlsHns=
+
+Name: tips/images/quickfix-change-signature.png
+SHA-256-Digest: yl5bVklo9Q2lKLSo8PaIN8UyUI1KkoymOtHqYMMOr+8=
+
+Name: tasks/task-memory-monitors.htm
+SHA-256-Digest: uHfd3oBXkz2saYgfBMNAuR7gElwJ9t8+1D7r/FfQDt4=
+
+Name: reference/images/c-quickfix.png
+SHA-256-Digest: uTIdSUzzGoMMjXcmBha8LA75ZVnfSisiHkT/rlVYk7s=
+
+Name: images/org.eclipse.jdt.ui/elcl16/backward_nav.png
+SHA-256-Digest: xYio7uifn0bP7vNu9DpqigoehkMayJXq6/tL6DBJ/TU=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/contentionformonitor_ovr.p
+ ng
+SHA-256-Digest: TvPWw/MwvTYMJmzZOIKQf827Tr7cE7XkrudAlC1U2UU=
+
+Name: images/org.eclipse.debug.ui/dlcl16/runtoline_co.png
+SHA-256-Digest: XKxBSVJqoc29pLmwLRR/wTUOVt9KHjabapAL3yrJiMU=
+
+Name: images/org.eclipse.jdt.ui/ovr16/interface_tsk.png
+SHA-256-Digest: pYFv+LTS+TqndqFMwxGHdSeTpHBLzOdl4NS7xcrPWRM=
+
+Name: reference/preferences/run-debug/ref-console.htm
+SHA-256-Digest: XC4Rc6MP8DcxQOS+hRPAXjX2yCJHg/JQpRI1oG7hlWA=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout34.png
+SHA-256-Digest: pz1Kp1gsZFF6/bIhj9H9kS81EQn159dMFq2lf8QHgR8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout26.png
+SHA-256-Digest: zLR46SVI7wlzbaWMfPK7at2XLJV4V/l05pweJImiyJw=
+
+Name: reference/views/debug/ref-lookupsource.htm
+SHA-256-Digest: wg6F2FZyxnb78FHbuQlFTMYoN9f+qrruFJ9TGIHOXZ8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout69.png
+SHA-256-Digest: /8JNF3YuhJ0jdFHMxcAVoQCPofRGVSL1tu4s69nmMcM=
+
+Name: images/org.eclipse.jdt.ui/obj16/typevariable_obj.png
+SHA-256-Digest: a86wp+nXbCiEegg66DxV+DzTpaGYMygtmVGruBXmtso=
+
+Name: concepts/concept-quickfix-assist.htm
+SHA-256-Digest: PGTPZCM4euklRYE/iHqyzajI/4pkEXMELwj190DWEls=
+
+Name: images/org.eclipse.jdt.ui/eview16/types.png
+SHA-256-Digest: vgmpJbYzoJDIA3STZn/bp/koc+xk08On3KR32ghOr5I=
+
+Name: index/write.lock
+SHA-256-Digest: 2qoEDU2SMdERdhC69Qa+gtkSc9L4Qavow5CUQp79s+w=
+
+Name: gettingStarted/qs-2.htm
+SHA-256-Digest: dkvSuS6HsMLsJvOk4EdSWTGYVqQUZTZtFwYVlkLgisY=
+
+Name: tasks/task-launching_java_applet.htm
+SHA-256-Digest: lTk5oJmFl7Ow5wGp7vMxtIBNVHTnPqv2ruAv3/qElnQ=
+
+Name: gettingStarted/images/superclass_selection_dialog.png
+SHA-256-Digest: ICUU2ad5RzJPLrb/mzFF5sXtlwR0ffeq7KpZUOPpSvE=
+
+Name: tips/images/javadoc-prefs.png
+SHA-256-Digest: Kn0pRJizTrKM/WE366b5MQ6hPf9atkvdD7DB0AuWrS8=
+
+Name: images/org.eclipse.debug.ui/elcl16/metharg_obj.png
+SHA-256-Digest: iod9bXUZ40aKgeTuSu8HWJWXvuhwuvcBep2TjVBWMEw=
+
+Name: gettingStarted/qs-OrganizingSources.htm
+SHA-256-Digest: GrTXLiwkRePPrHwZqpIabbA8ufD07McQJ9/gBZpOOPA=
+
+Name: reference/wizards/ref-export_breakpoints.htm
+SHA-256-Digest: ZyZx0VYUECN5Yro496FRvmTO36LeqdKpjo1D6V+feog=
+
+Name: tasks/tasks-231.htm
+SHA-256-Digest: rslTsYly4daeQkJmsVkQeg+ZCapLF6lRSSfP3MQ9NKQ=
+
+Name: images/org.eclipse.debug.ui/dlcl16/monitorexpression_tsk.png
+SHA-256-Digest: BzlhMyixda14pOdG6A87CmvkgnM0kcbEXZYiheINQ8Y=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/inspect_popup.png
+SHA-256-Digest: KBkVzlqXZPgDeqsrm2IHW8yUCQlTHQr1aKea/InAX0Y=
+
+Name: reference/breakpoints/ref-exit_option.htm
+SHA-256-Digest: YQY+RSwYIsr8mPlzfm9dwI0uiMwyk2yk4pe+gq+FDnY=
+
+Name: gettingStarted/images/java7/unhandled-exception-thrown-by-automa
+ tic-close.png
+SHA-256-Digest: vd9SJoLV//tASpMZ1CDHAyiXK4G6Vz/taPuj4gk9k14=
+
+Name: whatsNew/images/quickfix-change-compliance-12.png
+SHA-256-Digest: BftMpXpKPsfRFnwlsXLvUORKP1f76Lcxb/Wq2JLtuzw=
+
+Name: tips/images/quick-assist-shortcuts.png
+SHA-256-Digest: 4l9EqMYBMOZtsbgLCTlHhioZoGyS727g8ezG7U347gw=
+
+Name: images/org.eclipse.jdt.ui/elcl16/th_horizontal.png
+SHA-256-Digest: FNZrTZBbo1B6PCdQFEE75zK19Twyrk7DOSzYD6JVTfw=
+
+Name: images/org.eclipse.jdt.ui/elcl16/refresh_nav.png
+SHA-256-Digest: lAsm90TZDO1XdHLhAtaHvbT8tORZMIkAtHsJG6jbPuM=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/view-mngmt.png
+SHA-256-Digest: 8aVRIX2Va56O+CC8DDsRyfC9oTT0TfA6RMM0anWLmCA=
+
+Name: tasks/images/task-memory-pin.gif
+SHA-256-Digest: QnoJEXM6rRZLDA0GXnGXR6v0Wzj9ZACoZEG2eeIY5Ng=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/owned_monitor_obj.png
+SHA-256-Digest: xmFHQEO/LRxrmwzOwYs4L/aeFCrSFBB/SipqbizD40k=
+
+Name: gettingStarted/images/view_outline_testrunner_main.png
+SHA-256-Digest: P0zIjqnTp2gKBcawPXyxLPtpc7iaDYY6kOWG6CEfNzs=
+
+Name: reference/ref-java-editor-breadcrumb.htm
+SHA-256-Digest: xx+JPq6eba5l5vPVh9u4IkSQ/YZP8+UQ/PCON/N3q7A=
+
+Name: gettingStarted/images/wiz_new_class_dialog.png
+SHA-256-Digest: EZp20KOdqpWiRtoiNX+m5pac1bRK4IxLsETcMPjSUCI=
+
+Name: images/org.eclipse.debug.ui/wizban/profile_wiz.png
+SHA-256-Digest: Lq5tBXWQzQa5lsuNQe1h05854bP8nq9sDiq8UbnpsYA=
+
+Name: whatsNew/images/content-assist-debug-shell.png
+SHA-256-Digest: CRQ0PV9PbtL+j4W4DcGdDB04Qv6LzqIWbmZcypNugQ8=
+
+Name: reference/images/formatter-join-lines-before.png
+SHA-256-Digest: XaiqNUz5EIYgloDE8Yro4/ExeVJw4u/vAqz9nBBw1xM=
+
+Name: whatsNew/images/service-provider-create-constructor.png
+SHA-256-Digest: Lc6UHBqp8MQUf27rmWqZxWOn/hyk6pzZ+o2iOKycOco=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_groupbym
+ enu.PNG
+SHA-256-Digest: cnS4ZRJPA3gtLLYhn0GrNYpLKO8oUk6Io9lRaPClxMo=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/constant_co.png
+SHA-256-Digest: q+TaVBvSZY4cCui8IJ39Pgm5p4B++OZObiA96DbrcPk=
+
+Name: images/org.eclipse.jdt.ui/combined/system_module_2x.png
+SHA-256-Digest: r343VnxufSeBmKFDR0xSJuNlGjZnoAI1f2uS0xcKKhc=
+
+Name: images/org.eclipse.jdt.ui/obj16/jsearch_obj.png
+SHA-256-Digest: RaqzLeXK1IxP6iIIGGD/pfOF32y+ixCJnB2ZDGpe7iI=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/read_obj.png
+SHA-256-Digest: qNIRZVB3sDJmY92TV7AJjKkGb/CsXxAQfZ7Ezxa10G0=
+
+Name: images/org.eclipse.jdt.ui/obj16/jcu_resource_obj.png
+SHA-256-Digest: WMjqWBHThqkXgFqkW6pUOWjCMc6fAur1rE6MVKGzVCo=
+
+Name: images/org.eclipse.jdt.ui/elcl16/remove_from_buildpath.png
+SHA-256-Digest: moD37uwxvc5R7Lgc8IfLZG5iG29AoXGF/9V0/bSDA3k=
+
+Name: images/org.eclipse.debug.ui/elcl16/enabled_co.png
+SHA-256-Digest: NMm+r4GNGrdLG4ZmAQBrHGQDrBOeF51eeYhEDuIPR1s=
+
+Name: images/org.eclipse.debug.ui/elcl16/stepreturn_co.png
+SHA-256-Digest: mlfr8WFEjH76rAMNDwk+UIzuZwFLv8CXC/Lg44PZTNs=
+
+Name: reference/views/debug/ref-editstepfilters.htm
+SHA-256-Digest: 4xabTdsQQtITmbuHeOnDmBWqEabadKlUbn/lzG2bs28=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: Ne8FONOx5w5QzqDckeLqxY4sbqkpcmjoV6XH2eepMB4=
+
+Name: reference/ref-properties-source-attachment.htm
+SHA-256-Digest: Glj0ZyZkDbzhtkh7QwAOr4kGa+a3CGOJObNI0FBM0Ic=
+
+Name: images/org.eclipse.debug.ui/dlcl16/copy_edit_co.png
+SHA-256-Digest: gXwIthMWe/MJIIz8f+nFf01jqzTgo43ahrbV3C1u/D4=
+
+Name: reference/breakpoints/ref-uncaught_option.htm
+SHA-256-Digest: jKcxBA9975KHSNkx1FFsmaZybE35pk6YHseptj4ehBw=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/deadlock_ovr.png
+SHA-256-Digest: YvTuma3oFJW97sf1/fsF8Cp4xRB0Byfxt4Ay/S42gL4=
+
+Name: tasks/task-scrapbook_content_assist.htm
+SHA-256-Digest: zBLDM7gVHujl6HR0vL43udkfonEi+VFPUESRywD7BUM=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout41.png
+SHA-256-Digest: D3pBQ2G7m5b4eUREUYBU83FebpI/PUsjzNGVa6t+JUg=
+
+Name: images/org.eclipse.jdt.ui/elcl16/hide_externalized.png
+SHA-256-Digest: bUNYFR/g1pSTtb7w06CJFq/16MDBTmAK5fNn7rWORfs=
+
+Name: images/org.eclipse.jdt.ui/elcl16/exclude_from_buildpath.png
+SHA-256-Digest: FNeUI8M5UUg4OfsJ3i2oxjgfa5Ck9EhtBZ3bNtN477k=
+
+Name: images/org.eclipse.jdt.ui/obj16/jdoc_tag_obj.png
+SHA-256-Digest: fdOSNziEjhg1Ur06Bmlh933ZfglvUAvIaUkq33EoR9U=
+
+Name: index/_1_Lucene50_0.doc
+SHA-256-Digest: 0AQzCSvaTxUd0hQxBHq1/xXfQF8DQE/UQ/6V8koYnwk=
+
+Name: gettingStarted/qs-14.htm
+SHA-256-Digest: knYz6nsd+gG6XfS1XcSbAQPqh70ynVB5xe+BI4fh0gk=
+
+Name: tips/images/focus-ovr.png
+SHA-256-Digest: 6Qprlw1LIxuSMJRFKsqEuSgIaz4W59qFwj+Sdq/7jZw=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/time_obj.png
+SHA-256-Digest: ep9pbNlYEJQP2ymkfEJFQmGhhHKa26cuOW74AO38C2I=
+
+Name: whatsNew/images/enable_preview_features_quickfix.png
+SHA-256-Digest: BdCJ8fIbHnMlF/Zo9+gxkZNJR0Uv5LVPHIyzYuv2Dvs=
+
+Name: reference/menus/run/ref-menu-run.htm
+SHA-256-Digest: DUD7yHdlxxRsOS4kjwT3+gAqIdBE+Nk/MdG+EJDBdQo=
+
+Name: reference/ref-wizard-class.htm
+SHA-256-Digest: iXqop8JgfUPPj0UeKb7ejE5pQNdfhRjgOD8cCt8JQUA=
+
+Name: index/_1.fdx
+SHA-256-Digest: H7XW4S3aOxt+zS31jVD9uLr7v+sIsJNM+l7/DqKvYpI=
+
+Name: images/org.eclipse.debug.ui/elcl16/collapseall.png
+SHA-256-Digest: avyzJ+ZlET6MImB3h3qpLmiFh3p1E7yg3j1nmcl3bY4=
+
+Name: reference/ref-dialog-gettersetter.htm
+SHA-256-Digest: IcL8jynAfUTTXlZo3oA6jykMNlpN2gMNW2FA3cotELg=
+
+Name: index/_1.fdt
+SHA-256-Digest: nxJTsTtwwBx+12Hk6lCBubB17At8sYu0fNWbJbpzseQ=
+
+Name: notices.html
+SHA-256-Digest: PurTkRHk3c8068VYnhE5oGTsnuzjAecNInnxJshz77g=
+
+Name: images/org.eclipse.jdt.junit/elcl16/flatLayout.png
+SHA-256-Digest: lLmFoj9imQBl3i+PU/3VsF2D+kxQTcFUGbDt4dBqc1Q=
+
+Name: images/org.eclipse.jdt.ui/elcl16/package_mode.png
+SHA-256-Digest: 7SOaWd1WPq3L2TJKLyO8lb1bw0l3TR8kdlWR9h7NVBc=
+
+Name: reference/ref-wizard-package.htm
+SHA-256-Digest: jYAD7VuqwWN4AFmXJmCmYJqYz3s+9tkU545asms/S+I=
+
+Name: images/org.eclipse.debug.ui/dtool16/debug_exc.png
+SHA-256-Digest: 0b1yK/RiydAsb/Rd97A2EM8g/b9PXQxcz/aNVh5mEKg=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff9.png
+SHA-256-Digest: ggGczg5jYCdLwVxuqiAOLtsSpG0xGi/kriFF+TuReZ8=
+
+Name: topics_GettingStarted.xml
+SHA-256-Digest: fT8XFuehQrhGK7JYkZoM7QBosgq7V4Azd/qT9XsLFCw=
+
+Name: images/org.eclipse.debug.ui/obj16/debugts_obj.png
+SHA-256-Digest: yJtIdLQjQmtqZ6CvtKCtuHubVsWQdY+jp+mN66UnU+U=
+
+Name: concepts/concept-jdt.htm
+SHA-256-Digest: LrBttDK7FvmefwunF24wPn2vHOmqJretkHN+P3PrjnI=
+
+Name: index/_1.nvd
+SHA-256-Digest: g67ZaVmyqeJyOtU3oTtDF/Xpr1C+OhyA8FS/riQOlFA=
+
+Name: tips/images/warn-deprecation-i.png
+SHA-256-Digest: lqEhEHpz+l+o+zSAZ1ulosOT7RlUL09gkf4B+6S2E50=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/breakpoint_condition.png
+SHA-256-Digest: jKTeB10SObeC+QUu72bcY7W+GcocrjAsNmnEkj/BitM=
+
+Name: reference/preferences/java/editor/ref-preferences-code-minings.h
+ tm
+SHA-256-Digest: ywPtuUPH2tmMLo6xC0XY1GfZwxIHZqHJtYlqFiOkUYE=
+
+Name: reference/views/console/ref-openlink_action.htm
+SHA-256-Digest: 7U/kZ7ZbfhGYtZf6xz+cRBDmBTxWUX1NzbkemOIhxEo=
+
+Name: tips/images/quickfix-create-for-loop-collection.png
+SHA-256-Digest: jU1CYhSeDLEyS9sweGjVd1zcCA6tu6luTwDH0CmZbOQ=
+
+Name: tips/images/ss4.png
+SHA-256-Digest: 8yQmy6LAdQgF6JGzvSqFkBfNbOZTR3TqMcCiY36iujA=
+
+Name: reference/views/shared/images/ref-javapreferences.PNG
+SHA-256-Digest: r4xMd4b4F42ubVa87x8gM7fb+rHCpMdrjU1zlhQ93uA=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/suspend_co.png
+SHA-256-Digest: Dk0ecfJ3iRngnIBwXySSTTGV6PZhX43bS+m40o5CmbA=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss1.png
+SHA-256-Digest: jcxyNpzzZV65yIhTqNgMWxWhUtAXCeFj79aa1OjAo5A=
+
+Name: whatsNew/images/switch_labeled_statement.png
+SHA-256-Digest: dgzq+pqbaKnfNapsAKhiOtx/8sp8fp6JZ5W9UnC4Ppw=
+
+Name: index/_1.nvm
+SHA-256-Digest: 9Sw2hmj4ooE9a0y2lqZ6E350P8/1475WO2iCvDIo6Z0=
+
+Name: tips/images/jdt_sort_library_pref.png
+SHA-256-Digest: rDMrkKWIJpU3BaV+e/YqM9PFPewTHpGKDdDEHkhjJHo=
+
+Name: images/org.eclipse.debug.ui/etool16/term_restart.png
+SHA-256-Digest: OcPZIUvVBHAPyfAVTK0fDFHNKG9nsj40nrPaPoG9Zno=
+
+Name: gettingStarted/images/j2se50/foreach-inserted.png
+SHA-256-Digest: WBc7Q7gUnGNoKcPOIt4ESOZ+/9P7SSio3e0JhyxtvMo=
+
+Name: whatsNew/images/split-switch-case-labels.png
+SHA-256-Digest: UHbot/EaGzQnif5WX5RsR5XtBCSMCG86htjm6aj/2hU=
+
+Name: reference/views/debug/ref-terminate.htm
+SHA-256-Digest: 6BjTHhoQEp4vgM40yVM8Vyk2ZReBKuYvivErcDtKSmU=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/insp_sbook.png
+SHA-256-Digest: H9e28u6AoWt5GlZlo66EHsFAmXPmpzqRNVmxmyfB4SY=
+
+Name: reference/ref-apt-processorOptionsInput.htm
+SHA-256-Digest: iHf80SsmAlC7ibSL0SawXzqmD/UfuAwon7uCSVIfCBs=
+
+Name: reference/views/console/ref-cvs_console.htm
+SHA-256-Digest: MjnOCQkLBEwmcs4lt76EaOciusBlCrBeufu0ntdexBo=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/thread_obj.png
+SHA-256-Digest: PlGbCRIk/Qu4WHoD/RYnn8zqCYI+aaAnL3WgTDJVVD4=
+
+Name: images/org.eclipse.debug.ui/dlcl16/printview_tsk.png
+SHA-256-Digest: TmjWS2sro5oFWC9xb9OZNfJqtNrHuD5GJNNXP3L3TLI=
+
+Name: images/org.eclipse.jdt.ui/ovr16/class_tsk.png
+SHA-256-Digest: x7iB0yDjmjmSFm+nWSCzzlc0jW/cyXoycx3UqzVjJdw=
+
+Name: images/org.eclipse.jdt.ui/obj16/history_working_set_obj.png
+SHA-256-Digest: 3xO7cZkAQlTe/si0IBsy6gGTjoNNDnz607vUwpozlYk=
+
+Name: images/org.eclipse.jdt.junit/obj16/testignored.gif
+SHA-256-Digest: liJCFCgvF1QUar3HZRi0PJ0QvN1w3b1WLszIEEMQqys=
+
+Name: images/org.eclipse.debug.ui/dlcl16/stepover_co.png
+SHA-256-Digest: IYdqrUpXIsb/DnKjNVrtyM0FHhtcMcjB64g8OMpy4AM=
+
+Name: images/org.eclipse.jdt.ui/ovr16/sync_impl.png
+SHA-256-Digest: v5OKcn6NlRti6c4zN4cXzcULjHfrNAmULQavH275kns=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/readwrite_obj.png
+SHA-256-Digest: yArTNbke+KuTcuKyyiyegBCqMgfg2bv+pFvqJ/C80Bs=
+
+Name: whatsNew/images/quickfix-open-missing-projects-problem-view.png
+SHA-256-Digest: 3mhEGaExpkFnfm3VhDgA2p4M5Utt+8ic8SHOhYDs03E=
+
+Name: tips/images/open-type-camel-case.png
+SHA-256-Digest: 5YdEtp7RRqBznpfFhRjxHMJxossYVt96IDxK3KiDopY=
+
+Name: gettingStarted/qs-4.htm
+SHA-256-Digest: sfp4ZZwEtHKC7NwSLtffQ/nokK1Z72N4MCKXAWlZGaQ=
+
+Name: topics_Reference.xml
+SHA-256-Digest: odJ0V55emiKNIh9UQSt+YPdddAyBZuik3JXJn1hTetg=
+
+Name: images/org.eclipse.jdt.ui/ovr16/warning_co.png
+SHA-256-Digest: jcx8gI3B6nZe3XNQiNgKCBMQlJYsrxgsFxcFBr4iNFc=
+
+Name: images/org.eclipse.debug.ui/wizban/addsrcloc_wiz.png
+SHA-256-Digest: w6nLTsna6gdsC7DD/Z+bLnoj2QAlRWJrjFC9TqeSAOc=
+
+Name: reference/views/breakpoints/ref-skipall_viewaction.htm
+SHA-256-Digest: nGCqFT7tc65ORQHZa93bv51LlEK3EkTml6UVlp2qBnY=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/sethitcount_co.png
+SHA-256-Digest: gR58DZXRRhO+LzhjqMBwp/XYTkoG1vs3cWsTnYyEals=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoints_view.PN
+ G
+SHA-256-Digest: g3hb4+tcifR/Tc9ZB7Fwd9XhhMc4sNxBX54lTzI05BU=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/info_obj.png
+SHA-256-Digest: 6MP9ZVbgs34rinOcWkVbP56rB6Hf8VDfG6Kc9J9+vs8=
+
+Name: images/org.eclipse.debug.ui/dlcl16/skip_brkp.png
+SHA-256-Digest: 9hQ7Feaq7NvI38dqbQ3YJb+R6HxW5fwYXZjJL087GbM=
+
+Name: images/org.eclipse.jdt.junit/etool16/runjunit.png
+SHA-256-Digest: Fwh+tye7oxXSBUXMvs0/XGSoCqSId7yyFFHZVSgDnrs=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/run_sbook.png
+SHA-256-Digest: 1cjsx6bsRIvn7Yw0bX5aj6VWy5veG1SBTBBWZP4BSxA=
+
+Name: reference/views/shared/images/ref-showreferences.PNG
+SHA-256-Digest: TJtXl6ewBDKLCt4KITaVEuzQqlHVUkJBuhL5DZlnccg=
+
+Name: tasks/tasks-deleteJRE.htm
+SHA-256-Digest: on/KVe6vEKUf+BxgvowoT5iLUjj2Hoylkoj2ig6Fi4w=
+
+Name: tips/images/hover-on-method-reference.png
+SHA-256-Digest: JL7qdnVkI4G+M+8/H+1sEunXgn1kYzdaJTb0KbSZx9U=
+
+Name: images/org.eclipse.jdt.ui/obj16/jrtexception_obj.png
+SHA-256-Digest: bnEVgVlChHhSm69WhhQFmFB5sYCLg5PXhRXd0CdWpbE=
+
+Name: reference/ref-wizard-externalize-strings.htm
+SHA-256-Digest: jbCO9PwbeSgbQXk4gzCMtkyFTCtNVCi/1fP8MZ9aVc0=
+
+Name: images/org.eclipse.jdt.ui/elcl16/exclusion_filter_attrib.png
+SHA-256-Digest: hNLEsu+bOE+VrInaBgXxv2bquypxtxXnsfmObaSsgpc=
+
+Name: images/org.eclipse.jdt.junit/obj16/testhier.png
+SHA-256-Digest: iflgdqlMYSqsBqpT6szaRMqYVMQDHepZ8B1tmcyXxnk=
+
+Name: images/org.eclipse.jdt.ui/obj16/enum_obj.png
+SHA-256-Digest: 1fElmGLQMdI+mutrhLBpQzzCjwwHDhopo8fUVql0BRE=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout28.png
+SHA-256-Digest: 8OLcKFg5w1wil0+xGra3aBYhayuBEWLk9k0K3TCNmcg=
+
+Name: images/org.eclipse.jdt.ui/obj16/warning_gray_obj.png
+SHA-256-Digest: GxvsS9OmznnGC3YMMc7cECbTtToEtzOlV05uNk/si90=
+
+Name: images/org.eclipse.debug.ui/ovr16/skip_breakpoint_ov.gif
+SHA-256-Digest: dlpk3ME64x7uxSPVYRC+X/YVL7eYf9QafvhVCv1XqjU=
+
+Name: images/org.eclipse.jdt.ui/combined/focus_module_2x.png
+SHA-256-Digest: wxmJmX1j4ZV98CHF1gq2ab/UnWbasKN5jT1m6ILreXk=
+
+Name: reference/views/console/ref-process_console.htm
+SHA-256-Digest: jk/K7Rk3/l5enoHIzywsy363JmDqdazfYTb7ST6Q4Rs=
+
+Name: reference/views/shared/images/ref-viewdisplaycommands.PNG
+SHA-256-Digest: /3ANaElJumERSS1o4WmjS859uCQmac7yQOUOdZZz7ng=
+
+Name: images/org.eclipse.debug.ui/dlcl16/terminate_rem_co.png
+SHA-256-Digest: SIejZxyUMhUZOQROkJcwIVHzRs4tBeJqGk5UjzdnQc4=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout4.htm
+SHA-256-Digest: 8VXPEYIqnz1+pZTSw6SKVKcOdM1eEVWMALC9tr0Aj6Y=
+
+Name: images/org.eclipse.debug.ui/dlcl16/terminate_co.png
+SHA-256-Digest: 9akuEVO88cvPDBuORHYDXLUPU4VZDgP2SMXeNz0+sAw=
+
+Name: reference/preferences/java/appearance/ref-preferences-member-sor
+ t-order.htm
+SHA-256-Digest: E4NWyjNe7QNwK6jT71lPRWzrZv90ldu3Zm1Qnegz9Gs=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout13.png
+SHA-256-Digest: zm/Bceyk8dztfrwB6AXsj0mw4lof6nm0G1C4NHfL3cs=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout60.png
+SHA-256-Digest: kpMDrKp8xk0P4RuUGAM2xGKMt6RPPXo7+K8rDrmXy9A=
+
+Name: tips/images/warn-privates.png
+SHA-256-Digest: 9RKD4qqMRgLtkGJkB2Dz1IZdWHQeaiON0hWI4BzaRN0=
+
+Name: reference/views/debug/ref-terminaterelaunch.htm
+SHA-256-Digest: jjE8kzSRRKUxfO+cMKsVaybaRfKb26pQq4fIXXlvJp4=
+
+Name: tips/images/project-specific-jre.png
+SHA-256-Digest: dUe0F7BAFjlhDDpTwExrBpLZy9Oby5Z3Pc6BiPV6AP4=
+
+Name: whatsNew/images/method-implementation-codeminings-click.png
+SHA-256-Digest: lFw9w54uavRWsHTOwQi+J6kacj7g3pHSV1cUOFBnixA=
+
+Name: tips/images/warn-deprecation-y2.png
+SHA-256-Digest: WJ827Q8KZIu4aV9Bqot+gedar4hE8Zdmj/zDxmjAPGk=
+
+Name: reference/ref-dialog-java-search.htm
+SHA-256-Digest: vBuk+m/BN0uWYKiKbUOibG9mLyDC+bN7+OyWeGrs4bU=
+
+Name: reference/views/debug/ref-terminateandremove.htm
+SHA-256-Digest: Ir6j2XzMhdX56pU5m7VmhZKUZpVkDmS2C//nBOI6zlw=
+
+Name: reference/views/shared/images/force-return-action.png
+SHA-256-Digest: lpFp2xIMuoXvvtNIdoDWHb6hCUYJsCPGOD39xohkdM0=
+
+Name: gettingStarted/images/select_how.png
+SHA-256-Digest: wIWUREUu0EBZyNQf/Xo1RQo4uI0/2pDafaTv5x/FmOw=
+
+Name: images/org.eclipse.jdt.ui/eview16/jdkcompliance_tab.png
+SHA-256-Digest: bLaTa1zjaqF7v98cvSp0TJoZcny44F8wNAlyshR/B38=
+
+Name: images/org.eclipse.jdt.ui/ovr16/volatile_co.png
+SHA-256-Digest: gXgD/TSkIZ7lPNGYH9DQD2Jnd5Joheszjf8e74OqUZg=
+
+Name: reference/breakpoints/images/ref-breakpoint_condition.PNG
+SHA-256-Digest: LF+aQO+FolbixPlWppg7+ycpge+ilvnpCt2df9/ZUdw=
+
+Name: images/org.eclipse.jdt.ui/obj16/class_obj.png
+SHA-256-Digest: olJ+KWh/pTKjkgc/QKBJA6OsnzOSEybOJRtJT0Q8NHs=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jar_obj.png
+SHA-256-Digest: p0388eAktWh4KrDbiJoD6kzlNJoUSyoYxzzoyRwWOmM=
+
+Name: images/org.eclipse.debug.ui/elcl16/memoryreset_tsk.png
+SHA-256-Digest: jYFXH2YAe7GW/1vQNQrKXoI2t1ut11iNg7i5sYLjDWs=
+
+Name: reference/views/debug/images/ref-editstepfilters.PNG
+SHA-256-Digest: uqqXxF3nXR8S4CD6yQAZF14DK3QlVa+naCjsB69rjwo=
+
+Name: gettingStarted/images/j2se50/suppress-proposed.png
+SHA-256-Digest: H5JpdSk8TZ6XktnL3c3CkytnPnc8fZQD2uvxZ2O3NZQ=
+
+Name: tips/images/build-path-error-decorator.png
+SHA-256-Digest: ps1R1KrsfaMVVuyjVDV2STnL7vUE3eOCW4exwW46bX0=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/all_references.png
+SHA-256-Digest: vrdDSe5+v0BV7viAHsKBgqnN1Nl2LcMnzn11NhgCj54=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_delete_import.png
+SHA-256-Digest: snzauAv0JMp0nBUIqwRLdTGJUDy3xNmcb3uT/VoIujs=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout43.png
+SHA-256-Digest: RkyhjI9RWQbJ6bQniXGunAxV7ajuVn61ExDRYvgQQGs=
+
+Name: tips/images/instanceof-compl-proposals.png
+SHA-256-Digest: 3uHI4rU2XvoIfYStNFWGklPm0c3DPPGO00IVCrhdC0k=
+
+Name: gettingStarted/images/pref_jre.png
+SHA-256-Digest: khhb6yfX4Qacxjl1Pw8fDyWJoaKiyOdD7fo0yUAuVDo=
+
+Name: images/org.eclipse.debug.ui/dlcl16/collapseall.png
+SHA-256-Digest: LaFiQ63N4x2uUvuvgSmo0rUHYb8ZZ7APj4rbm4pecV8=
+
+Name: gettingStarted/images/run_dialog_arguments.png
+SHA-256-Digest: pJZKLX/vJb049YUixlhNa7LELa0sQpJv+vLSZH/YcOM=
+
+Name: gettingStarted/images/view_search_previous.png
+SHA-256-Digest: 9JK6YSz5qqyyuaeK0RzY5ltzr0ao+kvn7NvjeJij4R8=
+
+Name: images/org.eclipse.jdt.junit/obj16/julaunch.png
+SHA-256-Digest: ndvfK7IBPsSP++kfFFsS/qY+4FPC11KLZ6rLBMduvMI=
+
+Name: gettingStarted/qs-12.htm
+SHA-256-Digest: qBbgqiPBG/5Qzfry7uYsBaqMgTekTLXB6iuyAKEBKtQ=
+
+Name: tips/images/trigger-breakpoint-view-ruler.png
+SHA-256-Digest: QaDVKu6rDcsz65n9Cdgw1Q8xpuis06lbN62rnUtaC08=
+
+Name: reference/views/debug/images/ref-opendeclared.PNG
+SHA-256-Digest: NGKJv5uJi/qApr+4qjwRUUQOso1YBqe68wtyY9xLauU=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/caught_ovr.png
+SHA-256-Digest: Xrg5tDQeUQuTxYJwlqXyyZzbSppLpXV25wuIUQWWtO4=
+
+Name: images/org.eclipse.jdt.junit/eview16/junit.png
+SHA-256-Digest: A9Ym82CSh4OZEv7mdH60DgTUImUE6RnmvmnP/SFvL3c=
+
+Name: images/org.eclipse.debug.ui/dlcl16/var_cntnt_prvdr.png
+SHA-256-Digest: 9onqSDEsPOsU/2jlsCHopnOk1iyOVXjHTBqXpLKeL2g=
+
+Name: images/org.eclipse.debug.ui/wizban/edtsrclkup_wiz.png
+SHA-256-Digest: ILY8+ikzRV+wSeG9a4JMUr/rMk4bv8VBGWIknQ2xLlA=
+
+Name: concepts/concept-access-rules-combine-rules.htm
+SHA-256-Digest: Y98Ol4Imjq9LMIM5nt2EB7h2x62Z2mHQlPe/2cnMZTk=
+
+Name: gettingStarted/images/editor_vectortest_testSizeIsThree.png
+SHA-256-Digest: aQi3PIJTSIjarz8f6FqYgBeiwe87J83+64b8ojsk5i8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout58.png
+SHA-256-Digest: 0tbn5FpbLIHYeHhIRcG3NSziA2St6bUatf8za8QGk9E=
+
+Name: gettingStarted/images/java7/pde-api-pref-page.png
+SHA-256-Digest: 4WlWiBVbFOnOuCqicNneBKLqmrdSc25c5DCyT4bolXE=
+
+Name: images/org.eclipse.jdt.debug.ui/wizban/newsbook_wiz.png
+SHA-256-Digest: 58H7JJenanXEyAfnFofpbTnVWIpViwp794f08hiaQNc=
+
+Name: tips/images/javadoc-view.png
+SHA-256-Digest: XI6g7LXRQKmKXrhCg4+4JjR6edFEkpMXAMpEg7RUIEg=
+
+Name: reference/views/breakpoints/ref-import_contextaction.htm
+SHA-256-Digest: uB65FHPnqQjjz3CxmKOcAg7n5UqKvhjTqmtP0yG2Is8=
+
+Name: tasks/tasks-JREs.htm
+SHA-256-Digest: EnOhxhDwFLcvUwc6wO8Fn546dTKFb5sxHStP1OlixNc=
+
+Name: images/org.eclipse.jdt.ui/eview16/packages.png
+SHA-256-Digest: nquBhg449Hl1WC98ER2dRfT3AXSkUwz8y2M+VbGVi5s=
+
+Name: gettingStarted/images/override_implement_dialog.png
+SHA-256-Digest: +JSxcZQ138f7KP3hxlAongIrotAdRZjsemfLAAhhFu0=
+
+Name: reference/views/expressions/ref-edit.htm
+SHA-256-Digest: GUNgzgLLeGnAhgpYKUEzG8FBM1yjcL+ublz9qpMg7SA=
+
+Name: gettingStarted/qs-OpenJavaEditor.htm
+SHA-256-Digest: gI5osJMLC0VLw2E1a27aPXomOTintUmEjR7EKVH6YG8=
+
+Name: reference/menus/run/ref-dll_debug.htm
+SHA-256-Digest: 8xTR/kO52EYFi3SfbPuUd/P7Jp7LAGDrfjdUwRycf9g=
+
+Name: images/org.eclipse.jdt.ui/obj16/logical_package_obj.png
+SHA-256-Digest: bu1gbA5BdY+v41sFKeaO7fgitBXTzdjTCQ/xnJOkyaI=
+
+Name: whatsNew/images/enable-preview.png
+SHA-256-Digest: QX5oyv6TcnfjoTEkn5gGfIC9O96yTXGbWUjP7aPMsoc=
+
+Name: images/org.eclipse.jdt.ui/ovr16/ignore_optional_problems_ovr.png
+SHA-256-Digest: gGg1GfI2sirKxyUjTSfQ9D5017CGO0KPv+pDTDOCqWY=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jrtexception_obj.png
+SHA-256-Digest: +EmV4Aio6tvBhaSXHlmXyApgu4kf69d/jgKkrcUvCCs=
+
+Name: reference/preferences/java/ref-preferences-properties-files-edit
+ or.htm
+SHA-256-Digest: aV+coRItj5ifwdjsDI2d9xqhKfZRdcxeAM+/kss4j9w=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout6a.png
+SHA-256-Digest: 0PMuyIpWk8keh2HqpyUtVLW0g4zybpwHhaVFTispg0Q=
+
+Name: reference/menus/run/images/ref-debug_as.PNG
+SHA-256-Digest: /28gw3OXeLtkpAOPGOoVXF8tna2caJFwoRGTL1ntloE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/add_to_buildpath.png
+SHA-256-Digest: FsOLBOOWYs6+cPHkNIc/AIoLQISKvejtlPdyMn3uTcI=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/thread_view.png
+SHA-256-Digest: jDV9ddud/+W0lPUfDweFoe4H03DI7TYh3ywhY3oJxIE=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_exitcont
+ ext.PNG
+SHA-256-Digest: LzfN6y0rmx4Dcle6H9LUVKDqYgOc7JLjzxMI4WALhTo=
+
+Name: images/org.eclipse.jdt.ui/obj16/search_ref_obj.png
+SHA-256-Digest: S22e3YAt95NekwWEa/CwenqDNo0YPIcP6OxFeJLxe5I=
+
+Name: reference/views/debug/ref-stepover.htm
+SHA-256-Digest: Ed9Tp8ymfA5JjU7Gk2sfZseXG27kITDu9FpJCK3a4CA=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/exc_catch.png
+SHA-256-Digest: /xsF9PnbbMON+Asl1W80SpS6aV/nld9V3hEIJ+lpWs0=
+
+Name: reference/preferences/run-debug/ref-perspectives.htm
+SHA-256-Digest: h9VpC6UK1pnwTm2pFh0zsh9M9BKFbLI6Pg9RxDBKs6k=
+
+Name: concepts/concept-build-classpath.htm
+SHA-256-Digest: 1DUdM6R53qHPlXpwxBybPXXemcfCRkE6bKnX0J0NlIs=
+
+Name: tips/images/code-templates.png
+SHA-256-Digest: z7e8XlQ5KQwHLkgTC/KjkE9tYczxmByJNa/MjbWm4a8=
+
+Name: reference/ref-menu-search.htm
+SHA-256-Digest: Lj2QmtBh2HdhBHE3/nR/MJSoRe7TbQhCfNRUdn8SljQ=
+
+Name: index/indexed_contributions
+SHA-256-Digest: 66v0+4V+Ve/d2hQ2u93gRQDZYB5oBScqYmhZJrbapOk=
+
+Name: tips/images/junitsucc.png
+SHA-256-Digest: oBQYoXIJwF5MZiPhPI5sxqYw6vsXCALLaUFmBhznKBQ=
+
+Name: images/org.eclipse.jdt.ui/elcl16/remove_as_source_folder.gif
+SHA-256-Digest: Hqf1L+nPfLKRJ4ZMpfUBv7NITdf8OGB8MWzIxgUsWR8=
+
+Name: reference/views/breakpoints/ref-enable_contextaction.htm
+SHA-256-Digest: GN5l7TUq4hC8Pik9plQBT2WlZ3Is5j0wcCywBemQOuA=
+
+Name: tasks/tasks-63.htm
+SHA-256-Digest: NKtxGZAZ9cfKml1qW0vSmutnLcy3Qmc+ZfK5HUaEQ8A=
+
+Name: tips/images/code-assist-newmethod.png
+SHA-256-Digest: EpalyDFprgtBXYbPbyDFyd6bs7oKeKrmK2jwj4xEQ4A=
+
+Name: tips/images/code-assist-with-import-result.png
+SHA-256-Digest: iVdaky574eHCLmzakQYQrXtjtHNOsfIKenvwvEmBUlI=
+
+Name: images/org.eclipse.debug.ui/dlcl16/copyviewtoclipboard_tsk.png
+SHA-256-Digest: nsOn7oV81gWhsPu6hIyv/gl2DwQzLRTbVfy3CQFUatw=
+
+Name: reference/menus/run/ref-debug_as.htm
+SHA-256-Digest: n4DlThRAvRxJgpYFvL314hIqg6dA7vVxpy3hMKxK5IM=
+
+Name: reference/views/breakpoints/ref-suspendpolicy_contextaction.htm
+SHA-256-Digest: M2KxJp3VpnnCN5fcudhPcMEUz2yWR4yuPmcfKxzUikI=
+
+Name: gettingStarted/qs-Quickviews.htm
+SHA-256-Digest: QgnnAdAi2opbC6uu8Lv7lIthh/LzqM2HnAWeBfv/TOo=
+
+Name: images/org.eclipse.jdt.ui/obj16/native_lib_path_attrib.png
+SHA-256-Digest: xJnFlnhV67XhYBlptE8pq5lKYJzddb4WQBkCaA/rcwY=
+
+Name: reference/views/debug/images/ref-breadcrumb.png
+SHA-256-Digest: XO0QB31MO/O76EcwChZgaW23Mw25s06zyikBDB77as0=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/prj_obj.png
+SHA-256-Digest: tf6SHEFAC0e/7Y18Y/LHrQovaO+CGKTHhinhdnkDq+w=
+
+Name: images/org.eclipse.jdt.ui/eview16/class_hi.png
+SHA-256-Digest: xFYf5rZ5QjIR5atvWS4T3/76oHXl1M2oda7Hmx12XUI=
+
+Name: reference/views/shared/images/ref-contentassist.PNG
+SHA-256-Digest: pnKu7Qv2vShbJXANi/KC94WkMi2+D/IjCard/Sk7eRc=
+
+Name: images/org.eclipse.debug.ui/elcl16/prev_thread_nav.png
+SHA-256-Digest: lgC3Gy0TCIvlgEa4cFIw8SxbvlO+gTA2FVSem7BQjfY=
+
+Name: gettingStarted/images/qs-DetectingExistingLayout2.png
+SHA-256-Digest: K+IRaqf+AmPK1e4UttIjx2fd9egM7wFzcsTbMMkYRos=
+
+Name: images/org.eclipse.jdt.ui/elcl16/exc_catch.png
+SHA-256-Digest: E1jBUZFbeXq0J/GGp8rNAA2QS7+5JG+80bF1GR92Sdw=
+
+Name: reference/images/contentassist.png
+SHA-256-Digest: 10ieuhXfNPaYf7pdU24fqC+kM2//6rtpPCkyCiGqpO8=
+
+Name: whatsNew/images/ctrlclickimpl.png
+SHA-256-Digest: pOZcutefUgTbyhg/r/kkwUAi9YSZ8swCT+IFAPqlzKU=
+
+Name: reference/breakpoints/ref-access_option.htm
+SHA-256-Digest: V5FeDWOTG9dOnIbT+4reuJw7N5mPv/sNbEgf8GShv3w=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/logical_structure_toggle.pn
+ g
+SHA-256-Digest: ZEDZ5b0pL0mEpb1ONSMBUcC6BLHSrKLK9OjTFesVR9g=
+
+Name: images/org.eclipse.debug.ui/elcl16/skip_brkp.png
+SHA-256-Digest: qLc6nyI6kSO0AngvaD1CPU6hvNeYzvTqV7wsimDH7hQ=
+
+Name: reference/menus/run/ref-run_history.htm
+SHA-256-Digest: dyKfBJwe7r64YyPKcz17DCJ9AXbufhrm8yMFrczenKE=
+
+Name: reference/preferences/java/codestyle/ref-preferences-formatter.h
+ tm
+SHA-256-Digest: 5kk+2dUBmKNP0UEePltXb9+8zX+bpc/OtueM1uHnoe0=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/conditional_ovr.png
+SHA-256-Digest: RSEAXNZNFcW7LlA+b0+ckrP0UuVyFbidKV+pHnfdfHE=
+
+Name: images/org.eclipse.debug.ui/elcl16/import_brkpts.png
+SHA-256-Digest: 2urN98lmnVYK0J4f1x4WzbrNJRTs/QomJ+Td+ZZEP2A=
+
+Name: images/org.eclipse.jdt.ui/etool16/opentype.png
+SHA-256-Digest: cYM+NIDl742k8wHtLV2RV+fP4lfoU+fx45/6W3DPFfM=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/exit_ovr_disabled.png
+SHA-256-Digest: 1PCAk8gOTF3Eo3ax+2igcnf/5RqtZfdK73lDQngDF2s=
+
+Name: images/org.eclipse.jdt.ui/ovr16/constr_ovr.png
+SHA-256-Digest: gdrjmz1rLSJhAGuESrnq+YiUuf8pZis7BIy+cMcPve8=
+
+Name: images/org.eclipse.jdt.junit/elcl16/stop.png
+SHA-256-Digest: lKY/sDYwrOxTmjEJYe9G8BF6tQaD+qZOaDSyJI+IVAM=
+
+Name: reference/views/debug/ref-usestepfilters.htm
+SHA-256-Digest: EgvLs7VsyrcIK0HhJRqMN+YEp5Rq/2QZHeksWmektGQ=
+
+Name: images/org.eclipse.ui.editors/etool16/show_whitespace_chars.gif
+SHA-256-Digest: MarI+QGmv223yDFJKArByh/5TO7hFKarRUlNogPLa0U=
+
+Name: images/org.eclipse.jdt.ui/obj16/jar_src_obj.png
+SHA-256-Digest: vcADjoVEuwgVIr9Hv9+PBdsWLf9b+w345n3TvwiY5jA=
+
+Name: reference/preferences/java/codestyle/ref-preferences-organize-im
+ ports.htm
+SHA-256-Digest: 3VjDBZI9jB46TBwk+HstG5gPVHRNuDP4+O42JpiOE8g=
+
+Name: images/org.eclipse.jdt.ui/etool16/javadoc.png
+SHA-256-Digest: Pq2hxKDKVfTchSE4ysSXa6XUHJ0Mr9iTNgzJurnDbz8=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/stack_trace.png
+SHA-256-Digest: AEs7Zs1n0RJRQ9JdfClHW/IfyINLZO6LJvBkuZjQDcY=
+
+Name: reference/views/shared/images/ref-findreplace_dialog.PNG
+SHA-256-Digest: m/JK/obn0/cdQ4QCvQGKFMDUnmurW2nn52wN2XlOzR8=
+
+Name: gettingStarted/images/j2se50/quick-fix.png
+SHA-256-Digest: gbpGKzjpL+XqzuL8TFAod/iO2HrBSNOxxtsJUGU5AjI=
+
+Name: reference/breakpoints/images/ref-breakpoint_triggerpoint_overlay
+ .PNG
+SHA-256-Digest: PcVNnUcP8CmWwDJ+3UM6GKi5zcc/ESV2KZrLCRqlqy8=
+
+Name: images/org.eclipse.jdt.ui/eview16/browse_persp.png
+SHA-256-Digest: UuVD2g7ItZRgnkmXr733AjCyeudh+NF8Yc32a42bmIA=
+
+Name: gettingStarted/images/java7/redundant-specification-of-type-argu
+ ments.png
+SHA-256-Digest: LVTuFyS/hMY7N+VqGMrRHB/nGpKc/yCOo55YuCngKs8=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/warning_obj.png
+SHA-256-Digest: NQfGoxGMcqm0mdKwDniAxkOw1tDbt97Ro/2WY7djpYQ=
+
+Name: reference/menus/run/images/ref-debug_dialog.PNG
+SHA-256-Digest: RTV3rHUleCxYp5vbiiUB5mtktel7IrYt65oK+tWbakI=
+
+Name: images/org.eclipse.ltk.ui.refactoring/elcl16/prj_mode.png
+SHA-256-Digest: qisefapR56xxy+7381KUsmbKkb11bVwba95hZtVc2w4=
+
+Name: gettingStarted/images/pref_buildpath.png
+SHA-256-Digest: +SP5qg/jE13p/uHGu21UQ7IjkagMxahieryeBTCNTk0=
+
+Name: whatsNew/images/quickfix-default-switch-expression.png
+SHA-256-Digest: NMNQdP+1Ag7SDkgkaFOi5evYna0rkDEoqfB+s4wC5Yc=
+
+Name: images/org.eclipse.jdt.junit/obj16/tsuitefail.png
+SHA-256-Digest: 6MpsEFWl1a5+f/XfpY7dw1eaNwQRZ5YM4SC2Nz2T2Y8=
+
+Name: images/org.eclipse.jdt.ui/obj16/impc_obj.png
+SHA-256-Digest: WqpJ95xTwJHa3UPWZ5+UudwxpHpZJTMtwdUJ2ksrOr4=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout30.png
+SHA-256-Digest: Hh2nvyUexy36p5Y9q2KTl9vDbkoyEv/n0sLakoQePNA=
+
+Name: images/org.eclipse.jdt.ui/etool16/newint_wiz.png
+SHA-256-Digest: ODkfxVvuII0Ofjhrt9ReAXnS0BE/lBFxsFImtI6Thwg=
+
+Name: reference/views/expressions/images/ref-enable.PNG
+SHA-256-Digest: xTaa9reIzMkIAJnKAaoOYVM2yDNBMi3/+lyy4THmxAQ=
+
+Name: images/org.eclipse.jdt.ui/elcl16/ch_callees.png
+SHA-256-Digest: oVK2aToCvVHCK9y7CKVK5/NQO+0sNGD7qUPYaUIWlyo=
+
+Name: tasks/images/task-null-annotations-qf-bundle.png
+SHA-256-Digest: e9204jTvEXhJd+EKJ68Jb8LUzvUBMRnH/9YeZvohTvU=
+
+Name: tasks/task-inspecting.htm
+SHA-256-Digest: x+F11fGMPNF4izsntGApjd3o3MBxjBhDRBi+fC9OLMg=
+
+Name: images/org.eclipse.jdt.ui/obj16/enum_default_obj.png
+SHA-256-Digest: 5PwKT4wyr3IExzHF9wiowtF0QfuE7Y7m6Y5f0YE8Bac=
+
+Name: images/org.eclipse.jdt.ui/obj16/error_obj.png
+SHA-256-Digest: NfFEbvmiGPHKG5gSD5kxQ+LFOLTQR1lMkGRofaxXJaI=
+
+Name: gettingStarted/images/j2se50/view_search_listInteger_unfiltered.
+ png
+SHA-256-Digest: cwqiP6V2nYe9jRMv6aRebWKMo2R9oYcUjHB7sSzx+ow=
+
+Name: images/org.eclipse.jdt.ui/etool16/exportapp_wiz.png
+SHA-256-Digest: Cx36kpRb64twI2KkMYn9e4UnaSjM869QE94Ua9lZJ1A=
+
+Name: tasks/task-scrapbook_error_reporting.htm
+SHA-256-Digest: ha/YlgXup0kzVsPe9w1BomGK5ydQNopHwJPrrBK5DYc=
+
+Name: tips/images/quickfix-create-for-loop-array.txt
+SHA-256-Digest: bZB6UdhXv/byKg/FmkjMSNvSPGYz4fh6nBNtJAUywsY=
+
+Name: reference/views/ref-type-hierarchy.htm
+SHA-256-Digest: Qm8pyi05oNL4MO6LsaiFiQF37e+L1zk3qDRhdcapbRQ=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout6.htm
+SHA-256-Digest: 2qG8XijksWIqS84k8pwD1WI1AmYC6IHNONhc2j1FgTM=
+
+Name: reference/preferences/java/editor/ref-preferences-edit-template-
+ dialog.htm
+SHA-256-Digest: EojFE+7yRBQU88WQC3PHtbccgTcqHN066T6KkSSqsfc=
+
+Name: gettingStarted/images/editor_testcase_search_references.png
+SHA-256-Digest: S2A8h3EmnSvIgIgv5HhM6av9xH9ozw3ot4muC+k533U=
+
+Name: images/org.eclipse.jdt.junit/obj16/testerr.png
+SHA-256-Digest: Dgcln1Jm5NqweSb2asIjMHcSYbGoD4GM9UuEvNr8o8Q=
+
+Name: images/org.eclipse.jdt.ui/elcl16/add_linked_source_to_buildpath.
+ png
+SHA-256-Digest: 4mnR6hI8XpLTqF1Bjsv78e2BmfP/YYgx1S3vps8KBTA=
+
+Name: tasks/images/tasks_201a.png
+SHA-256-Digest: VQWMbdou764x/NA/iMtOFeip0gc+6rHuTCQfcPpnElY=
+
+Name: gettingStarted/images/extract_method_dialog.png
+SHA-256-Digest: mfo+oBbL2q98R9fn2hF9A9tfLc6KgmgDja4FLSKRA1c=
+
+Name: gettingStarted/images/pref_compiler.png
+SHA-256-Digest: kJKz4N/slyOrHhUbRLBjivP22a8HpWNb//l7pVgLFTY=
+
+Name: tips/images/working-set-selection.png
+SHA-256-Digest: 11XwT7AOPmsmbhOkIiauvbjSucSdSzhPCcwiXszbszs=
+
+Name: images/org.eclipse.debug.ui/elcl16/writeout_co.png
+SHA-256-Digest: 5GnGBo4nP98yZvI5aEJDlzP0xHTSAoe5hoEDBH3NJxk=
+
+Name: reference/views/debug/images/ref-sourcelookupdialog.PNG
+SHA-256-Digest: UvnBdAOIkPYPpmiti9ehY4g37nMIOj/nIyFvJvfdYpI=
+
+Name: images/org.eclipse.ui.editors/etool16/next_nav.png
+SHA-256-Digest: qgq83vDQUoMsdwYH6A1nrWmkCe9WwKv6b6cqCc7mB/U=
+
+Name: images/org.eclipse.debug.ui/etool16/debug_exc.png
+SHA-256-Digest: QXPEHW9UCC4zOSRccCAoFVly6jNID4RVmsV+O6MVud8=
+
+Name: reference/views/debug/ref-droptoframe.htm
+SHA-256-Digest: 5AwjPcREjYogjvAqLPlPi9ZFfXGSFmVpj4hKnLcOXf0=
+
+Name: images/org.eclipse.debug.ui/dlcl16/removememory_tsk.png
+SHA-256-Digest: LwrJbrQTtOVUnnFT+4nINeUX/tZzmIkhypzWAO6es9U=
+
+Name: reference/views/console/images/ref-console_view.PNG
+SHA-256-Digest: rJyG3x0YQoTMVYKxkqv3x1HhsBnp0jpng/TbigD6m6k=
+
+Name: images/org.eclipse.ui.console/elcl16/pin.png
+SHA-256-Digest: 9Q9U/xV1i49WTS75isFNCdUafjAWi3cdT+x/10kgb5Q=
+
+Name: gettingStarted/qs-AddMethod.htm
+SHA-256-Digest: ppeq+CbajMt8dM5M1PCjV7NOHEZgVHZd2WckplGXy0o=
+
+Name: whatsNew/jdt_whatsnew.html
+SHA-256-Digest: ftQ19J0K//VOjcOqYy+CjaifITkt9X+uWD5XShBJGh0=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/warning_co.png
+SHA-256-Digest: 9oEaRsJ5AHE7VT62tBcz6ObTNAw/Ywc8GSQI5pgSv2g=
+
+Name: reference/ref-dialog-tostring.htm
+SHA-256-Digest: 2F4isoA47Zjz4JwQRflCjo9Gh2eajIjf+1rg0GAv1Jk=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_properti
+ es.PNG
+SHA-256-Digest: ruF45h0z7ki7u5Nt2yU+jI5MRIdQhkuw7D2prmxUBOU=
+
+Name: tips/images/toggle-trace-point-conditional-breakpoint.png
+SHA-256-Digest: SQIZrcFPefwzHw2LXXXbNLf8w7KtXVwGKGxmAAA6wrs=
+
+Name: reference/views/shared/images/ref-changestringvalue.PNG
+SHA-256-Digest: pMboZeuBnbx+M6daqOSIHQ9kQ0kVIVwLVvLKME9yEBY=
+
+Name: images/org.eclipse.debug.ui/wizban/debug_wiz.png
+SHA-256-Digest: emdBRyS4rne7f7bq0chqZOXpW+lFDjsSnHS/q+OfaSs=
+
+Name: tasks/task-memory-preference.htm
+SHA-256-Digest: 2lT29A5B64CUYT7Mr6zszm3ap3w4aBx84qqazb8dz6s=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/installed_ovr.png
+SHA-256-Digest: qQQCGY4kXdTXsC+MYa4yeT3s0aotu6q+AKAevVVRYtk=
+
+Name: gettingStarted/images/rename_cu_preview_dialog.png
+SHA-256-Digest: rTjkM7+36rfmKX0Vdi4s+3zwGGiuNBtvBO8JkWPpaHw=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/refactorings_obj.png
+SHA-256-Digest: ZCdQ3+SeQ/sS0lT5AKW6C70DBM2AydSGv54SSCoLpVU=
+
+Name: reference/preferences/java/compiler/ref-preferences-task-tags.ht
+ m
+SHA-256-Digest: F1rHBBO3+IXQKF7K0GfLNEfuy1vHH7tbpnr5RnQXAAg=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout45.png
+SHA-256-Digest: BBf+f64ovnV3dPQwVSFRiG4n9uhXg3zDpqnZSPil7b4=
+
+Name: concepts/concept-template-variables.htm
+SHA-256-Digest: MBEyHgrzsL3+3sfTX1OhqY4V0o/XrTgMh8UYQdeGaFE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/add_as_source_folder.png
+SHA-256-Digest: GkM0FO+1pTFRl+4n7gxVqli85yxqpPgtMUtpsGf97Ck=
+
+Name: reference/wizards/ref-import_breakpoints.htm
+SHA-256-Digest: 87l+2bMMiSZwXR0CUwlAw3B8pAOWGuFZvY8JfC2ll2U=
+
+Name: tips/images/quickfix-create-for-loop-array.png
+SHA-256-Digest: xr8XVhV6FJI0Rm29NoRVWK1rBfvwJy6WN31MJpdUeAQ=
+
+Name: whatsNew/images/quickfix-default-switch-statement.png
+SHA-256-Digest: B9WNXPv0TLEV7XaphYwr4qZnVTIopqSMBe1UVcP82Ak=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout6c.png
+SHA-256-Digest: Wto8Prl6UsZDWh5wzWITnvcQu7hqO6d9xYbOu1fWVy8=
+
+Name: tips/images/convert-to-lambda-2.png
+SHA-256-Digest: JiGK9ToMQAYBWZ+2JZ8OaxVdga0fPw/ap79uNrcvWjo=
+
+Name: gettingStarted/images/search.png
+SHA-256-Digest: 5N0Iz11YVLPwkUehPP5Tvac224VDNOAvQ/xPFyKBAg0=
+
+Name: reference/views/console/ref-show_out_action.htm
+SHA-256-Digest: ff4Zpjs9eLDm+BWjLTo/8NVvJ8IRthZljKPvMI4/New=
+
+Name: gettingStarted/images/j2se50/unused-warning.png
+SHA-256-Digest: O1SDg1kjw2V4SODZm4T4MnZqYrj+hzj3vbqZKQ+X6Fc=
+
+Name: images/org.eclipse.jdt.junit/obj16/failures.png
+SHA-256-Digest: sl1EfXiSZB+UU3hKUEDSY6+GeAkZX8K1EnseU5O9v5U=
+
+Name: gettingStarted/qs-BasicTutorial.htm
+SHA-256-Digest: 7Mp9HuS9Mr6FNusMT5Mj22bvJiuRHDDX45vhGFSKgaA=
+
+Name: images/org.eclipse.ui.console/elcl16/rem_co.png
+SHA-256-Digest: pCb9FaifEb0U5EjryB9ozCOsavnkePiwI8F0d2wKoMM=
+
+Name: gettingStarted/images/editor_vectortest_for_template.png
+SHA-256-Digest: PItcfccoGQU8NHBP3Wf+yRTlF7DaZn1aeZ5fH/KwWuc=
+
+Name: tips/images/jdt_library_entries_sorted.png
+SHA-256-Digest: nr26XZCl+98kLubOADcgidut5ZcTGpqPfzze5JhG7wE=
+
+Name: reference/views/shared/images/ref-displayresult.PNG
+SHA-256-Digest: qtKUvFbYX51JeAxDbkaWZQkDWKztkPVV7orOXgZXwrE=
+
+Name: reference/views/debug/ref-opendeclaredhier.htm
+SHA-256-Digest: P2rHrOeNYdPFMMXG2uvQVRR3RCMqriym08KATUvol/Q=
+
+Name: images/org.eclipse.jdt.ui/ovr16/default_co.png
+SHA-256-Digest: /dfvCQJQldcIOl0lXcuxhZG1SW8P124g5etdWV7KKjw=
+
+Name: images/org.eclipse.debug.ui/eview16/breakpoint_view.png
+SHA-256-Digest: N177X6tjzMY2OTIEuIdq2yDM5U9H9MrkbM8XOKMmCKI=
+
+Name: reference/views/debug/ref-suspend.htm
+SHA-256-Digest: hKVvGKKK3PLfis/Uh3Pr37UJGvfw0hVDmfBPd6CNMmo=
+
+Name: gettingStarted/qs-8.htm
+SHA-256-Digest: LSRL6XzuUAJDtQ+BxsvKfvP3r8kL2W+L33naeCp/K8E=
+
+Name: reference/views/breakpoints/ref-addexception_viewaction.htm
+SHA-256-Digest: 2wynV1L7dL20cBsh1rrqZ3OIc7mhnybwpbhJrItyizI=
+
+Name: reference/preferences/java/ref-preferences-appearance.htm
+SHA-256-Digest: 36tM82RU4V07tTmEeKR4h2FKzaG3kSdbEEmt6VYsteY=
+
+Name: reference/ref-java-editor-quickassist.htm
+SHA-256-Digest: Gl4nFxabqgYAlCMKRBs0U4I73cookzi/RscxqcrUDCs=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_menu.png
+SHA-256-Digest: cu7vMYO+2dKgbvPc/epQX4LcIAd1fWW8KHx6lCoGgGQ=
+
+Name: reference/preferences/java/debug/ref-detail_formatters.htm
+SHA-256-Digest: gvUcp7/VXoH6A2RV1ls/DMfz75ltQtyhVA7loUhmJ7w=
+
+Name: images/org.eclipse.jdt.ui/ovr16/over_co.png
+SHA-256-Digest: K35Yi45Ke1UxUA/xixMOu3RrcgxXKnaPuXoVpk4o6S8=
+
+Name: tasks/tasks-76.htm
+SHA-256-Digest: qzq298Lo2dYX02HY0HUrQsyjCreT9ftqCNHoD0VUI2Y=
+
+Name: tasks/tasks-33.htm
+SHA-256-Digest: kHXsg23dDSSEkA7MMGxhgv6BdYptJ/++aFv1LHiJ18E=
+
+Name: gettingStarted/images/open_run_dialog.png
+SHA-256-Digest: Fr1tph2N53PNHLGvkoRG+SZBm1cePMB0PKlwRgPP62Y=
+
+Name: tips/images/cleanupprofiles.png
+SHA-256-Digest: CsIaweQNn6/svld6UanGmKkysl4NAPRFfBi1IRlxdBE=
+
+Name: reference/images/quickfix-hover.png
+SHA-256-Digest: GPK7J45cwG2qG16nFVSVBLBSsTabXqdJhHl/rjt+ImQ=
+
+Name: reference/views/breakpoints/ref-access_contextaction.htm
+SHA-256-Digest: sa1ZDYjiTxHYyZNGeLovRz0OiJEuI5c7cH/Oo9efAv4=
+
+Name: tips/images/quickfix-addcast3.png
+SHA-256-Digest: bfzX2aljo5g1SwJEcTNsW5HfPnXx+1jgp2ln4vcYygg=
+
+Name: tips/images/type-indicator.png
+SHA-256-Digest: 9x7AvCKG+6dYWywOEHQv5J9VP1vgIFdHXob2Ivtj44U=
+
+Name: gettingStarted/images/add_linked_source_to_buildpath.png
+SHA-256-Digest: SuCSl8sKJb2RbgCeoSAlILWMsXHJcbzJdYr+LiRQCO0=
+
+Name: tips/images/compress-packages1.png
+SHA-256-Digest: 2dzbgL4r3TIOgEzp8l0/vi/IQ8kIckfv0siWRMjulak=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout5a.png
+SHA-256-Digest: IsyBq2oLdu99SXcnVMAr9qv+vjf8aqJPO3FfmaQA7qc=
+
+Name: images/org.eclipse.jdt.ui/eview16/source.png
+SHA-256-Digest: HpDhYW5mc01eSrrwrXfuHJQwrSNErHCLH6bPg8aZt3E=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/java_applet.png
+SHA-256-Digest: OVvdKf3M+luQNSC0EKixKS7RZ9oNy9HNsfu5RIaJ7Bs=
+
+Name: images/org.eclipse.debug.ui/obj16/readwrite_obj.png
+SHA-256-Digest: eVihRs+xfcbdbJk3W+Br9K54g4MTvPgn3phESYvTbfA=
+
+Name: tips/images/editor-code-hover.png
+SHA-256-Digest: uX+tvNzZMnbrfIqyrpAfUVlYatvIipvJobgdgKpS9xA=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/error_obj.png
+SHA-256-Digest: O9bep80/MOAu55JTaQhcPgOYgcrRrwRTkX80hcxR68A=
+
+Name: reference/ref-launchconfiguration-commontab.htm
+SHA-256-Digest: 8VOTmrgZK2va4tvvy1JI/rMDhIeIAWMnVdvL8IYhFpc=
+
+Name: reference/views/shared/images/ref-changeprimitivevalue.PNG
+SHA-256-Digest: exdjZnXrbpEqqz2kEg4YfFfqJUTIzCH6/IoIwsFksKs=
+
+Name: tips/images/code-assist-javadoc2.png
+SHA-256-Digest: H0ek29Zd/mgevQw5vkdsoGM2mqZpkrHXt21O5YVTOQQ=
+
+Name: reference/breakpoints/ref-triggerpoint_option.htm
+SHA-256-Digest: AItKLhy2aDRlzhmmkxw9aNWi97KO7Xr0LgBR1TG2aCU=
+
+Name: images/org.eclipse.debug.ui/dlcl16/memoryreset_tsk.png
+SHA-256-Digest: otNHAAW4fCSVTIWxVkejXvf+MLPbg4aouS+K8t9Ad4E=
+
+Name: reference/views/console/ref-pin_action.htm
+SHA-256-Digest: xCxldGB3AZsiQig4jlkA+NUlKf1gmcoetWyrxq+qKBc=
+
+Name: concepts/concept-access-rules.htm
+SHA-256-Digest: wdBYXlQoHi1x4liqEPIFQCZsytf3h7W4d7qJBoWOYW8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout63.png
+SHA-256-Digest: BjJNhLylTkb+sycaq7gW6MOZY/IeIRgJeOLM9mqckcE=
+
+Name: tips/images/name-conventions.png
+SHA-256-Digest: B5wuvLCDi+HuXhxhRqAOR+bBIEST1Vve3KBpfQFXDy8=
+
+Name: contexts_JDT_Debugger.xml
+SHA-256-Digest: ssfAnJnu84uARuf7XAzwehjw+2i7hstU20u9130V+wQ=
+
+Name: gettingStarted/images/wiz_import_arch.png
+SHA-256-Digest: Rgtkftq/4NCFZMek0Ur5b2FHiDOObPJVnxwU0QTs3q0=
+
+Name: images/org.eclipse.debug.ui/elcl16/suspend_co.png
+SHA-256-Digest: MyPGs18nbgjTKozikzwnV+IcaXfA5stVJgXwdPNFOls=
+
+Name: reference/views/breakpoints/ref-expandall_viewaction.htm
+SHA-256-Digest: +Px7L/8zhgTr1gCOTzX+Ti/hINGo1K8eyz7Wn+hoRik=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/variable-view-columns.png
+SHA-256-Digest: ZpwDyZp18vL8vtfuAb4EZ7kF9OxOMwwGvhWI/DepZck=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_uncaught
+ context.PNG
+SHA-256-Digest: ShJMcNkKOavBMHIN/cmMTOBPFkFY5c3ufumQTW8fg80=
+
+Name: images/org.eclipse.jdt.ui/elcl16/protected_co.png
+SHA-256-Digest: UYF0WMMSVxwJdetQEdcdvPvIRxWoJbJ+z1A2Djn8Gfo=
+
+Name: gettingStarted/qs-10.htm
+SHA-256-Digest: 64HGfDsoQnY/QpZI+FnbBwVb8CF3I7Hx7iV8C+Y77bs=
+
+Name: reference/breakpoints/images/ref-breakpoint_hitcount.PNG
+SHA-256-Digest: bA1EV0VVzWH0Gh0XVOspetYWzxTzDSq9VCMA5zCvDMs=
+
+Name: reference/views/breakpoints/ref-disable_contextaction.htm
+SHA-256-Digest: 2bB5vU3WFsp6HTBPy68gAa7BWhp2Xc9SfJQLo9j25T0=
+
+Name: gettingStarted/images/search_runTest_dialog.png
+SHA-256-Digest: Fx3tFgK7IeSgqSxDzpCKAHYo9/kUlGSefLyOaYb0dDo=
+
+Name: whatsNew/images/module-info-comment-generation-check-box.png
+SHA-256-Digest: 6ERkDySGjYiorY/xZ4hn7aNIcFo710tJUYSvfGve8pU=
+
+Name: gettingStarted/images/java7/content-assist-diamond-1.png
+SHA-256-Digest: vFP0gM+joKUGCMuXS9YnzmUesXENxM48/RQww+GN0mI=
+
+Name: images/org.eclipse.debug.ui/obj16/stckframe_running_obj.png
+SHA-256-Digest: BWi8CV43QyLaYP432i4L7AplY6Dd1uJ+yIHgcTyZlkQ=
+
+Name: gettingStarted/images/quickoutline_menu.png
+SHA-256-Digest: Ml9dn2jh/9ZTaxhV0CPIcidwxJOjmGKk163IGcnehtM=
+
+Name: reference/preferences/java/ref-preferences-build-path.htm
+SHA-256-Digest: sF3eZRije+HN1Lw8CbuJdYaiInakJB1p2VbbaXD6V60=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/deadlock_view.png
+SHA-256-Digest: 9TxbEkgL5GhEnln4u3wioQJyFIQtvUY6bMkmlP6HyQs=
+
+Name: images/org.eclipse.jdt.junit/etool16/new_testcase.png
+SHA-256-Digest: mPr7Y3PIGgO8hFEB3Nnqhww182OZ3hb2uEJvV8ec5Qc=
+
+Name: images/org.eclipse.jdt.ui/elcl16/configure_build_path.png
+SHA-256-Digest: MOF1vsbHYKYDWjSvG5S8t7ciF5snwFDoWyE8DXJyf18=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jline_obj.png
+SHA-256-Digest: RHAYTSSs0GyXKgwoMoBNO+NPMTITrudfAqXJhi9k58k=
+
+Name: images/org.eclipse.jdt.ui/elcl16/wordassist_co.png
+SHA-256-Digest: V9qtCOxtjU9MLWyRH28XxRZ1qGo/VHvWt0Tb8scSA7s=
+
+Name: images/org.eclipse.jdt.ui/elcl16/th_vertical.png
+SHA-256-Digest: VqMRm2GC5hzsPiKEqqMkodrV2UX+cDPrFqfxPUw+SB8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/templateprop_co.png
+SHA-256-Digest: VxTaO/P+BJWn/VqBOPEGobksq/kB73105MOWeRBFAzQ=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout56.png
+SHA-256-Digest: DEGfw8QNPwb/0OhPEKsSGlU/xFqfX6SpaL+xUueeOW4=
+
+Name: reference/preferences/java/debug/ref-execution_environments.htm
+SHA-256-Digest: mF+5PiHzE5Z6zvtbgvD8l6QtLJS5TNa4PKEXoJ2Aask=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff2.png
+SHA-256-Digest: qqmofu95Rq5RAIIRZELc0bgMe9AqgjVaOp/K7ivT5Fk=
+
+Name: images/org.eclipse.jdt.ui/elcl16/remove_as_source_folder.png
+SHA-256-Digest: 8pA6CIRlZ6lximSSp1319e40gFeuzWk5k8LX3lJPLkc=
+
+Name: reference/ref-dialog-java-element-filters.htm
+SHA-256-Digest: 1cixSwem4QuzVGhQviUSGtFqeQ4O2KG/y/MVYescDi8=
+
+Name: tasks/tasks-34.htm
+SHA-256-Digest: peWBbYSOc1uYbH6JMWpylL2MlN5kpal6ugTHXCkneCE=
+
+Name: images/org.eclipse.jdt.ui/obj16/template_obj.png
+SHA-256-Digest: DLt7ujmZCGsB+jblgbsHFVim7tGx4WqLt+cc83A43/U=
+
+Name: images/org.eclipse.jdt.ui/elcl16/prj_mode.png
+SHA-256-Digest: cFi35zAt2b8XgZJOdatHhJ48fZGkpjECJuVOhiAnSbY=
+
+Name: gettingStarted/images/j2se50/view_search_listInteger_incompatibl
+ e.png
+SHA-256-Digest: cq6xkeOSVPve6Dq55KyFK1mE3vmZ9Oe/Zyj8kvKqe0Q=
+
+Name: gettingStarted/images/java7/remove-safevarargs-1.png
+SHA-256-Digest: cblBUnBs0H7NrmOtnERhPH3XxAIAgClJ3YOfjumsGqM=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_subtype.png
+SHA-256-Digest: qkJ5yC2IAhm2Whva6GcgG4sSzTammrUbr2hGDLb9E3U=
+
+Name: images/org.eclipse.jdt.junit/eview16/juniterr.png
+SHA-256-Digest: k8XA8Ff4buemd1lgelPuOh4Qmk4cT+D6FruCjdAE2zA=
+
+Name: gettingStarted/images/view_outline_search_references.png
+SHA-256-Digest: GQtij8FtNRCJmCN4XrT1EVFuffU0vSE30ER16mhR4To=
+
+Name: tips/images/code-assist-add-constructor.png
+SHA-256-Digest: GJCFGmfiYKH2d2UZRGf23V6gtgn7xrZsHEakaOvadLg=
+
+Name: reference/preferences/java/editor/ref-preferences-typing.htm
+SHA-256-Digest: e7nbZZvMGo6uMm9b6mPjPQU3kdSZzIT+rgwfD/oJsVE=
+
+Name: tasks/task-add_new_jre.htm
+SHA-256-Digest: MWpgitdZYG1eAByHuDRwLKymCgvdwP02B7UI6hZOtIM=
+
+Name: tasks/task-catching_exceptions.htm
+SHA-256-Digest: 0bJRohKQP/tQAWjxW1KoUtj15pfbbJ0PwJyTcDReU54=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_linked_rename.png
+SHA-256-Digest: 3V6OIPtqYT8tIfxsXG/rWj/vk9pU2ihNt90zqw+7gQE=
+
+Name: tasks/images/task-memory-det-pane.gif
+SHA-256-Digest: Nb5RBaJ+9fNCukAZMR82N5tsaIUUzmCB/UjjfKTuNdI=
+
+Name: whatsNew/images/package-info-comment-generation-checkbox.png
+SHA-256-Digest: 9XlgqvhtnV+CzvatLdh3Wahl8y3JgL82qdwLPCncxbY=
+
+Name: reference/breakpoints/images/ref-breakpoint_caught.PNG
+SHA-256-Digest: zdLvc1dzVdxk3IM4+xzzu0TwonFuLoGJ9xEYwRkmFhg=
+
+Name: images/org.eclipse.debug.ui/elcl16/edtsrclkup_co.png
+SHA-256-Digest: 4WcvRsnpDvKhb2WZwUIRuBhtF+8OuQHb6gzS3vWxMwY=
+
+Name: tasks/images/tasks-46.png
+SHA-256-Digest: q5ZvQqJ4dYWe3TXiKbNE3LUoPb+LAZL5am6cEZ5hr7E=
+
+Name: gettingStarted/images/packagefolder_obj.png
+SHA-256-Digest: n2MDxE4usMkX+ocH4jInGJ1w2TMSBrplrQP+Md6Zpos=
+
+Name: reference/ref-wizard-java-project.htm
+SHA-256-Digest: RheyZIxCMkpB79AjZYpH6VmefSX0MkfZ3UpDcgjUy4I=
+
+Name: images/org.eclipse.debug.ui/eview16/details_view.png
+SHA-256-Digest: IFC2GMTjeMk6qwXBuWbx9SS/M0zRirxvJ06Fs1KKn14=
+
+Name: images/org.eclipse.debug.ui/dlcl16/resume_co.png
+SHA-256-Digest: n6SSOM1WhDs40dMzD/weP94lCjw1R0c1lnTA9WKaQGM=
+
+Name: reference/views/breakpoints/ref-exit_contextaction.htm
+SHA-256-Digest: br5SDSGpCRFTrzchwcVKpVhLAx2YbUCNde6Bov6Z1ig=
+
+Name: reference/preferences/java/ref-preferences-editor.htm
+SHA-256-Digest: qtbAj8nDIapX8vFq1VBFDLGh3Z5x2mNJRBKSY7EBMK0=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/text_edit.png
+SHA-256-Digest: sc1ep01U8qiG/UCZtcUNMs+GRJ1HIyYOp3SaxbdOfp0=
+
+Name: images/org.eclipse.debug.ui/dlcl16/stepreturn_co.png
+SHA-256-Digest: 2oPGsiesT0MhqUvYffj578VEa3kc25T8zVedzaH7OGI=
+
+Name: index/_1_Lucene50_0.pos
+SHA-256-Digest: 0OHzVsd0KFJu2WvAiLTNC/FmyT1KaXvv4IZrEVHS8O8=
+
+Name: images/org.eclipse.debug.ui/elcl16/det_pane_hide.png
+SHA-256-Digest: eqzPzindnvti3QlAXM2TfTSmv5A6oIlrBbCOJnyKOmk=
+
+Name: gettingStarted/images/pref_workspace.png
+SHA-256-Digest: Cc6Y1o/2YgumXgFYjC5pdJoU4TN7jVRuwrMjS+CnYxw=
+
+Name: images/org.eclipse.debug.ui/eview16/watchlist_view.png
+SHA-256-Digest: i1/gpAoxmbzn6F/C2UbAK74Rc+ArgGgvEueVHGsSZaw=
+
+Name: images/org.eclipse.jdt.ui/obj16/cf_obj.png
+SHA-256-Digest: 5hI3SXprwS0I82GSyl4kt530qWWHdaHlONgumj2fBGM=
+
+Name: images/org.eclipse.jdt.ui/etool16/toggle_breadcrumb.gif
+SHA-256-Digest: sPDEutZ+7OZlOJKuAH9AlIi2jmLtgErsSE0YbQ3tQiQ=
+
+Name: reference/ref-export-runnable-jar.htm
+SHA-256-Digest: 61k/rBMG08TfLMstOan7GOGEy0XV4VbRD2GtpVRfheo=
+
+Name: gettingStarted/images/j2se50/foreach-proposal.png
+SHA-256-Digest: od6Iz/nJyKR+uIJ7QsQBu6E8pAIL3dzubiVve7QYOrw=
+
+Name: whatsNew/images/method-implementation-codeminings.png
+SHA-256-Digest: Dyrtp5DG8wxNAU22UITGlf97xW8a3Yx6F4sGd0LRzOE=
+
+Name: reference/ref-refactoring-extract-method.htm
+SHA-256-Digest: JonroDJpoNaaXZAQapnxXzg793LhAY63dCQvt6TTXU0=
+
+Name: images/org.eclipse.jdt.ui/elcl16/category_menu.png
+SHA-256-Digest: InCChLnE2w4MA2ky/hRW6/gk+iWtsTHAZ1lJxI7Ftpc=
+
+Name: reference/ref-wizard-annotation.htm
+SHA-256-Digest: N15FWiCG6SQeonAWVPbpqwD5/DEsGd7vnkhCBdLKB0s=
+
+Name: tasks/images/tasks-exception-filtering-add.PNG
+SHA-256-Digest: eBp4RYZrfL25C5rYWb6FyOp8tz3yS1eXr3NATZmEtmU=
+
+Name: images/org.eclipse.jdt.ui/elcl16/th_single.png
+SHA-256-Digest: +XpABGNxkuviKBrK+ev9lhSUk23jnttfCRRAnUJ9QYE=
+
+Name: images/org.eclipse.jdt.ui/obj16/java_model_obj.png
+SHA-256-Digest: 4pUMtrfGg/TSK0XRu+1cO6v5xzi7FneCQyCjTNJp8Ho=
+
+Name: gettingStarted/images/editor_vectortest_outline_main.png
+SHA-256-Digest: F+xq7PXQbeHnLHvKT6u75IfgPhccyRQlYl3PIjW5xkc=
+
+Name: images/org.eclipse.jdt.junit/etool16/debugjunit.png
+SHA-256-Digest: 5Fgciq2PwcAKR/QMP+bMXRg8GMwsTAK/74zy6a74dvM=
+
+Name: reference/views/breakpoints/ref-linkwith_viewaction.htm
+SHA-256-Digest: k8qMwSylIZW7vReKy2VVrg62iGGaeOJcKdjnqkscD4A=
+
+Name: reference/views/shared/ref-inspectvariable.htm
+SHA-256-Digest: Yz9oszvdUKDxrbBWn6aOy2yhFnpHzgRFt/2DSkAHVIw=
+
+Name: images/org.eclipse.debug.ui/dlcl16/rem_co.png
+SHA-256-Digest: ZVlgIpL4IgktUkTPIlQsVx0kkTh0+rNf0Qiev0Brvs4=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout47.png
+SHA-256-Digest: GXJKFKkDrzV5JVZdgsj6T7w2mvV5JQiA2OA/mWFlyrg=
+
+Name: images/org.eclipse.debug.ui/elcl16/resume_co.png
+SHA-256-Digest: vVgfdhghxJXISwEvEDoyrv+JHUJ9Oxytx42WVf77M+Y=
+
+Name: tasks/task-using_batch_compiler.htm
+SHA-256-Digest: SrwSdG8uMlzk7ahaQFq0AuXGwaMRpjybhDlzBSEY3Cc=
+
+Name: gettingStarted/qs-Browsing.htm
+SHA-256-Digest: MrMhnI+C9sZSIamcFcS4j1/yoxzV8mB1s7WNjc2rHxM=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/assign_value.png
+SHA-256-Digest: H42UzOyofBumXmmdmMEs4E1Z7yyy42j5vnm9WgC89s8=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/library_obj.png
+SHA-256-Digest: Gi+fO9RYLk9hq317FM4LKTjkPN4rUOopJsb0PESfjfQ=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/exc_catch.png
+SHA-256-Digest: BfJh1hxBuGoeSh2k0qNGDnYjZSelHRqTX7gA+jrrKkQ=
+
+Name: gettingStarted/images/qs-DetectingExistingLayout3.png
+SHA-256-Digest: YsjzwNo58DkDiEtjf5AcizIN4Xzz+xMJK5AC6W4+7pQ=
+
+Name: reference/images/formatter-condense-multi-lines-comments.png
+SHA-256-Digest: 7306Jj1lRdQFUGTUBjN88lC6vPP2tbVW9feY14WYkMU=
+
+Name: images/org.eclipse.jdt.ui/obj16/javadoc_location_attrib.png
+SHA-256-Digest: DRYIgAWvE6ePiZzhQ0QubP0n0uVcG6fCF7cRjM238UE=
+
+Name: tips/images/type-access-rules.png
+SHA-256-Digest: yR/sPwvq4Y5xWu2us7rdkDWTb/Gr1OHA+6skDAo69ZY=
+
+Name: gettingStarted/qs-6.htm
+SHA-256-Digest: 3RqX0cyBRtCXoIN0+ydudBBm0TLRF4TxK0y24flxVqY=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/class_obj.png
+SHA-256-Digest: e3/+ZOaXAiSZEDd4M7SRWfkc9kqdVtg6ZR7vLjo/J5c=
+
+Name: images/org.eclipse.debug.ui/obj16/debugtt_obj.png
+SHA-256-Digest: n/wYPc3P6QHhoA55tmlJxIar2CmsZzwqEAGTqQxVOM0=
+
+Name: reference/views/shared/ref-detailpane.htm
+SHA-256-Digest: moMgyohU/cIXCY/BWkfP56IPwbxgTN5O4ox7iQ+QE1M=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerinterface_protected_obj.png
+SHA-256-Digest: lLzdnWzmfTkpHHPxp98QbfVtQA/tURbs2ukRKPxoWcE=
+
+Name: tips/images/annotate-map-return.png
+SHA-256-Digest: 7zLs8onLmGa7lT7Hf2ZKKLOM8neHUYKC7dHJbfADynw=
+
+Name: images/org.eclipse.ui.console/elcl16/paste_edit.png
+SHA-256-Digest: P/DOcMzes7MH/hNXNpy18E7Iz9pYCnpUcFUWmsy+lYA=
+
+Name: images/org.eclipse.debug.ui/dlcl16/rem_all_co.png
+SHA-256-Digest: bOMgV4DJqtb2oI57fqQSM3nshgJB7OC528xS//fS2lk=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jwatch_obj.png
+SHA-256-Digest: VF3XR8w16KiFZB0Ui4upU+a6h9OdQyNSpivc3wlWBuw=
+
+Name: gettingStarted/images/editor_vectortest_quickoutline.png
+SHA-256-Digest: q2161IuUtheXYA2xoRs2iXyEpI+P/jxRbu9CafP9bqE=
+
+Name: reference/views/debug/ref-showthreadgroups.htm
+SHA-256-Digest: wgnyQrYjEMdZExUyRNG4jIhtNe0hg1MDpkhNAnptR30=
+
+Name: concepts/concept-java-views.htm
+SHA-256-Digest: 6LMmGZnp7doxdRnTEpZOtHJRSud9G/64RfS/R1m54pE=
+
+Name: tasks/task-display_evaluation_result.htm
+SHA-256-Digest: jKySlxM2Ss5lfTjtEdcJr6NfjA/KX69h7gZsNWSXCAA=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/constant_co.png
+SHA-256-Digest: oy6s5wxWJvBvjp9bIllhj7fyOX7bDdIPrPcRnSTAj+I=
+
+Name: tasks/tasks-36.htm
+SHA-256-Digest: jEZL7HSDqBr5/Pz5gDsseq2vMuxSvtNSr05MSGiBx3Y=
+
+Name: tips/images/quickfix-addcast1.png
+SHA-256-Digest: Cc5JUTDmIYoQ4lHeSlV9/8OvNO+NjR/yQBUP4AShWY4=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/contention_ovr.png
+SHA-256-Digest: Ew7bq9iro1AQi3KDd4ZenGUcPRCWOTF3bSDotnWWqfQ=
+
+Name: tasks/task-launching_java_program.htm
+SHA-256-Digest: gJHBculQ7z/93HJZm7XvabKkNcAPdHOVQAbvFZjMh60=
+
+Name: tips/images/type-hierarchy-structured-view.png
+SHA-256-Digest: yrMk48DLDWSwXAs/2tKltucoZZe0AfkIJecpNVUZ2tM=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/java_attach.png
+SHA-256-Digest: SWpA/NMJ9WbYryjMV8uwh2GkV321+kSkB9Hi4k8tX84=
+
+Name: reference/views/shared/ref-display.htm
+SHA-256-Digest: tMODRwYTV5AvXKVS78OI6Nu1jzRVtNrgIjLZjC7JVlo=
+
+Name: reference/views/debug/ref-breadcrumb.htm
+SHA-256-Digest: wq6cjO5yOCZ/YnfFC141Iq4GcD9GrxR2R07+hOdhyLE=
+
+Name: reference/views/breakpoints/ref-properties_contextaction.htm
+SHA-256-Digest: erTaJan9bYOp9ALnSxCtn1KQoBR9zaX70vaN3IjbqEM=
+
+Name: images/org.eclipse.jdt.ui/obj16/empty_pack_fldr_obj.png
+SHA-256-Digest: ltElma9um511PoSUU/jvc1BjbqjnA8B7QFTEBBYn/eQ=
+
+Name: reference/views/console/images/ref-format_context.PNG
+SHA-256-Digest: raxNZ6ZU5rcA0i7JLhI8WcLkuJxwdvE331MWiohgArc=
+
+Name: images/org.eclipse.debug.ui/obj16/osprct_obj.png
+SHA-256-Digest: bFmV8vquwJasT712PeHu9HRpVzPOtO6ePBX2Cm3tMrw=
+
+Name: images/org.eclipse.jdt.ui/obj16/jar_l_obj.png
+SHA-256-Digest: nBRQemSGDi/Yssei6qb7FlFCWnfx5hBvlbzI4rQtl+s=
+
+Name: tips/images/java9-create-module.png
+SHA-256-Digest: sDnvCFVmNxLKtXApXE+GaGWzc6oEaDoOie5VEgFOK4E=
+
+Name: reference/preferences/run-debug/ref-launching.htm
+SHA-256-Digest: sLrSmfXCFBwFsGjaCCXoliDHc8VuHw0JOIJe1FFyCeM=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout11.png
+SHA-256-Digest: X/uZ2VK7KpJqMt7i4iC2SEspHcqyMArp2CBaxxByuvg=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/localvariable_obj.png
+SHA-256-Digest: SbEjkyKfw2lrrjyqlhw5ywU4QITz6ayx4VfoIeOIehA=
+
+Name: reference/views/expressions/images/ref-expressions_view.PNG
+SHA-256-Digest: dA3abC4pm3AisW7tUWMGJ6269/YUZGbkZNticVL1KQ0=
+
+Name: images/org.eclipse.debug.ui/dlcl16/disconnect_co.png
+SHA-256-Digest: y+mEcL1qQlkKFCsjLLgnuzeP5UKjZ8u7rRER3pti6Fg=
+
+Name: tasks/task-memory-change.htm
+SHA-256-Digest: JK2b1LtAUJQh0FDgvfUPG/rybFWKPLsb6OdixbUmfF4=
+
+Name: reference/menus/run/ref-step_into_selection.htm
+SHA-256-Digest: Tz3hFSLSCLd/72+BgvoxBZyll8RrnytQlAR8yDpGeLc=
+
+Name: topics_Tips.xml
+SHA-256-Digest: bKCx0MMCwk9gWLttdeeNr/STNmB52VsfP+0yr7lOkAk=
+
+Name: images/org.eclipse.debug.ui/elcl16/runlast_co.png
+SHA-256-Digest: 7knIeFMSzk5aygeiTasjCwnpk1DyLnUpG53X+d+xnA4=
+
+Name: reference/ref-wizard-enum.htm
+SHA-256-Digest: cyL/t5N58nfPsVv/MgoLTlUWS8Hy3rexP1QhP/5QHIs=
+
+Name: images/org.eclipse.debug.ui/dlcl16/det_pane_right.png
+SHA-256-Digest: zu2hvtfsJfUAg4ArA0SLqYR85W+iWWIpP1/lD77rsAY=
+
+Name: tasks/images/task-null-annotations-qf-simple.png
+SHA-256-Digest: zgqNXNUqp5kKQZV9t4ImYvTYSrZ8fP/HWGFkZ1rxgOk=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout29.png
+SHA-256-Digest: 6Jzy0c+wj6UNgstkdJUcpW9oy4amWvy0Q04TJt2CLEk=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/breakpoint_menu.png
+SHA-256-Digest: zd5o16wpJELTbvnZhoiCAnhkBWH6uhpo7OTePt5Jp1Q=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/java_applet.png
+SHA-256-Digest: iXQ5nhCnKcYuOy9er64JxoFJv2pK7ptrNo5ilc46FS8=
+
+Name: images/org.eclipse.debug.ui/dlcl16/metharg_obj.png
+SHA-256-Digest: qvH+r+tBD+1IC52Zj9bwlpaKaUsWG51pJNrh69D5UZ4=
+
+Name: images/org.eclipse.jdt.ui/ovr16/abstract_co.png
+SHA-256-Digest: ElsoQ+zopX6XOXgZjyfyeMN+x7VCyJM4SzkAy4+Hx6k=
+
+Name: images/org.eclipse.debug.ui/obj16/inst_ptr.png
+SHA-256-Digest: ZKPzabvlENa0B2EpVu1/X9YRNg8sBm1yJAyviD2gjx4=
+
+Name: tips/images/search-returntype.png
+SHA-256-Digest: e8jA8IojfEhh66bD/cHdnF0grCquaOMd79S3yT7rDT0=
+
+Name: reference/views/breakpoints/ref-removeall_viewaction.htm
+SHA-256-Digest: NXUOGvoiHSkvqUIhNK3PJ48kBFnkVh1exI0iWbwFgqM=
+
+Name: reference/menus/run/ref-run_to_line.htm
+SHA-256-Digest: ef6djTPIxIAfyT1mH8BryhPafSxoW9ckbN+E7nXlMCE=
+
+Name: images/org.eclipse.jdt.ui/etool16/newannotation_wiz.png
+SHA-256-Digest: ceF+nHEMxdDUE8aHMo5NVooP/WEXQdTLBjY/omeZC2c=
+
+Name: images/org.eclipse.jdt.junit/etool16/new_testsuite.png
+SHA-256-Digest: QlyeWFdGixNaujInVp0fScd4lRMd9JF0sL3O4phvJDI=
+
+Name: index/_1_Lucene50_0.tim
+SHA-256-Digest: mwDaFXfcxot7ctGYmulvS7t6AHIxjJPtNrge2d6U3mg=
+
+Name: index/_1_Lucene50_0.tip
+SHA-256-Digest: JIpkagzyhXf+VY3Z03z1b2lyu7t4GBwtRfUzdeMg/Sc=
+
+Name: gettingStarted/images/qs-OrganizeSources5.png
+SHA-256-Digest: xX9XFpKFbqTT/xRkXBD7yefZJEZYx8RzZwDiN9DXSyw=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss9.png
+SHA-256-Digest: R2wgNywve+8259kgya6MUSZ3pnk7fIjUKV41TUs1r1Y=
+
+Name: images/org.eclipse.debug.ui/dtool16/environment_co.png
+SHA-256-Digest: LKrBxPFW9ZRWQPM+MgIFrzZemcgHXUcws7675b4JlNc=
+
+Name: images/org.eclipse.jdt.ui/etool16/importjar_wiz.png
+SHA-256-Digest: GWJrpTR9ahQSeRaA8QV0Ueus3ZOf1BDXirDmVd8ZnZI=
+
+Name: images/org.eclipse.jdt.ui/obj16/enum_protected_obj.png
+SHA-256-Digest: IQl7/x/O9rX0fkTlvSrnU5gJ015xwbol9aJDgTLQHhk=
+
+Name: gettingStarted/images/java7/surround-with-try-multicatch.png
+SHA-256-Digest: i6LXfpicWG++q/EfEwRP+mZVUdHefd3ABzpH4VsUqHs=
+
+Name: images/org.eclipse.jdt.ui/obj16/occ_match.png
+SHA-256-Digest: B4ZGGDdxUTOT1HmJw8OdU4Sa+V0zNVc+7ZTZjv64KDI=
+
+Name: reference/views/expressions/ref-inspect.htm
+SHA-256-Digest: slf6/EHQgkooNCLpmNUA0XrPSnVR6lJ9Idn7RWYmxuo=
+
+Name: images/org.eclipse.jdt.ui/etool16/newpackfolder_wiz.png
+SHA-256-Digest: X5KQx9PXCEcivzMNtT/p9Ao6rgr7PSOqO4VaTZ00Q3I=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout54.png
+SHA-256-Digest: 13wNhAHNpKJluGIA8QR1rkIOvtMPgoGTi9K77vhT3QI=
+
+Name: images/org.eclipse.debug.ui/eview16/variable_view.png
+SHA-256-Digest: 63f5MUgyhEBfdX164eGw8IMLaRDc+WGyW2WVeGkMRjQ=
+
+Name: images/org.eclipse.jdt.ui/elcl16/javaassist_co.png
+SHA-256-Digest: T+U3vvwmldai7IC5jHe8kEoDxLK7GB/DiG1cHvE5e+0=
+
+Name: tips/images/redundant-null-check.png
+SHA-256-Digest: 3VjBpNcDToc3l1oppURnI+GdJ1XBnJgu4qlj5UwdB7Y=
+
+Name: images/org.eclipse.debug.ui/elcl16/new_con.png
+SHA-256-Digest: xb6fta2hnBKozimjCFtFZQziXg5lBzxg/MHiB7wg6D8=
+
+Name: gettingStarted/images/wiz_new_scrap.png
+SHA-256-Digest: 2dCISxhqW0B9PkdmLN3hgyGnLNn6nzOtdaulrmdQIcc=
+
+Name: gettingStarted/images/view_variables_logical_structures.png
+SHA-256-Digest: P6/wjgcLQdYYZQ/7tqmiWzRjSPz9ENldynjGA0m8Y1o=
+
+Name: images/org.eclipse.jdt.ui/ovr16/implm_co.png
+SHA-256-Digest: 2x3tqwJzblfmwN7PQA6KNJzUN7XZdAHmFBpoDcGfLN8=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerinterface_public_obj.png
+SHA-256-Digest: s4jJe31w6lqfbQOSsZDIJUPnmc8OhMpjM3nq6pMP9Hs=
+
+Name: images/org.eclipse.jdt.ui/obj16/skip.png
+SHA-256-Digest: l+SdEIQ5qmnGZpqFq49WWSs8zjBNA6MaVvo9y/gOUVw=
+
+Name: reference/views/debug/ref-disconnect.htm
+SHA-256-Digest: 05vddv0/TLUGNer9x3LseTqcnw4lqaXPo354byHGqrY=
+
+Name: tips/images/package-explorer.png
+SHA-256-Digest: d5IBKIRmbnkpQHp8hR65Htq/KR7dFUEc6TT3/Dj2xzE=
+
+Name: reference/breakpoints/ref-entry_option.htm
+SHA-256-Digest: wcc4U5D3Jn5qkCsCHNEk/SaTxnzE/FVy+MA3J/mER20=
+
+Name: reference/views/shared/ref-inspect.htm
+SHA-256-Digest: E59Ro88uFWuzFJspStUQJ4v38RP+zqzyaCIQg8rHbdU=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout2.htm
+SHA-256-Digest: Tm0gspSfpiTKbhKqQrc1Wv76s8cK9zh9124Kdwnoq2g=
+
+Name: tasks/task-using_null_annotations.htm
+SHA-256-Digest: q9WmDKoM2mBMh9Ln/RwqbHs8BQXhdTTxFMmv20q5FNc=
+
+Name: reference/views/ref-view-package-explorer.htm
+SHA-256-Digest: hvM/B4kMkuMoTNyD6yO0EzUK0BASg1JeTm5YKQTdqKY=
+
+Name: images/org.eclipse.jdt.ui/obj16/cu_obj.png
+SHA-256-Digest: RYuGw3HdI+o6UZdacR6M350xnsWj9F5Z5ypkJqR497k=
+
+Name: reference/views/expressions/images/ref-disable.PNG
+SHA-256-Digest: JSQj2RiHAgd2axaN8M0DnbfKHHcJOIjAbw/fU87GFDw=
+
+Name: tasks/task-using_null_type_annotations.htm
+SHA-256-Digest: 3E092fE+jLXW0CvCBrf1EFIcLhCPD4HAWgG/qrMZBLg=
+
+Name: gettingStarted/images/java7/insert-inferred-type-arguments.png
+SHA-256-Digest: RUi4oE/haLjQnf1gFE78jDOxzs6Fw1hQ9wUXQ5D6vqI=
+
+Name: images/org.eclipse.jdt.ui/elcl16/search_sortmatch.png
+SHA-256-Digest: YbHHoZXfiiFDF9iFktwh+5oLKqtOahYKq/3Eo6xDF+U=
+
+Name: reference/views/debug/ref-layout_breadcrumb_auto_expand.htm
+SHA-256-Digest: T7CYLZvE+7WkQlOWWVDj8HcEF1CGZA/hLxIuG3A5rqo=
+
+Name: whatsNew/images/switch_labeled_expression.png
+SHA-256-Digest: +U7JNZWoGBXsXT2XoJqMUDfNq9rAdCMh0ddCpxmg29Q=
+
+Name: images/org.eclipse.jdt.ui/obj16/classf_obj.png
+SHA-256-Digest: 9JNq55VT3JzM9iAfvK6ssiV+A3Fi/NAtWGFGFB4iR7s=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_select_d
+ efault_workingset_dialog.PNG
+SHA-256-Digest: saARkQa4equCwe0Q0G3GQa74iFyjgqbYmrvPxxsn41k=
+
+Name: reference/preferences/java/ref-preferences-compiler.htm
+SHA-256-Digest: 4421hyJOfuPsjK9SAyjH/G5pa/DoFvon3B4cpUnYjCQ=
+
+Name: reference/views/expressions/images/ref-convert.PNG
+SHA-256-Digest: KtjogDWglcGkIHjKeGXf+O66TnEe+mZp3Nr3N5BnPsA=
+
+Name: images/org.eclipse.debug.ui/elcl16/copy_edit_co.png
+SHA-256-Digest: NzuPZhN0hmIZLwTyglRRQGBicFdpJ2if32J4SzpEx3M=
+
+Name: images/org.eclipse.debug.ui/elcl16/debuglast_co.png
+SHA-256-Digest: J/F+S+6sjl28cnoB+hPFW4N3C/GTri4AIv/PQtgr1sQ=
+
+Name: tasks/tasks-executionArgs.htm
+SHA-256-Digest: VaaopEmg6R0lwZ/LaULpvEc2He4MwYDwtxbSvpHDXMA=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout61.png
+SHA-256-Digest: k1dzdg8q5EibmAIV7g3qcc8sLcojlHemE6BG7/mVzC0=
+
+Name: gettingStarted/images/editor_vectortest_for_template_exp_expecte
+ d.png
+SHA-256-Digest: aPM8WyQUc0RZRonwtjNfEqft+k7CWIbSe32gX1Zv/1w=
+
+Name: gettingStarted/images/extract_method_preview_dialog.png
+SHA-256-Digest: 1sl84nMr7hRA8Amefarcmwi+2rf34NjtRGC8okmz+SA=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/term_sbook.png
+SHA-256-Digest: J0CyVl4W0maD4RJwryHUgmDfm5EJppPhJljcgmhSfdc=
+
+Name: images/org.eclipse.jdt.debug.ui/eview16/variable_tab.png
+SHA-256-Digest: k/ADGmJrhjWiYtkk6iwO50UdOknBsl5BYnOt4l5fMkU=
+
+Name: images/org.eclipse.debug.ui/elcl16/terminate_all_co.png
+SHA-256-Digest: sp1t4JXVgG9s26uynqehpLwtTr4/kWdYTpQecxTKGDU=
+
+Name: tips/images/quick-assist-catch-to-throws.png
+SHA-256-Digest: TbQCKLrJ1JcDO4MrsOpqVijBSmt4bpxDoWjpR3kMCcU=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/thread_view.png
+SHA-256-Digest: 89aOFaLVYZlU5OjFWT6j2OIsKOv5lDjm5dnedb2/FUI=
+
+Name: reference/views/shared/images/ref-selectedstatement.PNG
+SHA-256-Digest: aL3c6JOhbVDPHlHoQlh4lS8KVGghk4vXXlhLxwvkM64=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout49.png
+SHA-256-Digest: EkqRmrQsKY7wAHSea8a7Lv/7MvOe0Etng/drCC9R1jc=
+
+Name: concepts/concept-editor-templates.htm
+SHA-256-Digest: 10aMt2STIClsBkKwMfXkHf5DMm601qguqA89Fayrtl8=
+
+Name: tips/images/navigate-to-switch.png
+SHA-256-Digest: PtUnys3GLuPLbkWHwhSTwfyG8NbAmjfQf2FlGJhw+a0=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/scoped_ovr_disabled.png
+SHA-256-Digest: 0FDs60JCyj6Y9NMSRZ1uVOz6+qOnPixPAhZLMiwx5i0=
+
+Name: images/org.eclipse.jdt.ui/obj16/internalize.png
+SHA-256-Digest: 4iY7bx/ThY9CnF51rD5NwtOkaETYQxw2kJCBDu2AjNU=
+
+Name: images/org.eclipse.ui.console/elcl16/clear_co.png
+SHA-256-Digest: ITDXdxVdNyJ5r3ZiMg5X4Uo2NZQwVi1zeT9TW/g5GBk=
+
+Name: reference/wizards/ref-export_launch_configs.htm
+SHA-256-Digest: CnK1RhOeDX3qda7T9emtd0Vp6GurvAoY1FlesYX0sIk=
+
+Name: concepts/concept-java-views-sorting.htm
+SHA-256-Digest: CHD5qC4SMv0HztQS0MY4MOxuYG4TA1+c0nw0VcbBO1c=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_supertype_lock
+ ed.png
+SHA-256-Digest: cdV5RZNmraW5YB/7nEKD3d0Gn3raTc/lsU1/m89vFqw=
+
+Name: reference/views/breakpoints/ref-groupby_viewaction.htm
+SHA-256-Digest: PZYA68krjaTOfW7rwOAQiXvP6jGLs20a5D/67SviVuU=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/final_co.png
+SHA-256-Digest: lS6ifYeqqAaWw767Yx9/5jp0HTCGCiOv4UYiKkkikqY=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/java_attach.png
+SHA-256-Digest: Nc/qqBbdrF1irUYuP+7ySoELtpAb5T9P1KM3ku5vtds=
+
+Name: tips/images/smart-javadoc.png
+SHA-256-Digest: t4un1luBAVUH+fY0VTjLBGJlyQNLbXSbCFBxBt6dchA=
+
+Name: images/org.eclipse.jdt.ui/elcl16/add_linked_source_to_buildpath.
+ gif
+SHA-256-Digest: s5Jnh/yObFN17sbIupqp9sK4IcxMbKE6Ecg4Rv9yfQo=
+
+Name: images/org.eclipse.jdt.junit/eview16/juniterrq.png
+SHA-256-Digest: AYHF8ilOmjDpgt7R7/wSeVDNlAU6wBomwmRhZxbb44c=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff6.png
+SHA-256-Digest: +vEtvXLfviQ1tEWCRKQsQHy8qjMlfwBwRmZSErwCflo=
+
+Name: gettingStarted/images/view_debug.png
+SHA-256-Digest: pSbT4qW53Xe2wi7Xh9l9gmRMC9qP2wkm7EcyqtfgfPI=
+
+Name: images/org.eclipse.jdt.ui/obj16/field_private_obj.png
+SHA-256-Digest: 06K3MoR6Oc5nRLL6nHh3BxosY3eP4WA6jALEVgsymac=
+
+Name: images/org.eclipse.jdt.junit/obj16/testok.png
+SHA-256-Digest: mkg1gEfS9qQx4mAOE76CfG2v4PieFwXcaFSsBf5e3+k=
+
+Name: tips/images/content-assist-proposals.png
+SHA-256-Digest: UqWb8m+Ts66/u3rvvop+otyHQTPl8KI1Z1FDak4xl7I=
+
+Name: reference/preferences/java/editor/ref-preferences-syntax-colorin
+ g.htm
+SHA-256-Digest: bkjW499BhIeJVkIFWiP/ahT53/LvdQq5Eu/ikHd/NAE=
+
+Name: tips/images/quick-refactoring-menu.png
+SHA-256-Digest: +K6PdslL/2Wf7ueh+DmdO+aebm5RrfDD7VSdKiu9dBo=
+
+Name: tips/images/editor-link-style-open.png
+SHA-256-Digest: nYjusGHEuLXm9ibNgMQqeS3vgy4EI0lRpzf5zlgPquA=
+
+Name: tips/images/trigger-breakpoint-properties.png
+SHA-256-Digest: dsKdyTHJ0L+rIt3l9rvPS1Y38C1Tai9+/9doYIIRn9o=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_multi_fix.gif
+SHA-256-Digest: ghY3E3GOJTCEujGjrnCETEdx4lM8yxA4lguww6G+TSs=
+
+Name: images/org.eclipse.jdt.ui/obj16/fatalerror_obj.png
+SHA-256-Digest: ufvs5prFPp21ByjwYcvsTYYWe4zz4Usw7xAhft2Fpvw=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/error_co.png
+SHA-256-Digest: Gw2B8Zab0mjQ2Ye0oADciS/jtSk1LZ85BEJwZSBDcI8=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout20.png
+SHA-256-Digest: WKLl2woOKTRGdSvvbEwkaPq91caxg+oDeuUIDxGdQXs=
+
+Name: tasks/task-suspending_threads.htm
+SHA-256-Digest: dDtda1WPUw9XezJiJ6yJQSopgeUlfGJxGzOIyyNQ/pI=
+
+Name: reference/views/shared/ref-selectall.htm
+SHA-256-Digest: BJ3sGHrKZvnk75fe4qAgBGHwF2SDdHNyzhgNvShUULM=
+
+Name: tasks/task-memory-multiple-add.htm
+SHA-256-Digest: +lnxN3WW6vnmabOpq9zCzFh2F2iSL7/BdeD56rVOpmo=
+
+Name: gettingStarted/images/navigate_opentype.png
+SHA-256-Digest: Aa5YClqx0TK5+ZG4HMcVOzABIgW11jxiyDhVbxhENX4=
+
+Name: index/segments_1
+SHA-256-Digest: rsrjoh8lHIWn6ZsRuzBGTiLcmg3+2LC6hSWBf0Iqhl8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/class_obj.png
+SHA-256-Digest: tdakNyFiQGpXRB4SyFXK2gLJajbG+f6SmngmbxZffC8=
+
+Name: images/org.eclipse.debug.ui/dlcl16/debuglast_co.png
+SHA-256-Digest: epGy3+uj8t39WzmmE/hSBIHPRtTbjoGfeHmQ3pGnV3U=
+
+Name: images/org.eclipse.jdt.ui/etool16/mark_occurrences.png
+SHA-256-Digest: vuO+XShIvC7iX1qOj3uJjc82D6a8wmbOd0kjo+DY9OI=
+
+Name: reference/images/formatter-join-lines-after.png
+SHA-256-Digest: d6i+JrV7EcIVg48MXE2AbvJg2HOgfamJDOvqJuhwsfY=
+
+Name: reference/views/debug/images/ref-viewmanagement.PNG
+SHA-256-Digest: EGs4W1KQo4I2zeCukhl/izvCZhAuhdUXVBYvL0ZTfDA=
+
+Name: tips/images/instanceof-always-false.png
+SHA-256-Digest: 7klHM41T3eyz7wZMKzF3wG66KPLIpUBFgSAr4dYYjdo=
+
+Name: tasks/images/tasks-199a.png
+SHA-256-Digest: pYGFqzbWqyy79Wb+dZToErGi610CblD64eu6H/T+PMk=
+
+Name: tips/images/swt-templates.png
+SHA-256-Digest: v0SOLC0VVjYm4YzZ5v5NyaGwQJ36CaX+0hYoEeYZpAY=
+
+Name: images/org.eclipse.debug.ui/dtool16/profile_exc.png
+SHA-256-Digest: ZmKKAJBHGpj73CsnXzsjlbmIaBoqmNS5G/zz37EJ72c=
+
+Name: reference/breakpoints/images/ref-breakpoint_entry.PNG
+SHA-256-Digest: jQhGG6oMlVmoHcV7TicV0+NlsPSOzVGKD8PNrUNe0hU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout52.png
+SHA-256-Digest: UlhEkHVCBIG/svfQKFkEmdjx1WYYIT5Q0Ulj2iNzDlo=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_supertype.png
+SHA-256-Digest: VqetA+wNuHILHnhWORAcq8OAvfK+fVte/5NJJD9/Rpw=
+
+Name: images/org.eclipse.jdt.ui/ovr16/transient_co.png
+SHA-256-Digest: fECO/5bpgTPtHunPCoUeIDaPbZ1N69rRc4eYVM3c7Z4=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss7.png
+SHA-256-Digest: tn8I5Bgy9pT9DFIDCmk5OlDhHD885RGH12MciVi6tWw=
+
+Name: reference/views/shared/ref-execute.htm
+SHA-256-Digest: can+MdyRNQ9M/xNysXP7ntpj0LF0QxS9BXmfCQ/NhsI=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/disp_sbook.png
+SHA-256-Digest: RQtHKPfSam+yUzGh+OrWUUUROYNKyLQm1ZdjXyGioHQ=
+
+Name: reference/views/shared/ref-showconstants.htm
+SHA-256-Digest: ubDWi7Ivp4uQOk3JfAKvnE59Y25JiO7tFp31kpm4lJI=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_addexcep
+ tiondialog.PNG
+SHA-256-Digest: q3u4OhmfbuqeVpQr2MA2G9pIe1eMId5ve9tozhrozAc=
+
+Name: tips/images/camel-case-nav-2.png
+SHA-256-Digest: 1iHQKZ3YC+j7WYoRBzBHBUqoYfqWxSo5gbw7wCBS6sM=
+
+Name: images/org.eclipse.jdt.ui/obj16/compare_method.png
+SHA-256-Digest: Z0fcgeoD4hSWCKHUUKHxiMYkJc/sRTuhTvS5rczWhic=
+
+Name: gettingStarted/images/navigate_opendeclaration.png
+SHA-256-Digest: z/p9yAphzWyfPwQfvsvemMe1pYxe2BRB72r9v+MLY/k=
+
+Name: whatsNew/images/run-to-line.png
+SHA-256-Digest: 0cPrrgUinazO0E3ZGE0mjtFEyUZQA5jKP5m5dAhy/78=
+
+Name: reference/views/shared/ref-showqualified.htm
+SHA-256-Digest: iNtxN2MnWkR1c0+gb0VBHA4Ndis1Nlx86h1mV8lke/I=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout67.png
+SHA-256-Digest: cLUYJGY1OOOEkpXLxXM4Fe+AhKxyTbbJ95f+gbQQKdQ=
+
+Name: gettingStarted/images/java7/throwing-exception.png
+SHA-256-Digest: Zykivnj2ovj70jIkGKvEH493vspXMFOfaKPjk0SLLeA=
+
+Name: images/org.eclipse.debug.ui/etool16/environment_co.png
+SHA-256-Digest: IZQv9+BPGX7fPtKz6FHTu5Q4SNSY1CwZedtRqBGl7zU=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/monitor_view.png
+SHA-256-Digest: nTic6NJBX45YA6flj/eGss0eWzaeCYSTX/huUX82BTM=
+
+Name: gettingStarted/images/quickoutline_submethods.png
+SHA-256-Digest: QN3gr47qLiIBSm1CADnsOYlNOfGG2pnqSqZ5nW8KB18=
+
+Name: reference/ref-export-jar.htm
+SHA-256-Digest: 4zO2HxW+y8YEowfpdqZacN36NevFt182nhPJOSFt6vY=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/java_app.png
+SHA-256-Digest: 9lJIkJzzdE7KnmXKK+vRtqiGramX9Tmh/Kn5RYL92D8=
+
+Name: images/org.eclipse.jdt.junit/eview16/stackframe.png
+SHA-256-Digest: 5HBGu0dQrJ/2yIA6GSABcUigFXRYPCbMW6G+OhC4ASY=
+
+Name: concepts/cbrkpnts.htm
+SHA-256-Digest: zqcr/QW4rLPC7U8U5l0AyTwBYpOggGWamQjWRy7s08o=
+
+Name: images/org.eclipse.jdt.ui/combined/opens_package_2x.png
+SHA-256-Digest: TZAWWauBYSU1w8+QRPyzg5pBalfMBOMGlqmjaT4yW2Y=
+
+Name: images/org.eclipse.jdt.ui/obj16/template_swt_obj.png
+SHA-256-Digest: XPnfw1f3D4BAqS5WM6jL3SEpbA8b3gPdxvTmD0d/kr8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/pack_empty_co.png
+SHA-256-Digest: M+LPmVSqWaiL7J+3xN2UO/BPkgZwOkXbevYadg+pecI=
+
+Name: images/external-link-ltr-icon.png
+SHA-256-Digest: 7RmIznltuYs605iHh57koMYZ2XL5qCZdgOqyd+FgUpI=
+
+Name: gettingStarted/images/java7/invokeExact-javadoc.png
+SHA-256-Digest: hkwFKEzv67LimTyjbB9TRykrTSvLN3VCXgcCpKiKX3k=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jload_obj.png
+SHA-256-Digest: 5JjEG97IGWMusJavNM5HqfJNWjNoboyvz8Y++qfumK0=
+
+Name: gettingStarted/images/qs-OrganizeSources3.png
+SHA-256-Digest: rncG8CpPUsKuT8EieO5C6ES/zLb/j4AQCS5FTJvXmU0=
+
+Name: images/org.eclipse.debug.ui/elcl16/stepinto_co.png
+SHA-256-Digest: cXritFCkKB2JYq5EBI3vLEpiepTpTbKmmYI7YR1hEUM=
+
+Name: images/org.eclipse.ui.workbench.texteditor/etool16/block_selecti
+ on_mode.gif
+SHA-256-Digest: aJ+emyrn9sRdO19oP6b5LA4OcyTd3UsffQAhcAkTHgQ=
+
+Name: images/org.eclipse.debug.ui/obj16/osprc_obj.png
+SHA-256-Digest: Img1slNO/Cf9eD9OGh+yJgYgJc7NriV/zMt+OYLUEW4=
+
+Name: images/org.eclipse.jdt.ui/elcl16/metharg_obj.png
+SHA-256-Digest: 9qnqjq2AR/jk0jlSTdLJBbu/BGZzKUyOeqzF/XYJA54=
+
+Name: images/org.eclipse.jdt.ui/ovr16/caller_co.png
+SHA-256-Digest: dwVbnNrfkXnMYyNjcorq+oNXKTRD7nEDZz5Qs25WYls=
+
+Name: images/org.eclipse.jdt.ui/obj16/access_restriction_attrib.png
+SHA-256-Digest: eNN1jjjl02beFg73U5h6rbB0KDNbER9MUnzkfEOmQEo=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/sethitcount_co.png
+SHA-256-Digest: UR7je9BJeDXSSIvhanWVzJr6lSQ554NNyLMV2qAmjK0=
+
+Name: gettingStarted/images/editor_vectortest_for_template_exp.png
+SHA-256-Digest: nOE+FXmzZDg70EpWCEIF/cOxUj4LDytVY/N40SkvhMQ=
+
+Name: tips/images/javadoc-hover.png
+SHA-256-Digest: O//xSdhOPT5GSq96mPTqKATlVIYVdevbd6kR5AnQe+w=
+
+Name: reference/views/console/ref-scrolllock_action.htm
+SHA-256-Digest: D86fVGxE43x375y7nTKKxW13FHVKIySlfnG7Nvcoao8=
+
+Name: reference/views/shared/ref-viewlayoutcommands.htm
+SHA-256-Digest: /5uvMNID4vPxNL+uOs8U5VoCGlpyOeOO/HdCIet2ORI=
+
+Name: tips/images/jdt_library_entries_unsorted.png
+SHA-256-Digest: lm0jYmXPMQAGl7TiS+4Gc8Yym7oslVFaQUPcw6x7hrc=
+
+Name: tips/images/warn-deprecation-y.png
+SHA-256-Digest: VYZr5IksRweB9M87Kvl7iqBmmHrabt88vzbMDex1FeA=
+
+Name: gettingStarted/qs-ContentAssist.htm
+SHA-256-Digest: xIKnk9FAQ8Fr4jdSOK1fxCBEgKZj7mQc3PuK/KUiT6M=
+
+Name: index/_1.fnm
+SHA-256-Digest: HaZ5I035vETighXGoVILdcIwiprHbcjOg6cx9kosMMI=
+
+Name: reference/preferences/run-debug/ref-string_substitution.htm
+SHA-256-Digest: JkV73AeHrKolNSQT2THnZ8TJLRgAVFy7eC1l5ymzrUM=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/scoped_ovr.png
+SHA-256-Digest: 4+K2/D+3YnfBKv8QKi2wU8ezU6yQ5sXZD0lpxoosDnU=
+
+Name: contexts_APT.xml
+SHA-256-Digest: c8e/6BEMzUgiDdREY4NP1/azzuCbqefyeQrhAUkRPFo=
+
+Name: images/org.eclipse.jdt.ui/elcl16/add_exc.png
+SHA-256-Digest: cLBQjSZHXRkueLXB0dOLVgX1cpVFfSXo5FTaFeqSTcQ=
+
+Name: images/org.eclipse.jdt.ui/obj16/search_decl_obj.png
+SHA-256-Digest: RximJzxF0BRzk0uHSZJDt/LPqRyglJ8NQWsFwSLcwOk=
+
+Name: images/org.eclipse.ui.console/elcl16/new_con.png
+SHA-256-Digest: CGDnj4bV8lv4fXQm8/qKtxFEOQH545eifYVeRJcSCtg=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/debug-by-writing-to-console
+ .png
+SHA-256-Digest: f14YHJErkFAc4I0mp+pZY6w2lolPc7ntGOpHE5Mcad4=
+
+Name: tips/images/code-assist-type-arg-guessing2.png
+SHA-256-Digest: 2w513pnvD4Y/+v/b7fVZEZogBxElNW0KrsoJ6etFs/w=
+
+Name: images/org.eclipse.jdt.ui/obj16/correction_change.png
+SHA-256-Digest: t3x9IzW9PJgQvNB+BZGUtUOI1tujK2L+NrJV7NPgI4U=
+
+Name: tasks/task-evaluating_expressions.htm
+SHA-256-Digest: ombGlSpAR656dAJvhqxP28hZmYdl7WZhwj+26K/3UkE=
+
+Name: gettingStarted/images/workbench_debug_vectortest.png
+SHA-256-Digest: JU9WM+gYWUvjLOGRfFLTWY3Fw0WM3o3ENlTD+FPEP4I=
+
+Name: reference/preferences/java/debug/ref-heap_walking.htm
+SHA-256-Digest: rRM+B2Qc60ssdNWfdSfzrIztDniXvkP469p1NeSnRSs=
+
+Name: images/org.eclipse.jdt.ui/combined/patch_project_2x.png
+SHA-256-Digest: AeQVHuaUBzVQF3VfVHD7ZlPdWBNslE5wUv3Cqi8dLwA=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout36.png
+SHA-256-Digest: nAbsMSsrrzWtaA/fc0qd53CQOmVEMXfcD5Jc+Z/nGOs=
+
+Name: reference/views/shared/ref-allinstances.htm
+SHA-256-Digest: EJqIFQJVv2Ctro/toNQ+1X3Ldd0YYwziJ4/VoP6IZY0=
+
+Name: reference/views/debug/images/ref-debug_view.PNG
+SHA-256-Digest: pm3p0BS2ycz9ciTdzR+82wvGXjcpcDSBqkGIFsizwRo=
+
+Name: images/org.eclipse.jdt.ui/ovr16/callee_co.png
+SHA-256-Digest: Zr7WdN+XrHAIEpWdwoLJ7kNviA2gWf30LdkN6TR7XIs=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/term_sbook.png
+SHA-256-Digest: pR86AniyvZBRj+60iRvuOMZIaLSrICnl4jXCNq13ths=
+
+Name: images/org.eclipse.jdt.ui/ovr16/error_co.png
+SHA-256-Digest: ICJqM6tsh1FZo+PjURvAYB1wn9D10jaR20VMAPTif0I=
+
+Name: images/org.eclipse.jdt.ui/elcl16/ch_cancel.png
+SHA-256-Digest: A0VkHIzXto5/pMmBmpCciV5GvQsFt65Eay9X1yxjv6M=
+
+Name: gettingStarted/images/view_junit_red.png
+SHA-256-Digest: fSrnH/pbOlv/fBn2i6qIODvwM17Yi18XKz0Ky9fxq4Q=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss5.png
+SHA-256-Digest: ++jR6Rc4CKgs2vukwhLArEIYP2bsHkCtHQCLbJLmx+g=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/dbg-bread-crumb.png
+SHA-256-Digest: ahA7hwWw9lS2S4MqzN3YSdf83FfK7bWOKqBK1JxYukg=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/ownsmonitor_ovr.png
+SHA-256-Digest: EyiWpw4vuYMpIBLbsOIYqR+JsPNSb/qKlhn6BT1HeJQ=
+
+Name: images/org.eclipse.jdt.junit/obj16/tsuiteok.png
+SHA-256-Digest: VcDpVOZEHmEJSdpzQj8Z02VB5Loe8+vYYhYuyG5iB+Y=
+
+Name: reference/views/console/ref-clear_action.htm
+SHA-256-Digest: ML1mkoW9J9vk0XM7C+6iCgyD0JGr3xqX4A9jBJdxxxg=
+
+Name: tips/images/quick-assist-create-field.png
+SHA-256-Digest: gbSg7PwqCWKQBDOiNDSLkwROSFhr+/+1p0wMDgpk918=
+
+Name: tips/images/nls-problem-search.png
+SHA-256-Digest: zBHtkS+LbHZroxrUowa4GPsrDkUPbZEihDqXH2XtgYg=
+
+Name: images/org.eclipse.jdt.ui/obj16/packd_obj.png
+SHA-256-Digest: d19km+mhebU5HWdZ9wvPm9W7zji1X7Jzr2lRXemlaeU=
+
+Name: reference/views/breakpoints/images/ref-views-breakpoint_set_hitc
+ ount_dialog.PNG
+SHA-256-Digest: j/e2wQNDpwSUemLy9AGfALUUXPECBiHHakWXi9WiQZA=
+
+Name: whatsNew/images/service-provider-change-constructor-visibility.p
+ ng
+SHA-256-Digest: b/M6WdVybdoTR3esD+FOKp7kzaPMMA1hhUMZx5tEhkk=
+
+Name: tips/images/annotation-navigation.png
+SHA-256-Digest: YBg8oeUu+JqQe1YgEJazpS57P4rEXG9X+Qgz72jeXq4=
+
+Name: reference/views/shared/ref-maxlength.htm
+SHA-256-Digest: GwZHmXXYh4A1lX5VehR5YHouUjtZYbZNVtGBmAG6sfE=
+
+Name: gettingStarted/images/view_package_explorer_open_type_hierarchy.
+ png
+SHA-256-Digest: 74b8ESZGutn+4dkMBOscS4vgUfZGB1ULwmsb7fd3+JA=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/deadlock_view.png
+SHA-256-Digest: dnXApOeRl1K+FR0SbFTYCB4aK+HCWio8koIr3m5HvM0=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/env_tab.png
+SHA-256-Digest: rT3Dcs8rLoB/k/38lr3oRq6OXVn632Mquk1mKOQX6cs=
+
+Name: images/org.eclipse.jdt.junit/obj16/testrun.png
+SHA-256-Digest: mfcug9tZ9QGYwXlvY2KUqTG+CJEUhF8wQvb4AoApcGI=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout50.png
+SHA-256-Digest: OyklLTPzX3ul9PC+VT+0/hCQZucLqqbBAITtgGrgwH8=
+
+Name: reference/views/expressions/images/ref-edit_dialog.PNG
+SHA-256-Digest: sNZsWXLRGa3G1HFzS0qr4IxDOnxE0rynlcAdj87ne5o=
+
+Name: images/org.eclipse.debug.ui/dlcl16/det_pane_hide.png
+SHA-256-Digest: s8SFfqbmea3Gja7aBslxSp1249sKpXsFPWDKPYevSuM=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/java_app.png
+SHA-256-Digest: JFxRoQHFRASa6ug0DQOPv1segJMhTwqH7+aSzZvuoLU=
+
+Name: images/org.eclipse.debug.ui/eview16/memory_view.png
+SHA-256-Digest: 50C3ync6JC1JkM8JO0/zHbLqz/jQieI6H4h2YHjpMWo=
+
+Name: reference/images/launchconfiguration-commontab.png
+SHA-256-Digest: xkUZWtUWNl3Ai9RV2OwqQc+uRhMoc5t66TMAGui6Z70=
+
+Name: reference/menus/run/ref-toggle_watchpoint.htm
+SHA-256-Digest: X14kgfZKY6PZxX4xm9Bq3EbtVbFt9Q5EwprrFCzZ/FA=
+
+Name: reference/preferences/java/compiler/ref-preferences-errors-warni
+ ngs.htm
+SHA-256-Digest: nJ2Ii48sx5nc5wKjZH22kpVEDPrG7UuDQSnzUfJ4Lmo=
+
+Name: tips/images/camel-case-nav-7.png
+SHA-256-Digest: bGtRxkxV3vDoR91sWbRkESOzRPkuLCxMQPXaUP2P2jg=
+
+Name: reference/views/debug/images/ref-properties_dialog.PNG
+SHA-256-Digest: zxbMyPRsbd9EgXTzWtXBzdX5HfLE53RW03Znn+7E/JI=
+
+Name: concepts/concept-java-views-filtering.htm
+SHA-256-Digest: xM0p4+XYeUO2PN3Hno9LBIlXOaYqijGCrJXBYtnlrRs=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/args_tab.png
+SHA-256-Digest: oEMIarCGigDg7notrCHv4K2eZ5zx7N0yyxI24tPJSuM=
+
+Name: gettingStarted/images/pref_launch_operation.png
+SHA-256-Digest: a7dP7GNXwxWrq4Nj2s88p342v1dJPdhKrBCzk/vxeX0=
+
+Name: gettingStarted/images/editor_testcase.png
+SHA-256-Digest: t9s17b6NYbLjLzLt11HZou8bx1GjjUgWWw4u8ktVMLM=
+
+Name: images/org.eclipse.jdt.ui/elcl16/forward_nav.png
+SHA-256-Digest: agUkmNUT80RklDa5qceGe+OxjFjc1kZrMLW0jD5XjM0=
+
+Name: reference/preferences/java/buildpath/ref-preferences-user-librar
+ ies.htm
+SHA-256-Digest: qCmmHxphClVj3x6dwKkCLF7Z1f/Spp3Ccbnw9iARVxU=
+
+Name: tips/images/new-class.png
+SHA-256-Digest: VVGSatOOPkTE03o0ZW67jOqzPoW0gcnaRh5Vq9D1y+k=
+
+Name: reference/views/shared/ref-horizview.htm
+SHA-256-Digest: iQ9787yQXw29gvYTyctwNflWyUzeGlTSlFOhMR9USCE=
+
+Name: gettingStarted/images/navigate_open_typehieracrchy.png
+SHA-256-Digest: oUAW2sDgtxvhONSNfJLonvExD2elRfHo1MqeWKwKlI0=
+
+Name: reference/views/shared/ref-viewdisplaycommands.htm
+SHA-256-Digest: fm4O5Z0sfRMEuDqw51CyoxQMw88PrsHpgfBPE4+mjYg=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout65.png
+SHA-256-Digest: QcgjVGEiutVaXdWSH3EAjqyJRDvrJs3R9lGY4fJZOr8=
+
+Name: whatsNew/images/jstc-initial-clear.png
+SHA-256-Digest: ViXU5etC80aotg7lmyTUtYeqSi8MErO6tWDPw/MwJL4=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout22.png
+SHA-256-Digest: 52gOip90VJmaImJ3k/N8PRbASh7mWG7ujpvcCrppu+4=
+
+Name: gettingStarted/qs-with-j2se50.htm
+SHA-256-Digest: V0TIWRFwmMNfplGW0/FS9s1bSyX2hDgw1L1PJDS04eI=
+
+Name: reference/ref-apt-config.htm
+SHA-256-Digest: bw4oGgSgEa03QpIxSO5SM6HKxlYNvTGIFtPNg/QINi4=
+
+Name: images/org.eclipse.jdt.ui/obj16/field_default_obj.png
+SHA-256-Digest: v8XRSytDiZfS/1sgYbEPy7ECq4xM0K3dVs3f5oAlaIU=
+
+Name: images/org.eclipse.jdt.ui/obj16/annotation_protected_obj.png
+SHA-256-Digest: 9YA++gD0m1p51gm/bVrfnJXJXCaojHH89p/TTZNZ7tQ=
+
+Name: tasks/task-using_external_null_annotations.htm
+SHA-256-Digest: ZmEj3g1e0T32ZSTnpaEp1SUhi3+lycT1Jujlp6kD/AA=
+
+Name: images/org.eclipse.jdt.ui/elcl16/definingtype_sort_co.png
+SHA-256-Digest: R3JyqGW+HIGW7YSnZcMQCD1DGkwWk0hw5/1ejXPOm4A=
+
+Name: images/org.eclipse.jdt.ui/ovr16/maxlevel_co.png
+SHA-256-Digest: pirpSIBmbj1ZMX2SALeJmbtJIt8xNY0luku5mMa5DCc=
+
+Name: images/org.eclipse.jdt.ui/elcl16/help.png
+SHA-256-Digest: rChT7iZb9yU4Lfgn5GIQ25xRCwagqAd3hWOAVqk9qvs=
+
+Name: images/org.eclipse.jdt.ui/ovr16/synch_co.png
+SHA-256-Digest: SdTvxoM8HDmzr+d5vygG2Zlp5qKVVkrac246OCLesQI=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff4.png
+SHA-256-Digest: sPp+nuzLu9jhoDA9sEJyqcrPyGqVq86l/faAU8OLvJ4=
+
+Name: contexts_JDT_JUnit.xml
+SHA-256-Digest: RAynK9xBQtjPK4ssdhkUcAl3ofEJfY1CHcw7ZzbB08g=
+
+Name: images/org.eclipse.debug.ui/obj16/thread_obj.png
+SHA-256-Digest: JwjN1+JW1qyslYsitfld0vmVh6Ry9AffFiDl7lMSVbw=
+
+Name: images/org.eclipse.jdt.junit/elcl16/select_next.png
+SHA-256-Digest: W1+ntNVDRBcy2Jn6z+cNnIOeZaAu0TSaHjAlivIMMHs=
+
+Name: concepts/concept-string-externalization.htm
+SHA-256-Digest: ERrrKEcg4XcY/WFXd3fAHEkujbbWjQtMkSNzXZF7B8Q=
+
+Name: tasks/task-suppress_warnings.htm
+SHA-256-Digest: YBvDC4NDAVoO61IB2dAWHVMl0qsJ6aXE/Q1oYMEeLd4=
+
+Name: gettingStarted/images/wiz_new_suite.png
+SHA-256-Digest: 0H+Zw6LrTTbPHbKwYk9fDmDQv6X9R3+O+e+csSvbPhk=
+
+Name: gettingStarted/images/view_outline_testrunner_run.png
+SHA-256-Digest: pv7az43Vl5/h89LWHwfToBHuCcKhs7jGIxb0M6hMMxo=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/static_co.png
+SHA-256-Digest: 3IPYIwhHx3wmOP12vOu66z/wRDSoRVelAdMaYXL6jEk=
+
+Name: images/org.eclipse.debug.ui/dlcl16/disabled_co.png
+SHA-256-Digest: qDbfUS3c12jsLigUfR/FdHRgQJcELa1h8BwU9LDQHQA=
+
+Name: images/org.eclipse.jdt.ui/obj16/brkpi_obj.png
+SHA-256-Digest: bv/1wMOA5AqkzDuJ0IsBwABY4JDALiBLE9aH8RChkXc=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jsbook_obj.png
+SHA-256-Digest: r+LllE/HoSdX0GtYkLiNwOXi9MZ/GBKt6G2ceaniOTE=
+
+Name: reference/images/formatter-disabling-enabling-tags.png
+SHA-256-Digest: cVyvoe0N03NihS1CVq8B7WOjUOn4d5Y/6dLUahR2fl0=
+
+Name: reference/menus/run/ref-toggle_breakpoint.htm
+SHA-256-Digest: E+lOSm733om7DOHLhYx3tvPU9VtzBYvoQWA05b5tdMY=
+
+Name: images/org.eclipse.jdt.junit/obj16/faillist.png
+SHA-256-Digest: Zb9RhBWRFc/P2NEvXc/PdN9qauNv1nXMuueuvAk6e8g=
+
+Name: gettingStarted/images/editor_vectortest_toarray_template_exp.png
+SHA-256-Digest: TFIDToo+EDOlCXjnR979ozkrdVeq/Mng5kXAKZzcIo0=
+
+Name: images/org.eclipse.jdt.ui/eview16/jperspective.png
+SHA-256-Digest: zLTSK6hh2cZOQgxGJlUhRfs78hAXz6tZ94LfoWhqtmU=
+
+Name: gettingStarted/images/view_typehierarchy_testcase.png
+SHA-256-Digest: Dwx1VpFVTeOprghI3Rv/IqW4luuV9OvG4csN5DTFSgY=
+
+Name: images/org.eclipse.debug.ui/dlcl16/edtsrclkup_co.png
+SHA-256-Digest: 54ZOv/CfxKKBv2vryDpFZL2BTi5cOH8/0wQT/gGwhzc=
+
+Name: gettingStarted/images/editor_vectortest_content_assist_t.png
+SHA-256-Digest: NJ6lVY2b9W19tZk2RLZXoftm/n0DJmziv/4XyuF7MW0=
+
+Name: images/org.eclipse.jdt.junit/obj16/tsuiterun.png
+SHA-256-Digest: keWhW0YRpWVk9gaoBRCosybGwad3QIJGjAyLR/GHv18=
+
+Name: tips/images/show_command_line.png
+SHA-256-Digest: iNJjF1ChmpSB2//ag7jZGio7WfOMwLevf0/JOSF+TxQ=
+
+Name: gettingStarted/qs-LocalHistory.htm
+SHA-256-Digest: r6vvh50CKIR2XGFUqEOUR0YjeXwEy8UdYKIzGIR+H6Q=
+
+Name: whatsNew/images/switch_expression_templates.png
+SHA-256-Digest: OJWObcDnnEtP2rC+b8A37okaRGxGSNLf8us7IxmYwTo=
+
+Name: reference/menus/run/ref-debug_history.htm
+SHA-256-Digest: sLIM0Wso4CcWykwWQzgYFnKYZko32IJC90jrnDFed60=
+
+Name: gettingStarted/images/editor_testcase_error_getname_quickfix.png
+SHA-256-Digest: B4rsH2yNhzkljMTSokdvBhy1/nXk/OXy0MiMLvSZ9vA=
+
+Name: images/org.eclipse.jdt.ui/elcl16/remove_from_buildpath.gif
+SHA-256-Digest: 9mwMN5qbFQzcJQNaISvv/X+tn+xH7BtrbzkPk2k2agE=
+
+Name: tasks/tasks-206.htm
+SHA-256-Digest: HFMiMq0kbXMNUhtGagR4JGzPoLWsg31zOu2+Y0PyDeQ=
+
+Name: gettingStarted/images/active_break_point.png
+SHA-256-Digest: TEwHxJJQvwJfKaBzChQ/YLg9fehk9JL4w/BXl2014mw=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_groupbya
+ dvanced_dialog.PNG
+SHA-256-Digest: Xm9Ui5QR7vWRXH+aGDv1gUlipzfPWrc/n/yyQob9BoY=
+
+Name: reference/views/shared/ref-changevarvalue.htm
+SHA-256-Digest: dY+KSrPnyyowcEfI4WHiAHt77/p7b869XQmyjhJFkcU=
+
+Name: tasks/task-memory-multiple-views.htm
+SHA-256-Digest: PoQ9amiwOFUFQwEml1TOGg9kAT3vl/DgR3NUZ7sR7pY=
+
+Name: gettingStarted/images/qs-OrganizeSources1.png
+SHA-256-Digest: YR1MFMLenyRy5Y9r2pD6AZEZ1bwCELOCw4gDY+YmbLc=
+
+Name: images/org.eclipse.jdt.ui/eview16/package.png
+SHA-256-Digest: AtyBjCLx/6wtw7a4vgzedbLIikMlfrLpwoZwvY9FqY8=
+
+Name: concepts/concept-java-builder.htm
+SHA-256-Digest: bVBmwOfISsptnlZaYWTvrVP2Mevm5EhjYstRmdROkf8=
+
+Name: concepts/concept-classpath-variables.htm
+SHA-256-Digest: X5rpqKnDwAyiIUdhrOx//aT7i4fGirHn6bh7OnVK7qo=
+
+Name: contexts_Debugger.xml
+SHA-256-Digest: wuq1GWS0ThM5Xmux9GxlrCL/zgIHpfMwoKoZw5XAd1Y=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/all_instances.png
+SHA-256-Digest: fcDF72ZrRBRHvSDPSkwZ/Jca1gb+gKI99pHOB9sxxiM=
+
+Name: tips/images/advanced-highlighting.png
+SHA-256-Digest: PX6nDjC20+gY4uTkTo+qfFDlEuYM7kT8zp1e3hOTBNM=
+
+Name: reference/preferences/run-debug/images/ref-string_sub.PNG
+SHA-256-Digest: 3Az8+f1V7UScIBQuPGGq3lXPZWvGD//0JSfHsXpuFe0=
+
+Name: gettingStarted/images/editor_vectortest_toarray_template_integer
+ .png
+SHA-256-Digest: JQQYsnBgD6T8VwjpEAQFTRX5L9IHNZaBOqNU0aHk9vg=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/brkpi_obj.png
+SHA-256-Digest: wo8VaUFfXxqLg82/lEQ6ArA1wKsZ+RZIuI6OwnIYfzs=
+
+Name: reference/ref-keybindings.htm
+SHA-256-Digest: g/fpXY1ffoVIOwVCDP6cfrj7zap1DlugVW+lPZgsjY0=
+
+Name: images/org.eclipse.jdt.ui/ovr16/info_co.png
+SHA-256-Digest: vVBSrefM1NVD1XHny9R4/J++L22KNvOrkonIhWz/Umk=
+
+Name: tips/images/sort-by-def.png
+SHA-256-Digest: IEifFzuq8oaqNKG7LTZ2dnHr5xCOVbNRNdDTxInkygc=
+
+Name: tips/images/package-abbreviations-on.png
+SHA-256-Digest: U97d/9K+qahnMG/teeEaPqNWK6vTAPfnkajy5fJ7iAk=
+
+Name: images/org.eclipse.jdt.ui/etool16/newpackfolder_wiz.gif
+SHA-256-Digest: xcDJt1zuteWpbEWuCFbQz0jobup66fuAvN3d5SSyFCk=
+
+Name: tips/images/quick-fix-create-method.png
+SHA-256-Digest: jJQkZY+nsbfpe9p5S6FbEtg6C5KfzVhZKtI3r6JZgvw=
+
+Name: tips/images/localhistory-restore.png
+SHA-256-Digest: fTWr6sM7570ipKQeiUEyQgOdPXph+IT9shuoWyMxeic=
+
+Name: tips/images/code-assist-anonym2.png
+SHA-256-Digest: kjXRfUM9eeZsiYwWEDhMXttnXHIBZ/gNua5CjChrjj4=
+
+Name: images/org.eclipse.jdt.ui/elcl16/th_showqualified.png
+SHA-256-Digest: MRI62WMX64JFPi+aRQIMrgWcZSC6Ns4YOLP/VckuZME=
+
+Name: tips/images/juniterr.png
+SHA-256-Digest: JU57FHUXyUnp0wHSGab0Xgv5h6Dix8AqnaTBIgIqczU=
+
+Name: reference/breakpoints/images/ref-breakpoint_exit.PNG
+SHA-256-Digest: GBsL28oYbZPoIfdiakvhZ3c1CecU145YBQ+qvqm5wZ4=
+
+Name: images/org.eclipse.debug.ui/elcl16/pin.png
+SHA-256-Digest: IFiAxIbqT66guAucsHkdFQaJpL5BcXgnD0t6OEwHKp8=
+
+Name: images/org.eclipse.jdt.debug.ui/dtool16/run_exc.png
+SHA-256-Digest: D9khuRLDMzA2T9s58ehlwrryB/1KHv3aJRucwrCrhDQ=
+
+Name: tips/images/organize-imports-on-save.png
+SHA-256-Digest: eSbOFDhidmmKn9WJ6bSS3FdNrmfPqTOjM8j87MAkxSA=
+
+Name: tips/images/step-show-methodresult.png
+SHA-256-Digest: S2pjFxAkT5zvR7kekb6m9EGGcXuTHeP4G6liBKa8+b8=
+
+Name: cpy.png
+SHA-256-Digest: sI9rPtp821PtBzgBZEx5jCR9s/6dh3DVfWj+JH+4MUY=
+
+Name: reference/preferences/java/editor/ref-preferences-folding.htm
+SHA-256-Digest: OumbYsP+dQizgxN7FCytN9fXUZS/iYB/ZNv/ZRKpqjg=
+
+Name: whatsNew/images/switch_case_expression.png
+SHA-256-Digest: /0C6Q9bUGyIhR7TmqgWLz+rrLL/OB37Vz5YVvZOXgx0=
+
+Name: gettingStarted/images/view_debug_removelaunched.png
+SHA-256-Digest: YAKf5+NqMatVJ8MlgjB8mf9Z6jaKDbc2X2cM7rrim5c=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/word_wrap.png
+SHA-256-Digest: +x7kUrlr1n20gR9wEpDLuL9Xq4Xuw9iO/LZrNH30+BU=
+
+Name: reference/views/shared/images/ref-changeobjectvalue.PNG
+SHA-256-Digest: ltBr0F/wuxVhQscEx6UadQBfXjdGPdishrEwXjavF3s=
+
+Name: gettingStarted/qs-junit.htm
+SHA-256-Digest: 1SdgT9gG49gWB3uSC6hEdHcw0ZJ8XO9x5R1ERUJrFOo=
+
+Name: reference/preferences/java/appearance/ref-preferences-type-filte
+ rs.htm
+SHA-256-Digest: MKETNJypL2plOWuRphd3FMUAXfR+yDsGh2EYWPKxYKY=
+
+Name: gettingStarted/images/java7/combine-catch-blocks.png
+SHA-256-Digest: e3MaTghw0eGXor9CW+WePZH8AvUU9iG5deGsxr/2DnU=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout40.png
+SHA-256-Digest: +mDLlWZVzxXFUQXNne2mHPZtGjazju/kIhen/OnUsv4=
+
+Name: images/org.eclipse.jdt.ui/ovr16/annotation_tsk.png
+SHA-256-Digest: vpoNxqsZTjTRIffKA/RvfK3+i0eguQTTTa6irMsoxiE=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/jdt-debug-edit-logical-stru
+ cture-context-menu.png
+SHA-256-Digest: ZVTfj+J/x9HO/kKWPvAtudNfdCrbNYg+Er7eOJ2RhGg=
+
+Name: gettingStarted/qs-with-java7.htm
+SHA-256-Digest: 4safMzzN8mVCkDX9mE0OL4QC8ldy0QhXnAaXCA1KxAQ=
+
+Name: images/org.eclipse.jdt.ui/combined/exports_package_2x.png
+SHA-256-Digest: x1NepOol9bvq8e+HgdiaFl+ncFNEwlRFEOD1dKLhqAQ=
+
+Name: whatsNew/images/getter-setter-dialog-new.png
+SHA-256-Digest: gyLE+gw+Qj0VLCTOBrNkM1rxyXAdqgbdsVYO9z7QHAU=
+
+Name: gettingStarted/images/previous_searches_dialog.png
+SHA-256-Digest: yjJtfXQIdRtZltcBWC1PIICVklk4cuoJ8AdFe+IPosM=
+
+Name: tips/images/toggle-trace-point-run.png
+SHA-256-Digest: 3VyMhgQuwrhAkbgpnkRTd9mzWae9Ke6ICT3P7Ohv0Xs=
+
+Name: reference/ref-jdt-actions.htm
+SHA-256-Digest: 7f9Kpcsx4NlHfDbFVnmgb6E5HTg0iUU6zSvYDy+HxLA=
+
+Name: gettingStarted/images/quicktype_dialog_setup.png
+SHA-256-Digest: LKWAe7V6u0hphNqWgJl0NjBGGKSvHM28l8iaiIPVG1s=
+
+Name: tasks/task-stepping.htm
+SHA-256-Digest: IB3654KMUQGyJbJx1HaBMW0x45YX4GFVZnNUXKAi64Q=
+
+Name: gettingStarted/images/editor_vectortest_for_template_exp_e.png
+SHA-256-Digest: w8Gf9a7wesjGtJbJEi9fxhPz+s401rIdk1e2pjFit3w=
+
+Name: reference/views/debug/ref-editlaunchconfig.htm
+SHA-256-Digest: TMFXejJ5TipJslpF9PAqgcfROEeGKFswF7dr5RhUAuA=
+
+Name: reference/views/display/ref-clear.htm
+SHA-256-Digest: pClh5il3EA5F14s7Deke694NpToHs63bPY8uhlVyzoY=
+
+Name: images/org.eclipse.jdt.ui/obj16/error_gray_obj.png
+SHA-256-Digest: MoNTt6O5aIeS3CGmYL+Szbo+0Rhco6MKmrJV15rD6II=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/uncaught_ovr.png
+SHA-256-Digest: 9sQDhEfy/KMxdtAQ4DLjUOEribKFW4q/8gkc8sq30wo=
+
+Name: reference/views/shared/ref-forcereturn.htm
+SHA-256-Digest: X4bBbgzZsygo5YfbzTTqHJEN8gUj+Bx+PaBCp9oe/Qo=
+
+Name: images/org.eclipse.jdt.ui/etool16/segment_edit.png
+SHA-256-Digest: scws1Y99HU0PoZ8l+70xlM4PWZZUcaxShO4lHAiFe1Y=
+
+Name: reference/views/shared/images/ref-find_dialog.PNG
+SHA-256-Digest: x8OlpfIZhM7mbgMe4qGcte4oFccHByFQ/0XcMLjME9Q=
+
+Name: tips/images/convert-to-method-reference.png
+SHA-256-Digest: FNk57/QaMmgx9mDla1kDUa1icNONZQldjD6gU1CIWEQ=
+
+Name: reference/ref-wizard-interface.htm
+SHA-256-Digest: DMpSmox/hnGbqSkAC68WglBzgyLSKJKZExN0f3Jf0Jw=
+
+Name: tasks/task-ensuring_switch_completeness.htm
+SHA-256-Digest: RdQUx+zUKVXTKmkB3SyLSy2I/DQ51LPP4eU4XD6S+ZY=
+
+Name: tips/images/quick-fix-localrename.png
+SHA-256-Digest: 8/aHAT0QyfIZXmZNVDf3sYy9yh4MxZylA8zIr8EV09s=
+
+Name: images/org.eclipse.jdt.ui/obj16/library_obj.png
+SHA-256-Digest: Rgg5vUWXeQ+RdyGD0ZXlExeuAlbLC9j68jdRiWDjzwo=
+
+Name: images/org.eclipse.jdt.ui/obj16/empty_pack_obj.png
+SHA-256-Digest: 6FpiT3+8j7SjXdQc1r88MwYYcRqImfLEdI7tzlAKXuM=
+
+Name: reference/breakpoints/ref-suspendpolicy_option.htm
+SHA-256-Digest: zXIe0xd80RLP6fccEqnYZfwvD160snZJM0/2SNCtU6g=
+
+Name: tasks/task-improve_code_quality.htm
+SHA-256-Digest: yzFWZs95NQsUSk9/DaVDceSvUhVPIvgf5dpR0vljvgI=
+
+Name: gettingStarted/images/j2se50/autobox-coloring.png
+SHA-256-Digest: EIscEfELXVhQg8SecLcE8qhNtTxiGjTpKlsNmpGnCfA=
+
+Name: pom.xml
+SHA-256-Digest: v689IgHGHzzcgj1cZytB416mUYVMf/z3+1xYcVhIh8s=
+
+Name: tasks/tasks-73.htm
+SHA-256-Digest: 2sQrn8YFa9nE/th/+omtqiPJ+6zaY7hvXbSk2Y6w2PY=
+
+Name: reference/views/shared/ref-showstatic.htm
+SHA-256-Digest: 3XbP8T8+fHWh/VdJleayVwz0Q5jZ0na2hgN3apdhqbc=
+
+Name: reference/views/display/ref-debug_shell_view.htm
+SHA-256-Digest: JE51wTV1YcBHqjRXgHLrxQdNrzH96K//6ze10z9cS/0=
+
+Name: concepts/cremdbug.htm
+SHA-256-Digest: T53fGhSavXGf0KsIFriq78K0u/3NvCX0Ihk7Uk9mxSk=
+
+Name: reference/preferences/java/editor/ref-preferences-content-assist
+ -favorites.htm
+SHA-256-Digest: YhsSl8E6yorapNrMnp0JWWiUXN86ZzWbrbeV7GLkscw=
+
+Name: reference/views/debug/ref-filtertype.htm
+SHA-256-Digest: 1AMFcDLHdRsimp3JLW2idPnO3p7jikIz2p05YPgL3nw=
+
+Name: images/org.eclipse.jdt.ui/obj16/packagefolder_obj.png
+SHA-256-Digest: kvXKorzl3jHqBFx5gNTtNWHTvKJ2IyMHHwoovF1R2M4=
+
+Name: tips/images/convert-to-lambda-1.png
+SHA-256-Digest: hkNKtXxfbhGOaYD91ApHoMXyLewb2PNm5QCLuMG+9II=
+
+Name: images/org.eclipse.debug.ui/dlcl16/enabled_co.png
+SHA-256-Digest: iDgYym8Sg9jDDW72eHcx7I3FF3nS4/fEoLUMrryAdSE=
+
+Name: topics_Concepts.xml
+SHA-256-Digest: EJQ2PWEtbnmKpuuXqyz8CMuDuq/d+a/v7NknE4nB2d0=
+
+Name: gettingStarted/images/search_prev.png
+SHA-256-Digest: XJtJ1sW4lHOK3/bWhUqmcX0V+eR7sgQnc2EXRlfbYnY=
+
+Name: gettingStarted/images/java7/convert-switch-to-if-else.png
+SHA-256-Digest: F+dIE36CSVYFxogXn7tAE1TSCBcF8ZAz/uWjXt22eI0=
+
+Name: reference/ref-java-editor-code-assist.htm
+SHA-256-Digest: 7dMncYSDDHkqip38GGMPC7bH4u3zfvLIKE1xvCqpYZU=
+
+Name: images/org.eclipse.debug.ui/elcl16/disconnect_co.png
+SHA-256-Digest: z1EVN+f78qxcYSyGII2wr2LAG5+NagGyyFXE3lNhyxo=
+
+Name: images/org.eclipse.jdt.ui/ovr16/focus_ovr.png
+SHA-256-Digest: +HbXvZJyyN1tBsMM++Y+lqno87KeFqsSGnkIpUuEwqY=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/def_vm_args.png
+SHA-256-Digest: kZDU9eU8qMqV8kBwfQgwNmsEPvbN5dEBi/omuInFtEw=
+
+Name: reference/views/breakpoints/ref-workingsets_viewaction.htm
+SHA-256-Digest: 3AjGXaQFk/3/il4aRbZg3rajPx/sxpKh9nNUmBDEXNI=
+
+Name: tips/images/substring-code-completion.png
+SHA-256-Digest: tPDP7MufFAPCDTt3GikHBPQy81fU8pM07JW2bTcOMzo=
+
+Name: images/org.eclipse.debug.ui/elcl16/det_pane_under.png
+SHA-256-Digest: QJWNwXvFaZVp0vo599KOnM5x292heBZxqrHN1KNFwG8=
+
+Name: tips/images/matching-brackets.png
+SHA-256-Digest: kkbxF3XtbrhVNPNr9SqGtblu7/VVjPuaoElNaAw1KBw=
+
+Name: gettingStarted/images/editor_mytestcase_moved.png
+SHA-256-Digest: ddJQKyEYRKMfPBo1Qev3ecCrFCHqxEAd2tvppI8U6k0=
+
+Name: reference/ref-export-javadoc.htm
+SHA-256-Digest: 43Rl4YdZrl7NXBT0yap020ruEbw24zgi0oKdenP/UaM=
+
+Name: images/org.eclipse.debug.ui/elcl16/hierarchicalLayout.png
+SHA-256-Digest: HP5ZNi5G6yHKAQLCUDXsX5wLNj21FXrgZhFh8TKCkJo=
+
+Name: images/org.eclipse.jdt.ui/ovr16/enum_tsk.png
+SHA-256-Digest: 5DCY7NcGLdA2w6dFkLmSbT+317GBUCcoaErUEa7fUxw=
+
+Name: reference/ref-java-editor-formatter.htm
+SHA-256-Digest: MXrgylyUpbUaW8lJhn6nKw5qDy2DcmZXI5zVWNt5DuE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/default_co.png
+SHA-256-Digest: ImQkA8wdMK67z5OIvVkxzVNalMfdt+I62zMKB+0QYT0=
+
+Name: reference/views/console/ref-stacktrace_console.htm
+SHA-256-Digest: +Y3otSMzJ5Gsb9GGHF63HCmWBI/JOjdUFMYRnfp6YMA=
+
+Name: images/org.eclipse.jdt.ui/obj16/remove_correction.png
+SHA-256-Digest: Icmr5USbP81tLsDRSh/K853h0DPImWYOQDWb35qzYGM=
+
+Name: images/org.eclipse.debug.ui/elcl16/synced.png
+SHA-256-Digest: oMXUgFbYc5Q8lvTdfX7Rte2zBjV+hbKy6rivNTPdwYo=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/jdt-debug-show-logical-stru
+ cture-by-default.png
+SHA-256-Digest: KCQNtVMZEglI1JIxBNL0Dac4Bedf/s+lX6rvdG2xXdE=
+
+Name: images/org.eclipse.debug.ui/obj16/brkpd_obj.png
+SHA-256-Digest: OMy83XA5sUd04WxCs2RL6gdTwDRBDx/eE+A8y+j/Zx4=
+
+Name: gettingStarted/images/java7/select-ee.png
+SHA-256-Digest: NPR8KmX7iy158tkTlEx9iqLRJPBxrdG7n1Lz9N6mgsk=
+
+Name: reference/views/breakpoints/ref-removealltriggers_viewaction.htm
+SHA-256-Digest: L/bS/y1U2NMrOi7WK6kNzuVbH6mi6hXy8GpLL4yrSgo=
+
+Name: reference/preferences/run-debug/images/ref-lcd_string_subbed.PNG
+SHA-256-Digest: 7A2WJIoBNtDTxJakg3U+PmPRxSKCGe0oYqKC+0r8TOQ=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout25.png
+SHA-256-Digest: X0SwqKJnWoZz/SuU+eS7ydUTsHUGJHNrOADu5SwsOAM=
+
+Name: images/org.eclipse.jdt.ui/obj16/never_translate.png
+SHA-256-Digest: LAAmyU1v7ApZw6XLihoFU/CAqEmdFqYGpVPoWpXLg2o=
+
+Name: images/org.eclipse.jdt.debug.ui/elcl16/monitor_view.png
+SHA-256-Digest: Brc4Vb5T2PUvmUA13pLkM41jPFnE2UAknUkqFWbajjk=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_small.png
+SHA-256-Digest: gxKMxGP/RmwTM4VhS/dtUq2lKedN87XLJynQOQKuBoY=
+
+Name: concepts/concept-refactoring.htm
+SHA-256-Digest: yqGoSUUuvZqdoIqiFVRQqS1qChaThnAyE3/UKEJwroc=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout31.png
+SHA-256-Digest: rWfHBCFPuylT8e1k50m6VEPkRc4TEbbiqRpaFnYfbzI=
+
+Name: gettingStarted/images/editor_vectortest_content_assist.png
+SHA-256-Digest: ubn7DYzhpWpf0UHvdo+5q9UtGnVgqUxdXhNCqvD2R9U=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_workings
+ et_dialog.PNG
+SHA-256-Digest: UqgdQGsoD1pViCbkK9L+0cif5nm7026IzP9e3KjnIp8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/type_mode.png
+SHA-256-Digest: jvUuWELY+cnFJ79R88PPrRTrLUmWAaMAttgb6ocB0nU=
+
+Name: images/org.eclipse.jdt.ui/obj16/output_folder_attrib.png
+SHA-256-Digest: RnBAaHznZ2MBY7dJ8PrFZV5HbAGlNNcWyxRTrBLq2dA=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/refactoring_obj.png
+SHA-256-Digest: /rPur8SOQy3Uk6pf9pxs+V2Zx/v0f6g4I6JYBQyqW8g=
+
+Name: gettingStarted/images/view_variables_logical_structure_action.pn
+ g
+SHA-256-Digest: 8aWTyIsIjs2r6d+OJPN02/IgWbfWvOGLBCodFzjuL2g=
+
+Name: gettingStarted/images/select_java_app_dialog.png
+SHA-256-Digest: 8zrFgBSorQeclNt1aCPeROyv7cPDFcNHXSdl9Liq8Tg=
+
+Name: tips/images/quick-assist-assign-statement.png
+SHA-256-Digest: tegcaHlajoC0i9BrXsAg+YrENr/8W1m/uGF6EOm7JNU=
+
+Name: images/org.eclipse.jdt.ui/ovr16/final_co.png
+SHA-256-Digest: eaHZQ7jvwdcUaJFuVyk+321ZoLO/Vj44GqDTw5PGwFQ=
+
+Name: reference/views/breakpoints/ref-export_contextaction.htm
+SHA-256-Digest: 9Pr/nCup4EfgYZ1gx5FlxK8Pcjxsgo3pGWFFYx8uO3g=
+
+Name: images/org.eclipse.jdt.junit/ovr16/success_ovr.png
+SHA-256-Digest: inRbJayNq6py1iIwj6mGSOr/pE8mqPURUBtjyV5rcWg=
+
+Name: images/org.eclipse.jdt.ui/ovr16/deprecated.png
+SHA-256-Digest: MevvNiW2goDazhv25qRiOX6wJkODRnBsgkuymJyo5Eo=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss4.png
+SHA-256-Digest: wAEp/w5VZhg6Rf448asaYDaPvIV7o2g2PoX3R49IWqk=
+
+Name: images/org.eclipse.jdt.junit/elcl16/history_list.png
+SHA-256-Digest: pd7W7Z0kbDTHpNSg0MAiZo687GFDfjrubrJJm5rSO08=
+
+Name: images/org.eclipse.jdt.ui/elcl16/ch_callers.png
+SHA-256-Digest: r7rOcwm2RzlMZ6TjrrD8J/D5kH46VEd8ey7UP5gC0WY=
+
+Name: tips/images/new.png
+SHA-256-Digest: 30DaVcel/pKWrwCeDri0qchEdphpq8aw3DtNd9xG/Pk=
+
+Name: reference/menus/run/ref-toggle_method_breakpoint.htm
+SHA-256-Digest: Vl2j3QMOxFVc6I0u/vZtYMKWbK9R4siyySYDL/5Hm1c=
+
+Name: tips/images/enclosing-brackets.png
+SHA-256-Digest: wmAFVwQlS+Lrcd/+6rwg3IsPhDInlU4y61H2nJn9Udg=
+
+Name: tips/images/content_assist_participant.png
+SHA-256-Digest: Ndy7gx+mECY/jhp6M1VfN7mIIXwl9tqap94XpufFKMQ=
+
+Name: tips/images/null-reference.png
+SHA-256-Digest: rQS0Zq/kPw4cuach2GO/XJ+Y6Dg6vzpNLAAkgfDejxE=
+
+Name: reference/views/console/images/ref-removeterminated_context.PNG
+SHA-256-Digest: OLRTiisozuQR2bdyXdT/Py7mJcUpS6FhBwBUMLijT+k=
+
+Name: images/org.eclipse.jdt.ui/obj16/package_obj.png
+SHA-256-Digest: ikVWUxdHDwG4EfTCWBnXti2CE3LN+RLl6QRfYzirYJA=
+
+Name: gettingStarted/images/view_problems_goto.png
+SHA-256-Digest: XeYwAYOqI/8q0jnNp6fuOV9Iu3z9FF0jecXkpEM+g/8=
+
+Name: reference/views/ref-view-outline.htm
+SHA-256-Digest: NypJH0jVE/7KBP3ovzLi9GAFsAo9k6W/bBfXRmOckaw=
+
+Name: tasks/task-memory-add.htm
+SHA-256-Digest: BSzucyXyZU0A7NRsyvG1ktrlSQa0QR4ZPqSpJhdx/w0=
+
+Name: reference/preferences/java/compiler/ref-preferences-building.htm
+SHA-256-Digest: klWMmbq6Ke5EYrIXhubbd/5mtZi/2/ND4wtQNbdPbfo=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_workings
+ ets.PNG
+SHA-256-Digest: TD29qtpmSgfs3K/jseClt06RlxPP3UZL8J6TPiOir9s=
+
+Name: reference/views/debug/ref-removeallterminated.htm
+SHA-256-Digest: Ccu8vadO3UQo4SV++9HQgorBSMNssAtkjHJr78EiajQ=
+
+Name: gettingStarted/images/editor_testcase_error_getname.png
+SHA-256-Digest: MRoCI0Vu68bP7iUvPrXUUvP2qmM643x9hMwYWCrH7GA=
+
+Name: reference/views/ref-view-scrapbook.htm
+SHA-256-Digest: cPP3WCCHGIrr52OWtJbwu6iQns8+q15qWfCinuCfjbE=
+
+Name: tips/images/rich-problem-hover.png
+SHA-256-Digest: CYgsRWLamx8bHcMttITACMOVtoam4Acks8gqnDu+bRE=
+
+Name: images/org.eclipse.jdt.ui/obj16/module_attrib.png
+SHA-256-Digest: sfn8KA2BJ0qx0r8ejywRu3OZHO8KkL2W52KMox9CpuE=
+
+Name: gettingStarted/images/view_search_editor_runTest.png
+SHA-256-Digest: VJxbrsoNnX2pSXrvXXoYjZr1bYmzYIj+iZgKvhKe9yU=
+
+Name: images/org.eclipse.debug.ui/ovr16/error.png
+SHA-256-Digest: Z3sFX1vtVnhTNrghEMhIH0poL5GQ8AKb7noUQwuxblU=
+
+Name: images/org.eclipse.jdt.ui/obj16/jexception_obj.png
+SHA-256-Digest: Ve8nV03e+t3wKhxy/DxHBT0sxw9zCRLKcVnc/K5Divw=
+
+Name: reference/views/expressions/images/ref-edit.PNG
+SHA-256-Digest: BFtdISB6Mq9s2VJuuW4l+NrAlOkKDVpA97g2cSoW7Wc=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/fatalerror_obj.png
+SHA-256-Digest: 9UNmfWnPOYP0FERcvMp6ywm4KqpS+2AMCB1fz7lAgPs=
+
+Name: tips/images/create-hashcode-equals.png
+SHA-256-Digest: wJy5tDXpL967VAzW8SJMT3CW95dSj4opEcEUyT1DM4s=
+
+Name: reference/breakpoints/images/ref-breakpoint_triggerpoint.PNG
+SHA-256-Digest: ymduQuTmsVCgyDq/zoQY9+dxqVxes0tNtBg1zGxqf3U=
+
+Name: images/org.eclipse.jdt.ui/etool16/exportjar_wiz.png
+SHA-256-Digest: 7ukYkf0SSnxfeQq+sgwr87cBebHQwG2mdm6LXZdltYA=
+
+Name: reference/preferences/run-debug/images/ref-ext_string_subbed.PNG
+SHA-256-Digest: FMXYmKDkb4JvkLgoKmbj7bBtb3525cGMYiuLO/nZhak=
+
+Name: images/org.eclipse.jdt.ui/elcl16/history_list.png
+SHA-256-Digest: nSgilEyA38+0dxtRYrVumb4zhbLoLMXppGp7x7kAE+k=
+
+Name: reference/views/debug/images/ref-lookupsource.PNG
+SHA-256-Digest: Ob9/b+lvoQ94UM+ismE6gC0uIdu0p4U9FAIBnEuxaYQ=
+
+Name: gettingStarted/images/search_file_dialog.png
+SHA-256-Digest: 1TP3GslNqXi1HqAEqsb8R4QdGA2tOtOHMOysFqgVtmE=
+
+Name: images/org.eclipse.jdt.ui/obj16/source_attach_attrib.png
+SHA-256-Digest: UvvqjK2Ml6Snv1YlNfCLVKjDLdN8ErxRUW62gW/HHv0=
+
+Name: gettingStarted/qs-ProjectConfiguration.htm
+SHA-256-Digest: EwoMTcAt3OqvmahJGhVnnMofuM7/oQB0hduvuzQy868=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/threadgroup_obj.png
+SHA-256-Digest: qkypIaDnNEZT9HTcyxHF2XwjTJo87kyw747pCT/vxPM=
+
+Name: gettingStarted/images/view_package_explorer_junit.png
+SHA-256-Digest: VBnpXUxuo6lOG+ab4hZTwBgIPxQH4dXsOH5jsKWi0LY=
+
+Name: gettingStarted/qs-15.htm
+SHA-256-Digest: qbA+q/5phcH2kD9TkjfTs088qHejZLrsnNq2cWBSH6k=
+
+Name: images/org.eclipse.jdt.junit/elcl16/relaunch.png
+SHA-256-Digest: KFrnYtXl/DiQpZZkbW4KVzoqk5pD7mzucpxlO+4hjZU=
+
+Name: tasks/tasks-188.htm
+SHA-256-Digest: W7mXPDrQVRbZ7tf4EkNCNuljvKnCUpTjOt1V7CgVWuc=
+
+Name: images/org.eclipse.jdt.junit/prgss/ff8.png
+SHA-256-Digest: pqX3lm+GGBVrkNlI4fyQXe7KTItNOQwdcqiYni2MQ2U=
+
+Name: reference/views/console/images/ref-cvs_console.PNG
+SHA-256-Digest: m5jzidJxGi9icDFCNdJmyIDMcdRXxFvDidK5kskhN5E=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout14.png
+SHA-256-Digest: csLnMsJ+8YCPQiV4/PKl1kodLKOnOpUe8KMAE59P0Sk=
+
+Name: tasks/images/task-memory-remove-monitor.gif
+SHA-256-Digest: WVOtgHfSZFmsrameTXJxwQmHaBPLUdGx2C4h+AyuH9A=
+
+Name: concepts/concept-java-search.htm
+SHA-256-Digest: CoIsHJwU4XojHou4NH68ig5yCP6aFoSiWngk1f7IzXw=
+
+Name: images/org.eclipse.debug.ui/dtool16/watch_exp.png
+SHA-256-Digest: tBjJG0eBRkKZb73nZ9zSAimtNoa0BWXEfWaIy3s5hAw=
+
+Name: images/org.eclipse.jdt.ui/obj16/jar_lsrc_obj.png
+SHA-256-Digest: pYXDLY5FXc03mAmzCANN2x+DQtlY1o3T+DXFx5FoPGg=
+
+Name: images/org.eclipse.jdt.ui/obj16/int_default_obj.png
+SHA-256-Digest: 4Sv89J2p4iEBlvB8E7O3LWG7/JLYFneiWNY0PFl/UII=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/insp_sbook.png
+SHA-256-Digest: C6pCI5MOeErL6h7lRNLl2BsQVcxu6jW76TPBOuPq16s=
+
+Name: images/org.eclipse.debug.ui/elcl16/monitorexpression_tsk.png
+SHA-256-Digest: ofzE+1OWmJdNAcd+Wgsmfg+zch8rhAX9wkOAPlHgmxc=
+
+Name: toc.xml
+SHA-256-Digest: I+m5vJNgYaDRCN+qevYHxybHDY/NUwFvpmeuu0FzeRc=
+
+Name: reference/ref-dialog-override-method.htm
+SHA-256-Digest: abQrTcBg3OjUsYnZpPKNrA/Si7Dr0pvi3NKBGjZbk1k=
+
+Name: images/org.eclipse.jdt.ui/obj16/annotation_alt_obj.png
+SHA-256-Digest: bNdFXF4pab92dDi8tWLU3g1/+yXI4Qd6DxRHYG/uxlQ=
+
+Name: reference/views/debug/images/ref-properties.PNG
+SHA-256-Digest: BpGBXQl0xzNMUhZPJb5CQ04eme78xeecDuN5L2GKfME=
+
+Name: images/org.eclipse.debug.ui/dlcl16/det_pane_under.png
+SHA-256-Digest: Lss3AV1x7jGIbp5Wav0dql8FVQBGkbYy1Sy+cmJ6Ofs=
+
+Name: reference/views/expressions/ref-enable.htm
+SHA-256-Digest: N6KdJb7Z81F1JAm2BjlRAn39gNYERAxmyK9IHRvoZ7E=
+
+Name: reference/views/debug/ref-debug_view.htm
+SHA-256-Digest: G6eCaNHWbyQ7JMsXHWvCIXAlRbYkE77IhQVcZuwSDPk=
+
+Name: images/org.eclipse.ltk.ui.refactoring/obj16/change.png
+SHA-256-Digest: HOUnA99Ig/6MFWZLlv458eLtjS59Wumcjw0FQcAVMM4=
+
+Name: gettingStarted/images/j2se50/autobox.png
+SHA-256-Digest: v2DlWEk67gKFuC5TvwmA/uZkdpSuFXp0fGYcWkUM0MM=
+
+Name: tasks/task-view_compilation_errors.htm
+SHA-256-Digest: chyGuKZ4EFiz4hD1l2EC1c5pdJ6Qk+IQkFOFGzrWb6k=
+
+Name: tips/images/javadoc-quickfix.png
+SHA-256-Digest: d04sRYipaEgJetFrdhnd2p27awcY0QUNFQHeg3JcQa0=
+
+Name: reference/breakpoints/images/ref-breakpoint_suspendpolicy.PNG
+SHA-256-Digest: WNckk8gcnyU+0vLNMQ41Y9MXyz1KtReaZF7poiWlkCM=
+
+Name: gettingStarted/images/editor_vectortest.png
+SHA-256-Digest: cxpFxd09UC5XQ3YBquVieMqU7teoBC0W2J6smANL8Qw=
+
+Name: images/org.eclipse.jdt.debug.ui/wizban/library_wiz.png
+SHA-256-Digest: f7ic0qWs/AnRVCB5ToZc3JEsbT9YaiFo1SCVt2hDOic=
+
+Name: tasks/task-disconnect_remote_debug.htm
+SHA-256-Digest: vkwQUKuTiVlCY8OQw5dHfZ7sPE/UkybEgRAnWq+NDpc=
+
+Name: gettingStarted/images/view_typehierarchy_testcase_focused.png
+SHA-256-Digest: rsZunSWB0CKRc7a9PhM8gFj6Kp98+Qo6QdqK5XV2l38=
+
+Name: gettingStarted/images/editor_vectortest_debug.png
+SHA-256-Digest: q5TSs6YV49OkpCMICTMImj3hpODdD3/80tpoUodPxUI=
+
+Name: images/org.eclipse.jdt.junit/prgss/ss2.png
+SHA-256-Digest: 2SGzfRY27m1V4Za2K9S3KkcxPzt7IPj8Vo8+mu5AAGs=
+
+Name: images/org.eclipse.debug.ui/dlcl16/toggledetailpane_co.png
+SHA-256-Digest: gRHzej93mq3wSbDSCwXeRKXKeMtrRBJ7BUn4AUEKapE=
+
+Name: gettingStarted/qs-ExtractMethod.htm
+SHA-256-Digest: zMO3F+ZxzrkawhGDq6yeSN0y96ugGLZHLLKuy+8KyvI=
+
+Name: reference/menus/run/ref-rll_run.htm
+SHA-256-Digest: 4fNaPNZjSkrCGM9JqwqOPEF9Z5AGHKIJUnOqR3B04P0=
+
+Name: images/org.eclipse.jdt.ui/obj16/nls_search_obj.png
+SHA-256-Digest: n+HCMy9+1Sn9LOukfCCskZTdXwLxM5QzZy4beh0dpg8=
+
+Name: tasks/tasks-64.htm
+SHA-256-Digest: L25jo2OGEqCN8//jtaUD6S+qIS406RkfJfwVsGpDor8=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jspbrkpt_obj.png
+SHA-256-Digest: ope44Rd3o6NlJ7n9GMkTH7ZM/3nvAue06cvU1eciBMY=
+
+Name: gettingStarted/images/debug_button.png
+SHA-256-Digest: ldE+xj3MBmTOOm3P7TaKjTLohlXAke8y3/q36RD9QyY=
+
+Name: reference/views/shared/ref-contentassist.htm
+SHA-256-Digest: YuQ/UAon5YqEKswPj6VLN/vkcMvslm4gcXbXlGTbANM=
+
+Name: images/org.eclipse.jdt.ui/obj16/searchm_obj.png
+SHA-256-Digest: cOQaQg7DmH2aFmf2ljFZpFtcrDIaw7vUNtue4FsGM8w=
+
+Name: tips/images/assign-to-casted-quickfix.png
+SHA-256-Digest: A0Yj/3/rvSiOCh6kbSPMCwsGlR11gUfCWdab/kIUET4=
+
+Name: images/org.eclipse.jdt.junit/elcl16/th_automatic.png
+SHA-256-Digest: q4yyHp3OFbjw3BYymbpqzHqEc/2StnaGLw9nMogE0Wk=
+
+Name: gettingStarted/images/java7/use-separate-catch-blocks.png
+SHA-256-Digest: 5k9FZiqljyYQeSmQYFNzFwby4oyZebNPrGoGglxJ75s=
+
+Name: images/org.eclipse.jdt.ui/obj16/envvar_obj.png
+SHA-256-Digest: QXKvQks83KLLBM9FcfiBEiH5fYseq6Z0IJgvXWdsuyo=
+
+Name: images/org.eclipse.jdt.ui/obj16/jcu_obj.png
+SHA-256-Digest: tzsSA2/t4C+VGkCKLEOsDM+rQoH3j25+DdFzsgnxLsA=
+
+Name: images/org.eclipse.jdt.junit/ovr16/error_ovr.png
+SHA-256-Digest: aykyx4BrDx1DPuVkdJbf2Xbq1Td0N6/QID7kXKYxN0Q=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout33.png
+SHA-256-Digest: 6bETLav1uHYff3RZNAt2EMlssMxhNHJGgpbPbSbeWGk=
+
+Name: tasks/task-remotejava_launch_config.htm
+SHA-256-Digest: yKdc0AUS/bBz46wFTCW+LgTmy8ZCwXjTHsbd8F3QwJE=
+
+Name: reference/preferences/java/debug/ref-debug.htm
+SHA-256-Digest: uQoO3LbDBcpBopeCOUTF/my30MZ0/crQ2bXraRM9Cb4=
+
+Name: tips/images/open-declaration-on-var.png
+SHA-256-Digest: ofPSUtTE4UVfByHjaBKHcfRXDvEMnVr9/0U/Sqo1wU4=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/newsbook_wiz.png
+SHA-256-Digest: f4ynKHKDoQTFii8flvQBNALXHM5T53ZPQvfOCXKqDVM=
+
+Name: reference/views/debug/images/ref-breadcrumb_drop_down.png
+SHA-256-Digest: 14LKpXAbovJGCHPJrzrWCI4h5Bo1A05Aggu9TBZLw6U=
+
+Name: tasks/tasks-202.htm
+SHA-256-Digest: RNi+TacihYfKJ7Ng7LhW+zsbsAGjhckAhYV6vLxLuk8=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_skipall_
+ example.PNG
+SHA-256-Digest: ug6bpWrj8fuYDj4KuCNWbC1b33nIDRDX+oO7ZWWrA1Y=
+
+Name: images/org.eclipse.debug.ui/elcl16/var_cntnt_prvdr.png
+SHA-256-Digest: ELYqWjDMVASF5lVjCyMtrmeVT2JPq95mTc6241RN8I8=
+
+Name: tips/images/code-assist-type-arg-guessing.png
+SHA-256-Digest: Ytl1J0HNwzk/DTOUjPRcUlj+M5TrkLJa5fpIox6FKpg=
+
+Name: reference/ref-wizard-scrapbook.htm
+SHA-256-Digest: p/n3ka616DSUFCvs0ZSmilLQN8VNyE1uEuc6jqroUCc=
+
+Name: images/org.eclipse.jdt.ui/etool16/newenum_wiz.png
+SHA-256-Digest: qQkMlQ0wrhR2NkRAzl520VG56hvyhHzn0OpvjqPkLM4=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout27.png
+SHA-256-Digest: IaJeLN3QuK9sPdS61f6RaPfmYCqgO495aaqjR3L8nxw=
+
+Name: reference/views/debug/images/ref-configdialog.PNG
+SHA-256-Digest: r6bFUvV+0FrmJjXM+XVcjtgUmAhtUj4VUfV7caxVvh8=
+
+Name: reference/menus/run/ref-addwatch.htm
+SHA-256-Digest: ppNW1H43bd99cB0uwihvGnrU6aE25dKwjD0WQW9oUrA=
+
+Name: reference/views/breakpoints/images/ref-views_breakpoint_sortbyme
+ nu.PNG
+SHA-256-Digest: 37HQ09zfsqpx0/Co2QVaoQjTIXOVPatsuN8cjHMyoc8=
+
+Name: tasks/tasks-230.htm
+SHA-256-Digest: kbWer79JqeZS4eU5/RFXWBilpP7gOIVKR4yviDHqMl0=
+
+Name: reference/ref-menu-edit.htm
+SHA-256-Digest: ByLBp2pBGb76zDW5xel2Qh0enmJfrq8zcltBaNboVis=
+
+Name: tips/images/override-dependencies-button.png
+SHA-256-Digest: kMhE+DeBYXGNHioqA3x9eux0/eQY0GDkKEty0ScRVm8=
+
+Name: gettingStarted/qs-3.htm
+SHA-256-Digest: q7j9TNY/xc5dfCX4Qkk+M3GpF1vGZvQ86ixyEOtRlvE=
+
+Name: images/org.eclipse.jdt.ui/elcl16/flatLayout.png
+SHA-256-Digest: VAvCzDvjusc0Z7xbm0fwxXGe6VVwbniAlOBMzLqXEbg=
+
+Name: tips/images/code-assist-argument-proposal-inserted.png
+SHA-256-Digest: Cw0bwojm+jhWJZly+QQsB4by0gNgKTi90oV8bCO4jvI=
+
+Name: gettingStarted/images/rename_cu_dialog.png
+SHA-256-Digest: C85+b+HqNmmFMmxwxOY654FX+ufAwRgVDsGaHYeAuy8=
+
+Name: tips/images/ff4.png
+SHA-256-Digest: N+VUtFCSZUKRPRVSndGzDgMR/kjqfFvawAyczKlDxRk=
+
+Name: images/org.eclipse.debug.ui/elcl16/tnames_co.png
+SHA-256-Digest: 9kASv1HHcJJTefqXACRQZehJlJZprI+s2gV6Dpeyywk=
+
+Name: images/org.eclipse.debug.ui/obj16/genericvariable_obj.png
+SHA-256-Digest: RJtp8duDe51lfuU4ZCl3MCYfR4xtNd1UU1eQAK4gf1Q=
+
+Name: reference/preferences/java/editor/ref-preferences-hovers.htm
+SHA-256-Digest: TbP+Hoa0NFIUlMwZWWqhNC3ajbloNrP+Hf6eA5INCCE=
+
+Name: reference/views/debug/ref-showmonitors.htm
+SHA-256-Digest: Z7bEI4EaPlyfVYM/lokWVJ0OwL/z/sQ8I6ZwVz0k74s=
+
+Name: tips/images/hover-on-var.png
+SHA-256-Digest: pxxXkm4FZXcEzOMcIy1nCAGIOpdmfxu+YEif4dgvZfI=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/all-instances.png
+SHA-256-Digest: n0GZAjxjrCtdT7Y+d9DclEGzP4WfMG0cysL5q1yuhbk=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/show-references.png
+SHA-256-Digest: gp9zcCbK4A2wsbsqVt+8mBaQlcazRX2orvDO2Y2GbnU=
+
+Name: reference/images/formatter-prefer-wrapping-outer-expressions.png
+SHA-256-Digest: ecN5C0tZge32bBOkQ9T9rPwPONh9CyIGu8/Z7OyZWPk=
+
+Name: tasks/task-enable_disable_breakpoints.htm
+SHA-256-Digest: IMt2rjqWvSQg5hgdPG9Qh8YDngAnkdpC10+wCrajKX0=
+
+Name: reference/menus/run/ref-toggle_line_breakpoint.htm
+SHA-256-Digest: +uRwSnZGcNrigjzxc3/zm9/HXWhbWNsmJWolrnWFAc4=
+
+Name: images/org.eclipse.jdt.debug.ui/dlcl16/static_co.png
+SHA-256-Digest: mrk5Pdyw7l+2RFgdBXsYiXppiSGtTuGBmxs6tQblY6U=
+
+Name: images/org.eclipse.debug.ui/elcl16/removememory_tsk.png
+SHA-256-Digest: pmABrPmgkqZ8bUpGA4O3ZZ8td2C4r073MavwFZm2RsE=
+
+Name: images/org.eclipse.debug.ui/eview16/register_view.png
+SHA-256-Digest: uJAS1gSXx6PSovJ+HWzkyCsvj1Ibs3g1qOHCyicfMWg=
+
+Name: reference/preferences/java/editor/ref-preferences-save-actions.h
+ tm
+SHA-256-Digest: uKVCTcGGwrL9mVr46aivTi9TxeESjQQ+qkKz/J8/D78=
+
+Name: images/org.eclipse.jdt.junit/eview16/junitsuccq.png
+SHA-256-Digest: nzLAjF0FhJJtAiECbeH/Iqrxc1/CbvUyQ+2jlxpeVm0=
+
+Name: images/org.eclipse.jdt.ui/obj16/methdef_obj.png
+SHA-256-Digest: zECtVjwGkNpM/Hltd4x1n9vUAim3A0rbmXPOGGKUF4Q=
+
+Name: gettingStarted/images/view_debugshell_inspect.png
+SHA-256-Digest: 6cvM7yHOcNHE/Q2iUES7mRWOoQG/hNX6VT2egy3KgsM=
+
+Name: images/org.eclipse.jdt.ui/etool16/java_app.png
+SHA-256-Digest: w4yfXxPAIaooZA9voCnUAw5SFguh8z5GP39YuK59dzE=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout59.png
+SHA-256-Digest: cTQL9z7VMncLnPJrFKLdMM7DEtF/hkVBow8ba7bknnc=
+
+Name: plugin.xml
+SHA-256-Digest: O0+JcOBWhsbFyNlWDfNosw6aJicNjPtQlRPfQz0PV8I=
+
+Name: tips/images/create-getter-setter.png
+SHA-256-Digest: zq+R/1M9nX902V+LKiHaobFfqs/kXC6nbeg8nL7ObmA=
+
+Name: reference/views/debug/images/ref-opendeclaredhier.PNG
+SHA-256-Digest: aLp1OUgDlJu7l1KeDHwrKcwDY9IQd/pRl/Jxbh6gV0A=
+
+Name: gettingStarted/images/run_dialog_junit.png
+SHA-256-Digest: kWfZkenuWcix1e6Qa91JRS0yJcTMqjLskOfLMFmwAiI=
+
+Name: reference/views/debug/images/ref-filterpackage.PNG
+SHA-256-Digest: P6ET6vJ8MY8lKIGYVnetfoRY5Ml59VFj1iEmNT1gIqw=
+
+Name: images/org.eclipse.jdt.ui/obj16/externalize.png
+SHA-256-Digest: LMY1VKvHP1zZJyyHWP1sAqR1DGQsmwQHLkqFwwToPUs=
+
+Name: tasks/tasks-62.htm
+SHA-256-Digest: SPZch6Wcbfs5fyHSmj+MAhnjscxOSRvscqtZmGx1jR0=
+
+Name: book.css
+SHA-256-Digest: drdWh14i2skVvyb9PozOcjPWWL4r3Ah+4UBnAs7YIJU=
+
+Name: reference/ref-apt-factoryPathOptions.htm
+SHA-256-Digest: 7SqslJkhpC4jrx8wujCYX0tbQK9+h72xzLb6fvBCXwE=
+
+Name: gettingStarted/images/java7/assign-vars.png
+SHA-256-Digest: I6wA8CSwcrQWrWVwZwxVGmxu0AVLf1FHMtDHDotNBSM=
+
+Name: gettingStarted/images/editor_vectortest_organized_imports.png
+SHA-256-Digest: /z4MqUUMx58tuFCs2n+09LB+6nPQfJ+x0h3Q1ks41x8=
+
+Name: images/org.eclipse.jdt.ui/elcl16/collapseall.png
+SHA-256-Digest: AvXCm5OmflYcyohiHV0o41aZXhLkc+Eu/KnvlEP6DmM=
+
+Name: images/org.eclipse.jdt.ui/ovr16/read.png
+SHA-256-Digest: caU6Q0CEqK8ZlrEQjBp1P0+FeHf0xpMqLs7ComH5FXo=
+
+Name: images/org.eclipse.jdt.ui/obj16/field_public_obj.png
+SHA-256-Digest: OJ9Gyo92aWiOnXHiRny9TWy2rJtbc3KJ1NLRFUzfP7g=
+
+Name: reference/ref-java-editor-quickfix.htm
+SHA-256-Digest: ElVgY9v6BEZdoIAkYWaCJzZcr4x5VBAj6BRYIJXqH6k=
+
+Name: tasks/tasks-create-exception-filter-expression.htm
+SHA-256-Digest: a1ylZYmn15HUjZxEg46OAD2F/PJPAYj9MkA9tDRMs2A=
+
+Name: images/org.eclipse.jdt.ui/obj16/enum_alt_obj.png
+SHA-256-Digest: LqoK7gnmqk2HbdvvZW+7OdkGQZiNJj+Xv5fkSV4Nrm0=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout44.png
+SHA-256-Digest: /B2ZDJbzW0jQDke4SSb0SoiTgDPDxCPGB+7ljribmvg=
+
+Name: images/org.eclipse.debug.ui/elcl16/dissolve_group.png
+SHA-256-Digest: s20uJKlS1KKqKeanrhmN4gs0HYQMMW02+vsoOVzPQVo=
+
+Name: reference/ref-tostring-listcontent.htm
+SHA-256-Digest: xSTsV+4qoyn3ahJQ2gQ012DcjGF232DisVGXipxGxLg=
+
+Name: reference/ref-dialog-configure-working-sets.htm
+SHA-256-Digest: PFGPUJxySRlvPw0zre5Q3UBwOaJQN/udsoAKvVWmS/k=
+
+Name: images/org.eclipse.jdt.junit/obj16/tsuiteerror.png
+SHA-256-Digest: gd6S8arZN1Ipwdpt68HI57x4Jzh9iVcfBOL4kE17ctI=
+
+Name: gettingStarted/qs-13.htm
+SHA-256-Digest: W2ZqkVBvyjpecClTmoUGNNiNpGso00bzgrMHrRrRd90=
+
+Name: images/org.eclipse.jdt.ui/obj16/classfo_obj.png
+SHA-256-Digest: ZRel1b/Tu8HWlqyJD7K7SPNpYpinGyj48MPKTkAkAPU=
+
+Name: reference/ref-dialog-type-selection.htm
+SHA-256-Digest: 8YfGjNCwunHwwJ1gTC3HaxrJ08IwfFHvFDRy/D6acDs=
+
+Name: tasks/tasks-63a.htm
+SHA-256-Digest: H26WcniqpYjc4JSyoX6AbBX5ZB+Pu2xQ2jPQpCIEtWo=
+
+Name: images/org.eclipse.jdt.ui/obj16/info_obj.png
+SHA-256-Digest: RsfItlmT7h4YPynBvagPRTlyTWRn/agiiaIb85cU920=
+
+Name: images/org.eclipse.jdt.ui/elcl16/pin_view.png
+SHA-256-Digest: CB56lrh0Xx5atny3g8Iu9t9Vdcbbx8AnjK8TLcr1G6s=
+
+Name: tips/images/DeclarationView.png
+SHA-256-Digest: fzY/pJ5YGIGfFlM093rNR6lJh4wU48Uk3iPLG0UQaKA=
+
+Name: images/org.eclipse.debug.ui/dlcl16/stepbystep_co.png
+SHA-256-Digest: Ze0vdJvhIEtbksqkyyOZ67QKZOt6iXp3u03iRtONDp4=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/select-columns.png
+SHA-256-Digest: URs7iMv9rTI/O8i0XfECuYfFyhCsOuTMnsQ3JvBhfy0=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/classpath_obj.png
+SHA-256-Digest: fK/TmSVB4HiI4BnZbePtr9HtTUp3+vvF/bT7DJPilfI=
+
+Name: images/org.eclipse.jdt.ui/obj16/quickfix_error_obj.png
+SHA-256-Digest: fFqASXdwdcnwsKS1seShQzYDYBF9QKkNMSTs26e6ySA=
+
+Name: images/org.eclipse.debug.ui/elcl16/rem_co.png
+SHA-256-Digest: yu64hY25cJpRYqhMDuewwkBABALFVGZrQrcxHmRhrS4=
+
+Name: reference/preferences/run-debug/ref-run_debug.htm
+SHA-256-Digest: BKuh7ZPd8TRPv4zM3zTn+XstOxrZ3ioNWGJm2UVlQmI=
+
+Name: images/org.eclipse.debug.ui/etool16/run_exc.png
+SHA-256-Digest: fUdOeQuRxfooQnICSEQLv9zcIepsnBUP3l1eelCelpA=
+
+Name: tasks/tasks-77.htm
+SHA-256-Digest: 21WYRUe1ln5PJTSA921Lg0pIyAYizNPzEtnCz2Bo4wg=
+
+Name: images/org.eclipse.jdt.ui/elcl16/sync_broken.gif
+SHA-256-Digest: iXbXBK7I4ZAMSds0xJuKN3F9gCdFQJTWuc++oOtMRqA=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout6b.png
+SHA-256-Digest: /2AbCkJ9Ldblhs4kQJoxAVKHcfTH77WkF7sb1Tt99eA=
+
+Name: images/org.eclipse.debug.ui/dlcl16/runlast_co.png
+SHA-256-Digest: WE8ZYsCPIppEkfB8QsHn7jWtWSqJlQk5hmy2X/PYblw=
+
+Name: images/org.eclipse.debug.ui/dlcl16/synced.png
+SHA-256-Digest: GDvkdLNg2sWet93NCyCHqIrv/qm1DpclVCrTUaV1cjI=
+
+Name: reference/preferences/java/editor/ref-preferences-content-assist
+ .htm
+SHA-256-Digest: wKGygNJZUrxS16yE2MNY1dEO42Q7K7hmqTERYyOBcCU=
+
+Name: tasks/task-set_method_breakpoints.htm
+SHA-256-Digest: 8VTONUCA2hVpf7rkN/wctBO9/N+01HILhUH+iDVGBAM=
+
+Name: images/org.eclipse.debug.ui/elcl16/det_pane_right.png
+SHA-256-Digest: PHoGGr+YxUUNL+RhfXx61NdiU7YYk2xAQQpoXVycapI=
+
+Name: tips/images/code-assist.png
+SHA-256-Digest: 5Yp32TRC8C1YsR9lx4HM6BDXE5opmD4INoBj2pcwl5I=
+
+Name: reference/views/debug/ref-resume.htm
+SHA-256-Digest: ackNrlxeU6gviyE29WR/OEFyDVgj/nlDOlPGQvxQJXE=
+
+Name: reference/views/breakpoints/ref-selectdefaultws_viewaction.htm
+SHA-256-Digest: OPskTQ0FfsD513ZStwtbvhMzyPe2nuIdkkqxYaSNgvw=
+
+Name: images/org.eclipse.jdt.ui/obj16/innerclass_default_obj.png
+SHA-256-Digest: fN5kA2/Ny+pO5beJuC6LlFMVcJBuM6k5ulJ7IcQH7EY=
+
+Name: reference/preferences/java/debug/ref-logical_structures.htm
+SHA-256-Digest: hnY7B2drFFgfim6w096zHMN/zrnJf0e0bL8/ln4PbbA=
+
+Name: images/org.eclipse.debug.ui/obj16/inst_ptr_top.png
+SHA-256-Digest: 65TFhYs5pc9GvCXJ/GdH1kOHU/81DjmJlXaSG+CX7QA=
+
+Name: images/org.eclipse.jdt.ui/elcl16/jtypeassist_co.png
+SHA-256-Digest: 2/xHOJOLQHccVULFjP91wrYkKELePgzQ78Z+8qHfm14=
+
+Name: reference/views/shared/images/force-return-code.png
+SHA-256-Digest: 3/dUAAfz4Dj5BE+pUVW3KjHw9C8ueRXKwQQATXntAIg=
+
+Name: images/org.eclipse.jdt.junit/elcl16/compare.png
+SHA-256-Digest: h773RiLDULqGwCu3OpXWkzxdu5nnBjRmLqTnZjwVG/0=
+
+Name: reference/views/console/ref-terminate_action.htm
+SHA-256-Digest: KoKDpwAqlXN/JS9cy3DOJubvICo2YvSqgpUFpqr6CYY=
+
+Name: reference/views/debug/images/ref-monitors_supported.PNG
+SHA-256-Digest: +zCchBokDEwhxlzAg59/I1Cvo8J70PbEF1jwxoRn6M0=
+
+Name: images/org.eclipse.debug.ui/elcl16/toggledetailpane_co.png
+SHA-256-Digest: rOEuLisFzwyDf78A8Tm2U7EgwK2w3xeTc4qmXiNTMso=
+
+Name: reference/views/debug/images/ref-filtertype.PNG
+SHA-256-Digest: Bcoe6Go9RuUAqJehHAgGp8ZaxyrAPibSf8yh/U6zgNA=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/detail_formatter.png
+SHA-256-Digest: JH3ocnljsit+0kUdiFg0A/AukOydHoLpd++olpdtlHA=
+
+Name: images/org.eclipse.jdt.junit/obj16/tsuite.png
+SHA-256-Digest: 8uE6vWMcobQrHuLnXW4DGxNVrWSdcxPNfjFMl5c6u0M=
+
+Name: reference/views/breakpoints/ref-modification_contextaction.htm
+SHA-256-Digest: 1rSWewYBIarD2U4maMYBHFiYk8Qr34j2tXJabzbW7rU=
+
+Name: images/org.eclipse.jdt.ui/ovr16/java_ovr.png
+SHA-256-Digest: x68ROc/rPRc5r/hUaeNGiPaKoL8StiNY1rqxmMIviMQ=
+
+Name: gettingStarted/images/j2se50/view_search_listInteger_inexact.png
+SHA-256-Digest: sekp2YPThPAmsJGukzSxlR4GI57AfVeGVXHMR49PBC8=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/entry_ovr.png
+SHA-256-Digest: eDwNr0YJdPF287p2Fl4g5dgZjDXlXW8uPs9oPiXVlbQ=
+
+Name: reference/breakpoints/ref-condition_option.htm
+SHA-256-Digest: 6LCQcfomibge45IO4SUNC2rgxKo9hHqocyl9ghQMJa4=
+
+Name: gettingStarted/images/java7/move-exceptions-to-separate-catch-bl
+ ock.png
+SHA-256-Digest: AW9EFRoyBcYTv5z5pM7UWT/LiPMHa2nXW+Vtr7wGrlU=
+
+Name: images/org.eclipse.jdt.ui/obj16/translate.png
+SHA-256-Digest: usbzr0qOqw9RWl3x5V8E1ZKeAnTT5y/1FwStFuLt010=
+
+Name: gettingStarted/images/move_dialog.png
+SHA-256-Digest: 4Fl3lQO3/PVmnDB6nA33guC990IkkQX7xVA58ndt04k=
+
+Name: images/org.eclipse.jdt.ui/obj16/enum_private_obj.png
+SHA-256-Digest: snqatmL+obQ2ApS204iOM6nQeBi2MnikaBVvOnIWMsE=
+
+Name: reference/views/shared/ref-togglewp.htm
+SHA-256-Digest: xbqrYu/VyhFxBUxFYS341rYvBJfnLckeK96C2Ki0BQs=
+
+Name: reference/breakpoints/images/ref-breakpoint_suspendsubclass.PNG
+SHA-256-Digest: S9SLF0WHimK1Yg/qGAQ1ZXrR4eCezW+A/I08I+EeOgQ=
+
+Name: reference/breakpoints/images/ref-breakpoint_uncaught.PNG
+SHA-256-Digest: ksgqIesvvLaHDEWKNspnzbx4aSqxyde2qCDgZJtEgWk=
+
+Name: tips/images/hovergenericsignature.png
+SHA-256-Digest: WTwpu16vZ69oZN7rRA1cWex1xNCfONz7jga95HPA6/0=
+
+Name: images/org.eclipse.jdt.junit/obj16/stkfrm_obj.png
+SHA-256-Digest: iOwt0gCtluVJVGSEYMU4vM96vbgBKica1xHn3XIQOiQ=
+
+Name: images/org.eclipse.debug.ui/dtool16/run_exc.png
+SHA-256-Digest: 9JjuGPgSTAeB6IIFKRsFr2AZh9ql7YoVYWiSqLg9QN0=
+
+Name: tips/images/type-filter.png
+SHA-256-Digest: wRV+JJBzNUDWCWIb0nv8uBqkpluaDIzWdtM/zEdJALU=
+
+Name: reference/views/expressions/ref-reevaluate.htm
+SHA-256-Digest: XZ+BSH/K2CCSk0acdnxUkatEpv/Uau0HoPOnKTszcQU=
+
+Name: reference/wizards/ref-import_launch_configs.htm
+SHA-256-Digest: VCOfebMQOHVZtfuebO/vZVRyQrOb5piJtBCkY4dfoug=
+
+Name: gettingStarted/qs-WorkingWithExistingLayout5.htm
+SHA-256-Digest: GMmm3h+WDbWou2GZr6hdOoh7lXDPM5uf9GPNttQ9E1I=
+
+Name: images/org.eclipse.debug.ui/etool16/watch_exp.png
+SHA-256-Digest: GtZPCnWOzp7klKSKJxS4UsjN4ykUS+GBufnYNz8pcwA=
+
+Name: reference/menus/run/images/ref-run_dialog.PNG
+SHA-256-Digest: bRPrN88ozixoahnVFyGX3ZzZ9cnR3gof1FjPG48uK2I=
+
+Name: tips/images/ignore-warnings-source-folders.png
+SHA-256-Digest: P4KrUpVEAwMFlt+hYP+eMTsgqH5fOMTec5yPBkY1B1Q=
+
+Name: tips/images/override-method.png
+SHA-256-Digest: z0Lc5CcA3fzAgeUAR1ZWUb7WVEYOQhpOpus33z5pPLQ=
+
+Name: tips/images/quickfix_convert_to_static_import.png
+SHA-256-Digest: XXM/FvWUYzrjdbBYDmDvTNkLqTQHp4e05Af2yoNjyFo=
+
+Name: tasks/task-remove_line_breakpoints.htm
+SHA-256-Digest: Ni0WELO9sLPOUcLgPwtAElJpv3VSVQFKppHVJ9Jagkc=
+
+Name: tips/images/code-assist-argument-proposal.png
+SHA-256-Digest: XEJEqodicDa9I/jTj7rfqsk6yC5vUxqtUzLQK9OuT3E=
+
+Name: reference/preferences/java/debug/ref-step_filtering.htm
+SHA-256-Digest: QuXlIMjlAMuGCa3TXLyJwP5XnI8y73GLLrK1Kh1KV54=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/caught_ovr_disabled.png
+SHA-256-Digest: u8bQRq0qSJJ7jr6L3HmoV2e3Spg2IeOJm7Bb9wJjtWw=
+
+Name: images/org.eclipse.jdt.junit/obj16/testfile_obj.gif
+SHA-256-Digest: czhtR889p9mdKXGnS3emvZ7/AhE/ac2pskhBACpG4pA=
+
+Name: images/org.eclipse.jdt.ui/elcl16/alphab_sort_co.png
+SHA-256-Digest: n1zbnN8ldDh+P2U/xNbzYVMySmkom9V0Sh9XgZnwNdI=
+
+Name: reference/ref-icons.htm
+SHA-256-Digest: ysulPJo8PBQ2e+X7CE6YBA7WXX9RSLJPqnbqtAeY7kk=
+
+Name: reference/preferences/java/editor/ref-preferences-mark-occurrenc
+ es.htm
+SHA-256-Digest: MXLvEvRWnUJIVNXY0psk5N1lqjwYm/NSnXnZMRtaqYQ=
+
+Name: images/org.eclipse.jdt.ui/etool16/newjworkingSet_wiz.png
+SHA-256-Digest: tH916+QMFxadS3e0ifnHKmpgGhAdqxy/pCzA8WFOj0A=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/jexception_obj.png
+SHA-256-Digest: 5k5h2b79rdIXne349ELOpkkf6tdNQT1olhN1ayug+uk=
+
+Name: gettingStarted/images/workbench_testcase_errors.png
+SHA-256-Digest: jVmgTIhPohtcYnsmBWLRD+GN3Z8aiq8HnspFGVwJxbU=
+
+Name: tips/images/completiononcamelcase.png
+SHA-256-Digest: imvg3odVspjVBpzehw4klYCNlgI88x9XLAdGLSLuoag=
+
+Name: gettingStarted/qs-OrganizeImports.htm
+SHA-256-Digest: 8/wemCZsRc6KGbPVEa9jIUkKC4zViFDZk4w+OsLqsSo=
+
+Name: whatsNew/images/lambda-variables-view.png
+SHA-256-Digest: RsKyBhdibRYaSlTJO0azWZVRMwIdXN21ZeYZjMKX0LE=
+
+Name: gettingStarted/images/j2se50/suppress-applied.png
+SHA-256-Digest: A1RlQpS2E2nKl14PHleS+XOErIU0G0kSU/ZSB5uuN4M=
+
+Name: images/org.eclipse.jdt.ui/elcl16/gointo_toplevel_type.png
+SHA-256-Digest: VxoUdcTHt2RWXIWE0dUUg4k5emRvSVv/DlabqKhHYR8=
+
+Name: images/org.eclipse.jdt.ui/obj16/jar_desc_obj.png
+SHA-256-Digest: DopNUPQ42J4DoBpmOZnHj6VfS7Rvq2VIyEBWeeHI4xk=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout42.png
+SHA-256-Digest: N3AHzcXxzly/jJm2OspUrqLxZrNdcPoNH8vYXcBFARc=
+
+Name: images/org.eclipse.debug.ui/elcl16/writeerr_co.png
+SHA-256-Digest: 2EuGw1HpGR97eTYuRB6EXwJjUbhJvLr69AKZFe3NCIo=
+
+Name: reference/views/shared/ref-paste.htm
+SHA-256-Digest: c6MhUNnG5dLScoFjzdKJvXqIi3E+/5p1RXYvrp3TK3w=
+
+Name: images/org.eclipse.jdt.junit/elcl16/th_vertical.png
+SHA-256-Digest: jvIflql0c88RD8GILM+Ne2f0HCP85/7+rMe2fuK7rO4=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/perspective-prompt.png
+SHA-256-Digest: CtB2qtIboQjDx2/TvP8vZg/R8X7wIvjhB/fmLQKUFb4=
+
+Name: gettingStarted/images/j2se50/view_search_listInteger.png
+SHA-256-Digest: PR2JDvMURfxB2XH/iZHwXAVzesOHCxBDNdvTyrTuLLc=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/envvar_obj.png
+SHA-256-Digest: Wj7GiDI+YuXatJmi3D54T1FnhRMWjgLhoidLXWEWbdI=
+
+Name: gettingStarted/images/java7/add-safevarargs.png
+SHA-256-Digest: 8MK0uN5EuHqhW3KYNQTwsBo3hGelziPEqcibgLSZfoE=
+
+Name: reference/views/debug/images/ref-find_dialog.PNG
+SHA-256-Digest: UM/HDWJ3Nn4Y83NH0PnaVl8NV4aBbCf46rZR/KRtIMc=
+
+Name: concepts/concept-java-views-decorators.htm
+SHA-256-Digest: rJ8Es0ZGWpmAUUkdBmEiNm48b+Y7feKZGKw1WyMflwg=
+
+Name: gettingStarted/images/wiz_new_testcase.png
+SHA-256-Digest: 2ou8YKPwBGFCcqU9iJB1mLk9Lw4j2IKZ8bqrrwTfcIs=
+
+Name: images/org.eclipse.jdt.ui/obj16/annotation_default_obj.png
+SHA-256-Digest: uZ4mxngqhuc+lyirvSJMJ5SVqxL4nbqIz0QXP1/HKdQ=
+
+Name: reference/views/shared/ref-vertview.htm
+SHA-256-Digest: W/JoaJfd3/UXb6Q5KIknbLCc755RzHjuzMvXUVrT5tc=
+
+Name: images/org.eclipse.jdt.junit/eview16/junitsucc.png
+SHA-256-Digest: izCUgSRTMRUhzHiEiPRWo5av4UgboJMnFTPBdhsnYzM=
+
+Name: tips/images/is-modular-configuration.png
+SHA-256-Digest: Q0cNt6OtokgDTrvBaYrLqjE1fTRZ7c/H+fUHIOubYCk=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/sync_ovr.png
+SHA-256-Digest: XV+KoZR6q5mOEaBw0aTCLswrv3ZJwjxjxIUVQltdivk=
+
+Name: images/org.eclipse.jdt.ui/eview16/javadoc.png
+SHA-256-Digest: DrGsRokwoOC+5FQee+wt8oV6ldmlyUtW64ozJWgVC2Q=
+
+Name: gettingStarted/images/editor_mytestcase_field.png
+SHA-256-Digest: HaQpq1hw29EuaeSSGCk8Kn8xOjFJ2NJiCNMZkMgJDxk=
+
+Name: reference/views/expressions/images/ref-reevaluate.PNG
+SHA-256-Digest: kWqbcvQh1jiGC/yGy0vmR/hT49CbgqpCPABF0YTUtlY=
+
+Name: images/org.eclipse.jdt.debug.ui/ovr16/owned_ovr.png
+SHA-256-Digest: 3eWT1TKKyTdzIenRtAuIS+m2OCmtfBzcCydOSNrzi3E=
+
+Name: images/org.eclipse.jdt.ui/elcl16/remove_exc.png
+SHA-256-Digest: vrFfCXI/K/vSMWWISup1V698E/5wTqLM1/7+NsPoXns=
+
+Name: concepts/cdebugger.htm
+SHA-256-Digest: a0cvW7zxlaT/muK5kpk8YZ4r54kbkEE9RVKMERANHjc=
+
+Name: reference/views/shared/ref-selectcolumns.htm
+SHA-256-Digest: beFD6fiNAzoxplqKubrBRBfCJoPymAOXqJa2zS49TLg=
+
+Name: gettingStarted/images/view_search_research_menu.png
+SHA-256-Digest: 4AYbB9p5kw9SxVXwve8c9Hibe+Cx4d5UGaV6IMsfVd4=
+
+Name: concepts/images/qs-37a.png
+SHA-256-Digest: 6tE+MaXSaRuTA1TFxPn+kBatnFnOwq8ZdrodorJ/TNc=
+
+Name: tips/images/warn-deprecation-x2.png
+SHA-256-Digest: 7F+d3Q1JU714rxKA060UZDQVND59L0/Xt3e3tDv3QV0=
+
+Name: images/org.eclipse.debug.ui/obj16/brkp_grp.png
+SHA-256-Digest: kxg1+1dMZNVNwzWSGEWBz2zBS3S3EmRxNBfljAQQQm0=
+
+Name: gettingStarted/images/editor_mytestcase_outline_override.png
+SHA-256-Digest: uQK9vyw1YOBTRQmbPN+6CUJIM5drXdxK5wbBmFVoTss=
+
+Name: reference/views/shared/ref-showlogical.htm
+SHA-256-Digest: Wk4en47FXuScmUVX+uDE2ldw4gRvyvQBQza/CZFuTHk=
+
+Name: images/org.eclipse.jdt.ui/obj16/jworkingSet_obj.png
+SHA-256-Digest: ms5LDfR7Y9LOd5/QydvWCk+weXLxdh2F3lcg3V/WrPI=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/expressions-history.png
+SHA-256-Digest: E8mNljFFF7+iyzDKQgz7rRE7WPZsNJ9/+PfGeVJ5CUw=
+
+Name: tips/images/package-abbreviations-off.png
+SHA-256-Digest: 4bPD+umRZv08GEwR/7j+dlAvb8WYwECgGp62bZwVCaA=
+
+Name: reference/views/debug/ref-executioncontrolcommands.htm
+SHA-256-Digest: gGrHRTjrqsRuLJTtXA4wVxHyMQ2vfN31rhITQW3WV1U=
+
+Name: reference/views/expressions/images/ref-java.PNG
+SHA-256-Digest: jZjTp/Jv9AjvdRpewoS5yjlfL4KGTy5Hp5A5f0u0HnE=
+
+Name: reference/views/console/ref-removeallterminated_action.htm
+SHA-256-Digest: PfJby+P9bfUket37wf+hFUiTI87vrtcITXCE9PA/nnU=
+
+Name: reference/views/debug/ref-stepinto.htm
+SHA-256-Digest: 6N2MB0y8oxT4OSh3E2fWUZV+knNYKqCO8UG2g8SMgIo=
+
+Name: index/indexed_docs
+SHA-256-Digest: TW7NjuHnXB8Q3FAR84u+UnsjrVi/FaIsedtxuFVOqPM=
+
+Name: tasks/tasks-consoleAppearance.htm
+SHA-256-Digest: FiU/SZWJLP2cGJzVhqjYNRkfX8oPoB6xH7UhM8Q1l3g=
+
+Name: gettingStarted/images/editor_testsuite_outline_collectinheritedm
+ ethod.png
+SHA-256-Digest: h72AESikCUnPdUPFcEnwK/JCcj/TM6keQrQaow6tado=
+
+Name: images/org.eclipse.jdt.debug.ui/obj16/contended_monitor_obj.png
+SHA-256-Digest: RTJ4805eurUSeCtR2YHK7fW8lFnSfRDEKiL+CSjYwwk=
+
+Name: images/org.eclipse.jdt.ui/elcl16/include_on_buildpath.png
+SHA-256-Digest: 2afdU4GSV1OKzTlSHcgsPJ0ekDBtwEv95dTl4pc4Lvc=
+
+Name: gettingStarted/images/qs-WorkingWithExistingLayout46.png
+SHA-256-Digest: EQA1kyH0kwaWXbAERFtr57RyLfRrTtWUdCLEvO6a73k=
+
+Name: gettingStarted/images/j2se50/enum.png
+SHA-256-Digest: Ow4y0ekeAL4B7zJQ0LLySSKwFefDrhh0xCmILSX/OXg=
+
+Name: images/org.eclipse.jdt.ui/obj16/ignore.png
+SHA-256-Digest: VeSPrCHGNDHMqoswL7p84XGjWQ6TKs1XojsdQqF3VQk=
+
+Name: tasks/tasks-75.htm
+SHA-256-Digest: uVFbC88eXOw9pA3xilNP3kKy2AVah4pYS1KVhxnbICI=
+
+Name: gettingStarted/images/wiz_new_project.png
+SHA-256-Digest: AUPCCVi3ciWHoDrUKBcXI84Oi0H8MX3j83gicMDlfMs=
+
+Name: images/org.eclipse.debug.ui/dlcl16/lock_co.png
+SHA-256-Digest: biKF40nBlO5RXG29aTAP7PSbvVv3/LY60SMOlR71oHg=
+
+Name: reference/views/shared/ref-wrap.htm
+SHA-256-Digest: uqjL1CunWO72N3d7xOz/QTm7txMuiVOWjVi6GAVc9VI=
+
+Name: tasks/task-relaunch_program.htm
+SHA-256-Digest: AgkNiLRRphPUUnyyhLCXIsCzopWKCl5IELgvRs44w9U=
+
+Name: tasks/tasks-java-local-configuration.htm
+SHA-256-Digest: eeqMKubgnf46NA9sBI+YBolBbkMWeYdM2EhfN2cbjZc=
+
+Name: tips/images/codeassist-getter.png
+SHA-256-Digest: CrTxlkuAL6D+dAB9vqszyf1SWfEyYHySOnm9tDGzPOs=
+
+Name: gettingStarted/qs-9.htm
+SHA-256-Digest: aGYvuPUNtDIVFDrBI3nfY0EBH9n76N5VGOYC9xETrnc=
+
+Name: reference/views/debug/ref-showsystemthreads.htm
+SHA-256-Digest: +ccUkMRtyAY27+Jer9uUah9Mxgf40zKm7qHqGtnNQDU=
+
+Name: images/org.eclipse.jdt.debug.ui/etool16/watch_exp.png
+SHA-256-Digest: L+pqXpEXXJk9/Ij/tptpzZRY9xxH7wtSXz7E+8wAKkA=
+
+Name: images/org.eclipse.jdt.ui/obj16/quickfix_warning_obj.png
+SHA-256-Digest: AsswLxjXVvzYlqkxSO0vEOvCt8sEL/hyISadmk3hdds=
+
+Name: tasks/tasks-32.htm
+SHA-256-Digest: 2T0PlTC1++r4lHBVKsTjpFP9GKPzfTOHXRIO/OQQcjc=
+
+Name: reference/views/shared/ref-showcolumns.htm
+SHA-256-Digest: 3w2cDGu06IQ5kiKg/iLAiesO1RmtJ12UzoaJqsSMNyY=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/class-load-breakpoint.png
+SHA-256-Digest: fgkxV3cDWIiajczec7TVpdvFcdbXYbhRmFFpMnwm6vI=
+
+Name: reference/views/shared/images/ref-inspectresult.PNG
+SHA-256-Digest: CooSfVA/i2FJI9d3u0UGHWXJc6mZi+Vs94N4g16PdeE=
+
+Name: reference/preferences/java/editor/ref-preferences-templates.htm
+SHA-256-Digest: D2EPu3Zp7D5NYJ6nE4NUgfvDE7gxbSFcBIdu8nc/S+M=
+
+Name: images/org.eclipse.jdt.ui/ovr16/static_co.png
+SHA-256-Digest: H4O4f+h7LzZQ4BO6+j3v6PSro1qUwwYWfybwVS0i8DQ=
+
+Name: images/org.eclipse.debug.ui/dlcl16/tnames_co.png
+SHA-256-Digest: Pn8uWqGcEtUHqtIkX27ZvEK7HAwDubOrfhnDb+Od+PU=
+
+Name: contexts_JDT.xml
+SHA-256-Digest: j1d1hhcRMvjnDPGxKBhzyxlaoi2sTO+mKxN5oeTXdBE=
+
+Name: reference/ref-jdt-faq.htm
+SHA-256-Digest: Lu/nqBeknM7taIBQmjRmbqj7AuaDraZIuebRPGS0ong=
+
+Name: reference/views/variables/ref-variables_view.htm
+SHA-256-Digest: FDoc+q5YAc+YzCw3/SZSgCtmgzdAOxLGJAAkLOhks5Y=
+
+Name: reference/preferences/java/buildpath/ref-preferences-classpath-v
+ ariables.htm
+SHA-256-Digest: nS412+MPdHsCwX3zV2FpqXoRslS7qY4H2b/gb2D964k=
+
+Name: tips/images/show-junit-failure-trace-in-console-view.png
+SHA-256-Digest: u2HbmXdyjmkv9jtdqXaznc+MQqZDdfsqfXjSzN+7DFM=
+
+Name: tips/images/org.eclipse.jdt.debug.ui/process_properties.png
+SHA-256-Digest: ZLyQjCDqdGyS6ITPpHK3uGnVA26b3WFHNhLXEJrunJs=
+
+Name: reference/views/shared/ref-preferences.htm
+SHA-256-Digest: xmDZrhLX7MtkqC3XIADyUdUuuNY8LtaCym5vRV8CSuI=
+
+Name: plugin.properties
+SHA-256-Digest: TmBRPdjX9ozA10kbRVLcBMpGB5Ih/W1gz7AdR0/F+Y4=
+
+Name: tasks/task-resuming_threads.htm
+SHA-256-Digest: 3QD5svYtrND5dcdI/G9fW733aKGRsMbMdAxs30iYEaU=
+
+Name: tips/images/quick-fix-uncaught-exception.png
+SHA-256-Digest: +ntJ4qkX2qQPOXfiLtRjjfsckRt0yp1//OsYnhby+tg=
+
+Name: tasks/task-manage_conditional_breakpoint.htm
+SHA-256-Digest: Pjwxk6RmbzC4L7dK1K/X0xdEaQ2/hrmgQr8QZJ92B3o=
+
+Name: gettingStarted/images/quicktype_dialogs.png
+SHA-256-Digest: r/hPHx2j7Ipk14vRiqkLHCk0F6Kvu+bk2PryAHznIB0=
+
+Name: reference/ref-tostring-styles.htm
+SHA-256-Digest: ZXJKRUa1ZiE9f0Hlt2f2ctVEh1v6skNg6jfpjM3uBYo=
+
+Name: images/org.eclipse.jdt.ui/obj16/imp_obj.png
+SHA-256-Digest: qRwC/BaevXvwfrKZ1sYw9HWa7HpKZRmnzgyV/b8fcos=
+
+Name: gettingStarted/images/view_console_success.png
+SHA-256-Digest: PdUlVVa20JxbwE87lSLo+AT94EBiuNKb5Bl1hPLsUDw=
+
+Name: gettingStarted/images/qs-DetectingExistingLayout1.png
+SHA-256-Digest: K+SpSAe4KZevchQDXpX5jH0eKqF/RVsbfvzY9SCW/mQ=
+
+Name: gettingStarted/images/generate_getter_setter_dialog.png
+SHA-256-Digest: J/HmniMAFzLeydxbvMW79VJ09tx4Smkb8mwb8TUwWQc=
+
+Name: reference/menus/run/images/ref-debug_history.PNG
+SHA-256-Digest: rvVSPPoLfQy2SPwX5mgg1ypjUkpTVCW1faujCk2q1iY=
+
+Name: reference/menus/run/images/add_class_load_dialog.PNG
+SHA-256-Digest: zo49gxD2aZnLZwRfYfnLfc4tTnIEiAqrHADF1GcOcXs=
+
+Name: reference/views/debug/ref-opendeclared.htm
+SHA-256-Digest: BAtLs7R4w+t4xDJ4uJZJY7jgemTbfAmU/l3NpyDxiWE=
+
+Name: whatsNew/images/quickfix-missing-case-switch-statement.png
+SHA-256-Digest: DoEMzrSFZmBLmXmTH94nPMWiFsmrv23GiolL2mJgE3Y=
+
+Name: images/org.eclipse.jdt.ui/obj16/field_protected_obj.png
+SHA-256-Digest: /7uz65LNdrgNcmjNQ+x9/EbIbw7rXXJ0WESb13S1eqQ=
+
+Name: tasks/task-assign_default_jre.htm
+SHA-256-Digest: ssTQwRvfqExYHVCGFL2f6d2fEfe2P0wEKQ4CTB+5Io8=
+
+Name: images/org.eclipse.jdt.ui/ovr16/sync_over.png
+SHA-256-Digest: C8VVDH4/c5xEs2Dha1Tk7o8Yjieqz1DhkLLb/qr33mk=
+
+Name: reference/views/breakpoints/ref-sortby_viewaction.htm
+SHA-256-Digest: b1U4qmI32R5yobQfBqoNgdDI/EahUx/sVjW8yUNLeMY=
+
+Name: tips/images/quick-assist-assign-statement2.png
+SHA-256-Digest: XiSahSziVLDZt50kLRNQTsFXjsYkGFa2JKoQUPxuLeU=
+
+Name: images/org.eclipse.jdt.ui/elcl16/inclusion_filter_attrib.png
+SHA-256-Digest: AgAnYJjU07A9xLO1bxuQYFdXHasU95XDRlCRRFGLriM=
+
+Name: reference/views/shared/ref-cut.htm
+SHA-256-Digest: owGnvDzrPg7RSf/M6uDdIw25gFv8mXyXRACmnVeOEi8=
+
+Name: reference/preferences/java/ref-preferences-code-style.htm
+SHA-256-Digest: MR3EwBhx0cXAkgt0TECAYTdYkeZySHwI+M0MCIwBcyE=
+
+Name: images/org.eclipse.debug.ui/dlcl16/terminate_all_co.png
+SHA-256-Digest: HTQv4A4WTWMPRGV2kKFZucYOm/+YaAmDITUp429j8pU=
+
+Name: tasks/task-running_and_debugging.htm
+SHA-256-Digest: bquqgToXXDakjHSWMowObVj4lBJjKM4w6b9oZEqYH68=
+
+Name: reference/views/shared/ref-copy.htm
+SHA-256-Digest: 8akRna0cd1cQOpqA/tyqcEMZ/5nn+RPn/u5LEDWuzpw=
+
+Name: reference/views/debug/ref-layout_tree.htm
+SHA-256-Digest: 2uTkOCjcU1CcMU4e2/DRLTuqjeGnVoMdt3ToT2h60Dk=
+
+Name: tips/images/suppresswarningsR31.png
+SHA-256-Digest: E1zUCy51s+uQ7kMNgOST67bF16dWLhF6tNkIQ25s5ws=
+
+Name: about.html
+SHA-256-Digest: dcjCGP6GLopAddnYfvLHYP0onCY9NHwbSoopY+Cd2KU=
+
+Name: tips/images/build-path-actions.png
+SHA-256-Digest: uLGq2tpjAOb2PGF0bnaHHQX5AbbG5QGHNUN35Ek0CBI=
+
+Name: reference/ref-menu-source.htm
+SHA-256-Digest: oTUwqZxI9NEuuH2Ba/3AqS0BuY3ZaNU9r3LmJCwMcXA=
+
+Name: reference/preferences/run-debug/images/ref-string_dialog.PNG
+SHA-256-Digest: jAi1srIMXHiOJjnu6hKZbgL9JcYAMSAw8Ow48U3T3s8=
+
+Name: reference/preferences/ref-preferences-java.htm
+SHA-256-Digest: RLhdp/r5pQbKVihX+idA6WYGfYI3zkreUEBllQXCyJY=
+
+Name: images/org.eclipse.jdt.ui/obj16/empty_logical_package_obj.png
+SHA-256-Digest: ddBbJM3C8GGJxIHl2uTvMdeQQpR1L7x7O1AJ15lX3yE=
+
+Name: tips/jdt_tips.html
+SHA-256-Digest: 2fUvJ46+Yu0AN1vPgCZQwIMi7Vp9EAWlOx0dEvKjtI4=
+
+Name: images/org.eclipse.debug.ui/obj16/lrun_obj.png
+SHA-256-Digest: JJrflKj4ULL5j1jeRrjIciZMJ1umyZVaVXC8SRbSyGk=
+
+Name: reference/views/console/images/ref-stacktrace_console.PNG
+SHA-256-Digest: Akkg/aqXGRphHBz6XIS+2GOl6H05EwztFis10axVZMs=
+
+Name: tasks/images/task-memory-new.gif
+SHA-256-Digest: +nLdViWZEBjjqSGwcsXci7T3H+VgpKI4mTaUnSQxObg=
+
+Name: gettingStarted/qs-EditorTemplates.htm
+SHA-256-Digest: DUZ0w1wTxI+Cm8GyjjKy6KK3ttu50OhCUp6JsDwrGfs=
+
+Name: tips/images/template-for-iter.png
+SHA-256-Digest: /Y1jldZAAx5ozOUkNddQjJY5uTvnldBBfk/cSSABJyY=
+
