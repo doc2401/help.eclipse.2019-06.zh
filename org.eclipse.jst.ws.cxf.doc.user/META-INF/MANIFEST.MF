@@ -1,0 +1,213 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.jst.ws.cxf.doc.user;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.300.v201902162149
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Require-Bundle: org.eclipse.ui;bundle-version="[3.4.0,4.0.0)",org.ecli
+ pse.ui.cheatsheets;bundle-version="[3.3.100,4.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webser
+ vices/webtools.webservices.git;path="jaxws/docs/org.eclipse.jst.ws.cx
+ f.doc.user";commitId=666b8d4c2548adff69f618ca8af90571e7d1f14e
+Bundle-Vendor: %pluginProvider
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_192
+
+Name: tasks/images/project_facets.png
+SHA-256-Digest: 78kZg0yemkGUL2w41er1a3th6HnG0u/WDNgbqqagIv0=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.cxf.doc.user/pom.xml
+SHA-256-Digest: inEAKQmZkp5CQpq+VCd5RDAuuHw90SIkWgg9Qk0vUtc=
+
+Name: tasks/images/top_down_wizard.png
+SHA-256-Digest: xYXLpyqFic0GX4ysYTX9aYoK29qaBr/pef7wLH/Zpds=
+
+Name: plugin.xml
+SHA-256-Digest: Nsj9FYBaL1WcESbFnLtOV/IYrkTWtrVw1hDzT1YoHZI=
+
+Name: cheatsheets/create-tomcat-server.xml
+SHA-256-Digest: PznvuVc98ssI/tYY0Gczzy+gOAZFZgQZGS46z+n2+D0=
+
+Name: tasks/images/module_dependencies.png
+SHA-256-Digest: bMgEBrl9sc/saoyHkIoNEzsq8Nl4C2L9/+Pcnunin80=
+
+Name: reference/images/jaxws_annotations.png
+SHA-256-Digest: pmZ0Hf2nx+OBHx4s1UjGcGIjdHSI4LtxSnR1J+e6kBg=
+
+Name: tasks/cxf_ant_ws.html
+SHA-256-Digest: J41ruFhAAIU9tVPv+NXAymiVzeSAjvppIit+7aq5z2s=
+
+Name: tasks/create_client.html
+SHA-256-Digest: 7Q5RrwIjiGcH+j6zaAaarXESe3eHf4ezCKizHOEckjU=
+
+Name: cheatsheets/create-bottomUp-cxf.xml
+SHA-256-Digest: pySI8PdsSWXn9emNGdCb4A7Syv9bu1GK8qqzzlp4FAA=
+
+Name: tasks/images/ws_client_wizard.png
+SHA-256-Digest: SkE+sX4MRy6BEZaS+k4r73A4Hc3SeXA6ySFmsuWDYJ8=
+
+Name: gettingstarted/quickstart.html
+SHA-256-Digest: 9jAu1TdtM7BQIb+1hFBpxWIhyg9wjT755ShAdXB2+wA=
+
+Name: cheatsheets/configure-cxf-runtime.xml
+SHA-256-Digest: isj2LkdTmwpVOoWf+JVwLZX/h0zh0BmkSssLddbtsdQ=
+
+Name: build.properties
+SHA-256-Digest: /LARCIWb0gMxPu2e1KQxHcgRwQ8mimGwLZ/lmyeOaE4=
+
+Name: book.css
+SHA-256-Digest: Rbq9yzwWZS2OoFVCKV/g8OFEeQ9PbHUwgCZBKLMyPuM=
+
+Name: legal.html
+SHA-256-Digest: /LX7h6I/biUQM3CS6THzcPC0mpL0Fbd8+VCriIV7o8A=
+
+Name: tasks/create_bottomup.html
+SHA-256-Digest: rb7qG9XaCo6hAvLbp75UxSSTALaldMklQ985mTACg9I=
+
+Name: tasks/cxf_ant_client_prop_ref.html
+SHA-256-Digest: mDGmiPMojO6B7WHLTTgCsTLJuVlU9SpKyySyS+In5OI=
+
+Name: plugin.properties
+SHA-256-Digest: wROHOBxCemeVbnnwrNDkB7ABnWAZbKYZKlNmRINaUDE=
+
+Name: images/ngrelr.png
+SHA-256-Digest: dBehnQIDM4iTl4UnBZnqWWLTcoxIbDsfbJDQk/8KC6M=
+
+Name: tasks/images/annotation_processing.png
+SHA-256-Digest: 57KSmjVky8hYrGK1qjrDERQNqJg2HxFdgGrD7zUMP40=
+
+Name: reference/images/wsdl2java.png
+SHA-256-Digest: NfHalzJ8EQVabEItLkYMqP4OWm6W8qTw6fAJKaczZnY=
+
+Name: reference/preferences.html
+SHA-256-Digest: 6XVVLv9lSsimdvCefmeHD6Y143LS3ja6l4J3iwHmW34=
+
+Name: cheatsheets/topdown-cxf-composite.xml
+SHA-256-Digest: gP8a0FryVxUZe/ffBW9a3B8K1n/RQQgVGuB/M7WGzN4=
+
+Name: tasks/cxf_ant_cmd.html
+SHA-256-Digest: vq4pauWRMT27CTJ+akX7I0P2wUuxqh/iX0Pr5Gnopuo=
+
+Name: cheatsheets/generate-cxf-wsdl-client-composite.xml
+SHA-256-Digest: aYkxr5waX0AM/LlLJ67K4ZfkZlIhX/82dKaimMPkcz0=
+
+Name: reference/wsdl2java_tab.html
+SHA-256-Digest: q9CQnqd+tKUGg/UcJBZKDb7Lzb2MxwFYUJGOHLRwcjw=
+
+Name: tasks/cxf_ant_ws_client.html
+SHA-256-Digest: PUCxwm1EzjrfKk27q6e4rLqPbkuFWsIbXmG0SjOjcbo=
+
+Name: cheatsheets/create-topDown-cxf.xml
+SHA-256-Digest: yCxOy1AJ4DjKQGjffw2n0o3gRUynxQP34vuDSfhydF8=
+
+Name: tasks/install_cxf_facet.html
+SHA-256-Digest: ZM8EhDXCE59UB4f+97uIIVVD0bNXZJzAX1fqZ7hnbV0=
+
+Name: toctasks.xml
+SHA-256-Digest: 17UvhNrCe7SxaEmOb3npU0p4Tmi8aDgoytZdBdVsIHc=
+
+Name: tasks/images/jaxws_handler_wizard.png
+SHA-256-Digest: mmi90dVqrjPQRZsl5hs7+eQ0toWPd/QPfzfSEjyh5cQ=
+
+Name: reference/java2ws_tab.html
+SHA-256-Digest: F2znz8WB41tXt8E4vqdqU6uQ0wIxBkIUrQSyfYMKCRs=
+
+Name: reference/images/xjc.png
+SHA-256-Digest: F+U+yzfycpsfnGYvzabfoNL0osKpjQJX4unvYEnYA4I=
+
+Name: reference/images/spring_config.png
+SHA-256-Digest: BY7rnUW9vQMvPFug+GDNTF7qVyZ/Zmu5hQYHu1Bf7z0=
+
+Name: reference/cxf_facet.html
+SHA-256-Digest: cwz/99PaJQLLEIqYFCo1fA3h1ZX1n8RI6sFsMy3vOWc=
+
+Name: reference/images/server_runtime.png
+SHA-256-Digest: c/12Cjhr9ufD5YhnTgJO8JRJivqbhM8EBolL08ldvQY=
+
+Name: reference/images/cxf_runtime_tab_export.png
+SHA-256-Digest: K8lE2W2f2BsSCRRMoMKM3Ry6ri4K1BrUMYuoO7StblE=
+
+Name: reference/server_runtime.html
+SHA-256-Digest: pZOwnBcPbPQAhoI0TIn7dhW7aMe9MnI3DuO4Fy97Grs=
+
+Name: tasks/images/bottom_up_wizard.png
+SHA-256-Digest: gcsGYH0QpeNFnipYf3i3zvXoPo5ZFFgsPg60QMxUiYg=
+
+Name: reference/images/apt_processing.png
+SHA-256-Digest: 4/Fm4L/o78FydXa+2L4et3c8AyP2hsHKacJ78YcNVS0=
+
+Name: reference/endpoint_config_tab.html
+SHA-256-Digest: Bsq2Iv3ahR19tJOuF/7Cmzx6Osn2+F4z0MU5IetgIss=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: reference/images/cxf2x_preferences.png
+SHA-256-Digest: MDvz3rrLzRtUg0/OczK8xZrONtGgX1AsEeHO7+U813M=
+
+Name: tasks/create_jaxws_handler.html
+SHA-256-Digest: W/PJo6ktm20FusSQpqsffx1HbG9SNPwZdPukhzvvdrE=
+
+Name: tasks/cxf_ant_td_prop_ref.html
+SHA-256-Digest: lrOUesqTMVN35jqxLWVWlK9LqUve5KWXHmmv3JIq1kA=
+
+Name: reference/jaxws_tab.html
+SHA-256-Digest: 4Spnk1epJif2f/kj+9X5Ayfrf44VnHwTsf63664F6u0=
+
+Name: cheatsheets/create-client-cxf.xml
+SHA-256-Digest: mUlDQtsRG29PJgSk8lau7pSp0QoGL8fdAPd8M8Xt1a4=
+
+Name: reference/images/cxf_runtime_tab.png
+SHA-256-Digest: R1WLWfGPmME+FbM+rEXwLJXauD7nyVbh1D4X0nn6WYc=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.cxf.doc.user/pom.properties
+SHA-256-Digest: x1btrhtisa4PoxoqpU1yIX1ISII7D0KbYEIeK5PNcbA=
+
+Name: tasks/manage_cxf_lib_export.html
+SHA-256-Digest: MdkiuXDVe/xHGruNYyJeJ3igZzTHCWhjd3fPFluir3Y=
+
+Name: tasks/images/deployment_assembly.png
+SHA-256-Digest: RxAjr6lcK8zZ9gOyp2+QHWkZld6u+y8eXC+yG4pJ6ug=
+
+Name: reference/images/java2ws_tab.png
+SHA-256-Digest: 2yZFrkyrWHgbmHcsXdm3iPHM2KrPk577Fu22LjsifRM=
+
+Name: tasks/create_cxf_project.html
+SHA-256-Digest: 7CwTISLBUnCHl+d3j7nIl3tXtcXLGdFJbaGRyy6Xyz4=
+
+Name: tasks/images/facet_configuration.png
+SHA-256-Digest: a5bYq824w13/oeQpG0kq90b7Ov1G/N36eDY9pE+S5Gk=
+
+Name: tasks/cxf_ant_bu_prop_ref.html
+SHA-256-Digest: LRitGK9L1C/HUPVilQ+aSHWjAvusT3I5j93tf7ZDOhY=
+
+Name: cheatsheets/create-cxf-project.xml
+SHA-256-Digest: zVVm6y/bYHypgmuDDv2OvrF93v7oSy1dPfpUG3puGM0=
+
+Name: tasks/configuring_jaxws_annotation_processing.html
+SHA-256-Digest: IJVIjmVzZOcheeslzy0A3ohqMWMb1Epqnk2i33usELQ=
+
+Name: tocreference.xml
+SHA-256-Digest: tu6J9N3FTEu8yYvTgblHL7lESYlLs4hYT3a6sCMXdU0=
+
+Name: tasks/ant_tasks.html
+SHA-256-Digest: E22d0dYCEcPN35go1HsglgifvbPm0idXHM43/Josl+4=
+
+Name: tocgettingstarted.xml
+SHA-256-Digest: u0zWkxOcJHX52F1KjhsOPCOncKDCCpxiSa7HhMmqrUY=
+
+Name: cheatsheets/bottomUp-cxf-composite.xml
+SHA-256-Digest: MvQhcRmTcyaVae4HtxR8rdy/d6o00XiHluB7rBc/0y4=
+
+Name: tasks/create_topdown.html
+SHA-256-Digest: RK9hZU/GUSxvL0u9AfyzMRHNv/yvOqZU+dVOdvqKZGU=
+
+Name: images/ngrelt.png
+SHA-256-Digest: m9nB2OpdxQ0KPQaeVgpABw5lJCww9rJyff26dyR/sy8=
+
+Name: images/ngrelc.png
+SHA-256-Digest: u/MdKowJ493eXThkrY9G+FOA1N1i7P9jp8PIY5tAQbM=
+
