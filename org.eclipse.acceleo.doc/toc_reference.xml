@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<toc label="Reference">
-   <topic href="pages/reference/language.html" label="Language">
+<toc label="参考">
+   <topic href="pages/reference/language.html" label="语言">
    </topic>
-   <topic href="pages/reference/project.html" label="Acceleo Project">
+   <topic href="pages/reference/project.html" label="Acceleo项目">
    </topic>
-   <topic href="pages/reference/operations.html" label="Operations">
+   <topic href="pages/reference/operations.html" label="操作">
    </topic>
-   <topic href="pages/reference/standalone.html" label="Stand Alone">
+   <topic href="pages/reference/standalone.html" label="独立">
    </topic>
-   <topic href="pages/reference/migration.html" label="Migration">
+   <topic href="pages/reference/migration.html" label="移民">
    </topic>
-   <topic href="pages/reference/textproductionrules.html" label="Text Production Rules">
+   <topic href="pages/reference/textproductionrules.html" label="文字制作规则">
    </topic>
-   <topic href="pages/reference/onlineresources.html" label="Online Resources">
+   <topic href="pages/reference/onlineresources.html" label="在线资源">
    </topic>
 </toc>

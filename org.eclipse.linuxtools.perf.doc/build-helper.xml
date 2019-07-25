@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="org.eclipse.linuxtools.perf.doc" default="all">
     <description>
-            Generate Eclipse help content for the Linux Tools Perf user guide
-    </description>
+            为Linux Tools Perf用户指南生成Eclipse帮助内容
+    </description>
 
     <property name="help.doc.url.base" value="http://wiki.eclipse.org" />
 

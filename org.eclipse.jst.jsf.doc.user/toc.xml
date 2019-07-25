@@ -14,19 +14,19 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="JavaServer Faces Tooling User Guide" topic="html/mainpage.html">
-	<topic label="Getting Started" href="html/gettingstarted/getting_started.html">
+<toc label="JavaServer Faces工具用户指南" topic="html/mainpage.html">
+	<topic label="入门" href="html/gettingstarted/getting_started.html">
 		<link toc="tocgettingstarted.xml" />
 	</topic>
-	<topic label="Concepts" href="html/concepts/concepts.html">
+	<topic label="概念" href="html/concepts/concepts.html">
 		<link toc="tocconcepts.xml" />
 	</topic>
-	<topic label="Tasks" href="html/tasks/tasks.html">
+	<topic label="任务" href="html/tasks/tasks.html">
 		<link toc="toctasks.xml" />
 	</topic>
-	<topic label="Reference" href="html/reference/references.html">
+	<topic label="参考" href="html/reference/references.html">
 		<link toc="tocreference.xml" />
 	</topic>
-	<topic label="New and Noteworthy" href="html/whats_new.htm"/>
-	<topic label="Legal" href="html/legal.htm"/>
+	<topic label="新的和值得注意的" href="html/whats_new.htm"/>
+	<topic label="法律" href="html/legal.htm"/>
 </toc>

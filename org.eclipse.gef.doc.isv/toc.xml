@@ -14,14 +14,14 @@
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
 
-<toc label="GEF Developer Guide">
-	<topic label="Programmer&apos;s Guide" href="guide.html">
+<toc label="GEF开发人员指南">
+	<topic label="程序员指南" href="guide.html">
 		<link toc="topics_Guide.xml" />
 	</topic>
-	<topic label="Reference">
-		<topic label="API Reference">
+	<topic label="参考">
+		<topic label="API参考">
 			<link toc="topics_Reference.xml" />
 		</topic>
 	</topic>
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 </toc>

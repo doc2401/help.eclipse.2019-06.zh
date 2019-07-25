@@ -1,230 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Excerpts from BIRT Field Guide" >
- <topic label="Excerpts from BIRT Field Guide" >
+<toc label="摘自BIRT Field Guide" >
+ <topic label="摘自BIRT Field Guide" >
 
-  <topic label="Learning the Basics" href="birt/gs-LearningTheBasics.html" >
-    <topic label="About the report design environment" href="birt/gs-AboutTheReportDesignEnvironment.html" />
-    <topic label="Tutorial 1: Building a simple listing report" href="birt/gs-Tut1BuildingASimpleListingReportIntro.html" >
-      <topic label="Task 1: Create a new project" href="birt/gs-TutT1CreateANewProject.html" />
-      <topic label="Task 2: Create a new report" href="birt/gs-TutT2CreateANewReport.html" />
-      <topic label="Task 3: Build a data source" href="birt/gs-TutT3BuildADataSource.html" />
-      <topic label="Task 4: Build a data set" href="birt/gs-TutT4BuildADataSet.html" />
-      <topic label="Task 5: Lay out the report" href="birt/gs-TutT5LayOutTheReport.html" />
-      <topic label="Task 6: Sort the data" href="birt/gs-TutT6SortTheData.html" />
-      <topic label="Task 7: Format the report" href="birt/gs-IncreaseTheSpaceBetweenRows.html" >
-        <topic label="Edit the column headings" href="birt/gs-IncreaseTheSpaceBetweenRows.html#138870" />
-        <topic label="Format the column headings" href="birt/gs-IncreaseTheSpaceBetweenRows.html#138890" />
-        <topic label="Display first and last names on the same line" href="birt/gs-IncreaseTheSpaceBetweenRows.html#425460" />
-        <topic label="Increase the space between rows" href="birt/gs-IncreaseTheSpaceBetweenRows.html#208256" />
+  <topic label="学习基础知识" href="birt/gs-LearningTheBasics.html" >
+    <topic label="关于报告设计环境" href="birt/gs-AboutTheReportDesignEnvironment.html" />
+    <topic label="教程1：构建简单的列表报告" href="birt/gs-Tut1BuildingASimpleListingReportIntro.html" >
+      <topic label="任务1：创建一个新项目" href="birt/gs-TutT1CreateANewProject.html" />
+      <topic label="任务2：创建新报告" href="birt/gs-TutT2CreateANewReport.html" />
+      <topic label="任务3：构建数据源" href="birt/gs-TutT3BuildADataSource.html" />
+      <topic label="任务4：构建数据集" href="birt/gs-TutT4BuildADataSet.html" />
+      <topic label="任务5：布置报告" href="birt/gs-TutT5LayOutTheReport.html" />
+      <topic label="任务6：对数据进行排序" href="birt/gs-TutT6SortTheData.html" />
+      <topic label="任务7：格式化报告" href="birt/gs-IncreaseTheSpaceBetweenRows.html" >
+        <topic label="编辑列标题" href="birt/gs-IncreaseTheSpaceBetweenRows.html#138870" />
+        <topic label="格式化列标题" href="birt/gs-IncreaseTheSpaceBetweenRows.html#138890" />
+        <topic label="在同一行显示名字和姓氏" href="birt/gs-IncreaseTheSpaceBetweenRows.html#425460" />
+        <topic label="增加行之间的空间" href="birt/gs-IncreaseTheSpaceBetweenRows.html#208256" />
         </topic>
-      <topic label="Task 8: Create a report title" href="birt/gs-TutT8CreateAReportTitle.html" />
+      <topic label="任务8：创建报告标题" href="birt/gs-TutT8CreateAReportTitle.html" />
       </topic>
       </topic>
-  <topic label="Accessing Data" href="birt/con-ConnectingToADataSource.html" >
-    <topic label="About BIRT data sources" href="birt/con-AboutBIRTDataSources.html" />
-    <topic label="About data sets" href="birt/ds-AboutDataSets.html" >
-      <topic label="How to create a Cassandra data source" href="birt/con-HowToSpecifyConnectionInformationForCassandraDataSource.html" />
-      <topic label="How to specify what data to retrieve from a Cassandra data source" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromCassandraDataSource.html" />
-      <topic label="How to create an Excel data source" href="birt/con-HowToSpecifyConnectionInformationForExcelDataSource.html" />
-      <topic label="How to specify what data to retrieve from an Excel workbook" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromExcelDataSource.html" />
-      <topic label="How to create a Hive data source" href="birt/con-HowToSpecifyConnectionInformationForHiveDataSource.html" />
-      <topic label="How to specify what data to retrieve from a Hadoop system" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromHadoopDataSource.html" />
-      <topic label="How to specify the connection information for a database or other JDBC data source" href="birt/con-HowToSpecifyConnectionInformationForDatabaseOrOtherJDBCDataSource.html" />
-      <topic label="How to add a JDBC driver" href="birt/con-HowToAddAJDBCDriver.html" />
-      <topic label="How to delete JDBC drivers in a JAR file" href="birt/con-HowToDeleteJDBCDriversInAJARFile.html" />
-      <topic label="How to create a SQL query to retrieve data from a JDBC data source" href="birt/ds-HowToCreateASQLQueryToRetrieveDataFromJDBCDataSource.html" />
-      <topic label="How to use a stored procedure to retrieve data from a JDBC data source" href="birt/ds-HowToUseAStoredProcedureToRetrieveDataFromJDBCDataSource.html" />
-      <topic label="How to create a MongoDB data source" href="birt/con-HowToSpecifyConnectionInformationForMongoDBDataSource.html" />
-      <topic label="How to specify what data to retrieve from a MongoDB database" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromMongoDBDataSource.html" />
-      <topic label="How to create a POJO data source" href="birt/con-HowToSpecifyConnectionInformationForPOJODataSource.html" />
-      <topic label="How to create a POJO data set" href="birt/ds-HowToCreatePOJODataSet.html" />
-      <topic label="How to view and change output columns" href="birt/ds-HowToViewAndChangeOutputColumns.html" />
-      <topic label="How to add a computed field to a data set" href="birt/ds-HowToAddAComputedFieldToADataSet.html" />
-      <topic label="How to join data sets" href="birt/ds-HowToJoinDataSets.html" />
-      <topic label="How to change the number of rows that appear in Preview Results" href="birt/ds-HowToChangeTheNumberOfRowsThatAppearInPreviewResults.html" />
+  <topic label="访问数据" href="birt/con-ConnectingToADataSource.html" >
+    <topic label="关于BIRT数据源" href="birt/con-AboutBIRTDataSources.html" />
+    <topic label="关于数据集" href="birt/ds-AboutDataSets.html" >
+      <topic label="如何创建Cassandra数据源" href="birt/con-HowToSpecifyConnectionInformationForCassandraDataSource.html" />
+      <topic label="如何指定从Cassandra数据源检索哪些数据" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromCassandraDataSource.html" />
+      <topic label="如何创建Excel数据源" href="birt/con-HowToSpecifyConnectionInformationForExcelDataSource.html" />
+      <topic label="如何指定从Excel工作簿中检索哪些数据" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromExcelDataSource.html" />
+      <topic label="如何创建Hive数据源" href="birt/con-HowToSpecifyConnectionInformationForHiveDataSource.html" />
+      <topic label="如何指定从Hadoop系统检索哪些数据" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromHadoopDataSource.html" />
+      <topic label="如何指定数据库或其他JDBC数据源的连接信息" href="birt/con-HowToSpecifyConnectionInformationForDatabaseOrOtherJDBCDataSource.html" />
+      <topic label="如何添加JDBC驱动程序" href="birt/con-HowToAddAJDBCDriver.html" />
+      <topic label="如何删除JAR文件中的JDBC驱动程序" href="birt/con-HowToDeleteJDBCDriversInAJARFile.html" />
+      <topic label="如何创建SQL查询以从JDBC数据源检索数据" href="birt/ds-HowToCreateASQLQueryToRetrieveDataFromJDBCDataSource.html" />
+      <topic label="如何使用存储过程从JDBC数据源检索数据" href="birt/ds-HowToUseAStoredProcedureToRetrieveDataFromJDBCDataSource.html" />
+      <topic label="如何创建MongoDB数据源" href="birt/con-HowToSpecifyConnectionInformationForMongoDBDataSource.html" />
+      <topic label="如何指定从MongoDB数据库中检索哪些数据" href="birt/ds-HowToSpecifyWhatDataToRetrieveDataFromMongoDBDataSource.html" />
+      <topic label="如何创建POJO数据源" href="birt/con-HowToSpecifyConnectionInformationForPOJODataSource.html" />
+      <topic label="如何创建POJO数据集" href="birt/ds-HowToCreatePOJODataSet.html" />
+      <topic label="如何查看和更改输出列" href="birt/ds-HowToViewAndChangeOutputColumns.html" />
+      <topic label="如何将计算字段添加到数据集" href="birt/ds-HowToAddAComputedFieldToADataSet.html" />
+      <topic label="如何加入数据集" href="birt/ds-HowToJoinDataSets.html" />
+      <topic label="如何更改“预览结果”中显示的行数" href="birt/ds-HowToChangeTheNumberOfRowsThatAppearInPreviewResults.html" />
       </topic>
       </topic>
-  <topic label="Binding Data" href="birt/bd-BindingData.html" >
-    <topic label="How to create a column binding" href="birt/bd-HowToCreateAColumnBinding.html" />
+  <topic label="绑定数据" href="birt/bd-BindingData.html" >
+    <topic label="如何创建列绑定" href="birt/bd-HowToCreateAColumnBinding.html" />
     </topic>
-  <topic label="Laying Out a Report" href="birt/lay-LayingOutAReport.html" >
-    <topic label="How to add a row or column" href="birt/lay-HowToAddARowOrColumn.html" />
-    <topic label="How to delete a row or column" href="birt/lay-HowToDeleteARowOrColumn.html" />
-    <topic label="How to bind a data set to a table" href="birt/lay-HowToBindADataSetToATable.html" />
-    <topic label="How to insert a linked image" href="birt/lay-HowToInsertALinkedImage.html" />
-    <topic label="How to insert an embedded image" href="birt/lay-HowToInsertAnEmbeddedImage.html" />
-    <topic label="How to insert images that are stored in a data source" href="birt/lay-HowToInsertImagesThatAreStoredInADataSource.html" />
+  <topic label="制定报告" href="birt/lay-LayingOutAReport.html" >
+    <topic label="如何添加行或列" href="birt/lay-HowToAddARowOrColumn.html" />
+    <topic label="如何删除行或列" href="birt/lay-HowToDeleteARowOrColumn.html" />
+    <topic label="如何将数据集绑定到表" href="birt/lay-HowToBindADataSetToATable.html" />
+    <topic label="如何插入链接的图像" href="birt/lay-HowToInsertALinkedImage.html" />
+    <topic label="如何插入嵌入的图像" href="birt/lay-HowToInsertAnEmbeddedImage.html" />
+    <topic label="如何插入存储在数据源中的图像" href="birt/lay-HowToInsertImagesThatAreStoredInADataSource.html" />
     </topic>
-  <topic label="Displaying Text" href="birt/txt-DisplayingText.html" >
-    <topic label="How to use a dynamic text element" href="birt/txt-HowToUseADynamicTextElement.html" />
+  <topic label="显示文字" href="birt/txt-DisplayingText.html" >
+    <topic label="如何使用动态文本元素" href="birt/txt-HowToUseADynamicTextElement.html" />
     </topic>
-  <topic label="Formatting Report Content" href="birt/fm-FormattingReportContent.html" >
-    <topic label="How to create a style" href="birt/fm-HowToCreateAStyle.html" />
-    <topic label="How to import styles" href="birt/fm-HowToImportStyles.html" />
-    <topic label="How to link a CSS file" href="birt/fm-HowToLinkACSSFile.html" />
-    <topic label="How to apply a style" href="birt/fm-HowToApplyAStyle.html" />
-    <topic label="How to modify a style" href="birt/fm-HowToModifyAStyle.html" />
-    <topic label="How to delete a style" href="birt/fm-HowToDeleteAStyle.html" />
-    <topic label="How to create a formatting rule" href="birt/fm-HowToCreateAFormattingRule.html" />
-    <topic label="How to modify a formatting rule" href="birt/fm-HowToModifyAFormattingRule.html" />
-    <topic label="How to delete a formatting rule" href="birt/fm-HowToDeleteAFormattingRule.html" />
-    <topic label="How to resize a column or row by dragging its boundary" href="birt/fm-HowToResizeAColumnOrRowByDraggingItsBoundary.html" />
-    <topic label="How to specify a row height" href="birt/fm-HowToSpecifyARowHeight.html" />
-    <topic label="How to specify a column width" href="birt/fm-HowToSpecifyAColumnWidth.html" />
-    <topic label="Resizing margins, borders, and padding of elements" href="birt/fm-ResizingMarginsBordersAndPaddingOfElements.html" >
-      <topic label="How to merge table or grid cells" href="birt/fm-HowToMergeTableOrGridCells.html" />
-      <topic label="How to map data values to different display values" href="birt/fm-HowToMapDataValuesToDifferentDisplayValues.html" />
-      <topic label="How to hide an element conditionally" href="birt/fm-HowToHideAnElementConditionally.html" />
+  <topic label="格式化报告内容" href="birt/fm-FormattingReportContent.html" >
+    <topic label="如何创建一个样式" href="birt/fm-HowToCreateAStyle.html" />
+    <topic label="如何导入样式" href="birt/fm-HowToImportStyles.html" />
+    <topic label="如何链接CSS文件" href="birt/fm-HowToLinkACSSFile.html" />
+    <topic label="如何应用一种风格" href="birt/fm-HowToApplyAStyle.html" />
+    <topic label="如何修改样式" href="birt/fm-HowToModifyAStyle.html" />
+    <topic label="如何删除样式" href="birt/fm-HowToDeleteAStyle.html" />
+    <topic label="如何创建格式规则" href="birt/fm-HowToCreateAFormattingRule.html" />
+    <topic label="如何修改格式规则" href="birt/fm-HowToModifyAFormattingRule.html" />
+    <topic label="如何删除格式规则" href="birt/fm-HowToDeleteAFormattingRule.html" />
+    <topic label="如何通过拖动其边界来调整列或行的大小" href="birt/fm-HowToResizeAColumnOrRowByDraggingItsBoundary.html" />
+    <topic label="如何指定行高" href="birt/fm-HowToSpecifyARowHeight.html" />
+    <topic label="如何指定列宽" href="birt/fm-HowToSpecifyAColumnWidth.html" />
+    <topic label="调整边距，边框和元素填充的大小" href="birt/fm-ResizingMarginsBordersAndPaddingOfElements.html" >
+      <topic label="如何合并表格或网格单元格" href="birt/fm-HowToMergeTableOrGridCells.html" />
+      <topic label="如何将数据值映射到不同的显示值" href="birt/fm-HowToMapDataValuesToDifferentDisplayValues.html" />
+      <topic label="如何有条件地隐藏元素" href="birt/fm-HowToHideAnElementConditionally.html" />
       </topic>
       </topic>
-  <topic label="Sorting and Grouping Data" href="birt/sg-SortingAndGroupingData.html" >
-    <topic label="Tutorial 2: Grouping report data" href="birt/sg-Tut2GroupingReportDataIntro.html" >
-      <topic label="Task 1: Open the report design" href="birt/sg-TutT1OpenTheReportDesign.html" />
-      <topic label="Task 2: Save the report as a new file" href="birt/sg-TutT2SaveTheReportAsANewFile.html" />
-      <topic label="Task 3: Add the credit limit field to the data set" href="birt/sg-TutT3AddTheCreditLimitFieldToTheDataSet.html" />
-      <topic label="Task 4: Add credit limit data to the report" href="birt/sg-TutT4AddCreditLimitDataToTheReport.html" />
-      <topic label="Task 5: Group customer data by credit limit" href="birt/sg-TutT5GroupCustomerDataByCreditLimit.html" />
-      <topic label="Task 6: Display credit limit ranges in the group header" href="birt/sg-TutT6DisplayCreditLimitRangesInTheGroupHeader.html" />
-      <topic label="Task 7: Display aggregate information" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html" >
-        <topic label="Display the number of customers in each group" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html#192317" />
-        <topic label="Display the total number of customers in the report" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html#256874" />
+  <topic label="对数据进行排序和分组" href="birt/sg-SortingAndGroupingData.html" >
+    <topic label="教程2：分组报告数据" href="birt/sg-Tut2GroupingReportDataIntro.html" >
+      <topic label="任务1：打开报告设计" href="birt/sg-TutT1OpenTheReportDesign.html" />
+      <topic label="任务2：将报告另存为新文件" href="birt/sg-TutT2SaveTheReportAsANewFile.html" />
+      <topic label="任务3：将信用限额字段添加到数据集" href="birt/sg-TutT3AddTheCreditLimitFieldToTheDataSet.html" />
+      <topic label="任务4：将信用额度数据添加到报告中" href="birt/sg-TutT4AddCreditLimitDataToTheReport.html" />
+      <topic label="任务5：按信用额度对客户数据进行分组" href="birt/sg-TutT5GroupCustomerDataByCreditLimit.html" />
+      <topic label="任务6：在组头中显示信用限额范围" href="birt/sg-TutT6DisplayCreditLimitRangesInTheGroupHeader.html" />
+      <topic label="任务7：显示聚合信息" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html" >
+        <topic label="显示每个组中的客户数量" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html#192317" />
+        <topic label="显示报告中的客户总数" href="birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html#256874" />
         </topic>
-      <topic label="Task 8: Format the report" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html" >
-        <topic label="Adjust the column widths" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#379361" />
-        <topic label="Remove credit limit data from the detail rows" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#385344" />
-        <topic label="Display group headings on the first row of each group" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#192443" />
-        <topic label="Separate each group with a line" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#192489" />
-        <topic label="Display the number of customers text on one line" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#336470" />
+      <topic label="任务8：格式化报告" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html" >
+        <topic label="调整列宽" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#379361" />
+        <topic label="从详细信息行中删除信用额度数据" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#385344" />
+        <topic label="在每个组的第一行显示组标题" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#192443" />
+        <topic label="用一条线分开每个组" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#192489" />
+        <topic label="在一行上显示客户文本数" href="birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html#336470" />
         </topic>
-      <topic label="Task 9: Preview the report in the BIRT report viewer" href="birt/sg-PreviewTheReportInTheBIRTReportViewer.html" />
-      <topic label="Task 10: Display credit limit ranges in the table of contents" href="birt/sg-DisplayCreditLimitRangesInTheTableOfContents.html" />
+      <topic label="任务9：在BIRT报告查看器中预览报告" href="birt/sg-PreviewTheReportInTheBIRTReportViewer.html" />
+      <topic label="任务10：在目录中显示信用限额范围" href="birt/sg-DisplayCreditLimitRangesInTheTableOfContents.html" />
       </topic>
       </topic>
-  <topic label="Aggregating Data" href="birt/ag-AggregatingData.html" >
-    <topic label="How to display aggregate data" href="birt/ag-HowToDisplayAggregateData.html" />
+  <topic label="聚合数据" href="birt/ag-AggregatingData.html" >
+    <topic label="如何显示汇总数据" href="birt/ag-HowToDisplayAggregateData.html" />
     </topic>
-  <topic label="Writing Expressions" href="birt/ex-WritingExpressions.html" />
-  <topic label="Filtering Data" href="birt/fl-FilteringData.html" >
-    <topic label="How to filter the rows to retrieve from a JDBC data source" href="birt/fl-HowToFilterRheRowsToRetrieveFromAJDBCDataSource.html" />
-    <topic label="How to filter at the data set level" href="birt/fl-HowToFilterAtTheDataSetLevel.html" />
-    <topic label="How to filter at the report element level" href="birt/fl-HowToFilterAtTheReportElementLevel.html" />
-    <topic label="How to filter at the group level" href="birt/fl-HowToFilterAtTheGroupLevel.html" />
+  <topic label="写作表达" href="birt/ex-WritingExpressions.html" />
+  <topic label="过滤数据" href="birt/fl-FilteringData.html" >
+    <topic label="如何筛选要从JDBC数据源检索的行" href="birt/fl-HowToFilterRheRowsToRetrieveFromAJDBCDataSource.html" />
+    <topic label="如何在数据集级别进行筛选" href="birt/fl-HowToFilterAtTheDataSetLevel.html" />
+    <topic label="如何在报表元素级别进行筛选" href="birt/fl-HowToFilterAtTheReportElementLevel.html" />
+    <topic label="如何在组级别进行筛选" href="birt/fl-HowToFilterAtTheGroupLevel.html" />
     </topic>
-  <topic label="Enabling the User to Filter Data " href="birt/rp-EnablingTheUserToFilterData.html" >
-    <topic label="How to create a basic report parameter" href="birt/rp-HowToCreateABasicReportParameter.html" />
-    <topic label="How to insert a parameter marker in the SQL query" href="birt/rp-HowToDefineADataSetParameter.html" />
-    <topic label="How to define a data set parameter" href="birt/rp-HowToDefineADataSetParameter.html#511214" />
-    <topic label="How to update a filter condition dynamically when the report runs" href="birt/rp-HowToUpdateAFilterConditionDynamicallyWhenTheReportRuns.html" />
+  <topic label="启用用户筛选数据" href="birt/rp-EnablingTheUserToFilterData.html" >
+    <topic label="如何创建基本报表参数" href="birt/rp-HowToCreateABasicReportParameter.html" />
+    <topic label="如何在SQL查询中插入参数标记" href="birt/rp-HowToDefineADataSetParameter.html" />
+    <topic label="如何定义数据集参数" href="birt/rp-HowToDefineADataSetParameter.html#511214" />
+    <topic label="如何在报表运行时动态更新过滤条件" href="birt/rp-HowToUpdateAFilterConditionDynamicallyWhenTheReportRuns.html" />
     </topic>
-  <topic label="Building a Report That Contains Subreports" href="birt/sub-BuildingARptThatContainsSubreportsIntro.html" >
-    <topic label="Tutorial 3: Building a report containing side-by-side subreports" href="birt/sub-SubreportsTutorialIntro.html" >
-      <topic label="Task 1: Create a new report" href="birt/sub-TutT1CreateNewReport.html" />
-      <topic label="Task 2: Build a data source" href="birt/sub-TutT2BuildDataSource.html" />
-      <topic label="Task 3: Build a data set for the customer report" href="birt/sub-TutT3BuildDataSetForCustomerRpt.html" />
-      <topic label="Task 4: Build a data set for the orders subreport" href="birt/sub-TutT4BuildDataSetForOrdersSubRpt.html" />
-      <topic label="Task 5: Build a data set for the payments subreport" href="birt/sub-TutT5BuildDataSetForPaymentsSubRpt.html" />
-      <topic label="Task 6: Create the customer master report" href="birt/sub-TutT6CreateCustomerMasterRpt.html" />
-      <topic label="Task 7: Create the orders subreport" href="birt/sub-TutT7CreateOrdersSubRpt.html" />
-      <topic label="Task 8: Link the orders subreport to the customers master report" href="birt/sub-TutT8LinkOrdersSubrpttoMasterRpt.html" />
-      <topic label="Task 9: Create the payments subreport" href="birt/sub-TutT9CreateOrdersSubRpt.html" />
-      <topic label="Task 10: Link the payments subreport to the customers master report" href="birt/sub-TutT10LinkPaymentsSubrpttoMasterRpt.html" />
-      <topic label="Task 11: Display only customers that have orders or payments" href="birt/sub-TutT11DisplayCustomersWithOrdersOrPayments.html" />
-      <topic label="Task 12: Display the subreports next to one another" href="birt/sub-TutT12DisplaySubrptsNextToOneAnother.html" />
-      <topic label="Task 13: View the outline of the report" href="birt/sub-TutT13ViewReportOutline.html" />
-      <topic label="Task 14: Format the report" href="birt/sub-TutT14FormatReport.html" />
+  <topic label="构建包含子报表的报表" href="birt/sub-BuildingARptThatContainsSubreportsIntro.html" >
+    <topic label="教程3：构建包含并排子报表的报表" href="birt/sub-SubreportsTutorialIntro.html" >
+      <topic label="任务1：创建新报告" href="birt/sub-TutT1CreateNewReport.html" />
+      <topic label="任务2：构建数据源" href="birt/sub-TutT2BuildDataSource.html" />
+      <topic label="任务3：为客户报告构建数据集" href="birt/sub-TutT3BuildDataSetForCustomerRpt.html" />
+      <topic label="任务4：为orders子报告构建数据集" href="birt/sub-TutT4BuildDataSetForOrdersSubRpt.html" />
+      <topic label="任务5：为付款子报告构建数据集" href="birt/sub-TutT5BuildDataSetForPaymentsSubRpt.html" />
+      <topic label="任务6：创建客户主报告" href="birt/sub-TutT6CreateCustomerMasterRpt.html" />
+      <topic label="任务7：创建订单子报表" href="birt/sub-TutT7CreateOrdersSubRpt.html" />
+      <topic label="任务8：将订单子报告链接到客户主报告" href="birt/sub-TutT8LinkOrdersSubrpttoMasterRpt.html" />
+      <topic label="任务9：创建付款子报告" href="birt/sub-TutT9CreateOrdersSubRpt.html" />
+      <topic label="任务10：将付款子报告链接到客户主报告" href="birt/sub-TutT10LinkPaymentsSubrpttoMasterRpt.html" />
+      <topic label="任务11：仅显示有订单或付款的客户" href="birt/sub-TutT11DisplayCustomersWithOrdersOrPayments.html" />
+      <topic label="任务12：显示彼此相邻的子报表" href="birt/sub-TutT12DisplaySubrptsNextToOneAnother.html" />
+      <topic label="任务13：查看报告的大纲" href="birt/sub-TutT13ViewReportOutline.html" />
+      <topic label="任务14：格式化报告" href="birt/sub-TutT14FormatReport.html" />
       </topic>
       </topic>
-  <topic label="Using a Chart" href="birt/ch-UsingAChartIntro.html" >
-    <topic label="Tutorial 4: Creating a stand-alone chart" href="birt/ch-ChartsTutorialIntro.html" >
-      <topic label="Task 1: Set up and query the data source" href="birt/ch-TutT1QueryTheDataSource.html" />
-      <topic label="Task 2: Add the chart to the report" href="birt/ch-TutT2AddTheChartToTheReport.html" />
-      <topic label="Task 3: Provide data for a chart" href="birt/ch-TutT3ProvideDataForAChart.html" />
-      <topic label="Task 4: Enlarge the chart and preview the report" href="birt/ch-TutT4EnlargeChartAndPreview.html" />
-      <topic label="Task 5: Change the chart and value series titles" href="birt/ch-TutT5ChangeChartAndValueSeriesTitles.html" />
-      <topic label="Task 6: Refine the chart appearance" href="birt/ch-TutT6RefineChartAppearance.html" />
+  <topic label="使用图表" href="birt/ch-UsingAChartIntro.html" >
+    <topic label="教程4：创建独立图表" href="birt/ch-ChartsTutorialIntro.html" >
+      <topic label="任务1：设置和查询数据源" href="birt/ch-TutT1QueryTheDataSource.html" />
+      <topic label="任务2：将图表添加到报告中" href="birt/ch-TutT2AddTheChartToTheReport.html" />
+      <topic label="任务3：为图表提供数据" href="birt/ch-TutT3ProvideDataForAChart.html" />
+      <topic label="任务4：放大图表并预览报告" href="birt/ch-TutT4EnlargeChartAndPreview.html" />
+      <topic label="任务5：更改图表和值系列标题" href="birt/ch-TutT5ChangeChartAndValueSeriesTitles.html" />
+      <topic label="任务6：优化图表外观" href="birt/ch-TutT6RefineChartAppearance.html" />
       </topic>
       </topic>
-  <topic label="Displaying Data in Charts" href="birt/cd-DisplayingDataInChartsIntro.html" >
-    <topic label="How to group categories on the x-axis" href="birt/cd-HowToGroupCategoriesOnTheXaxis.html" />
-    <topic label="How to change chart preview preferences" href="birt/cd-HowToChangeChartPreviewPreferences.html" />
+  <topic label="在图表中显示数据" href="birt/cd-DisplayingDataInChartsIntro.html" >
+    <topic label="如何在x轴上对类别进行分组" href="birt/cd-HowToGroupCategoriesOnTheXaxis.html" />
+    <topic label="如何更改图表预览首选项" href="birt/cd-HowToChangeChartPreviewPreferences.html" />
     </topic>
-  <topic label="Laying Out and Formatting a Chart" href="birt/cf-LayingOutAndFormattingAChartIntro.html" >
-    <topic label="Overview of formatting" href="birt/cf-OverviewOfFormatting.html" >
-      <topic label="How to set a chart’s background color" href="birt/cf-HowToSetAChartBackgroundColor.html" />
-      <topic label="How to modify the plot area" href="birt/cf-HowToModifyThePlotArea.html" />
-      <topic label="How to format an axis title" href="birt/cf-HowToFormatAnAxisTitle.html" />
-      <topic label="How to set the data type and format of an axis" href="birt/cf-HowToSetTheDataTypeAndFormatOfAnAxis.html" />
+  <topic label="布局和格式化图表" href="birt/cf-LayingOutAndFormattingAChartIntro.html" >
+    <topic label="格式概述" href="birt/cf-OverviewOfFormatting.html" >
+      <topic label="如何设置图表的背景颜色" href="birt/cf-HowToSetAChartBackgroundColor.html" />
+      <topic label="如何修改绘图区域" href="birt/cf-HowToModifyThePlotArea.html" />
+      <topic label="如何格式化轴标题" href="birt/cf-HowToFormatAnAxisTitle.html" />
+      <topic label="如何设置轴的数据类型和格式" href="birt/cf-HowToSetTheDataTypeAndFormatOfAnAxis.html" />
       </topic>
       </topic>
-  <topic label="Presenting Data in a Cross Tab" href="birt/ct-PresentingDataInACrossTabIntro.html" >
-    <topic label="Tutorial 5: Creating a cross tab" href="birt/ct-CrosstabTutorialIntro.html" >
-      <topic label="Task 1: Create a new report" href="birt/ct-TutT1CreateANewReport.html" />
-      <topic label="Task 2: Build a data source" href="birt/ct-TutT2BuildADataSource.html" />
-      <topic label="Task 3: Build a data set" href="birt/ct-TutT3BuildADataSet.html" />
-      <topic label="Task 4: Set up data for the cross tab" href="birt/ct-TutT4SetUpDataForTheCrossTab.html" />
-      <topic label="Task 5: Add a cross tab to the report" href="birt/ct-TutT5AddACrossTabToTheReport.html" />
-      <topic label="Task 6: Add grand totals" href="birt/ct-TutT6AddGrandTotals.html" >
-        <topic label="How to filter data at the cross tab level" href="birt/ct-HowToFilterDataAtTheCrossTabLevel.html" />
+  <topic label="在交叉表中显示数据" href="birt/ct-PresentingDataInACrossTabIntro.html" >
+    <topic label="教程5：创建交叉表" href="birt/ct-CrosstabTutorialIntro.html" >
+      <topic label="任务1：创建新报告" href="birt/ct-TutT1CreateANewReport.html" />
+      <topic label="任务2：构建数据源" href="birt/ct-TutT2BuildADataSource.html" />
+      <topic label="任务3：构建数据集" href="birt/ct-TutT3BuildADataSet.html" />
+      <topic label="任务4：为交叉表设置数据" href="birt/ct-TutT4SetUpDataForTheCrossTab.html" />
+      <topic label="任务5：向报表添加交叉表" href="birt/ct-TutT5AddACrossTabToTheReport.html" />
+      <topic label="任务6：添加总计" href="birt/ct-TutT6AddGrandTotals.html" >
+        <topic label="如何在交叉表级别过滤数据" href="birt/ct-HowToFilterDataAtTheCrossTabLevel.html" />
         </topic>
         </topic>
         </topic>
-  <topic label="Designing a Multipage Report" href="birt/mp-DesigningAMultipageReportIntro.html" >
-    <topic label="How to display text in the header and footer" href="birt/mp-HowToDisplayTextInTheHeaderAndFooter.html" />
-    <topic label="How to specify a header or footer size" href="birt/mp-HowToSpecifyAHeaderOrFooterSize.html" />
-    <topic label="How to exclude header content from the first page" href="birt/mp-HowToExcludeHeaderContentFromFirstPage.html" />
+  <topic label="设计多页报告" href="birt/mp-DesigningAMultipageReportIntro.html" >
+    <topic label="如何在页眉和页脚中显示文本" href="birt/mp-HowToDisplayTextInTheHeaderAndFooter.html" />
+    <topic label="如何指定页眉或页脚大小" href="birt/mp-HowToSpecifyAHeaderOrFooterSize.html" />
+    <topic label="如何从第一页中排除标题内容" href="birt/mp-HowToExcludeHeaderContentFromFirstPage.html" />
     </topic>
-  <topic label="Adding Interactive Viewing Features" href="birt/iv-AddingInteractiveViewingFeaturesIntro.html" >
-    <topic label="How to define a bookmark" href="birt/iv-HowToDefineABookmark.html" />
-    <topic label="How to create a hyperlink that links two sections in a report" href="birt/iv-HowToCreateAHyperlinkToLinkTwoSections.html" />
-    <topic label="How to link two reports" href="birt/iv-HowToLinkTwoReports.html" />
-    <topic label="How to create a table of contents entry" href="birt/iv-HowToCreateATOCEntry.html" />
+  <topic label="添加交互式查看功能" href="birt/iv-AddingInteractiveViewingFeaturesIntro.html" >
+    <topic label="如何定义书签" href="birt/iv-HowToDefineABookmark.html" />
+    <topic label="如何创建链接报表中两个部分的超链接" href="birt/iv-HowToCreateAHyperlinkToLinkTwoSections.html" />
+    <topic label="如何链接两个报告" href="birt/iv-HowToLinkTwoReports.html" />
+    <topic label="如何创建目录条目" href="birt/iv-HowToCreateATOCEntry.html" />
     </topic>
-  <topic label="Building a Shared Development Framework" href="birt/lib-BuildingASharedDevelopmentFrameworkIntro.html" >
-    <topic label="How to add an element to a library" href="birt/lib-HowToAddAnElementToALibrary.html" />
-    <topic label="How to set a theme for a report design" href="birt/lib-HowToSetAThemeForAReportDesign.html" />
-    <topic label="How to drop a theme from a report design" href="birt/lib-HowToDropAThemeFromAReportDesign.html" />
-    <topic label="How to create a template report item" href="birt/lib-HowToCreateATemplateReportItem.html" />
-    <topic label="How to set up a template folder" href="birt/lib-HowToSetUpATemplateFolder.html" />
-    <topic label="How to publish a template" href="birt/lib-HowToPublishATemplate.html" />
-    <topic label="How to use a template report item" href="birt/lib-HowToUseATemplateReportItem.html" />
+  <topic label="构建共享开发框架" href="birt/lib-BuildingASharedDevelopmentFrameworkIntro.html" >
+    <topic label="如何将元素添加到库中" href="birt/lib-HowToAddAnElementToALibrary.html" />
+    <topic label="如何为报表设计设置主题" href="birt/lib-HowToSetAThemeForAReportDesign.html" />
+    <topic label="如何从报表设计中删除主题" href="birt/lib-HowToDropAThemeFromAReportDesign.html" />
+    <topic label="如何创建模板报表项" href="birt/lib-HowToCreateATemplateReportItem.html" />
+    <topic label="如何设置模板文件夹" href="birt/lib-HowToSetUpATemplateFolder.html" />
+    <topic label="如何发布模板" href="birt/lib-HowToPublishATemplate.html" />
+    <topic label="如何使用模板报告项目" href="birt/lib-HowToUseATemplateReportItem.html" />
     </topic>
-  <topic label="Localizing Text" href="birt/loc-LocalizingTextIntro.html" >
-    <topic label="How to assign a resource file to a report" href="birt/loc-HowToAssignAResourceFileToAReport.html" />
-    <topic label="How to assign an existing resource key to a label or text element" href="birt/loc-HowToAssignAnExistingResourceKeyToALabel.html" />
-    <topic label="How to preview a report in a different locale" href="birt/loc-HowToPreviewAReportInADifferentLocale.html" />
+  <topic label="本地化文本" href="birt/loc-LocalizingTextIntro.html" >
+    <topic label="如何将资源文件分配给报表" href="birt/loc-HowToAssignAResourceFileToAReport.html" />
+    <topic label="如何将现有资源键分配给标签或文本元素" href="birt/loc-HowToAssignAnExistingResourceKeyToALabel.html" />
+    <topic label="如何以其他语言环境预览报表" href="birt/loc-HowToPreviewAReportInADifferentLocale.html" />
     </topic>
-  <topic label="Using Scripting in a Report Design" href="birt/UsingScripting.21.1.html" >
-    <topic label="Overview of BIRT scripting" href="birt/UsingScripting.21.2.html" >
-      <topic label="Choosing between JavaScript and Java" href="birt/UsingScripting.21.3.html" />
-      <topic label="Using both JavaScript and Java" href="birt/UsingScripting.21.4.html" />
+  <topic label="在报表设计中使用脚本" href="birt/UsingScripting.21.1.html" >
+    <topic label="BIRT脚本概述" href="birt/UsingScripting.21.2.html" >
+      <topic label="在JavaScript和Java之间进行选择" href="birt/UsingScripting.21.3.html" />
+      <topic label="同时使用JavaScript和Java" href="birt/UsingScripting.21.4.html" />
       </topic>
       </topic>
-  <topic label="Using JavaScript to Write an Event Handler" href="birt/ScriptingWithJavaScript.22.01.html" >
-    <topic label="How to use BIRT Report Designer to enter a JavaScript event handler" href="birt/ScriptingWithJavaScript.22.01.html#150919" />
-    <topic label="Determining script execution sequence" href="birt/ScriptingWithJavaScript.22.02.html" >
-      <topic label="Providing the ReportDesign.initialize code" href="birt/ScriptingWithJavaScript.22.03.html" >
-        <topic label="How to provide code for the ReportDesign.initialize script" href="birt/ScriptingWithJavaScript.22.03.html#151640" />
+  <topic label="使用JavaScript编写事件处理程序" href="birt/ScriptingWithJavaScript.22.01.html" >
+    <topic label="如何使用BIRT Report Designer输入JavaScript事件处理程序" href="birt/ScriptingWithJavaScript.22.01.html#150919" />
+    <topic label="确定脚本执行顺序" href="birt/ScriptingWithJavaScript.22.02.html" >
+      <topic label="提供ReportDesign.initialize代码" href="birt/ScriptingWithJavaScript.22.03.html" >
+        <topic label="如何为ReportDesign.initialize脚本提供代码" href="birt/ScriptingWithJavaScript.22.03.html#151640" />
         </topic>
-      <topic label="Providing code for the scripts you want to track" href="birt/ScriptingWithJavaScript.22.04.html" />
-      <topic label="Providing the ReportDesign.afterFactory code" href="birt/ScriptingWithJavaScript.22.05.html" />
+      <topic label="为要跟踪的脚本提供代码" href="birt/ScriptingWithJavaScript.22.04.html" />
+      <topic label="提供ReportDesign.afterFactory代码" href="birt/ScriptingWithJavaScript.22.05.html" />
       </topic>
-    <topic label="Tutorial 6: Writing an event handler in JavaScript" href="birt/ScriptingWithJavaScript.22.06.html" >
-      <topic label="Task 1: Create the report design" href="birt/ScriptingWithJavaScript.22.07.html" />
-      <topic label="Task 2: Create a counter in Table.onCreate" href="birt/ScriptingWithJavaScript.22.08.html" />
-      <topic label="Task 3: Conditionally increment the counter" href="birt/ScriptingWithJavaScript.22.09.html" />
-      <topic label="Task 4: Display the result" href="birt/ScriptingWithJavaScript.22.10.html" />
+    <topic label="教程6：在JavaScript中编写事件处理程序" href="birt/ScriptingWithJavaScript.22.06.html" >
+      <topic label="任务1：创建报告设计" href="birt/ScriptingWithJavaScript.22.07.html" />
+      <topic label="任务2：在Table.onCreate中创建一个计数器" href="birt/ScriptingWithJavaScript.22.08.html" />
+      <topic label="任务3：有条件地增加计数器" href="birt/ScriptingWithJavaScript.22.09.html" />
+      <topic label="任务4：显示结果" href="birt/ScriptingWithJavaScript.22.10.html" />
       </topic>
-    <topic label="Calling external JavaScript functions" href="birt/ScriptingWithJavaScript.22.11.html" />
+    <topic label="调用外部JavaScript函数" href="birt/ScriptingWithJavaScript.22.11.html" />
     </topic>
-  <topic label="Using Java to Write an Event Handler" href="birt/ScriptingWithJava.23.1.html" >
-    <topic label="How to create an event handler class and add it to the Java project" href="birt/ScriptingWithJava.23.2.html" />
-    <topic label="How to associate a Java class with a report element" href="birt/ScriptingWithJava.23.3.html" />
+  <topic label="使用Java编写事件处理程序" href="birt/ScriptingWithJava.23.1.html" >
+    <topic label="如何创建事件处理程序类并将其添加到Java项目中" href="birt/ScriptingWithJava.23.2.html" />
+    <topic label="如何将Java类与报表元素相关联" href="birt/ScriptingWithJava.23.3.html" />
     </topic>
-  <topic label="Scripting Reference" href="birt/ScriptingReference.24.1.html" >
-    <topic label="BIRT JavaScript classes quick reference" href="birt/ScriptingReference.24.2.html" />
-    <topic label="Class BirtComp" href="birt/ScriptingReference.24.3.html" >
+  <topic label="脚本参考" href="birt/ScriptingReference.24.1.html" >
+    <topic label="BIRT JavaScript类快速参考" href="birt/ScriptingReference.24.2.html" />
+    <topic label="BirtComp类" href="birt/ScriptingReference.24.3.html" >
       <topic label="BirtComp.anyOf" href="birt/ScriptingReference.24.3.html#275953" />
       <topic label="BirtComp.between" href="birt/ScriptingReference.24.3.html#357427" />
       <topic label="BirtComp.compareString" href="birt/ScriptingReference.24.3.html#287732" />
@@ -239,7 +239,7 @@
       <topic label="BirtComp.notEqual" href="birt/ScriptingReference.24.3.html#285068" />
       <topic label="BirtComp.notLike" href="birt/ScriptingReference.24.3.html#286853" />
       </topic>
-    <topic label="Class BirtDateTime" href="birt/ScriptingReference.24.4.html" >
+    <topic label="BirtDateTime类" href="birt/ScriptingReference.24.4.html" >
       <topic label="BirtDateTime.addDay" href="birt/ScriptingReference.24.4.html#237678" />
       <topic label="BirtDateTime.addHour" href="birt/ScriptingReference.24.4.html#238714" />
       <topic label="BirtDateTime.addMinute" href="birt/ScriptingReference.24.4.html#240681" />
@@ -270,7 +270,7 @@
       <topic label="BirtDateTime.weekDay" href="birt/ScriptingReference.24.4.html#260744" />
       <topic label="BirtDateTime.year" href="birt/ScriptingReference.24.4.html#261090" />
       </topic>
-    <topic label="Class BirtDuration" href="birt/ScriptingReference.24.5.html" >
+    <topic label="BirtDuration类" href="birt/ScriptingReference.24.5.html" >
       <topic label="BirtDuration.add" href="birt/ScriptingReference.24.5.html#349842" />
       <topic label="BirtDuration.addTo" href="birt/ScriptingReference.24.5.html#350314" />
       <topic label="BirtDuration.compare" href="birt/ScriptingReference.24.5.html#350439" />
@@ -288,7 +288,7 @@
       <topic label="BirtDuration.timeInMills" href="birt/ScriptingReference.24.5.html#321357" />
       <topic label="BirtDuration.year" href="birt/ScriptingReference.24.5.html#321213" />
       </topic>
-    <topic label="Class BirtMath" href="birt/ScriptingReference.24.6.html" >
+    <topic label="BirtMath类" href="birt/ScriptingReference.24.6.html" >
       <topic label="BirtMath.add" href="birt/ScriptingReference.24.6.html#267942" />
       <topic label="BirtMath.ceiling" href="birt/ScriptingReference.24.6.html#271050" />
       <topic label="BirtMath.divide" href="birt/ScriptingReference.24.6.html#270549" />
@@ -300,7 +300,7 @@
       <topic label="BirtMath.safeDivide" href="birt/ScriptingReference.24.6.html#275121" />
       <topic label="BirtMath.subtract" href="birt/ScriptingReference.24.6.html#270972" />
       </topic>
-    <topic label="Class BirtStr" href="birt/ScriptingReference.24.7.html" >
+    <topic label="BirtStr类" href="birt/ScriptingReference.24.7.html" >
       <topic label="BirtStr.charLength" href="birt/ScriptingReference.24.7.html#261859" />
       <topic label="BirtStr.concat" href="birt/ScriptingReference.24.7.html#263870" />
       <topic label="BirtStr.indexOf" href="birt/ScriptingReference.24.7.html#264323" />
@@ -313,7 +313,7 @@
       <topic label="BirtStr.trimLeft" href="birt/ScriptingReference.24.7.html#267249" />
       <topic label="BirtStr.trimRight" href="birt/ScriptingReference.24.7.html#267327" />
       </topic>
-    <topic label="Class Finance" href="birt/ScriptingReference.24.8.html" >
+    <topic label="班级财务" href="birt/ScriptingReference.24.8.html" >
       <topic label="Finance.ddb" href="birt/ScriptingReference.24.8.html#188895" />
       <topic label="Finance.fv" href="birt/ScriptingReference.24.8.html#188935" />
       <topic label="Finance.ipmt" href="birt/ScriptingReference.24.8.html#188995" />
@@ -329,7 +329,7 @@
       <topic label="Finance.sln" href="birt/ScriptingReference.24.8.html#189487" />
       <topic label="Finance.syd" href="birt/ScriptingReference.24.8.html#189516" />
       </topic>
-    <topic label="Class Formatter" href="birt/ScriptingReference.24.9.html" >
+    <topic label="类格式化程序" href="birt/ScriptingReference.24.9.html" >
       <topic label="Formatter.format" href="birt/ScriptingReference.24.9.html#356395" />
       </topic>
       </topic>

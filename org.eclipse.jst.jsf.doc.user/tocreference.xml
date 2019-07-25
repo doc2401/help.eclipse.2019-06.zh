@@ -14,13 +14,13 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Reference" link_to="toc.xml#jsf_reference"> 
-	<topic label="Tag Library Support in the JSP Source Editor" href="html/reference/taglibsupport.html" > 
-		<topic label="JSF Core" href="html/reference/jsf-c.html" /> 
+<toc label="参考" link_to="toc.xml#jsf_reference"> 
+	<topic label="JSP源代码编辑器中的标记库支持" href="html/reference/taglibsupport.html" > 
+		<topic label="JSF核心" href="html/reference/jsf-c.html" /> 
 		<topic label="JSF HTML" href="html/reference/jsf-h.html" />
 	</topic>
-	<topic label="JSF Library Management" href="html/reference/jsf_library_management.html" >
+	<topic label="JSF图书馆管理" href="html/reference/jsf_library_management.html" >
 	</topic>
- <topic href="html/reference/jsf_design_time_skinning.html" label="JSF Design-Time Skinning Support">
+ <topic href="html/reference/jsf_design_time_skinning.html" label="JSF设计时皮肤支持">
  </topic> 
 </toc>

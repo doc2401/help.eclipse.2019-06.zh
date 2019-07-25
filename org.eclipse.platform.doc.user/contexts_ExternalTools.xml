@@ -8,51 +8,51 @@
 	All contexts are grouped by their relation, with all relations grouped alphabetically.
 -->
   <context id="file_selection_dialog_context">
-    <description>This dialog allows you to select a file in the workspace.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您在工作区中选择文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="preference_page_context">
-    <description>On this page, you can configure External Tool preferences.</description>
-   	<topic label="Preferences - External Tools" href="reference/ref-exttoolsprefs.htm"/>    
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置外部工具首选项。</description>
+   	<topic label="首选项 - 外部工具" href="reference/ref-exttoolsprefs.htm"/>    
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="builder_property_page_context">
-    <description>On this page, you can configure the External Tool builders that are run when this project is built.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置在构建此项目时运行的外部工具构建器。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="builders_tab_context">
-    <description>This tab allows you to configure when this project builder will be executed.</description>
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置何时执行此项目构建器。</description>
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="program_main_tab_context">
-    <description>This tab allows you to configure the program location and other attributes of this launch configuration.</description>
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置此启动配置的程序位置和其他属性。</description>
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   <context id="program_type_context">
-     <description>This configuration type allows you to run a program from your local computer</description>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此配置类型允许您从本地计算机运行程序</description>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
   <context id="build_tab_context">
-     <description>This tab allows you to configure what resources, if any, are built prior to the tool  being launched</description>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此选项卡允许您配置在启动工具之前构建的资源（如果有）</description>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
   <context id="refresh_tab_context">
-     <description>This tab allows you to choose which resources are refreshed when a launch configuration is executed.</description>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此选项卡允许您选择在执行启动配置时刷新哪些资源。</description>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
   <context id="environment_tab_context">
-     <description>This tab allows you to create and configure the environment variables that will be passed into the launch configuration when the program is executed</description>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此选项卡允许您创建和配置在执行程序时将传递到启动配置的环境变量</description>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
   <context id="common_tab_context">
-     <description>This tab allows you to set if the launch configuration is shared, which favorites menu it will be displayed in, output and encoding options and whether to launch the configuration in the background.</description>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此选项卡允许您设置是否共享启动配置，将显示哪个收藏夹菜单，输出和编码选项以及是否在后台启动配置。</description>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
 </contexts>

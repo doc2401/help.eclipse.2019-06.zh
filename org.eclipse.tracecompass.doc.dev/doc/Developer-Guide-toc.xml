@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="doc/Developer-Guide.html" label="Trace Compass Developer Guide">
-	<topic href="doc/Developer-Guide.html" label="Table of Contents"></topic>
-	<topic href="doc/Introduction.html" label="Introduction"></topic>
-	<topic href="doc/Implementing-a-New-Trace-Type.html" label="Implementing a New Trace Type">
-		<topic href="doc/Implementing-a-New-Trace-Type.html#Event_Aspects" label="Event Aspects">
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Base_and_custom_aspects" label="Base and custom aspects"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Creating_event_aspects_programmatically" label="Creating event aspects programmatically"></topic>
+<toc topic="doc/Developer-Guide.html" label="Trace Compass开发人员指南">
+	<topic href="doc/Developer-Guide.html" label="目录"></topic>
+	<topic href="doc/Introduction.html" label="介绍"></topic>
+	<topic href="doc/Implementing-a-New-Trace-Type.html" label="实现新的跟踪类型">
+		<topic href="doc/Implementing-a-New-Trace-Type.html#Event_Aspects" label="事件方面">
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Base_and_custom_aspects" label="基础和自定义方面"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Creating_event_aspects_programmatically" label="以编程方式创建事件方面"></topic>
 		</topic>
-		<topic href="doc/Implementing-a-New-Trace-Type.html#Optional_Trace_Type_Attributes" label="Optional Trace Type Attributes">
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Default_Editor" label="Default Editor"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Events_Table_Type" label="Events Table Type"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Perspective" label="Perspective"></topic>
+		<topic href="doc/Implementing-a-New-Trace-Type.html#Optional_Trace_Type_Attributes" label="可选的跟踪类型属性">
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Default_Editor" label="默认编辑器"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Events_Table_Type" label="事件表类型"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Perspective" label="透视"></topic>
 		</topic>
-		<topic href="doc/Implementing-a-New-Trace-Type.html#Other_Considerations" label="Other Considerations">
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Collapsing_of_repetitive_events" label="Collapsing of repetitive events"></topic>
+		<topic href="doc/Implementing-a-New-Trace-Type.html#Other_Considerations" label="其他考虑因素">
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Collapsing_of_repetitive_events" label="折叠重复事件"></topic>
 		</topic>
-		<topic href="doc/Implementing-a-New-Trace-Type.html#Best_Practices" label="Best Practices"></topic>
-		<topic href="doc/Implementing-a-New-Trace-Type.html#An_Example:_Nexus-lite_parser" label="An Example: Nexus-lite parser">
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Description_of_the_file" label="Description of the file"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#NexusLite_Plug-in" label="NexusLite Plug-in"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Event" label="Trace Event"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Reader" label="Trace Reader"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Context" label="Trace Context"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Location" label="Trace Location"></topic>
-			<topic href="doc/Implementing-a-New-Trace-Type.html#The_.27.27org.eclipse.linuxtools.tmf.core.tracetype.27.27_and_.27.27org.eclipse.linuxtools.tmf.ui.tracetypeui.27.27_plug-in_extension_points" label="The &apos;&apos;org.eclipse.linuxtools.tmf.core.tracetype&apos;&apos; and &apos;&apos;org.eclipse.linuxtools.tmf.ui.tracetypeui&apos;&apos; plug-in extension points"></topic>
+		<topic href="doc/Implementing-a-New-Trace-Type.html#Best_Practices" label="最佳实践"></topic>
+		<topic href="doc/Implementing-a-New-Trace-Type.html#An_Example:_Nexus-lite_parser" label="示例：Nexus-lite解析器">
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Description_of_the_file" label="文件描述"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#NexusLite_Plug-in" label="NexusLite插件"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Event" label="跟踪事件"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Reader" label="跟踪阅读器"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Context" label="跟踪上下文"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#Trace_Location" label="跟踪位置"></topic>
+			<topic href="doc/Implementing-a-New-Trace-Type.html#The_.27.27org.eclipse.linuxtools.tmf.core.tracetype.27.27_and_.27.27org.eclipse.linuxtools.tmf.ui.tracetypeui.27.27_plug-in_extension_points" label="'org.eclipse.linuxtools.tmf.core.tracetype''。和''org.eclipse.linuxtools.tmf.ui.tracetypeui''和''插件扩展点"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/View-Tutorial.html" label="View Tutorial">
-		<topic href="doc/View-Tutorial.html#Prerequisites" label="Prerequisites"></topic>
-		<topic href="doc/View-Tutorial.html#Creating_an_Eclipse_UI_Plug-in" label="Creating an Eclipse UI Plug-in"></topic>
-		<topic href="doc/View-Tutorial.html#Creating_a_View" label="Creating a View"></topic>
-		<topic href="doc/View-Tutorial.html#Implementing_a_view" label="Implementing a view">
-			<topic href="doc/View-Tutorial.html#Adding_an_Empty_Chart" label="Adding an Empty Chart"></topic>
-			<topic href="doc/View-Tutorial.html#Signal_Handling" label="Signal Handling"></topic>
-			<topic href="doc/View-Tutorial.html#Requesting_Data" label="Requesting Data"></topic>
-			<topic href="doc/View-Tutorial.html#Transferring_Data_to_the_Chart" label="Transferring Data to the Chart"></topic>
-			<topic href="doc/View-Tutorial.html#Adjusting_the_Range" label="Adjusting the Range"></topic>
-			<topic href="doc/View-Tutorial.html#Formatting_the_Time_Stamps" label="Formatting the Time Stamps"></topic>
-			<topic href="doc/View-Tutorial.html#Pin_feature" label="Pin feature"></topic>
+	<topic href="doc/View-Tutorial.html" label="查看教程">
+		<topic href="doc/View-Tutorial.html#Prerequisites" label="先决条件"></topic>
+		<topic href="doc/View-Tutorial.html#Creating_an_Eclipse_UI_Plug-in" label="创建Eclipse UI插件"></topic>
+		<topic href="doc/View-Tutorial.html#Creating_a_View" label="创建视图"></topic>
+		<topic href="doc/View-Tutorial.html#Implementing_a_view" label="实现视图">
+			<topic href="doc/View-Tutorial.html#Adding_an_Empty_Chart" label="添加空图表"></topic>
+			<topic href="doc/View-Tutorial.html#Signal_Handling" label="信号处理"></topic>
+			<topic href="doc/View-Tutorial.html#Requesting_Data" label="请求数据"></topic>
+			<topic href="doc/View-Tutorial.html#Transferring_Data_to_the_Chart" label="将数据传输到图表"></topic>
+			<topic href="doc/View-Tutorial.html#Adjusting_the_Range" label="调整范围"></topic>
+			<topic href="doc/View-Tutorial.html#Formatting_the_Time_Stamps" label="格式化时间戳"></topic>
+			<topic href="doc/View-Tutorial.html#Pin_feature" label="引脚功能"></topic>
 		</topic>
-		<topic href="doc/View-Tutorial.html#TMF_Built-in_Views_and_Viewers" label="TMF Built-in Views and Viewers"></topic>
-		<topic href="doc/View-Tutorial.html#Timing_Analysis_Views_and_Viewers" label="Timing Analysis Views and Viewers"></topic>
+		<topic href="doc/View-Tutorial.html#TMF_Built-in_Views_and_Viewers" label="TMF内置视图和查看器"></topic>
+		<topic href="doc/View-Tutorial.html#Timing_Analysis_Views_and_Viewers" label="时序分析视图和查看器"></topic>
 	</topic>
-	<topic href="doc/Component-Interaction.html" label="Component Interaction">
-		<topic href="doc/Component-Interaction.html#Sending_Signals" label="Sending Signals"></topic>
-		<topic href="doc/Component-Interaction.html#Receiving_Signals" label="Receiving Signals"></topic>
-		<topic href="doc/Component-Interaction.html#Signal_Throttling" label="Signal Throttling"></topic>
-		<topic href="doc/Component-Interaction.html#Ignoring_inbound.2Foutbound_signals" label="Ignoring inbound/outbound signals"></topic>
-		<topic href="doc/Component-Interaction.html#Signal_Reference" label="Signal Reference">
+	<topic href="doc/Component-Interaction.html" label="组件交互">
+		<topic href="doc/Component-Interaction.html#Sending_Signals" label="发送信号"></topic>
+		<topic href="doc/Component-Interaction.html#Receiving_Signals" label="接收信号"></topic>
+		<topic href="doc/Component-Interaction.html#Signal_Throttling" label="信号限制"></topic>
+		<topic href="doc/Component-Interaction.html#Ignoring_inbound.2Foutbound_signals" label="忽略入站/出站信号"></topic>
+		<topic href="doc/Component-Interaction.html#Signal_Reference" label="信号参考">
 			<topic href="doc/Component-Interaction.html#TmfStartSynchSignal" label="TmfStartSynchSignal"></topic>
 			<topic href="doc/Component-Interaction.html#TmfEndSynchSignal" label="TmfEndSynchSignal"></topic>
 			<topic href="doc/Component-Interaction.html#TmfTraceOpenedSignal" label="TmfTraceOpenedSignal"></topic>
@@ -69,133 +69,133 @@
 			<topic href="doc/Component-Interaction.html#TmfTraceSynchronizedSignal" label="TmfTraceSynchronizedSignal"></topic>
 			<topic href="doc/Component-Interaction.html#TmfMarkerEventSourceUpdatedSignal" label="TmfMarkerEventSourceUpdatedSignal"></topic>
 		</topic>
-		<topic href="doc/Component-Interaction.html#Debugging" label="Debugging"></topic>
+		<topic href="doc/Component-Interaction.html#Debugging" label="调试"></topic>
 	</topic>
-	<topic href="doc/Generic-State-System.html" label="Generic State System">
-		<topic href="doc/Generic-State-System.html#Introduction_2" label="Introduction"></topic>
-		<topic href="doc/Generic-State-System.html#High-level_components" label="High-level components"></topic>
-		<topic href="doc/Generic-State-System.html#Definitions" label="Definitions">
-			<topic href="doc/Generic-State-System.html#Attribute" label="Attribute"></topic>
-			<topic href="doc/Generic-State-System.html#Attribute_Tree" label="Attribute Tree"></topic>
-			<topic href="doc/Generic-State-System.html#Quark" label="Quark"></topic>
-			<topic href="doc/Generic-State-System.html#State_value" label="State value"></topic>
-			<topic href="doc/Generic-State-System.html#State_change" label="State change"></topic>
-			<topic href="doc/Generic-State-System.html#State_interval" label="State interval"></topic>
-			<topic href="doc/Generic-State-System.html#State_history" label="State history"></topic>
-			<topic href="doc/Generic-State-System.html#Construction_phase" label="Construction phase"></topic>
-			<topic href="doc/Generic-State-System.html#Queries" label="Queries">
-				<topic href="doc/Generic-State-System.html#Full_queries" label="Full queries"></topic>
-				<topic href="doc/Generic-State-System.html#Single_queries" label="Single queries"></topic>
-				<topic href="doc/Generic-State-System.html#2D_queries" label="2D queries"></topic>
+	<topic href="doc/Generic-State-System.html" label="通用国家制度">
+		<topic href="doc/Generic-State-System.html#Introduction_2" label="介绍"></topic>
+		<topic href="doc/Generic-State-System.html#High-level_components" label="高级组件"></topic>
+		<topic href="doc/Generic-State-System.html#Definitions" label="定义">
+			<topic href="doc/Generic-State-System.html#Attribute" label="属性"></topic>
+			<topic href="doc/Generic-State-System.html#Attribute_Tree" label="属性树"></topic>
+			<topic href="doc/Generic-State-System.html#Quark" label="夸克"></topic>
+			<topic href="doc/Generic-State-System.html#State_value" label="国家价值"></topic>
+			<topic href="doc/Generic-State-System.html#State_change" label="国家变化"></topic>
+			<topic href="doc/Generic-State-System.html#State_interval" label="状态间隔"></topic>
+			<topic href="doc/Generic-State-System.html#State_history" label="国家历史"></topic>
+			<topic href="doc/Generic-State-System.html#Construction_phase" label="施工阶段"></topic>
+			<topic href="doc/Generic-State-System.html#Queries" label="查询">
+				<topic href="doc/Generic-State-System.html#Full_queries" label="完整查询"></topic>
+				<topic href="doc/Generic-State-System.html#Single_queries" label="单个查询"></topic>
+				<topic href="doc/Generic-State-System.html#2D_queries" label="2D查询"></topic>
 			</topic>
 		</topic>
-		<topic href="doc/Generic-State-System.html#Relevant_interfaces.2Fclasses" label="Relevant interfaces/classes">
-			<topic href="doc/Generic-State-System.html#Main_classes_in_org.eclipse.tracecompass.tmf.core.statesystem" label="Main classes in org.eclipse.tracecompass.tmf.core.statesystem">
+		<topic href="doc/Generic-State-System.html#Relevant_interfaces.2Fclasses" label="相关接口/类">
+			<topic href="doc/Generic-State-System.html#Main_classes_in_org.eclipse.tracecompass.tmf.core.statesystem" label="org.eclipse.tracecompass.tmf.core.statesystem中的主要类">
 				<topic href="doc/Generic-State-System.html#ITmfStateProvider_.2F_AbstractTmfStateProvider" label="ITmfStateProvider / AbstractTmfStateProvider"></topic>
 				<topic href="doc/Generic-State-System.html#TmfStateSystemFactory" label="TmfStateSystemFactory"></topic>
 				<topic href="doc/Generic-State-System.html#ITmfStateSystem" label="ITmfStateSystem">
-					<topic href="doc/Generic-State-System.html#getQuarkAbsolute.28.29.2FgetQuarkRelative.28.29" label="getQuarkAbsolute()/getQuarkRelative()"></topic>
-					<topic href="doc/Generic-State-System.html#optQuarkAbsolute.28.29.2FoptQuarkRelative.28.29" label="optQuarkAbsolute()/optQuarkRelative()"></topic>
-					<topic href="doc/Generic-State-System.html#getQuarks.28.29" label="getQuarks()"></topic>
-					<topic href="doc/Generic-State-System.html#waitUntilBuilt.28.29" label="waitUntilBuilt()"></topic>
-					<topic href="doc/Generic-State-System.html#queryFullState.28.29" label="queryFullState()"></topic>
-					<topic href="doc/Generic-State-System.html#querySingleState.28.29" label="querySingleState()"></topic>
+					<topic href="doc/Generic-State-System.html#getQuarkAbsolute.28.29.2FgetQuarkRelative.28.29" label="getQuarkAbsolute（）/ getQuarkRelative（）"></topic>
+					<topic href="doc/Generic-State-System.html#optQuarkAbsolute.28.29.2FoptQuarkRelative.28.29" label="optQuarkAbsolute（）/ optQuarkRelative（）"></topic>
+					<topic href="doc/Generic-State-System.html#getQuarks.28.29" label="getQuarks（）"></topic>
+					<topic href="doc/Generic-State-System.html#waitUntilBuilt.28.29" label="waitUntilBuilt（）"></topic>
+					<topic href="doc/Generic-State-System.html#queryFullState.28.29" label="queryFullState（）"></topic>
+					<topic href="doc/Generic-State-System.html#querySingleState.28.29" label="querySingleState（）"></topic>
 				</topic>
 				<topic href="doc/Generic-State-System.html#ITmfStateSystemBuilder" label="ITmfStateSystemBuilder">
-					<topic href="doc/Generic-State-System.html#getQuark*AndAdd.28.29" label="getQuark*AndAdd()"></topic>
-					<topic href="doc/Generic-State-System.html#modifyAttribute.28.29" label="modifyAttribute()"></topic>
-					<topic href="doc/Generic-State-System.html#closeHistory.28.29" label="closeHistory()"></topic>
+					<topic href="doc/Generic-State-System.html#getQuark*AndAdd.28.29" label="getQuark * AndAdd（）"></topic>
+					<topic href="doc/Generic-State-System.html#modifyAttribute.28.29" label="modifyAttribute（）"></topic>
+					<topic href="doc/Generic-State-System.html#closeHistory.28.29" label="closeHistory（）"></topic>
 				</topic>
 			</topic>
-			<topic href="doc/Generic-State-System.html#Other_relevant_interfaces" label="Other relevant interfaces">
+			<topic href="doc/Generic-State-System.html#Other_relevant_interfaces" label="其他相关接口">
 				<topic href="doc/Generic-State-System.html#ITmfStateValue" label="ITmfStateValue"></topic>
 				<topic href="doc/Generic-State-System.html#ITmfStateInterval" label="ITmfStateInterval"></topic>
 			</topic>
-			<topic href="doc/Generic-State-System.html#Exceptions" label="Exceptions">
+			<topic href="doc/Generic-State-System.html#Exceptions" label="例外">
 				<topic href="doc/Generic-State-System.html#AttributeNotFoundException" label="AttributeNotFoundException"></topic>
 				<topic href="doc/Generic-State-System.html#StateValueTypeException" label="StateValueTypeException"></topic>
 				<topic href="doc/Generic-State-System.html#TimeRangeException" label="TimeRangeException"></topic>
 				<topic href="doc/Generic-State-System.html#StateSystemDisposedException" label="StateSystemDisposedException"></topic>
 			</topic>
 		</topic>
-		<topic href="doc/Generic-State-System.html#Comparison_of_state_system_backends" label="Comparison of state system backends">
-			<topic href="doc/Generic-State-System.html#Full_history" label="Full history"></topic>
-			<topic href="doc/Generic-State-System.html#Null_history" label="Null history"></topic>
-			<topic href="doc/Generic-State-System.html#In-memory_history" label="In-memory history"></topic>
-			<topic href="doc/Generic-State-System.html#Partial_history" label="Partial history"></topic>
+		<topic href="doc/Generic-State-System.html#Comparison_of_state_system_backends" label="国家系统后端的比较">
+			<topic href="doc/Generic-State-System.html#Full_history" label="完整的历史"></topic>
+			<topic href="doc/Generic-State-System.html#Null_history" label="空的历史"></topic>
+			<topic href="doc/Generic-State-System.html#In-memory_history" label="记忆中的历史"></topic>
+			<topic href="doc/Generic-State-System.html#Partial_history" label="部分历史"></topic>
 		</topic>
-		<topic href="doc/Generic-State-System.html#State_System_Operations" label="State System Operations">
-			<topic href="doc/Generic-State-System.html#queryRangeMax.28.29" label="queryRangeMax()"></topic>
-			<topic href="doc/Generic-State-System.html#queryRangeMin.28.29" label="queryRangeMin()"></topic>
-			<topic href="doc/Generic-State-System.html#queryRangeAverage.28.29" label="queryRangeAverage()"></topic>
+		<topic href="doc/Generic-State-System.html#State_System_Operations" label="国家系统运作">
+			<topic href="doc/Generic-State-System.html#queryRangeMax.28.29" label="queryRangeMax（）"></topic>
+			<topic href="doc/Generic-State-System.html#queryRangeMin.28.29" label="queryRangeMin（）"></topic>
+			<topic href="doc/Generic-State-System.html#queryRangeAverage.28.29" label="queryRangeAverage（）"></topic>
 		</topic>
-		<topic href="doc/Generic-State-System.html#Code_example" label="Code example">
-			<topic href="doc/Generic-State-System.html#State_Provider" label="State Provider"></topic>
-			<topic href="doc/Generic-State-System.html#Analysis_module_definition" label="Analysis module definition"></topic>
+		<topic href="doc/Generic-State-System.html#Code_example" label="代码示例">
+			<topic href="doc/Generic-State-System.html#State_Provider" label="国家提供者"></topic>
+			<topic href="doc/Generic-State-System.html#Analysis_module_definition" label="分析模块定义"></topic>
 		</topic>
-		<topic href="doc/Generic-State-System.html#Mipmap_feature" label="Mipmap feature">
+		<topic href="doc/Generic-State-System.html#Mipmap_feature" label="Mipmap功能">
 			<topic href="doc/Generic-State-System.html#AbstractTmfMipmapStateProvider" label="AbstractTmfMipmapStateProvider"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/UML2-Sequence-Diagram-Framework.html" label="UML2 Sequence Diagram Framework">
-		<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_UML2_Sequence_Diagram_Extensions" label="TMF UML2 Sequence Diagram Extensions"></topic>
-		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Management_of_the_Extension_Point" label="Management of the Extension Point"></topic>
-		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Sequence_Diagram_View" label="Sequence Diagram View">
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Supported_Widgets" label="Supported Widgets"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Zooming" label="Zooming"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Printing" label="Printing"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Key_Bindings" label="Key Bindings"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Preferences" label="Preferences"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Callback_hooks" label="Callback hooks"></topic>
+	<topic href="doc/UML2-Sequence-Diagram-Framework.html" label="UML2序列图框架">
+		<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_UML2_Sequence_Diagram_Extensions" label="TMF UML2序列图扩展"></topic>
+		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Management_of_the_Extension_Point" label="扩展点的管理"></topic>
+		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Sequence_Diagram_View" label="序列图视图">
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Supported_Widgets" label="支持的小部件"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Zooming" label="缩放"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Printing" label="印花"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Key_Bindings" label="关键绑定"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Preferences" label="喜好"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Callback_hooks" label="回调挂钩"></topic>
 		</topic>
-		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Tutorial" label="Tutorial">
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Prerequisites_2" label="Prerequisites"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Creating_an_Eclipse_UI_Plug-in_2" label="Creating an Eclipse UI Plug-in"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Creating_a_Sequence_Diagram_View" label="Creating a Sequence Diagram View"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Defining_the_uml2SDLoader_Extension" label="Defining the uml2SDLoader Extension"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Implementing_the_Loader_Class" label="Implementing the Loader Class"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Adding_time_information" label="Adding time information"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Default_Coolbar_and_Menu_Items" label="Default Coolbar and Menu Items"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Implementing_Optional_Callbacks" label="Implementing Optional Callbacks">
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Paging_Provider_Interface" label="Using the Paging Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Find_Provider_Interface" label="Using the Find Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Filter_Provider_Interface" label="Using the Filter Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Extended_Action_Bar_Provider_Interface" label="Using the Extended Action Bar Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Properties_Provider_Interface" label="Using the Properties Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Collapse_Provider_Interface" label="Using the Collapse Provider Interface"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Selection_Provider_Service" label="Using the Selection Provider Service"></topic>
+		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Tutorial" label="教程">
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Prerequisites_2" label="先决条件"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Creating_an_Eclipse_UI_Plug-in_2" label="创建Eclipse UI插件"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Creating_a_Sequence_Diagram_View" label="创建序列图视图"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Defining_the_uml2SDLoader_Extension" label="定义uml2SDLoader扩展"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Implementing_the_Loader_Class" label="实现Loader类"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Adding_time_information" label="添加时间信息"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Default_Coolbar_and_Menu_Items" label="默认的Coolbar和菜单项"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Implementing_Optional_Callbacks" label="实现可选的回调">
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Paging_Provider_Interface" label="使用分页提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Find_Provider_Interface" label="使用查找提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Filter_Provider_Interface" label="使用过滤器提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Extended_Action_Bar_Provider_Interface" label="使用扩展操作栏提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Properties_Provider_Interface" label="使用属性提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Collapse_Provider_Interface" label="使用折叠提供程序接口"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_the_Selection_Provider_Service" label="使用选择提供程序服务"></topic>
 			</topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Printing_a_Sequence_Diagram" label="Printing a Sequence Diagram"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_one_Sequence_Diagram_View_with_Multiple_Loaders" label="Using one Sequence Diagram View with Multiple Loaders"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Downloading_the_Tutorial" label="Downloading the Tutorial"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Printing_a_Sequence_Diagram" label="打印序列图"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Using_one_Sequence_Diagram_View_with_Multiple_Loaders" label="使用一个序列图视图与多个加载器"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Downloading_the_Tutorial" label="下载教程"></topic>
 		</topic>
-		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Integration_of_Tracing_and_Monitoring_Framework_with_Sequence_Diagram_Framework" label="Integration of Tracing and Monitoring Framework with Sequence Diagram Framework">
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Reference_Implementation" label="Reference Implementation"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Used_Sequence_Diagram_Features" label="Used Sequence Diagram Features">
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Advanced_paging" label="Advanced paging"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Basic_finding" label="Basic finding"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Basic_filtering" label="Basic filtering"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Selection_Service" label="Selection Service"></topic>
+		<topic href="doc/UML2-Sequence-Diagram-Framework.html#Integration_of_Tracing_and_Monitoring_Framework_with_Sequence_Diagram_Framework" label="跟踪和监控框架与序列图框架的集成">
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Reference_Implementation" label="参考实施"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Used_Sequence_Diagram_Features" label="使用的序列图功能">
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Advanced_paging" label="高级分页"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Basic_finding" label="基本发现"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Basic_filtering" label="基本过滤"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#Selection_Service" label="选择服务"></topic>
 			</topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Used_TMF_Features" label="Used TMF Features">
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Experiment_and_Trace_for_accessing_traces" label="TMF Experiment and Trace for accessing traces"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Event_Request_Framework" label="TMF Event Request Framework"></topic>
-				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Signal_Framework" label="TMF Signal Framework"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Used_TMF_Features" label="使用的TMF功能">
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Experiment_and_Trace_for_accessing_traces" label="用于访问跟踪的TMF实验和跟踪"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Event_Request_Framework" label="TMF事件请求框架"></topic>
+				<topic href="doc/UML2-Sequence-Diagram-Framework.html#TMF_Signal_Framework" label="TMF信号框架"></topic>
 			</topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Supported_Traces" label="Supported Traces"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Trace_Format" label="Trace Format"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#How_to_use_the_Reference_Implementation" label="How to use the Reference Implementation"></topic>
-			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Extending_the_Reference_Loader" label="Extending the Reference Loader"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Supported_Traces" label="支持的跟踪"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Trace_Format" label="跟踪格式"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#How_to_use_the_Reference_Implementation" label="如何使用参考实施"></topic>
+			<topic href="doc/UML2-Sequence-Diagram-Framework.html#Extending_the_Reference_Loader" label="扩展Reference Loader"></topic>
 		</topic>
 	</topic>
 	<topic href="doc/CTF-Parser.html" label="CTF Parser">
-		<topic href="doc/CTF-Parser.html#CTF_Format" label="CTF Format">
-			<topic href="doc/CTF-Parser.html#Metadata" label="Metadata"></topic>
-			<topic href="doc/CTF-Parser.html#Event_Streams" label="Event Streams"></topic>
+		<topic href="doc/CTF-Parser.html#CTF_Format" label="CTF格式">
+			<topic href="doc/CTF-Parser.html#Metadata" label="元数据"></topic>
+			<topic href="doc/CTF-Parser.html#Event_Streams" label="事件流"></topic>
 		</topic>
-		<topic href="doc/CTF-Parser.html#Reading_a_trace" label="Reading a trace"></topic>
-		<topic href="doc/CTF-Parser.html#Seeking_in_a_trace" label="Seeking in a trace"></topic>
-		<topic href="doc/CTF-Parser.html#Interfacing_to_TMF" label="Interfacing to TMF">
+		<topic href="doc/CTF-Parser.html#Reading_a_trace" label="阅读踪迹"></topic>
+		<topic href="doc/CTF-Parser.html#Seeking_in_a_trace" label="寻求一丝"></topic>
+		<topic href="doc/CTF-Parser.html#Interfacing_to_TMF" label="连接到TMF">
 			<topic href="doc/CTF-Parser.html#CtfLocation" label="CtfLocation"></topic>
 			<topic href="doc/CTF-Parser.html#CtfTmfTrace" label="CtfTmfTrace"></topic>
 			<topic href="doc/CTF-Parser.html#CtfIterator" label="CtfIterator"></topic>
@@ -203,123 +203,123 @@
 			<topic href="doc/CTF-Parser.html#CtfTmfContext" label="CtfTmfContext"></topic>
 			<topic href="doc/CTF-Parser.html#CtfTmfTimestamp" label="CtfTmfTimestamp"></topic>
 			<topic href="doc/CTF-Parser.html#CtfTmfEvent" label="CtfTmfEvent"></topic>
-			<topic href="doc/CTF-Parser.html#Other" label="Other"></topic>
-			<topic href="doc/CTF-Parser.html#Limitations" label="Limitations"></topic>
+			<topic href="doc/CTF-Parser.html#Other" label="其他"></topic>
+			<topic href="doc/CTF-Parser.html#Limitations" label="限制"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/Event-matching-and-trace-synchronization.html" label="Event matching and trace synchronization">
-		<topic href="doc/Event-matching-and-trace-synchronization.html#Event_matching_interfaces" label="Event matching interfaces"></topic>
-		<topic href="doc/Event-matching-and-trace-synchronization.html#Implementation_details_and_how_to_extend_it" label="Implementation details and how to extend it">
-			<topic href="doc/Event-matching-and-trace-synchronization.html#ITmfEventMatching_interface_and_derived_classes" label="ITmfEventMatching interface and derived classes"></topic>
-			<topic href="doc/Event-matching-and-trace-synchronization.html#ITmfMatchEventDefinition_interface_and_its_derived_classes" label="ITmfMatchEventDefinition interface and its derived classes"></topic>
-			<topic href="doc/Event-matching-and-trace-synchronization.html#IMatchProcessingUnit_interface_and_derived_classes" label="IMatchProcessingUnit interface and derived classes"></topic>
+	<topic href="doc/Event-matching-and-trace-synchronization.html" label="事件匹配和跟踪同步">
+		<topic href="doc/Event-matching-and-trace-synchronization.html#Event_matching_interfaces" label="事件匹配接口"></topic>
+		<topic href="doc/Event-matching-and-trace-synchronization.html#Implementation_details_and_how_to_extend_it" label="实现细节以及如何扩展它">
+			<topic href="doc/Event-matching-and-trace-synchronization.html#ITmfEventMatching_interface_and_derived_classes" label="ITmfEventMatching接口和派生类"></topic>
+			<topic href="doc/Event-matching-and-trace-synchronization.html#ITmfMatchEventDefinition_interface_and_its_derived_classes" label="ITmfMatchEventDefinition接口及其派生类"></topic>
+			<topic href="doc/Event-matching-and-trace-synchronization.html#IMatchProcessingUnit_interface_and_derived_classes" label="IMatchProcessingUnit接口和派生类"></topic>
 		</topic>
-		<topic href="doc/Event-matching-and-trace-synchronization.html#Code_examples" label="Code examples">
-			<topic href="doc/Event-matching-and-trace-synchronization.html#Using_network_packets_matching_in_an_analysis" label="Using network packets matching in an analysis"></topic>
-			<topic href="doc/Event-matching-and-trace-synchronization.html#Match_events_from_UST_traces" label="Match events from UST traces"></topic>
+		<topic href="doc/Event-matching-and-trace-synchronization.html#Code_examples" label="代码示例">
+			<topic href="doc/Event-matching-and-trace-synchronization.html#Using_network_packets_matching_in_an_analysis" label="在分析中使用网络数据包匹配"></topic>
+			<topic href="doc/Event-matching-and-trace-synchronization.html#Match_events_from_UST_traces" label="匹配来自UST痕迹的事件"></topic>
 		</topic>
-		<topic href="doc/Event-matching-and-trace-synchronization.html#Trace_synchronization" label="Trace synchronization">
-			<topic href="doc/Event-matching-and-trace-synchronization.html#Synchronization_algorithm" label="Synchronization algorithm"></topic>
-			<topic href="doc/Event-matching-and-trace-synchronization.html#Timestamp_transforms" label="Timestamp transforms"></topic>
+		<topic href="doc/Event-matching-and-trace-synchronization.html#Trace_synchronization" label="跟踪同步">
+			<topic href="doc/Event-matching-and-trace-synchronization.html#Synchronization_algorithm" label="同步算法"></topic>
+			<topic href="doc/Event-matching-and-trace-synchronization.html#Timestamp_transforms" label="时间戳转换"></topic>
 		</topic>
-		<topic href="doc/Event-matching-and-trace-synchronization.html#Todo" label="Todo"></topic>
+		<topic href="doc/Event-matching-and-trace-synchronization.html#Todo" label="去做"></topic>
 	</topic>
-	<topic href="doc/Analysis-Framework.html" label="Analysis Framework">
-		<topic href="doc/Analysis-Framework.html#Creating_a_new_module" label="Creating a new module">
-			<topic href="doc/Analysis-Framework.html#Example" label="Example"></topic>
-			<topic href="doc/Analysis-Framework.html#Available_base_analysis_classes_and_interfaces" label="Available base analysis classes and interfaces"></topic>
-			<topic href="doc/Analysis-Framework.html#How_it_works" label="How it works"></topic>
+	<topic href="doc/Analysis-Framework.html" label="分析框架">
+		<topic href="doc/Analysis-Framework.html#Creating_a_new_module" label="创建一个新模块">
+			<topic href="doc/Analysis-Framework.html#Example" label="例"></topic>
+			<topic href="doc/Analysis-Framework.html#Available_base_analysis_classes_and_interfaces" label="可用的基本分析类和接口"></topic>
+			<topic href="doc/Analysis-Framework.html#How_it_works" label="这个怎么运作"></topic>
 		</topic>
-		<topic href="doc/Analysis-Framework.html#Telling_TMF_about_the_analysis_module" label="Telling TMF about the analysis module"></topic>
-		<topic href="doc/Analysis-Framework.html#Attaching_outputs_and_views_to_the_analysis_module" label="Attaching outputs and views to the analysis module">
-			<topic href="doc/Analysis-Framework.html#Using_the_extension_point_to_add_outputs" label="Using the extension point to add outputs"></topic>
+		<topic href="doc/Analysis-Framework.html#Telling_TMF_about_the_analysis_module" label="告诉TMF关于分析模块"></topic>
+		<topic href="doc/Analysis-Framework.html#Attaching_outputs_and_views_to_the_analysis_module" label="将输出和视图附加到分析模块">
+			<topic href="doc/Analysis-Framework.html#Using_the_extension_point_to_add_outputs" label="使用扩展点添加输出"></topic>
 		</topic>
-		<topic href="doc/Analysis-Framework.html#Providing_help_for_the_module" label="Providing help for the module"></topic>
-		<topic href="doc/Analysis-Framework.html#Using_analysis_parameter_providers" label="Using analysis parameter providers">
-			<topic href="doc/Analysis-Framework.html#Example_parameter_provider" label="Example parameter provider"></topic>
-			<topic href="doc/Analysis-Framework.html#Register_the_parameter_provider_to_the_analysis" label="Register the parameter provider to the analysis"></topic>
+		<topic href="doc/Analysis-Framework.html#Providing_help_for_the_module" label="为模块提供帮助"></topic>
+		<topic href="doc/Analysis-Framework.html#Using_analysis_parameter_providers" label="使用分析参数提供者">
+			<topic href="doc/Analysis-Framework.html#Example_parameter_provider" label="示例参数提供程序"></topic>
+			<topic href="doc/Analysis-Framework.html#Register_the_parameter_provider_to_the_analysis" label="将参数提供程序注册到分析中"></topic>
 		</topic>
-		<topic href="doc/Analysis-Framework.html#Providing_requirements_to_analyses" label="Providing requirements to analyses">
-			<topic href="doc/Analysis-Framework.html#Analysis_requirement_provider_API" label="Analysis requirement provider API"></topic>
-			<topic href="doc/Analysis-Framework.html#Requirement_values" label="Requirement values"></topic>
-			<topic href="doc/Analysis-Framework.html#Example_of_providing_requirements" label="Example of providing requirements"></topic>
+		<topic href="doc/Analysis-Framework.html#Providing_requirements_to_analyses" label="提供分析要求">
+			<topic href="doc/Analysis-Framework.html#Analysis_requirement_provider_API" label="分析需求提供者API"></topic>
+			<topic href="doc/Analysis-Framework.html#Requirement_values" label="要求价值"></topic>
+			<topic href="doc/Analysis-Framework.html#Example_of_providing_requirements" label="提供要求的示例"></topic>
 		</topic>
-		<topic href="doc/Analysis-Framework.html#TODO" label="TODO"></topic>
+		<topic href="doc/Analysis-Framework.html#TODO" label="去做"></topic>
 	</topic>
-	<topic href="doc/TMF-Remote-API.html" label="TMF Remote API">
-		<topic href="doc/TMF-Remote-API.html#Prerequisites_3" label="Prerequisites"></topic>
+	<topic href="doc/TMF-Remote-API.html" label="TMF远程API">
+		<topic href="doc/TMF-Remote-API.html#Prerequisites_3" label="先决条件"></topic>
 		<topic href="doc/TMF-Remote-API.html#TmfRemoteConnectionFactory" label="TmfRemoteConnectionFactory">
-			<topic href="doc/TMF-Remote-API.html#Accessing_the_remote_services_manager_.28OSGI_service.29" label="Accessing the remote services manager (OSGI service)"></topic>
-			<topic href="doc/TMF-Remote-API.html#Obtaining_a_IRemoteConnection" label="Obtaining a IRemoteConnection"></topic>
-			<topic href="doc/TMF-Remote-API.html#Creating_an_IRemoteConnection_instance" label="Creating an IRemoteConnection instance"></topic>
-			<topic href="doc/TMF-Remote-API.html#Providing_a_connection_factory" label="Providing a connection factory"></topic>
+			<topic href="doc/TMF-Remote-API.html#Accessing_the_remote_services_manager_.28OSGI_service.29" label="访问远程服务管理器（OSGI服务）"></topic>
+			<topic href="doc/TMF-Remote-API.html#Obtaining_a_IRemoteConnection" label="获取IRemoteConnection"></topic>
+			<topic href="doc/TMF-Remote-API.html#Creating_an_IRemoteConnection_instance" label="创建IRemoteConnection实例"></topic>
+			<topic href="doc/TMF-Remote-API.html#Providing_a_connection_factory" label="提供连接工厂"></topic>
 		</topic>
 		<topic href="doc/TMF-Remote-API.html#RemoteSystemProxy" label="RemoteSystemProxy">
-			<topic href="doc/TMF-Remote-API.html#Creating_a_RemoteSystemProxy" label="Creating a RemoteSystemProxy"></topic>
-			<topic href="doc/TMF-Remote-API.html#Opening_the_remote_connection" label="Opening the remote connection"></topic>
-			<topic href="doc/TMF-Remote-API.html#Closing_the_remote_connection" label="Closing the remote connection"></topic>
-			<topic href="doc/TMF-Remote-API.html#Disposing_the_remote_connection" label="Disposing the remote connection"></topic>
-			<topic href="doc/TMF-Remote-API.html#Checking_the_connection_state" label="Checking the connection state"></topic>
-			<topic href="doc/TMF-Remote-API.html#Retrieving_the_IRemoteConnection_instance" label="Retrieving the IRemoteConnection instance"></topic>
-			<topic href="doc/TMF-Remote-API.html#Obtaining_a_command_shell" label="Obtaining a command shell"></topic>
+			<topic href="doc/TMF-Remote-API.html#Creating_a_RemoteSystemProxy" label="创建RemoteSystemProxy"></topic>
+			<topic href="doc/TMF-Remote-API.html#Opening_the_remote_connection" label="打开远程连接"></topic>
+			<topic href="doc/TMF-Remote-API.html#Closing_the_remote_connection" label="关闭远程连接"></topic>
+			<topic href="doc/TMF-Remote-API.html#Disposing_the_remote_connection" label="处理远程连接"></topic>
+			<topic href="doc/TMF-Remote-API.html#Checking_the_connection_state" label="检查连接状态"></topic>
+			<topic href="doc/TMF-Remote-API.html#Retrieving_the_IRemoteConnection_instance" label="检索IRemoteConnection实例"></topic>
+			<topic href="doc/TMF-Remote-API.html#Obtaining_a_command_shell" label="获取命令shell"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/Performance-Tests.html" label="Performance Tests">
-		<topic href="doc/Performance-Tests.html#Add_performance_tests" label="Add performance tests">
-			<topic href="doc/Performance-Tests.html#Where" label="Where"></topic>
-			<topic href="doc/Performance-Tests.html#How" label="How"></topic>
-			<topic href="doc/Performance-Tests.html#Run_a_performance_test" label="Run a performance test"></topic>
+	<topic href="doc/Performance-Tests.html" label="性能测试">
+		<topic href="doc/Performance-Tests.html#Add_performance_tests" label="添加性能测试">
+			<topic href="doc/Performance-Tests.html#Where" label="哪里"></topic>
+			<topic href="doc/Performance-Tests.html#How" label="怎么样"></topic>
+			<topic href="doc/Performance-Tests.html#Run_a_performance_test" label="运行性能测试"></topic>
 		</topic>
-		<topic href="doc/Performance-Tests.html#ABC_of_performance_testing" label="ABC of performance testing">
-			<topic href="doc/Performance-Tests.html#Determine_what_to_test" label="Determine what to test"></topic>
-			<topic href="doc/Performance-Tests.html#Metrics_descriptions_and_considerations" label="Metrics descriptions and considerations"></topic>
+		<topic href="doc/Performance-Tests.html#ABC_of_performance_testing" label="性能测试的ABC">
+			<topic href="doc/Performance-Tests.html#Determine_what_to_test" label="确定要测试的内容"></topic>
+			<topic href="doc/Performance-Tests.html#Metrics_descriptions_and_considerations" label="度量标准描述和注意事项"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/Network-Tracing.html" label="Network Tracing">
-		<topic href="doc/Network-Tracing.html#Adding_a_protocol" label="Adding a protocol">
-			<topic href="doc/Network-Tracing.html#Architecture" label="Architecture"></topic>
-			<topic href="doc/Network-Tracing.html#UDP_Packet_Structure" label="UDP Packet Structure"></topic>
-			<topic href="doc/Network-Tracing.html#Creating_the_UDPPacket" label="Creating the UDPPacket"></topic>
-			<topic href="doc/Network-Tracing.html#Creating_the_UDPEndpoint" label="Creating the UDPEndpoint"></topic>
-			<topic href="doc/Network-Tracing.html#Registering_the_UDP_protocol" label="Registering the UDP protocol"></topic>
+	<topic href="doc/Network-Tracing.html" label="网络追踪">
+		<topic href="doc/Network-Tracing.html#Adding_a_protocol" label="添加协议">
+			<topic href="doc/Network-Tracing.html#Architecture" label="建筑"></topic>
+			<topic href="doc/Network-Tracing.html#UDP_Packet_Structure" label="UDP数据包结构"></topic>
+			<topic href="doc/Network-Tracing.html#Creating_the_UDPPacket" label="创建UDPPacket"></topic>
+			<topic href="doc/Network-Tracing.html#Creating_the_UDPEndpoint" label="创建UDPEndpoint"></topic>
+			<topic href="doc/Network-Tracing.html#Registering_the_UDP_protocol" label="注册UDP协议"></topic>
 		</topic>
-		<topic href="doc/Network-Tracing.html#Adding_stream-based_views" label="Adding stream-based views"></topic>
-		<topic href="doc/Network-Tracing.html#TODO_2" label="TODO"></topic>
+		<topic href="doc/Network-Tracing.html#Adding_stream-based_views" label="添加基于流的视图"></topic>
+		<topic href="doc/Network-Tracing.html#TODO_2" label="去做"></topic>
 	</topic>
-	<topic href="doc/Markers.html" label="Markers">
-		<topic href="doc/Markers.html#Trace-specific_markers" label="Trace-specific markers"></topic>
-		<topic href="doc/Markers.html#View-specific_markers" label="View-specific markers"></topic>
+	<topic href="doc/Markers.html" label="标记">
+		<topic href="doc/Markers.html#Trace-specific_markers" label="跟踪特异性标记"></topic>
+		<topic href="doc/Markers.html#View-specific_markers" label="视图特定标记"></topic>
 	</topic>
-	<topic href="doc/Virtual-Machine-Analysis.html" label="Virtual Machine Analysis"></topic>
-	<topic href="doc/JUL-Logging.html" label="JUL Logging">
-		<topic href="doc/JUL-Logging.html#Use_a_static_logger_for_each_class" label="Use a static logger for each class"></topic>
-		<topic href="doc/JUL-Logging.html#Use_a_message_supplier" label="Use a message supplier"></topic>
-		<topic href="doc/JUL-Logging.html#Choose_the_appropriate_log_level" label="Choose the appropriate log level"></topic>
-		<topic href="doc/JUL-Logging.html#Log_message_format" label="Log message format"></topic>
-		<topic href="doc/JUL-Logging.html#Logging_to_populate_Callstacks_and_Callgraph_analyses" label="Logging to populate Callstacks and Callgraph analyses"></topic>
-		<topic href="doc/JUL-Logging.html#Logging_to_track_Object_life_cycles" label="Logging to track Object life cycles"></topic>
-		<topic href="doc/JUL-Logging.html#Logging_to_track_Asynchronous_operations" label="Logging to track Asynchronous operations"></topic>
+	<topic href="doc/Virtual-Machine-Analysis.html" label="虚拟机分析"></topic>
+	<topic href="doc/JUL-Logging.html" label="JUL记录">
+		<topic href="doc/JUL-Logging.html#Use_a_static_logger_for_each_class" label="为每个类使用静态记录器"></topic>
+		<topic href="doc/JUL-Logging.html#Use_a_message_supplier" label="使用消息供应商"></topic>
+		<topic href="doc/JUL-Logging.html#Choose_the_appropriate_log_level" label="选择适当的日志级别"></topic>
+		<topic href="doc/JUL-Logging.html#Log_message_format" label="记录消息格式"></topic>
+		<topic href="doc/JUL-Logging.html#Logging_to_populate_Callstacks_and_Callgraph_analyses" label="记录以填充Callstacks和Callgraph分析"></topic>
+		<topic href="doc/JUL-Logging.html#Logging_to_track_Object_life_cycles" label="记录以跟踪对象生命周期"></topic>
+		<topic href="doc/JUL-Logging.html#Logging_to_track_Asynchronous_operations" label="记录以跟踪异步操作"></topic>
 	</topic>
-	<topic href="doc/XML-schema-extension.html" label="XML schema extension">
-		<topic href="doc/XML-schema-extension.html#Extending_the_schema" label="Extending the schema"></topic>
-		<topic href="doc/XML-schema-extension.html#Parsing_the_schema" label="Parsing the schema"></topic>
-		<topic href="doc/XML-schema-extension.html#Adding_the_extension_point" label="Adding the extension point"></topic>
+	<topic href="doc/XML-schema-extension.html" label="XML架构扩展">
+		<topic href="doc/XML-schema-extension.html#Extending_the_schema" label="扩展架构"></topic>
+		<topic href="doc/XML-schema-extension.html#Parsing_the_schema" label="解析模式"></topic>
+		<topic href="doc/XML-schema-extension.html#Adding_the_extension_point" label="添加扩展点"></topic>
 	</topic>
-	<topic href="doc/OS-Execution-Graph-Extension.html" label="OS Execution Graph Extension">
-		<topic href="doc/OS-Execution-Graph-Extension.html#Write_the_graph_extension" label="Write the graph extension"></topic>
-		<topic href="doc/OS-Execution-Graph-Extension.html#Adding_the_extension_point_2" label="Adding the extension point"></topic>
+	<topic href="doc/OS-Execution-Graph-Extension.html" label="OS执行图扩展">
+		<topic href="doc/OS-Execution-Graph-Extension.html#Write_the_graph_extension" label="写下图表扩展名"></topic>
+		<topic href="doc/OS-Execution-Graph-Extension.html#Adding_the_extension_point_2" label="添加扩展点"></topic>
 	</topic>
-	<topic href="doc/Data-Providers.html" label="Data Providers">
-		<topic href="doc/Data-Providers.html#Data_provider_types" label="Data provider types">
-			<topic href="doc/Data-Providers.html#Tree_XY" label="Tree XY"></topic>
-			<topic href="doc/Data-Providers.html#Time_Graph" label="Time Graph"></topic>
+	<topic href="doc/Data-Providers.html" label="数据提供商">
+		<topic href="doc/Data-Providers.html#Data_provider_types" label="数据提供者类型">
+			<topic href="doc/Data-Providers.html#Tree_XY" label="树XY"></topic>
+			<topic href="doc/Data-Providers.html#Time_Graph" label="时间图"></topic>
 		</topic>
-		<topic href="doc/Data-Providers.html#Data_provider_management" label="Data provider management">
-			<topic href="doc/Data-Providers.html#Extension_point" label="Extension point"></topic>
-			<topic href="doc/Data-Providers.html#Experiments" label="Experiments"></topic>
+		<topic href="doc/Data-Providers.html#Data_provider_management" label="数据提供者管理">
+			<topic href="doc/Data-Providers.html#Extension_point" label="延伸点"></topic>
+			<topic href="doc/Data-Providers.html#Experiments" label="实验"></topic>
 		</topic>
-		<topic href="doc/Data-Providers.html#Utilities" label="Utilities">
-			<topic href="doc/Data-Providers.html#Example_Tree_XY_code" label="Example Tree XY code"></topic>
+		<topic href="doc/Data-Providers.html#Utilities" label="公用事业">
+			<topic href="doc/Data-Providers.html#Example_Tree_XY_code" label="示例树XY代码"></topic>
 		</topic>
 	</topic>
 	<anchor id="additions"/>

@@ -13,7 +13,7 @@
   <extensionContent id="org.eclipse.mylyn" name="Mylyn"
 					style="css/whatsnew.css" alt-style="css/whatsnew.properties" path="whatsnew/@">
 	<group id="content-group" style-id="content-group">
-	  <link label="Mylyn Application Lifecycle Tools"
+	  <link label="Mylyn应用程序生命周期工具"
 			url="http://www.eclipse.org/mylyn/new/"
 			id="mylyn-noteworthy" style-id="content-link">
 		<!-- 

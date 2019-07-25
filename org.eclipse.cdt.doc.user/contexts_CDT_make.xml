@@ -8,110 +8,110 @@
 <contexts>
 
 <context id ="default_cs_help">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="default_cs_help.htm"
-   	label="&defaultCSHelp;"/>
+   	label="＆defaultCSHelp;"/>
 </context>
 <context id ="newproj_buildset">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_newproj_buildset.htm"
-	label="Make Builder"/>
+	label="制作生成器"/>
 </context>
 <context id ="discovery_preferences">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_discovery_preferences.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>					
 <context id ="std_prop_discovery">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build_discovery.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>
 <context id ="cdt_make_builder_page">
-   <description>Define the build settings for the current project. </description>
+   <description>定义当前项目的构建设置。</description>
    <topic href="reference/cdt_u_newproj_buildset.htm"
-   	label="&makeBuilder;"/>
+   	label="＆makeBuilder;"/>
 </context>
 
 <context id ="cdt_paths_symbols_page">
-   <description>Enter include paths and symbols. </description>
+   <description>输入包含路径和符号。</description>
    <topic href="reference/cdt_u_newproj_pathsymb.htm"
-   	label="&pathsSymbols;"/>
+   	label="＆pathsSymbols;"/>
 </context>
 <context id ="make_targets_view">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_make_targets_view.htm"
-   	label="Make Targets view"/>
+   	label="制作目标视图"/>
 </context>
 <context id ="new_proj_wiz_s_name">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_new_proj_wiz_name.htm"
-   	label="Name"/>
+   	label="名称"/>
 </context>
 <context id ="new_proj_wiz_s_proj">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_ref.htm.htm"
-   	label="Referenced Projects"/>
+   	label="参考项目"/>
 </context>
 <context id ="new_proj_wiz_s_errorp">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"
-   	label="Error Parsers"/>
+   	label="错误解析器"/>
 </context>
 <context id ="new_proj_wiz_s_binary">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build_settings_binparser.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="new_proj_wiz_s_discovery">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_general_scanner_discovery.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>
 <context id ="new_proj_wiz_s_cindexer">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_general_idx.htm"
-   	label="C/C++ Indexer"/>
+   	label="C / C ++索引器"/>
 </context>
 <context id ="std_prop_build">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build.htm"
-   	label="Make Builder"/>
+   	label="制作生成器"/>
 </context>
 <context id ="std_prop_error">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"
-   	label="Error Parser"/>
+   	label="错误分析器"/>
 </context>
 <context id ="std_prop_binary">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_prop_build_settings_binparser.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="newproj_parser_error">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_newproj_parser_error.htm"
-   	label="Error Parser"/>
+   	label="错误分析器"/>
 </context>
 <context id ="newproj_parser_binary">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_newproj_parser_binary.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="make_editor_pref">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_makefile_settings_pref.htm"
-   	label="Makefile Editor preferences"/>
+   	label="Makefile Editor首选项"/>
 </context>
 <context id ="make_targets_pref">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_make_targets_pref.htm"
-   	label="Make Targets preferences"/>
+   	label="制作目标偏好"/>
 </context>
 <context id ="make_settings_pref">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_make_settings_pref.htm"
-   label="Make Settings preferences"/>
+   label="设置设置首选项"/>
 </context>
 
 </contexts>

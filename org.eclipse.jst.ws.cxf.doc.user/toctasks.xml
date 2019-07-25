@@ -14,32 +14,32 @@
         Shane Clarke - initial API and implementation
  -->
 
-<toc label="Tasks" link_to="toc.xml#tasks"> 
-	<topic href="tasks/create_cxf_project.html" label="Create a project for CXF Web services">
-    <topic href="tasks/install_cxf_facet.html" label="Install the CXF Project Facet">
+<toc label="任务" link_to="toc.xml#tasks"> 
+	<topic href="tasks/create_cxf_project.html" label="为CXF Web服务创建项目">
+    <topic href="tasks/install_cxf_facet.html" label="安装CXF Project Facet">
     </topic>
-    <topic href="tasks/manage_cxf_lib_export.html" label="Manage the exporting of CXF libraries during deployment">
+    <topic href="tasks/manage_cxf_lib_export.html" label="在部署期间管理CXF库的导出">
     </topic>
-    <topic href="tasks/configuring_jaxws_annotation_processing.html" label="Enable JAX-WS Annotation Processing">
+    <topic href="tasks/configuring_jaxws_annotation_processing.html" label="启用JAX-WS注释处理">
     </topic>
  </topic>
-	<topic label="Create a Web Service from a Java implementation bean using Apache CXF" href="tasks/create_bottomup.html"/>
-    <topic label="Generate an SEI and a skeleton implementation bean from a WSDL document using Apache CXF" href="tasks/create_topdown.html"/>
-    <topic label="Generate a JAX-WS Web Service Client from a WSDL document using Apache CXF" href="tasks/create_client.html"/>
-    <topic href="tasks/ant_tasks.html" label="Creating Web services and clients using Apache CXF and Ant tasks">
-       <topic href="tasks/cxf_ant_ws.html" label="Creating a Web service using Ant tasks">
-          <topic href="tasks/cxf_ant_td_prop_ref.html" label="Top-down CXF Web service Ant task properties file reference">
+	<topic label="使用Apache CXF从Java实现bean创建Web服务" href="tasks/create_bottomup.html"/>
+    <topic label="使用Apache CXF从WSDL文档生成SEI和框架实现bean" href="tasks/create_topdown.html"/>
+    <topic label="使用Apache CXF从WSDL文档生成JAX-WS Web服务客户端" href="tasks/create_client.html"/>
+    <topic href="tasks/ant_tasks.html" label="使用Apache CXF和Ant任务创建Web服务和客户端">
+       <topic href="tasks/cxf_ant_ws.html" label="使用Ant任务创建Web服务">
+          <topic href="tasks/cxf_ant_td_prop_ref.html" label="自上而下的CXF Web服务Ant任务属性文件参考">
           </topic>
-          <topic href="tasks/cxf_ant_bu_prop_ref.html" label="Bottom-up CXF Web service Ant task properties file reference">
-          </topic>
-       </topic>
-       <topic href="tasks/cxf_ant_ws_client.html" label="Creating a Web service client using Ant tasks">
-          <topic href="tasks/cxf_ant_client_prop_ref.html" label="CXF Web service client Ant task properties file reference">
+          <topic href="tasks/cxf_ant_bu_prop_ref.html" label="自下而上的CXF Web服务Ant任务属性文件参考">
           </topic>
        </topic>
-       <topic href="tasks/cxf_ant_cmd.html" label="Using the Ant Tasks at the Command Line">
+       <topic href="tasks/cxf_ant_ws_client.html" label="使用Ant任务创建Web服务客户端">
+          <topic href="tasks/cxf_ant_client_prop_ref.html" label="CXF Web服务客户端Ant任务属性文件引用">
+          </topic>
+       </topic>
+       <topic href="tasks/cxf_ant_cmd.html" label="在命令行中使用Ant任务">
        </topic>
     </topic>
-    <topic href="tasks/create_jaxws_handler.html" label="Create a JAX-WS Handler">
+    <topic href="tasks/create_jaxws_handler.html" label="创建一个JAX-WS处理程序">
     </topic>
 </toc>

@@ -5,99 +5,99 @@
 <!-- Compare plug-in -->
 
 	<context id="compare_editor_context">
-		<description>Compare and merge files and folders in a Compare Editor.</description>
-		<topic label="Compare editor" href="reference/ref-25.htm"/>
-		<topic label="Comparing Resources" href="tasks/tasks-68.htm"/>
-		<topic label="Understanding the comparison" href="tasks/tasks-68bg.htm"/>
-		<topic label="Merging changes in the Compare editor" href="tasks/tasks-68dg.htm"/>
-		<topic label="Three way comparisons" href="concepts/concepts-29.htm"/>
+		<description>在比较编辑器中比较和合并文件和文件夹。</description>
+		<topic label="比较编辑器" href="reference/ref-25.htm"/>
+		<topic label="比较资源" href="tasks/tasks-68.htm"/>
+		<topic label="理解比较" href="tasks/tasks-68bg.htm"/>
+		<topic label="合并比较编辑器中的更改" href="tasks/tasks-68dg.htm"/>
+		<topic label="三方比较" href="concepts/concepts-29.htm"/>
 	</context>
 
 	<context id="patch_input_wizard_page_context">
-		<description>This wizard helps you applying a patch to files and folders in your workspace. On the first page you can select the file or folders on which to apply the patch and whether the patch is loaded from an external file or from the clipboard.</description>
-		<topic label="Working with patches" href="tasks/tasks-68c.htm"/>
+		<description>此向导可帮助您将修补程序应用于工作区中的文件和文件夹。在第一页上，您可以选择要应用修补程序的文件，以及是从外部文件还是从剪贴板加载修补程序。</description>
+		<topic label="使用补丁" href="tasks/tasks-68c.htm"/>
 	</context>
 
 	<context id="patch_preview_wizard_page_context">
-		<description>On this page you can see how well the patch matches with your workspace. You can adjust some parameters to influence the matching.</description>
-		<topic label="Working with patches" href="tasks/tasks-68c.htm"/>
+		<description>在此页面上，您可以看到修补程序与工作区的匹配程度。您可以调整一些参数以影响匹配。</description>
+		<topic label="使用补丁" href="tasks/tasks-68c.htm"/>
 	</context>
 
 	<context id="compare_dialog_context">
-		<description>A dialog displaying the results of comparing files.</description>
-		<topic label="Comparing Resources" href="tasks/tasks-68.htm"/>
-		<topic label="Understanding the comparison" href="tasks/tasks-68bg.htm"/>
+		<description>显示比较文件结果的对话框。</description>
+		<topic label="比较资源" href="tasks/tasks-68.htm"/>
+		<topic label="理解比较" href="tasks/tasks-68bg.htm"/>
 	</context>
 
 	<context id="add_from_history_dialog_context">
-		<description>A dialog that lets you restore deleted files from the local history.</description>
-		<topic label="Restoring deleted resources from the local history" href="tasks/tasks-87b.htm"/>
-		<topic label="Local history" href="concepts/concepts-17a.htm"/>
-		<topic label="Working with local history" href="tasks/tasks-1f.htm"/>
-		<topic label="Local history" href="reference/ref-6a.htm"/>
+		<description>一个对话框，允许您从本地历史记录中恢复已删除的文件。</description>
+		<topic label="从本地历史记录中恢复已删除的资源" href="tasks/tasks-87b.htm"/>
+		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="当地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="compare_with_edition_dialog_context">
-		<description>A dialog that lets you compare files with entries from the local history.</description>
-		<topic label="Comparing resources with the local history" href="tasks/tasks-70.htm"/>
-		<topic label="Local history" href="concepts/concepts-17a.htm"/>
-		<topic label="Working with local history" href="tasks/tasks-1f.htm"/>
-		<topic label="Local history" href="reference/ref-6a.htm"/>
+		<description>一个对话框，可让您将文件与本地历史记录中的条目进行比较。</description>
+		<topic label="将资源与本地历史进行比较" href="tasks/tasks-70.htm"/>
+		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="当地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="replace_with_edition_dialog_context">
-		<description>A dialog that lets you replace files with entries from the local history.</description>
-		<topic label="Replacing a resource with local history" href="tasks/tasks-87.htm"/>
-		<topic label="Local history" href="concepts/concepts-17a.htm"/>
-		<topic label="Working with local history" href="tasks/tasks-1f.htm"/>
-		<topic label="Local history" href="reference/ref-6a.htm"/>
+		<description>一个对话框，允许您使用本地历史记录中的条目替换文件。</description>
+		<topic label="用本地历史记录替换资源" href="tasks/tasks-87.htm"/>
+		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="当地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="replace_with_edition_action_context">
-		<description>Replaces files with entries from the local history.</description>
-		<topic label="Replacing a resource with local history" href="tasks/tasks-87.htm"/>
-		<topic label="Local history" href="concepts/concepts-17a.htm"/>
-		<topic label="Working with local history" href="tasks/tasks-1f.htm"/>
-		<topic label="Local history" href="reference/ref-6a.htm"/>
+		<description>用本地历史记录中的条目替换文件。</description>
+		<topic label="用本地历史记录替换资源" href="tasks/tasks-87.htm"/>
+		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="当地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="text_merge_view_context">
-		<description>This editor provides support for comparing and merging text files.</description>
+		<description>此编辑器支持比较和合并文本文件。</description>
 	</context>
 
 	<context id="image_compare_view_context">
-		<description>This view shows two images side-by-side.</description>
+		<description>该视图并排显示两个图像。</description>
 	</context>
 
 	<context id="binary_compare_view_context">
-		<description>This view shows the first position where two files differ.</description>
+		<description>此视图显示两个文件不同的第一个位置。</description>
 	</context>
 
 	<context id="global_next_diff_action_context">
-		<description>Goto next difference globally.</description>
+		<description>全球转到下一个差异。</description>
 	</context>
 
 	<context id="global_previous_diff_action_context">
-		<description>Goto previous difference globally.</description>
+		<description>转到以前的全球差异。</description>
 	</context>
 
 	<context id="next_diff_action_context">
-		<description>Goto next difference.</description>
+		<description>转到下一个区别。</description>
 	</context>
 
 	<context id="previous_diff_action_context">
-		<description>Goto previous difference.</description>
+		<description>转到以前的差异。</description>
 	</context>
 
 	<context id="ignore_whitespace_action_context">
-		<description>Ignore whitespace.</description>
+		<description>忽略空格。</description>
 	</context>
 
 	<context id="compare_preference_page_context">
-		<description>This preference page is used to set preferences for the compare, merge, and patch functionality in the workbench.</description>
-		<topic label="Setting preferences for comparing files" href="tasks/tasks-68b.htm"/>
-		<topic label="Preferences - Compare/Patch" href="reference/ref-11.htm"/>
-		<topic label="Comparing Resources" href="reference/ref-25.htm"/>
+		<description>此首选项页面用于为工作台中的比较，合并和修补程序功能设置首选项。</description>
+		<topic label="设置比较文件的首选项" href="tasks/tasks-68b.htm"/>
+		<topic label="首选项 - 比较/补丁" href="reference/ref-11.htm"/>
+		<topic label="比较资源" href="reference/ref-25.htm"/>
 	</context>
 
 </contexts>

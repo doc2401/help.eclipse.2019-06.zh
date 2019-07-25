@@ -10,11 +10,11 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Book">
- <topic href="tasks/add-lib-global-scope.html" label="Add a Library to the Global Scope">
+<toc label="书">
+ <topic href="tasks/add-lib-global-scope.html" label="将库添加到全局范围">
  </topic>
- <topic href="tasks/configure-source.html" label="Configuring Source Folders">
+ <topic href="tasks/configure-source.html" label="配置源文件夹">
  </topic>
- <topic href="tasks/remove-lib-global-scope.html" label="Remove a Library From the Global Scope">
+ <topic href="tasks/remove-lib-global-scope.html" label="从全局范围中删除库">
  </topic>
 </toc>

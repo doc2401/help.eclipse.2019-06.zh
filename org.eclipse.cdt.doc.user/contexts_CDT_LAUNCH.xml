@@ -11,53 +11,53 @@
 <contexts>
 
 <context id ="default_cs_help">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="default_cs_help.htm"
-   	label="&defaultCSHelp;"/>
+   	label="＆defaultCSHelp;"/>
 </context>
 
 <context id ="launch_configuration_dialog_main_tab">
-   <description>Provide information on the project and application you want to run or debug. </description>
+   <description>提供有关要运行或调试的项目和应用程序的信息。</description>
    <topic href="reference/cdt_u_run_dbg_main.htm"
-   	label="&mainPage;"/>
+   	label="＆主页;"/>
 </context>
 
 <context id ="launch_configuration_dialog_arguments_tab">
-   <description>Provide information on the project and application you want to run or debug. </description>
+   <description>提供有关要运行或调试的项目和应用程序的信息。</description>
    <topic href="reference/cdt_u_run_dbg_arg.htm"
-   	label="&argsPage;"/>
+   	label="＆argsPage;"/>
 </context>
 
 <context id ="launch_configuration_dialog_environment_tab">
-   <description>Set environment variables and values. </description>
+   <description>设置环境变量和值。</description>
    <topic href="reference/cdt_u_run_dbg_env.htm"
-   	label="&envPage;"/>
+   	label="＆envPage;"/>
 </context>
 
 <context id ="launch_configuration_dialog_debugger_tab">
-   <description>Select a debugger. </description>
+   <description>选择一个调试器。</description>
    <topic href="reference/cdt_u_run_dbg_dbg.htm"
-   	label="&debuggerPage;"/>
+   	label="＆debuggerPage;"/>
 </context>
 
 <context id ="launch_configuration_dialog_source_tab">
-   <description>Specify where the debugger should look for source files. </description>
+   <description>指定调试器应查找源文件的位置。</description>
    <topic href="reference/cdt_u_run_dbg_srce.htm"
-   	label="&sourcePage;"/>
+   	label="＆sourcePage;"/>
 </context>
 
 <context id ="run_dbg_comm">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_run_dbg_comm"
-   	label="Common"/>
+   	label="共同"/>
 </context>
 
 <context id="cdt_debugging_projects" title="Debugging Projects">
-   <description>How to debug projects, click below to see help.</description>
+   <description>如何调试项目，点击下面查看帮助。</description>
    <topic href="reference/cdt_o_run_dbg_pages.htm"
-    label="Launch Configurations Common Tabs"/>
+    label="启动配置常用选项卡"/>
    <topic href="getting_started/cdt_w_debug.htm"
-    label="Debugging Projects"/>
+    label="调试项目"/>
 </context>
 
 </contexts>

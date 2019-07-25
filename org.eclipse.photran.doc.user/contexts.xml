@@ -4,8 +4,8 @@
 
 <!-- Help context IDs linked to org.eclipse.photran.ui -->
 <context id ="editor">
-   <topic label="Fortran Editor" href="html/basic/WritingCode.html" />
-   <description>The Fortran editor provides syntax highlighting, outlining, content assistance, code navigation, and other features for Fortran source code.  Click below for more information.</description>
+   <topic label="Fortran编辑" href="html/basic/WritingCode.html" />
+   <description>Fortran编辑器为Fortran源代码提供语法突出显示，概述，内容辅助，代码导航和其他功能。点击下面以获取更多信息。</description>
 </context>
 
 </contexts>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contexts>
    <context id="usagecounting">
-      <topic href="html/language/usagecounting.html" label="Usage Counting"/>
+      <topic href="html/language/usagecounting.html" label="用法计数"/>
    </context>
    <context id="whitelist">
-      <topic href="html/language/whitelist.html" label="Pure Whitelist"/>
+      <topic href="html/language/whitelist.html" label="纯白名单"/>
    </context>
    <context id="aggregated-chain">
-      <topic href="html/aggregatedchains.html" label="Aggregated Chains"/>
+      <topic href="html/aggregatedchains.html" label="聚合链"/>
    </context>
 </contexts>

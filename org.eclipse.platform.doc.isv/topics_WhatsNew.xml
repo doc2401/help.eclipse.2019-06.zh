@@ -3,7 +3,7 @@
 <!-- ================================ -->
 <!-- Define topics for the What's New -->
 <!-- ================================ -->
-<toc label="What's new">
-	<topic href="whatsNew/platform_isv_whatsnew.html#Platform" label="Platform"/>
+<toc label="什么是新的">
+	<topic href="whatsNew/platform_isv_whatsnew.html#Platform" label="平台"/>
 	<topic href="whatsNew/platform_isv_whatsnew.html#SWT" label="SWT"/>
 </toc>

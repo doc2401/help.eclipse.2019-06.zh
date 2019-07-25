@@ -4,57 +4,57 @@
 
 <!-- Search plug-in -->
    <context  id="search_dialog_context" >
-      <description>You can search the workbench for resources matching the indicated conditions.</description>
-   	<topic label="File search tab" href="reference/ref-45.htm"/>
- 	<topic label="Text searching" href="tasks/tasks-84.htm"/>
- 	<topic label="File searching" href="tasks/tasks-84b.htm"/>
+      <description>您可以在工作台中搜索与指示条件匹配的资源。</description>
+   	<topic label="文件搜索选项卡" href="reference/ref-45.htm"/>
+ 	<topic label="文字搜索" href="tasks/tasks-84.htm"/>
+ 	<topic label="文件搜索" href="tasks/tasks-84b.htm"/>
    </context>
 
    <context  id="text_search_page_context" >
-      <description>Type a file pattern and/or expression for which you want to search the workbench. You can use the indicated wildcards and/or search only the specific file types as needed.</description>
-   	<topic label="File search tab" href="reference/ref-45.htm"/>
- 	<topic label="Text searching" href="tasks/tasks-84.htm"/>
- 	<topic label="File searching" href="tasks/tasks-84b.htm"/>
-   	<topic label="Text search/replace with regular expressions" href="reference/ref-regex-find-replace.htm" />
+      <description>键入要搜索工作台的文件模式和/或表达式。您可以根据需要使用指示的通配符和/或仅搜索特定的文件类型。</description>
+   	<topic label="文件搜索选项卡" href="reference/ref-45.htm"/>
+ 	<topic label="文字搜索" href="tasks/tasks-84.htm"/>
+ 	<topic label="文件搜索" href="tasks/tasks-84b.htm"/>
+   	<topic label="用正则表达式搜索/替换文本" href="reference/ref-regex-find-replace.htm" />
    </context>
 
    <context  id="replace_dialog_context" >
-      <description>Replace matches in the search results view with a replacement string.</description>
-      <topic label="Replace with regular expressions" href="reference/ref-regex-find-replace.htm" />
+      <description>使用替换字符串替换搜索结果视图中的匹配项。</description>
+      <topic label="替换为正则表达式" href="reference/ref-regex-find-replace.htm" />
    </context>
  
    <context  id="search_view_context" >
-      <description>This view displays the results of recent searches.</description>
- 	<topic label="Search view" href="reference/ref-26.htm"/>
- 	<topic label="File search" href="reference/ref-45.htm"/>
+      <description>此视图显示最近搜索的结果。</description>
+ 	<topic label="搜索视图" href="reference/ref-26.htm"/>
+ 	<topic label="文件搜索" href="reference/ref-45.htm"/>
    </context>
    
    <context  id="new_search_view_context" >
-      <description>This view displays the results of recent searches.</description>
- 	<topic label="File search" href="reference/ref-45.htm"/>
+      <description>此视图显示最近搜索的结果。</description>
+ 	<topic label="文件搜索" href="reference/ref-45.htm"/>
    </context>
 
    <context  id="search_preference_page_context" >
-      <description>This page displays the search preferences.</description>
- 	<topic label="Search preferences" href="reference/ref-search.htm"/>
- 	<topic label="Search view" href="reference/ref-26.htm"/>
- 	<topic label="File search" href="reference/ref-45.htm"/>
+      <description>此页面显示搜索首选项。</description>
+ 	<topic label="搜索首选项" href="reference/ref-search.htm"/>
+ 	<topic label="搜索视图" href="reference/ref-26.htm"/>
+ 	<topic label="文件搜索" href="reference/ref-45.htm"/>
    </context>
 
    <context  id="open_search_dialog_action_context" >
-      <description>This command opens the search dialog.</description>
+      <description>此命令将打开搜索对话框。</description>
    </context>
 
    <context  id="file_search_action_context" >
-      <description>This command opens the file search dialog.</description>
- 	<topic label="Text searching" href="tasks/tasks-84.htm"/>
- 	<topic label="File searching" href="tasks/tasks-84b.htm"/>
-   	<topic label="File search" href="reference/ref-45.htm"/>
+      <description>此命令将打开文件搜索对话框。</description>
+ 	<topic label="文字搜索" href="tasks/tasks-84.htm"/>
+ 	<topic label="文件搜索" href="tasks/tasks-84b.htm"/>
+   	<topic label="文件搜索" href="reference/ref-45.htm"/>
    </context>
 
    <context  id="file_search_result_page">
-      <description>This view displays the results of a file searche.</description>
-   	<topic label="File search" href="reference/ref-45.htm"/>
+      <description>此视图显示文件搜索的结果。</description>
+   	<topic label="文件搜索" href="reference/ref-45.htm"/>
    </context>
 
 </contexts>

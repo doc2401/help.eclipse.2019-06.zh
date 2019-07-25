@@ -12,15 +12,15 @@
 <?eclipse version="3.4"?>
 <contexts>
 	<context id="GitCloneWizard" title="Clone Git Repository">
-		<description>To be guided through this wizard start the cheat sheet 'Cloning a Git Repository' below.</description>
+		<description>要引导通过此向导，请在下面启动备忘单“克隆一个Git存储库”。</description>
 		<command
 			serialization="org.eclipse.ui.cheatsheets.openCheatSheet(cheatSheetId=org.eclipse.egit.cheatsheets.clone)"
-			label="Cloning a Git Repository" />
+			label="克隆Git存储库" />
 	</context>
 	<context id="PushWizard" title="Push To Another Repository">
-		<description>To be guided through this wizard start the cheat sheet 'Pushing to another Git Repository' below.</description>
+		<description>要引导通过此向导，请在下面启动备忘单“Pushing to another Git Repository”。</description>
 		<command
 			serialization="org.eclipse.ui.cheatsheets.openCheatSheet(cheatSheetId=org.eclipse.egit.cheatsheets.push)"
-			label="Pushing to another Git Repository" />
+			label="推送到另一个Git存储库" />
 	</context>
 </contexts>

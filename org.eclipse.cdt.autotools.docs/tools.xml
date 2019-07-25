@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="GNU Tools On-line Documentation">
-        <topic label="gcc"  href="http://gcc.gnu.org/onlinedocs/"/>
-        <topic label="binutils" href="http://sourceware.org/binutils/docs/"/>
-        <topic label="autoconf" href="http://www.gnu.org/software/autoconf/manual/html_node/index.html"/>
-        <topic label="automake" href="http://www.gnu.org/software/automake/manual/html_node/index.html"/>
-        <topic label="pkg-config" href="http://people.freedesktop.org/~dbn/pkg-config-guide.html"/>
+<toc label="GNU工具在线文档">
+        <topic label="GCC"  href="http://gcc.gnu.org/onlinedocs/"/>
+        <topic label="的binutils" href="http://sourceware.org/binutils/docs/"/>
+        <topic label="autoconf的" href="http://www.gnu.org/software/autoconf/manual/html_node/index.html"/>
+        <topic label="automake的" href="http://www.gnu.org/software/automake/manual/html_node/index.html"/>
+        <topic label="pkg配置" href="http://people.freedesktop.org/~dbn/pkg-config-guide.html"/>
  <anchor id="moregnutools"/>
 </toc>

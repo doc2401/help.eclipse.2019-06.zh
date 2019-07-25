@@ -8,8 +8,8 @@
   <!-- ===================== -->
 
   <context id="universalWelcomePreference">
-    <description>Use this dialog to configure Welcome appearance. Page tabs can be used to customize layout of each welcome page.</description>
-    <topic label="Welcome customization" href="/org.eclipse.platform.doc.user/reference/welcome_preferences.htm"/>
+    <description>使用此对话框配置欢迎外观。页面选项卡可用于自定义每个欢迎页面的布局。</description>
+    <topic label="欢迎定制" href="/org.eclipse.platform.doc.user/reference/welcome_preferences.htm"/>
   </context>
 
   <!-- ===================== -->
@@ -17,18 +17,18 @@
   <!-- ===================== -->
 
   <context id="f1Shell">
-    <description>Context-sensitive help is provided for many interfaces, including views, wizards, fields, buttons, and menu items. To access this help, bring focus to the item by clicking it or using the tab key, and then press F1 (Shift-F1 on Linux, Help on Mac). Some infopops include links to topics within the online help where you can find more information about the item. This infopop opened because you requested help while an infopop was already open.</description>
+    <description>为许多界面提供了上下文相关的帮助，包括视图，向导，字段，按钮和菜单项。要访问此帮助，请通过单击或使用Tab键将焦点置于项目上，然后按F1（Linux上的Shift-F1，Mac上的帮助）。某些信息包含指向在线帮助中主题的链接，您可以在其中找到有关该项目的更多信息。这个infopop打开是因为你在infopop已经打开的时候请求了帮助。</description>
   </context>
   
   <context id="prefPageHelp">
-    <description>Use this preference page to control <b>where</b> help is opened, as well as searching behavior.</description>
-    <topic label="Help preferences" href="/org.eclipse.platform.doc.user/reference/help_preferences.htm"/>
+    <description>使用此首选项页面可以控制<b>在哪里打开</ b>帮助，以及搜索行为。</description>
+    <topic label="帮助偏好" href="/org.eclipse.platform.doc.user/reference/help_preferences.htm"/>
   </context>
 
   <context id="prefPageHelpContent">
-    <description>Use this preference page to configure help to download help content from a remote server (an information center).</description>
-	<topic label="Help Content preferences" href="/org.eclipse.platform.doc.user/reference/help_preferences_content.htm"/>
-	<topic label="Remote Help" href="/org.eclipse.platform.doc.isv/guide/ua_help_content_remote.htm"/>
+    <description>使用此首选项页面配置帮助以从远程服务器（信息中心）下载帮助内容。</description>
+	<topic label="帮助内容首选项" href="/org.eclipse.platform.doc.user/reference/help_preferences_content.htm"/>
+	<topic label="远程帮助" href="/org.eclipse.platform.doc.isv/guide/ua_help_content_remote.htm"/>
   </context>
 
   <!-- ===================== -->
@@ -36,20 +36,20 @@
   <!-- ===================== -->
 
   <context id="cheatSheetSelection">
-    <description>This dialog is used to open a cheat sheet. A cheat sheet may be selected from the list or by browsing to a cheat sheet file.</description>
-    <topic label="Working with cheat sheets" href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm"/>
+    <description>该对话框用于打开备忘单。可以从列表中选择备忘单或通过浏览备忘单文件。</description>
+    <topic label="使用备忘单" href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm"/>
   </context>
   <context id="cheatSheetView">
-    <description>Cheat sheets are displayed in this view. A cheat sheet provides step by step guidance on how to complete a task.</description>
-    <topic label="Working with cheat sheets" href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm"/>
+    <description>备忘单显示在此视图中。备忘单提供了有关如何完成任务的分步指导。</description>
+    <topic label="使用备忘单" href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm"/>
   </context>
    <context id="searchScope">
-      <description>Use this dialog to define search scopes which can be used to restrict the search to specific books.</description>
-      <topic href="tasks/help_search.htm" label="Searching Help"/>
+      <description>使用此对话框可以定义可用于将搜索限制为特定书籍的搜索范围。</description>
+      <topic href="tasks/help_search.htm" label="搜索帮助"/>
    </context>
    <context id="helpView">
-      <description>This view allows the user to view help pages, view the help table of contents or search the help system.</description>
-      <topic href="concepts/help_view.htm" label="The Help View"/>
+      <description>此视图允许用户查看帮助页面，查看帮助目录或搜索帮助系统。</description>
+      <topic href="concepts/help_view.htm" label="帮助视图"/>
    </context>
   
 </contexts>

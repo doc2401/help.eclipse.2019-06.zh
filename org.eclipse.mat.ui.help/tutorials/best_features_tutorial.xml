@@ -19,56 +19,56 @@
  -->
    <intro>
       <description>
-         This cheat sheet familiarizes you of with the Memory Analyzer&apos;s
-			unique features for heap dump analysis. If you need more
-			detailed information, click on the (?) icon to the right of
-			each task.
-      </description>
+         这个备忘单让您熟悉Memory Analyzer
+堆转储分析的独特功能。如果你需要更多
+详细信息，请单击右侧的（？）图标
+每项任务。
+      </description>
    </intro>
    <item title="Open the heap dump" dialog="true" skip="false" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html">
       <description>
-         From the main menu, select
-			<b>File > Open Snapshot</b>,
-			<br/> then select a heap dump and press
-			<b>Open</b>.
-			<br/> In this cheat sheet we will use a sample heap dump. Please open it by
-			activating the action link below.
-      </description>
+         从主菜单中选择
+<b>文件>打开快照</ b>，
+<br/>然后选择堆转储并按
+<b>打开</ b>的。
+<br/>在这个备忘单中，我们将使用示例堆转储。请打开它
+激活下面的动作链接。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof"/>
    </item>
    <item title="Open Class Histogram" dialog="true" skip="false" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html#N10001__class_histogram">
       <description>
-         Class Histogram shows the classes found in the snapshot, 
-			the number of objects for each class, the heap memory consumption 
-			of these objects, and the minimum retained size of the objects. 
-			To open the view press
-			<br/>
-			<b>Open Class Histogram</b>
-			<br/> toolbar button.
-      </description>
+         类直方图显示快照中找到的类，
+每个类的对象数，堆内存消耗
+这些对象以及对象的最小保留大小。
+要打开视图，请按
+<BR/>
+<b>公开课直方图</ b>
+<br/>工具栏按钮。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="histogram"/>
    </item>
    <item title="Open Dominator Tree" dialog="true" skip="false" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html#N10001__dominator">
       <description>
-         Dominator tree shows for a particular object which other
-			objects depend on it and will be garbage collected if that
-			particular object becomes unreachable. To open the view
-			press
-			<br/>
-			<b>Open dominator tree</b>
-			<br/>
-			toolbar button.
-      </description>
+         支配树显示特定对象的其他对象
+对象依赖于它，如果是这样，将被垃圾收集
+特定对象变得无法访问。打开视图
+按
+<BR/>
+<b>开放统治者树</ b>
+<BR/>
+工具栏按钮。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="dominator_tree"/>
    </item>
    <item title="Paths to GC roots" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html">
       <description>
-         This view find objects responsible for keeping the selected
-			object in the heap.
-      </description>
-      <subitem label="Select one of the first objects in the Dominator Tree (these objects have the biggest retained size)" skip="false">
+         此视图查找负责保留所选对象的对象
+堆中的对象。
+      </description>
+      <subitem label="选择Dominator Tree中的第一个对象之一（这些对象具有最大的保留大小）" skip="false">
       </subitem>
-      <subitem label="Right click to open the context menu. Select &quot;Open in Paths to GC roots...&quot; and any of the sub options" skip="false">
+      <subitem label="右键单击以打开上下文菜单。选择“在GC根路径中打开...”和任何子选项" skip="false">
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="path2gc 0x22e9d6d8"/>
       </subitem>
       <onCompletion>

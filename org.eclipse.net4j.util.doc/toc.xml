@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Net4j Utilities Documentation" topic="html/Overview.html">
-  <topic label="Overview" href="html/Overview.html" />
-  <topic label="Reference" href="html/reference/index.html">
-    <topic label="API Reference" href="javadoc/overview-summary.html">
-      <topic label="Net4j Utilities" href="javadoc/org/eclipse/net4j/util/package-summary.html" icon="plugin">
+<toc label="Net4j实用程序文档" topic="html/Overview.html">
+  <topic label="概观" href="html/Overview.html" />
+  <topic label="参考" href="html/reference/index.html">
+    <topic label="API参考" href="javadoc/overview-summary.html">
+      <topic label="Net4j公用事业" href="javadoc/org/eclipse/net4j/util/package-summary.html" icon="plugin">
         <topic label="org.eclipse.net4j.util" href="javadoc/org/eclipse/net4j/util/package-summary.html" icon="package" />
         <topic label="org.eclipse.net4j.util.cache" href="javadoc/org/eclipse/net4j/util/cache/package-summary.html" icon="package" />
         <topic label="org.eclipse.net4j.util.collection" href="javadoc/org/eclipse/net4j/util/collection/package-summary.html" icon="package" />
@@ -44,16 +44,16 @@
         <topic label="org.eclipse.net4j.util.ui.widgets" href="javadoc/org/eclipse/net4j/util/ui/widgets/package-summary.html" icon="package" />
       </topic>
     </topic>
-    <topic label="Extension Point Reference" href="html/reference/schema/index.html">
-      <topic label="Net4j Utilities" href="schemadoc/org_eclipse_net4j_util_elementProcessors.html" icon="plugin">
+    <topic label="扩展点参考" href="html/reference/schema/index.html">
+      <topic label="Net4j公用事业" href="schemadoc/org_eclipse_net4j_util_elementProcessors.html" icon="plugin">
         <topic label="elementProcessors" href="schemadoc/org_eclipse_net4j_util_elementProcessors.html" icon="extpoint" />
-        <topic label="factories" href="schemadoc/org_eclipse_net4j_util_factories.html" icon="extpoint" />
+        <topic label="工厂" href="schemadoc/org_eclipse_net4j_util_factories.html" icon="extpoint" />
       </topic>
     </topic>
   </topic>
-  <topic label="Online Docs" href="html/online/index.html">
-    <topic label="Homepage" href="http://www.eclipse.org/cdo" icon="external" />
-    <topic label="Wiki" href="http://wiki.eclipse.org/CDO" icon="external" />
+  <topic label="在线文档" href="html/online/index.html">
+    <topic label="主页" href="http://www.eclipse.org/cdo" icon="external" />
+    <topic label="维基" href="http://wiki.eclipse.org/CDO" icon="external" />
   </topic>
-  <topic label="Legal" href="about.html" />
+  <topic label="法律" href="about.html" />
 </toc>

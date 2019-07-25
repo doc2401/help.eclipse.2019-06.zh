@@ -2,6 +2,6 @@
 <?NLS TYPE="org.eclipse.help.toc"?>
 
 <!-- This file is just a placeholder to avoid plugin.xml warnings -->
-<toc label="Reference">
-	<topic label="QVT Declarative API Reference" href="references/javadoc/index.html"/>
+<toc label="参考">
+	<topic label="QVT声明API参考" href="references/javadoc/index.html"/>
 </toc>

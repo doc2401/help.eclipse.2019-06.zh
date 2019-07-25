@@ -1,208 +1,208 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<toc topic="contents/index.html" label="Xtend User Guide">
-	<topic href="contents/101_gettingstarted.html" label="Getting Started">
-		<topic href="contents/101_gettingstarted.html" label="Hello World">
+<toc topic="contents/index.html" label="Xtend用户指南">
+	<topic href="contents/101_gettingstarted.html" label="入门">
+		<topic href="contents/101_gettingstarted.html" label="你好，世界">
 		</topic>
-		<topic href="contents/102_moviesexample.html" label="The Movies Example">
-			<topic href="contents/102_moviesexample.html#the-data" label="The Data">
+		<topic href="contents/102_moviesexample.html" label="电影示例">
+			<topic href="contents/102_moviesexample.html#the-data" label="数据">
 			</topic>
-			<topic href="contents/102_moviesexample.html#parsing-the-data" label="Parsing The Data">
+			<topic href="contents/102_moviesexample.html#parsing-the-data" label="解析数据">
 			</topic>
-			<topic href="contents/102_moviesexample.html#answering-some-questions" label="Answering Some Questions">
-				<topic href="contents/102_moviesexample.html#question1" label="Question 1 : What Is The Number Of Action Movies?">
+			<topic href="contents/102_moviesexample.html#answering-some-questions" label="回答一些问题">
+				<topic href="contents/102_moviesexample.html#question1" label="问题1：动作片的数量是多少？">
 				</topic>
-				<topic href="contents/102_moviesexample.html#question2" label="Question 2 : What Is The Year The Best Movie From The 80's Was Released?">
+				<topic href="contents/102_moviesexample.html#question2" label="问题2：什么是年度80年代最佳电影被发布？">
 				</topic>
-				<topic href="contents/102_moviesexample.html#question3" label="Question 3 : What Is The Sum Of All Votes Of The Top Two Movies?">
+				<topic href="contents/102_moviesexample.html#question3" label="问题3：前两部电影的所有投票总和是多少？">
 				</topic>
 			</topic>
 		</topic>
 	</topic>
-	<topic href="contents/201_types.html" label="Reference Documentation">
-		<topic href="contents/201_types.html" label="Java Interoperability">
-			<topic href="contents/201_types.html#local-type-inference" label="Type Inference">
+	<topic href="contents/201_types.html" label="参考文档">
+		<topic href="contents/201_types.html" label="Java互操作性">
+			<topic href="contents/201_types.html#local-type-inference" label="类型推断">
 			</topic>
-			<topic href="contents/201_types.html#conversion-rules" label="Conversion Rules">
-			</topic>
-		</topic>
-		<topic href="contents/202_xtend_classes_members.html" label="Classes and Members">
-			<topic href="contents/202_xtend_classes_members.html#package-decl" label="Package Declaration">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#imports" label="Imports">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#xtend-class-declaration" label="Class Declaration">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#constructors" label="Constructors">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#fields" label="Fields">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#methods" label="Methods">
-				<topic href="contents/202_xtend_classes_members.html#abstract-methods" label="Abstract Methods">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#overriding-methods" label="Overriding Methods">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#declared-exceptions" label="Declared Exceptions">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#inferred-return-types" label="Inferred Return Types">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#generic-methods" label="Generic Methods">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#operator-declaration" label="Operator Declarations">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#polymorphic-dispatch" label="Dispatch Methods">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#create-methods" label="Create Methods">
-				</topic>
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#annotations" label="Annotations">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#extension-methods" label="Extension Methods">
-				<topic href="contents/202_xtend_classes_members.html#library-extensions" label="Extensions from the Library">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#local-extension-methods" label="Local Extension Methods">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#extension-imports" label="Extension Imports">
-				</topic>
-				<topic href="contents/202_xtend_classes_members.html#extension-provider" label="Extension Provider">
-				</topic>
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#interfaces" label="Interface Declarations">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#annotation-type-declaration" label="Annotation Type Declarations">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#enum-type-declaration" label="Enum Type Declarations">
-			</topic>
-			<topic href="contents/202_xtend_classes_members.html#nested-type-declarations" label="Nested Type Declarations">
+			<topic href="contents/201_types.html#conversion-rules" label="转换规则">
 			</topic>
 		</topic>
-		<topic href="contents/203_xtend_expressions.html" label="Expressions">
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-literals" label="Literals">
-				<topic href="contents/203_xtend_expressions.html#string-literals" label="String Literals">
+		<topic href="contents/202_xtend_classes_members.html" label="课程和成员">
+			<topic href="contents/202_xtend_classes_members.html#package-decl" label="包装声明">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#imports" label="进口">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#xtend-class-declaration" label="班级宣言">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#constructors" label="构造函数">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#fields" label="字段">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#methods" label="方法">
+				<topic href="contents/202_xtend_classes_members.html#abstract-methods" label="抽象方法">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#character-literals" label="Character Literals">
+				<topic href="contents/202_xtend_classes_members.html#overriding-methods" label="最重要的方法">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#number-literals" label="Number Literals">
+				<topic href="contents/202_xtend_classes_members.html#declared-exceptions" label="声明例外">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#boolean-literal" label="Boolean Literals">
+				<topic href="contents/202_xtend_classes_members.html#inferred-return-types" label="推断的返回类型">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#generic-methods" label="通用方法">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#operator-declaration" label="运营商声明">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#polymorphic-dispatch" label="派遣方法">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#create-methods" label="创建方法">
+				</topic>
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#annotations" label="注释">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#extension-methods" label="扩展方法">
+				<topic href="contents/202_xtend_classes_members.html#library-extensions" label="图书馆的扩展">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#local-extension-methods" label="本地扩展方法">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#extension-imports" label="扩展进口">
+				</topic>
+				<topic href="contents/202_xtend_classes_members.html#extension-provider" label="扩展提供商">
+				</topic>
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#interfaces" label="接口声明">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#annotation-type-declaration" label="注释类型声明">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#enum-type-declaration" label="枚举类型声明">
+			</topic>
+			<topic href="contents/202_xtend_classes_members.html#nested-type-declarations" label="嵌套类型声明">
+			</topic>
+		</topic>
+		<topic href="contents/203_xtend_expressions.html" label="表达式">
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-literals" label="字面">
+				<topic href="contents/203_xtend_expressions.html#string-literals" label="字符串文字">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#character-literals" label="字符文字">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#number-literals" label="数字文字">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#boolean-literal" label="布尔文字">
 				</topic>
 				<topic href="contents/203_xtend_expressions.html#null-literal" label="Null Literal">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#type-literal" label="Type Literals">
+				<topic href="contents/203_xtend_expressions.html#type-literal" label="输入文字">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#collection-literals" label="Collection Literals">
+				<topic href="contents/203_xtend_expressions.html#collection-literals" label="收集文字">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#arrays" label="Arrays">
-				</topic>
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#type-casts" label="Type Casts">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#operators" label="Infix Operators and Operator Overloading">
-				<topic href="contents/203_xtend_expressions.html#short-circuit-boolean-operators" label="Short-Circuit Boolean Operators">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#postfix-operators" label="Postfix Operators">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#defined-operators-in-the-library" label="Defined Operators in The Library">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#assignments" label="Assignments">
+				<topic href="contents/203_xtend_expressions.html#arrays" label="数组">
 				</topic>
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#blocks" label="Blocks">
+			<topic href="contents/203_xtend_expressions.html#type-casts" label="输入演员表">
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#variable-declaration" label="Variable Declarations">
-				<topic href="contents/203_xtend_expressions.html#typing" label="Typing">
+			<topic href="contents/203_xtend_expressions.html#operators" label="中缀运算符和运算符重载">
+				<topic href="contents/203_xtend_expressions.html#short-circuit-boolean-operators" label="短路布尔运算符">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#postfix-operators" label="后缀运算符">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#defined-operators-in-the-library" label="图书馆中的运营商">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#assignments" label="分配">
 				</topic>
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#feature-calls" label="Field Access and Method Invocations">
-				<topic href="contents/203_xtend_expressions.html#property-access" label="Property Access">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#implicit-variables" label="Implicit Variables this and it">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#static-access" label="Static Access">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#null-safe-feature-calls" label="Null-Safe Feature Calls">
+			<topic href="contents/203_xtend_expressions.html#blocks" label="块">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#variable-declaration" label="变量声明">
+				<topic href="contents/203_xtend_expressions.html#typing" label="打字">
 				</topic>
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#constructor-call" label="Constructor Calls">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#lambdas" label="Lambda Expressions">
-				<topic href="contents/203_xtend_expressions.html#closure-types" label="Typing">
+			<topic href="contents/203_xtend_expressions.html#feature-calls" label="字段访问和方法调用">
+				<topic href="contents/203_xtend_expressions.html#property-access" label="物业访问">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#implicit-variables" label="隐含变量这个和它">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#static-access" label="静态访问">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#null-safe-feature-calls" label="空安全功能调用">
 				</topic>
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#anonymous-classes" label="Anonymous Classes">
+			<topic href="contents/203_xtend_expressions.html#constructor-call" label="构造函数调用">
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#if-expression" label="If Expression">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#switch-expression" label="Switch Expression">
-				<topic href="contents/203_xtend_expressions.html#type-guards" label="Type guards">
-				</topic>
-				<topic href="contents/203_xtend_expressions.html#fall-through" label="Fall Through">
+			<topic href="contents/203_xtend_expressions.html#lambdas" label="Lambda表达式">
+				<topic href="contents/203_xtend_expressions.html#closure-types" label="打字">
 				</topic>
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#ternary-expression" label="Ternary Expression">
+			<topic href="contents/203_xtend_expressions.html#anonymous-classes" label="匿名类">
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#for-loop" label="For Loop">
+			<topic href="contents/203_xtend_expressions.html#if-expression" label="如果表达">
 			</topic>
-			<topic href="contents/203_xtend_expressions.html#traditional-for-loop" label="Basic For Loop">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#while-expression" label="While Loop">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#do-while-expression" label="Do-While Loop">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-return" label="Return Expression">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-throw" label="Throwing Exceptions">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-try-catch" label="Try, Catch, Finally">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-try-with-resources" label="Try With Resources">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#xtend-expressions-synchronized" label="Synchronized">
-			</topic>
-			<topic href="contents/203_xtend_expressions.html#templates" label="Template Expressions">
-				<topic href="contents/203_xtend_expressions.html#template-comment" label="Comments in Templates">
+			<topic href="contents/203_xtend_expressions.html#switch-expression" label="切换表达式">
+				<topic href="contents/203_xtend_expressions.html#type-guards" label="打字卫士">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#template-if" label="Conditions in Templates">
+				<topic href="contents/203_xtend_expressions.html#fall-through" label="堕落">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#template-foreach" label="Loops in Templates">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#ternary-expression" label="三元表达">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#for-loop" label="对于循环">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#traditional-for-loop" label="基本的循环">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#while-expression" label="而Loop">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#do-while-expression" label="Do-While循环">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-return" label="返回表达式">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-throw" label="抛出例外">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-try-catch" label="尝试，抓住，最后">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-try-with-resources" label="尝试使用资源">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#xtend-expressions-synchronized" label="同步">
+			</topic>
+			<topic href="contents/203_xtend_expressions.html#templates" label="模板表达">
+				<topic href="contents/203_xtend_expressions.html#template-comment" label="模板中的评论">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#template-type" label="Typing">
+				<topic href="contents/203_xtend_expressions.html#template-if" label="模板中的条件">
 				</topic>
-				<topic href="contents/203_xtend_expressions.html#whitespace-handling" label="White Space Handling">
+				<topic href="contents/203_xtend_expressions.html#template-foreach" label="模板中的循环">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#template-type" label="打字">
+				</topic>
+				<topic href="contents/203_xtend_expressions.html#whitespace-handling" label="白色空间处理">
 				</topic>
 			</topic>
 		</topic>
-		<topic href="contents/204_activeannotations.html" label="Active Annotations">
-			<topic href="contents/204_activeannotations.html#active-annotations-processor" label="Annotation Processor">
-				<topic href="contents/204_activeannotations.html#active-annotations-register-globals" label="Phase 1: Register Globals">
+		<topic href="contents/204_activeannotations.html" label="主动注释">
+			<topic href="contents/204_activeannotations.html#active-annotations-processor" label="注释处理器">
+				<topic href="contents/204_activeannotations.html#active-annotations-register-globals" label="第1阶段：注册全局">
 				</topic>
-				<topic href="contents/204_activeannotations.html#active-annotations-transformation-phase" label="Phase 2: Transformation">
+				<topic href="contents/204_activeannotations.html#active-annotations-transformation-phase" label="阶段2：转型">
 				</topic>
-				<topic href="contents/204_activeannotations.html#active-annotations-validation-phase" label="Phase 3: Validation">
+				<topic href="contents/204_activeannotations.html#active-annotations-validation-phase" label="阶段3：验证">
 				</topic>
-				<topic href="contents/204_activeannotations.html#active-annotations-code-generation" label="Phase 4: Code Generation">
-				</topic>
-			</topic>
-			<topic href="contents/204_activeannotations.html#active-annotations-expression" label="On Expressions and Statements">
-				<topic href="contents/204_activeannotations.html#active-annotations-compilation-strategies" label="Generating Blackbox Java Code">
-				</topic>
-				<topic href="contents/204_activeannotations.html#active-annotations-assigning-expressions" label="Assigning Expressions">
+				<topic href="contents/204_activeannotations.html#active-annotations-code-generation" label="第4阶段：代码生成">
 				</topic>
 			</topic>
-			<topic href="contents/204_activeannotations.html#active-annotations-validation" label="Custom Compiler Checks">
-			</topic>
-			<topic href="contents/204_activeannotations.html#active-annotation-classpath" label="Class Path Setup and Testing">
-				<topic href="contents/204_activeannotations.html#active-annotation-compiler-tester" label="Testing">
+			<topic href="contents/204_activeannotations.html#active-annotations-expression" label="关于表达和陈述">
+				<topic href="contents/204_activeannotations.html#active-annotations-compilation-strategies" label="生成Blackbox Java代码">
 				</topic>
-				<topic href="contents/204_activeannotations.html#wrap-up" label="Wrap Up">
+				<topic href="contents/204_activeannotations.html#active-annotations-assigning-expressions" label="分配表达式">
 				</topic>
 			</topic>
-			<topic href="contents/204_activeannotations.html#existing-active-annotations" label="Existing Active Annotations">
+			<topic href="contents/204_activeannotations.html#active-annotations-validation" label="自定义编译器检查">
+			</topic>
+			<topic href="contents/204_activeannotations.html#active-annotation-classpath" label="类路径设置和测试">
+				<topic href="contents/204_activeannotations.html#active-annotation-compiler-tester" label="测试">
+				</topic>
+				<topic href="contents/204_activeannotations.html#wrap-up" label="包起来">
+				</topic>
+			</topic>
+			<topic href="contents/204_activeannotations.html#existing-active-annotations" label="现有的活动注释">
 			</topic>
 			<topic href="contents/204_activeannotations.html#property-annotation" label="@Accessors">
 			</topic>
-			<topic href="contents/204_activeannotations.html#data-annotation" label="@Data">
+			<topic href="contents/204_activeannotations.html#data-annotation" label="@数据">
 			</topic>
-			<topic href="contents/204_activeannotations.html#delegate-annotation" label="@Delegate">
+			<topic href="contents/204_activeannotations.html#delegate-annotation" label="@代表">
 			</topic>
 		</topic>
 	</topic>

@@ -4,7 +4,7 @@
                       alt-style="swt/tutorial.properties"
                       style="css/sample.css" name="Sample Extension" path="tutorials/@">
 		<group style-id="content-group" id="orgeclipsecdtdocuserwelcome-introLink-group">
-       		<link label="C/C++ Development" 
+       		<link label="C / C ++开发" 
        		url="http://org.eclipse.ui.intro/showHelpTopic?id=/org.eclipse.cdt.doc.user/getting_started/cdt_o_tutorial.htm"
        		id="orgeclipsecdtdocuserwelcome-introLink" style-id="content-link">
           		<text>Learn how to create C and C++ projects</text>

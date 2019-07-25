@@ -4,231 +4,231 @@
 
 <!-- Actions -->
 	<context id="open_manifest">
-		<description>This action opens the manifest files contained in the selected plug-in project(s).</description>
+		<description>此操作将打开所选插件项目中包含的清单文件。</description>
 	</context>
 	<context id="organize_manifest">
-		<description>This action organizes and cleans up the manifest files contained in the selected plug-in project(s).</description>
-		<topic label="Organizing Manifest Files" href="guide/tools/pde_actions/organize_manifests.htm"/>
+		<description>此操作可组织和清除所选插件项目中包含的清单文件。</description>
+		<topic label="组织清单文件" href="guide/tools/pde_actions/organize_manifests.htm"/>
 	</context>
 	<context id="update_classpath">
-		<description>PDE computes the classpath of this project by looking for dependencies in the workspace and enabled external plug-ins and fragments.</description>
-		<topic label="Updating Classpaths" href="guide/tools/pde_actions/update_classpaths.htm"/>
+		<description>PDE通过查找工作空间中的依赖项并启用外部插件和片段来计算此项目的类路径。</description>
+		<topic label="更新类路径" href="guide/tools/pde_actions/update_classpaths.htm"/>
 	</context>
 	<context id="open_dependencies">
-		<description>This command opens the Dependencies view to show all the plug-ins needed to run the selected plug-in.</description>
-		<topic label="Dependencies page" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>此命令将打开“依赖关系”视图，以显示运行所选插件所需的所有插件。</description>
+		<topic label="依赖页面" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>	
 	<context id="find_references">
-		<description>This command searches for all the plug-ins that directly depend on the selected plug-in and all the fragments which target it.</description>
-		<topic label="Dependencies page" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
-  <topic href="concepts/fragment.htm" label="Fragments"/>
+		<description>此命令搜索直接依赖于所选插件的所有插件以及以其为目标的所有片段。</description>
+		<topic label="依赖页面" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+  <topic href="concepts/fragment.htm" label="片段"/>
 	</context>
 	<context id="create_plugin_jars">
-		<description>This command builds an Ant script which can then be used to build an executable version of the plug-in.</description>
-  <topic href="guide/tools/export_wizards/export_plugins.htm" label="Export plug-in"/>
-		<topic label="Build configuration" href="guide/tools/editors/manifest_editor/build.htm"/>
-		<topic label="Deploying a plug-in" href="tasks/ui_export_install_into_host.htm"/>
+		<description>此命令构建一个Ant脚本，然后可以使用该脚本构建插件的可执行版本。</description>
+  <topic href="guide/tools/export_wizards/export_plugins.htm" label="导出插件"/>
+		<topic label="构建配置" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<topic label="部署插件" href="tasks/ui_export_install_into_host.htm"/>
 	</context>
 	<context id="create_fragment_jars">
-		<description>This command builds an Ant script which can then be used to build an executable version of the fragment.</description>
-		<topic label="Generating Ant Scripts" href="tasks/pde_feature_generating_ant.htm"/>
-		<topic label="Build configuration" href="guide/tools/editors/manifest_editor/build.htm"/>
-		<topic label="Deploying a plug-in" href="tasks/ui_export_install_into_host.htm"/>
+		<description>此命令构建一个Ant脚本，然后可以使用该脚本构建片段的可执行版本。</description>
+		<topic label="生成Ant脚本" href="tasks/pde_feature_generating_ant.htm"/>
+		<topic label="构建配置" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<topic label="部署插件" href="tasks/ui_export_install_into_host.htm"/>
 	</context>
 	<context id="create_feature_jars">
-		<description>This command builds an Ant script which can then be used to build a feature.</description>
-		<topic label="Features" href="concepts/feature.htm"/>
-		<topic label="Build configuration" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<description>此命令构建一个Ant脚本，然后可以使用该脚本构建功能。</description>
+		<topic label="特征" href="concepts/feature.htm"/>
+		<topic label="构建配置" href="guide/tools/editors/manifest_editor/build.htm"/>
 	</context>	
 	<context id="migrate_action">
-		<description>This command migrates Eclipse 3.4 plug-ins and fragments to comply with Eclipse 3.5 guidelines.</description>
-		<topic label="FAQ" href="../org.eclipse.platform.doc.isv/porting/3.5/faq.html" />
-		<topic label="Incompatibilities" href="../org.eclipse.platform.doc.isv/porting/3.5/incompatibilities.html" />
-  <topic href="../org.eclipse.platform.doc.isv/porting/3.5/recommended.html" label="Recommended"/>
+		<description>此命令迁移Eclipse 3.4插件和片段以符合Eclipse 3.5准则。</description>
+		<topic label="常问问题" href="../org.eclipse.platform.doc.isv/porting/3.5/faq.html" />
+		<topic label="不兼容性" href="../org.eclipse.platform.doc.isv/porting/3.5/incompatibilities.html" />
+  <topic href="../org.eclipse.platform.doc.isv/porting/3.5/recommended.html" label="推荐的"/>
 	</context>
  <context id="image_browser_view">
-    <description>The Plug-in Image Browser view displays information about images found in plug-ins in the target platform, running application or workspace.</description>
-    <topic href="guide/tools/views/image_browser_view.htm" label="Plug-in Image Browser"/>
+    <description>“插件映像浏览器”视图显示有关在目标平台，运行应用程序或工作空间中的插件中找到的映像的信息。</description>
+    <topic href="guide/tools/views/image_browser_view.htm" label="插件图像浏览器"/>
  </context>	
 	<context id="build_site">
-		<description>This command builds all the features and plug-ins contained in this site.</description>
-  <topic href="concepts/update_site.htm" label="Update Site"/>
-		<topic label="Update Site Editor" href="guide/tools/editors/site_editor/site_editor.htm"/>
-		<topic label="Building plug-ins and features using update site editor" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<description>此命令构建此站点中包含的所有功能和插件。</description>
+  <topic href="concepts/update_site.htm" label="更新网站"/>
+		<topic label="更新站点编辑器" href="guide/tools/editors/site_editor/site_editor.htm"/>
+		<topic label="使用更新站点编辑器构建插件和功能" href="guide/tools/project_wizards/new_update_site_project.htm"/>
 	</context>	
 	<context id="preview_schema">
-		<description>This command transforms and renders the schema into HTML format.</description>
-  <topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Creating an extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
+		<description>此命令将架构转换并呈现为HTML格式。</description>
+  <topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="创建扩展点模式" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
 	</context>			
     <context id="history_action">
-        <description>Choose this previously shown plug-in dependency, to open it again.</description>
+        <description>选择此前显示的插件依赖项，再次打开它。</description>
  
     </context>
     <context id="history_list_action">
-        <description>Choose to open a dialog with all previously shown plug-in dependencies.</description>
+        <description>选择打开包含所有先前显示的插件依赖项的对话框。</description>
     </context>
     <context id="target_export_wizard">
-        <description>Use this wizard to export the contents of the current target platform to a directory.  All plug-ins included in the target platform will be copied to the destination directory.</description>
-        <topic href="guide/tools/export_wizards/export_target.htm" label="Target Export"/>
+        <description>使用此向导将当前目标平台的内容导出到目录。目标平台中包含的所有插件都将复制到目标目录。</description>
+        <topic href="guide/tools/export_wizards/export_target.htm" label="目标出口"/>
     </context>
     
 <!-- Dialogs -->
  	<context id="fragment_add_target">
- 		<description>This wizard allows you to select the target plug-in for your fragment.</description>
-   <topic href="concepts/fragment.htm" label="Fragment"/>
-		<topic label="Fragment Project" href="guide/tools/project_wizards/new_fragment_project.htm"/>
-  <topic href="guide/tools/project_wizards/fragment_content.htm" label="Fragment Content"/>
-  <topic href="guide/tools/project_wizards/fragment_structure.htm" label="Fragment Structure"/>
+ 		<description>此向导允许您选择片段的目标插件。</description>
+   <topic href="concepts/fragment.htm" label="分段"/>
+		<topic label="片段项目" href="guide/tools/project_wizards/new_fragment_project.htm"/>
+  <topic href="guide/tools/project_wizards/fragment_content.htm" label="片段内容"/>
+  <topic href="guide/tools/project_wizards/fragment_structure.htm" label="片段结构"/>
 	</context>
 	<context id="schema_type_restriction">
-		<description>This wizard allows you to define the possible values for the selected attribute.</description>
-		<topic label="Extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
-  		<topic label="Extension point schema definition page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
-  		<topic label="Extension point schema overview page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>		
+		<description>此向导允许您定义所选属性的可能值。</description>
+		<topic label="扩展点架构" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
+  		<topic label="扩展点模式定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+  		<topic label="扩展点架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>		
 	</context>
 	<context id="new_restriction_dialog">
-		<description>This wizard allows you to define a new possible value for the selected attribute.</description>
-		<topic label="Extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
-  		<topic label="Extension point schema definition page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
-  		<topic label="Extension point schema overview page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
+		<description>此向导允许您为所选属性定义新的可能值。</description>
+		<topic label="扩展点架构" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
+  		<topic label="扩展点模式定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+  		<topic label="扩展点架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
 	</context>
 	<context id="filtered_schema_attribute_selection_dialog">
-		<description>This dialog allows you to select which attribute of which extension point the current identifier will be based on.</description>
-		<topic label="Extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
-  		<topic label="Extension point schema definition page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
-  		<topic label="Extension point schema overview page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
+		<description>此对话框允许您选择当前标识符将基于哪个扩展点的属性。</description>
+		<topic label="扩展点架构" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
+  		<topic label="扩展点模式定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+  		<topic label="扩展点架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
 	</context>
 	<context id="search_page">
-		<description>On this page, you can search for references to and declarations of plug-ins, fragments and extension points.
-The search can be extended beyond workspace resources to include external plug-ins. </description>
+		<description>在此页面上，您可以搜索插件，片段和扩展点的引用和声明。
+搜索可以扩展到工作区资源之外，以包括外部插件。</description>
 	</context>
 	
 	<context id="plugin_selection">
-		<description>This dialog allows you to select a plug-in.</description>
-  <topic href="concepts/plugin.htm" label="Plug-in"/>
+		<description>此对话框允许您选择插件。</description>
+  <topic href="concepts/plugin.htm" label="插入"/>
 	</context>
 	<context id="feature_selection">
-		<description>This dialog allows you to select a feature by typing either a feature ID, or a plug-in ID.
-If a plug-in ID is entered, then all features containing matching plug-ins will be revealed.
-Wildcards '?' and '*' are supported. </description>
-  <topic href="concepts/feature.htm" label="Feature"/>
+		<description>此对话框允许您通过键入功能ID或插件ID来选择功能。
+如果输入了插件ID，则将显示包含匹配插件的所有功能。
+通配符'？'并且支持'*'。</description>
+  <topic href="concepts/feature.htm" label="特征"/>
 	</context>
 	<context id="product_configuration_selection">
-		<description>This dialog allows you to select a product configuration to export.</description>
-		<topic label="Product Export" href="guide/tools/export_wizards/export_product.htm"/>
+		<description>此对话框允许您选择要导出的产品配置。</description>
+		<topic label="产品出口" href="guide/tools/export_wizards/export_product.htm"/>
 	</context>
 	
 	<context id="execution_environment_selection">
-		<description>This dialog allows you to select one or more execution environment.</description>
-		<topic label="Plug-in Overview" href="guide/tools/editors/manifest_editor/overview.htm"/>
+		<description>此对话框允许您选择一个或多个执行环境。</description>
+		<topic label="插件概述" href="guide/tools/editors/manifest_editor/overview.htm"/>
 	</context>
 	
 	<context id="import_packages">
-		<description>This dialog allows you to add one or more packages to the list of packages imported by your bundle.</description>
-		<topic label="Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>此对话框允许您将一个或多个包添加到捆绑包导入的包列表中。</description>
+		<topic label="依赖" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>
 	<context id="imported_package_properties">
-		<description>This dialog allows you to specify version rules, and whether the dependency on the selected package is optional or not.</description>
-		<topic label="Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>此对话框允许您指定版本规则，以及对所选包的依赖性是否可选。</description>
+		<topic label="依赖" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>
 	<context id="export_packages">
-		<description>This dialog allows you to add one or more packages to the list of packages exported by your bundle.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm" />
+		<description>此对话框允许您将一个或多个包添加到捆绑包导出的包列表中。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm" />
 	</context>
 	<context id="package_selection">
-		<description>This dialog allows you to select one or more packages to export.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm" />
+		<description>此对话框允许您选择一个或多个要导出的包。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm" />
 	</context>
 	<context id="exported_package_properties">
-		<description>This dialog allows you to declare a version number for the selected package.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm" />
+		<description>此对话框允许您声明所选包的版本号。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm" />
 	</context>
 	
 	<context id="imported_plugin_properties">
-		<description>This dialog allows you to edit the properties of a plug-in dependency.</description>
-		<topic label="Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>此对话框允许您编辑插件依赖项的属性。</description>
+		<topic label="依赖" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>
 	
 	<context id="browse_extension_points_schemas">
-		<description>This dialog lists all the extension points schema defined in the current plug-in project.</description>
-  <topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extension point schema" href="guide/tools/file_wizards/new_schema.htm"/>
+		<description>此对话框列出了当前插件项目中定义的所有扩展点模式。</description>
+  <topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展点架构" href="guide/tools/file_wizards/new_schema.htm"/>
 	</context>
 	<context id="container_selection">
-		<description>This dialog allows you to select the project or folder in which you want to store your extension point schema.</description>
-		<topic label="Extension point schema" href="guide/tools/file_wizards/new_schema.htm"/>
+		<description>此对话框允许您选择要在其中存储扩展点模式的项目或文件夹。</description>
+		<topic label="扩展点架构" href="guide/tools/file_wizards/new_schema.htm"/>
 	</context>
 	
 	<context id="jar_selection">
-		<description>This dialog allows you to select a JAR archive to add to your library plug-in.</description>
+		<description>此对话框允许您选择要添加到库插件的JAR存档。</description>
 	</context>
 
 	<context id="add_library">
-		<description>This dialog allows you to select a library or a folder of your plug-in project and add it to your plug-in classpath.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm#classpath" />
+		<description>此对话框允许您选择插件项目的库或文件夹，并将其添加到插件类路径中。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm#classpath" />
 	</context>
 	<context id="new_library">
-		<description>This dialog allows you to declare a new library to add to your plug-in classpath.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm#classpath" />
+		<description>此对话框允许您声明要添加到插件类路径的新库。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm#classpath" />
 	</context>
 	<context id="unused_imports_dialog">
-		<description>This dialog lists every unused or redundant entry in the list of required plug-ins and imported packages, and offers to remove them.</description>
-		<topic label="Plug-in dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm" />
-		<topic label="Dependency analysis" href="guide/tools/editors/manifest_editor/dependencies.htm#dependency_analysis" />
+		<description>此对话框列出了所需插件和导入包列表中的所有未使用或冗余条目，并提供删除它们。</description>
+		<topic label="插件依赖项" href="guide/tools/editors/manifest_editor/dependencies.htm" />
+		<topic label="依赖性分析" href="guide/tools/editors/manifest_editor/dependencies.htm#dependency_analysis" />
 	</context>
 
 	<context id="launcher_application_selection">
-		<description>This dialog allows you to select an application to launch.</description>
+		<description>此对话框允许您选择要启动的应用程序。</description>
 		<topic label="Eclipse Application Launcher" href="guide/tools/launchers/eclipse_application_launcher.htm" />
 	</context>
 	
 	<context id="command_composer_dialog">
-		<description>This dialog allows you to select an executable command among the ones of your development environment.
-If the selected command has parameters, you are able to edit their values.</description>
-		<topic label="Simple Cheat Sheet Editor" href="guide/tools/editors/simple_cs_editor/editor.htm" />
-		<topic label="Command Section" href="guide/tools/editors/simple_cs_editor/section_command-details.htm" />
+		<description>此对话框允许您在开发环境中选择可执行命令。
+如果所选命令具有参数，则可以编辑它们的值。</description>
+		<topic label="简单的备忘单编辑器" href="guide/tools/editors/simple_cs_editor/editor.htm" />
+		<topic label="指挥科" href="guide/tools/editors/simple_cs_editor/section_command-details.htm" />
 	</context>
 
 	<context id="loop_dialog">
-		<description>This dialog lists all the cycles detected in the dependency graph of the selected plug-in.</description>
-		<topic label="Plug-in dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm" />
+		<description>此对话框列出了所选插件的依赖关系图中检测到的所有周期。</description>
+		<topic label="插件依赖项" href="guide/tools/editors/manifest_editor/dependencies.htm" />
 	</context>
 
 	<context id="rename_dialog">
-		<description>This dialog allows you to rename the selected element.</description>
+		<description>此对话框允许您重命名所选元素。</description>
 	</context>
 
 	<context id="new_cs_category_name_dialog">
-		<description>This dialog allows you to create a new problem domain category for the cheat sheet being registered.</description>
-		<topic label="Register Cheat Sheet Wizard" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm" />
+		<description>此对话框允许您为要注册的备忘单创建新的问题域类别。</description>
+		<topic label="注册备忘单向导" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm" />
 	</context>
 
 	<context id="plugin_import_finish_dialog">
-		<description>This dialog shows a list of plug-ins for which import was not possible (probably because they already exist in read-only projects of your workspace).</description>
+		<description>此对话框显示无法导入的插件列表（可能是因为它们已存在于工作空间的只读项目中）。</description>
 	</context>
 	<context id="plugin_import_overwrite_dialog">
-    	<description>This dialog opens when one or more plug-ins being imported already exist in the workspace.  Any projects that are checked in this dialog will be deleted when finish is pressed.  The imported plug-ins will use their id as the project name, but if a project with that name exists in the workspace a new project name that includes the version will be used.</description>
+    	<description>当导入的一个或多个插件已存在于工作空间中时，将打开此对话框。按下完成后，将删除在此对话框中检查的所有项目。导入的插件将使用其id作为项目名称，但如果工作空间中存在具有该名称的项目，则将使用包含该版本的新项目名称。</description>
 	</context>
 
 	<context id="spy_dialog">
-		<description>This dialog, called the "Plug-in Spy", allows you to introspect your environment and retrieve information about your current context (active page, active selection, ...).</description>
+		<description>此对话框称为“插件间谍”，允许您内省环境并检索有关当前上下文的信息（活动页面，活动选择......）。</description>
 	</context>
 	
 	<context id="filtered_plugin_artifacts_dialog">
-		<description>This dialog lists every plug-in, extension, extension point and exported package accessible in your development environment.
-You can select any item to open it in an editor.</description>
+		<description>此对话框列出了开发环境中可访问的每个插件，扩展，扩展点和导出的包。
+您可以选择任何项目以在编辑器中打开它。</description>
 	</context>
 
 <!-- START:  Launchers -->
 
 	<context id="launcher_basic">
-		<description>This page allows you to set the basic program arguments to run the configuration.</description>
-		<topic label="Eclipse Application Launcher Main Tab" 
+		<description>此页面允许您设置基本程序参数以运行配置。</description>
+		<topic label="Eclipse Application Launcher主选项卡" 
 		       href="guide/tools/launchers/eclipse_main.htm"/>
 		<!-- Note:  This context ID is shared between the Eclipse Application Launcher Main tab 
 		            and JUnit Plug-in Test Launcher Main tab.  Limitation at this point which
@@ -236,8 +236,8 @@ You can select any item to open it in an editor.</description>
 		  -->
 	</context>
 	<context id="launcher_advanced">
-		<description>This page allows you to run your configuration with only a subset of the plug-ins.</description>
-		<topic label="Eclipse Application Launcher Plug-ins Tab" 
+		<description>此页面允许您仅使用插件的子集运行配置。</description>
+		<topic label="Eclipse Application Launcher插件选项卡" 
 			   href="guide/tools/launchers/plugins.htm"/>
 		<!-- Note:  This context ID is shared between the Eclipse Application Launcher Plug-ins tab 
 		            and Equinox OSGi Framework Launcher Plug-ins tab.  Limitation at this point which
@@ -245,14 +245,14 @@ You can select any item to open it in an editor.</description>
 		  -->		
 	</context>
 	<context id="launcher_tracing">
-		<description>This page allows you to use tracing flags that will cause tracing information to be printed to the standard output (or the console view) when you run the configuration.</description>
-		<topic label="Launcher Tracing Tab" 
+		<description>此页面允许您使用跟踪标志，这些标志将导致在运行配置时将跟踪信息打印到标准输出（或控制台视图）。</description>
+		<topic label="启动器跟踪选项卡" 
 			   href="guide/tools/launchers/tracing.htm"/>
 		<!-- Note:  Shared context ID between all Launchers that have a Tracing Tab -->
 	</context>
 	<context id="launcher_configuration">
-		<description>This page allows you to specify the plug-ins that are to be automatically installed, and optionally started, by the runtime.</description>
-		<topic label="Eclipse Application Launcher Configuration Tab" 
+		<description>此页面允许您指定运行时自动安装并可选择启动的插件。</description>
+		<topic label="Eclipse Application Launcher配置选项卡" 
 		 	   href="guide/tools/launchers/configuration.htm"/>
 		<!-- Note:  This context ID is shared between the Eclipse Application Launcher Configuration tab 
 		            and JUnit Plug-in Test Launcher Configuration tab.  Limitation at this point which
@@ -260,14 +260,14 @@ You can select any item to open it in an editor.</description>
 		  -->			
 	</context>
 	<context id="plugin_status_dialog">
-		<description>This dialog lists every unresolvable plug-in in your launch configuration, and the corresponding unsatisfied constraint(s).</description>
+		<description>此对话框列出了启动配置中的每个无法解析的插件，以及相应的未满足约束。</description>
 		<topic label="Eclipse Application Launcher" href="guide/tools/launchers/eclipse_application_launcher.htm" />
 	</context>
 
 <!-- END:  Launchers -->	
 	
     <context id="history_list_dialog">
-        <description>A dialog for re-opening previously viewed plug-in dependencies.</description>
+        <description>用于重新打开以前查看的插件依赖项的对话框。</description>
     </context>
     	
 <!-- START:  Editors -->
@@ -275,235 +275,235 @@ You can select any item to open it in an editor.</description>
 	<!-- Plugin Manifest Editor -->
 
 	<context id="manifest_source_page">
-		<description>This page allows you to edit the file content directly.</description>
+		<description>此页面允许您直接编辑文件内容。</description>
 	</context>
 	<context id="manifest_plugin_overview">
-		<description>The Overview page shows you the plug-in at a glance.</description>
-  <topic href="concepts/plugin.htm" label="Plug-in"/>
-		<topic label="Plug-in Overview" href="guide/tools/editors/manifest_editor/overview.htm"/>
+		<description>“概述”页面一目了然地显示插件。</description>
+  <topic href="concepts/plugin.htm" label="插入"/>
+		<topic label="插件概述" href="guide/tools/editors/manifest_editor/overview.htm"/>
 	</context>
 	<context id="manifest_plugin_dependencies">
-		<description>The Dependencies page shows the dependencies that your plug-in has on other plug-ins.</description>
-		<topic label="Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>“依赖关系”页面显示插件对其他插件的依赖关系。</description>
+		<topic label="依赖" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>
 	<context id="manifest_plugin_runtime">
-		<description>The Runtime page shows information about the plug-in's runtime libraries.  This includes the plug-in classpath (if resources are not at the root of the plug-in) as well as what packages the plug-in exports.  Visibility restrictions can be set on the exported packages to limit usage by downstream users.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm" />
+		<description>“运行时”页面显示有关插件运行时库的信息。这包括插件类路径（如果资源不在插件的根目录下）以及插件导出的包。可以在导出的包上设置可见性限制，以限制下游用户的使用。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm" />
 	</context>
 	<context id="manifest_plugin_extensions">
-		<description>The Extensions page shows all the extensions used by your plug-in.</description>
-  <topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extensions" href="guide/tools/editors/manifest_editor/extensions.htm" />
+		<description>“扩展”页面显示插件使用的所有扩展名。</description>
+  <topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展" href="guide/tools/editors/manifest_editor/extensions.htm" />
 	</context>
 	<context id="manifest_plugin_ext_points">
-		<description>The Extension points page shows all the extension points declared by the plug-in.</description>
-  <topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extension Points" href="guide/tools/editors/manifest_editor/extension_points.htm" />
+		<description>“扩展点”页面显示插件声明的所有扩展点。</description>
+  <topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展点" href="guide/tools/editors/manifest_editor/extension_points.htm" />
 	</context>
 		
 	<context id="manifest_fragment_overview">
-		<description>The Overview page shows you the fragment at a glance.</description>
-		<topic label="Plug-in Overview" href="guide/tools/editors/manifest_editor/overview.htm"/>
+		<description>“概述”页面一目了然地显示片段。</description>
+		<topic label="插件概述" href="guide/tools/editors/manifest_editor/overview.htm"/>
 	</context>
 	<context id="manifest_fragment_dependencies">
-		<description>The Dependencies page shows the dependencies that your fragment has on other plug-ins.</description>
-		<topic label="Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<description>Dependencies页面显示了您的片段对其他插件的依赖关系。</description>
+		<topic label="依赖" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
 	</context>
 	<context id="manifest_fragment_runtime">
-		<description>The Runtime page shows information about the fragment's runtime libraries.</description>
-		<topic label="Runtime" href="guide/tools/editors/manifest_editor/runtime.htm" />
+		<description>Runtime页面显示有关片段运行时库的信息。</description>
+		<topic label="运行" href="guide/tools/editors/manifest_editor/runtime.htm" />
 	</context>
 	<context id="manifest_fragment_extensions">
-		<description>The Extensions page shows all the extensions used by your fragment.</description>
-		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extensions" href="guide/tools/editors/manifest_editor/extensions.htm" />
+		<description>“扩展”页面显示了片段使用的所有扩展名。</description>
+		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展" href="guide/tools/editors/manifest_editor/extensions.htm" />
 	</context>
 	<context id="manifest_fragment_ext_points">
-		<description>The Extension points page shows all the extension points declared by the fragment.</description>
-		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extension Points" href="guide/tools/editors/manifest_editor/extension_points.htm" />
+		<description>“扩展点”页面显示片段声明的所有扩展点。</description>
+		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展点" href="guide/tools/editors/manifest_editor/extension_points.htm" />
 	</context>
 	
 	<context id="build_page">
-		<description>This editor is used to edit the build configuration for a plug-in, fragment or a feature.</description>
-		<topic label="Build" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<description>此编辑器用于编辑插件，片段或功能的构建配置。</description>
+		<topic label="建立" href="guide/tools/editors/manifest_editor/build.htm"/>
 	</context>
 	<context id="build_add_library_dialog">
-		<description>This dialog allows you to add a new library to build. You can either select a library already declared in your plug-in classpath, or declare a new library.</description>
-		<topic label="Build" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<description>此对话框允许您添加要构建的新库。您可以选择已在插件类路径中声明的库，也可以声明新库。</description>
+		<topic label="建立" href="guide/tools/editors/manifest_editor/build.htm"/>
 	</context>
 	<context id="folder_add_selection">
-		<description>This dialog allows you to add a new source folder for the selected library. The content of this folder will be compiled into the library.</description>
-		<topic label="Build" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<description>此对话框允许您为选定的库添加新的源文件夹。该文件夹的内容将被编译到库中。</description>
+		<topic label="建立" href="guide/tools/editors/manifest_editor/build.htm"/>
 	</context>
 	
 	<!-- Extension Point Schema Editor -->
 	
 	<context id="schema_editor_main">
-		<description>This editor creates a schema for an extension point, to which all extensions extending this point must conform.</description>
-		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
-		<topic label="Extension Point schema definition page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
-		<topic label="Extension Point schema overview page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
+		<description>此编辑器为扩展点创建模式，扩展此点的所有扩展必须符合该模式。</description>
+		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展点架构" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
+		<topic label="扩展点模式定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+		<topic label="扩展点架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
 	</context>
 	<context id="schema_editor_doc">
-		<description>Documentation for the use of this extension point is entered on this page.</description>
-		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-		<topic label="Extension point schema" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Extension point schema editor" href="guide/tools/editors/schema_editor/editor.htm"/>
-		<topic label="Extension Point schema definition page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
-		<topic label="Extension Point schema overview page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
+		<description>此页面上输入了使用此扩展点的文档。</description>
+		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+		<topic label="扩展点架构" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="扩展点模式编辑器" href="guide/tools/editors/schema_editor/editor.htm"/>
+		<topic label="扩展点模式定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+		<topic label="扩展点架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
 	</context>
 	
 	<!-- Feature Editor -->
 	
 	<context id="manifest_feature_overview">
-		<description>This page shows general information about the feature.</description>
-		<topic label="Feature Overview" href="guide/tools/editors/feature_editor/overview.htm"/>
+		<description>此页面显示有关该功能的一般信息。</description>
+		<topic label="功能概述" href="guide/tools/editors/feature_editor/overview.htm"/>
 	</context>
 	<context id="manifest_feature_info">
-		<description>This page is used to edit the required description, license and copyright information.</description>
-		<topic label="Feature Information" href="guide/tools/editors/feature_editor/information.htm"/>
+		<description>此页面用于编辑所需的描述，许可和版权信息。</description>
+		<topic label="功能信息" href="guide/tools/editors/feature_editor/information.htm"/>
 	</context>
 	<context id="manifest_feature_content">
-		<description>This page shows the list of plug-ins and fragments that are included in the feature.</description>
-		<topic label="Included Plug-ins" href="guide/tools/editors/feature_editor/plugins.htm"/>
+		<description>此页面显示功能中包含的插件和片段列表。</description>
+		<topic label="包含的插件" href="guide/tools/editors/feature_editor/plugins.htm"/>
 	</context>
 	<context id="manifest_feature_advanced">
-		<description>This page lists all features included in this feature</description>
-		<topic label="Included Features" href="guide/tools/editors/feature_editor/included_features.htm"/>
+		<description>此页面列出了此功能中包含的所有功能</description>
+		<topic label="包含的功能" href="guide/tools/editors/feature_editor/included_features.htm"/>
 	</context>
 	<context id="manifest_feature_dependencies">
-		<description>This page lists all plug-ins and features that need to be installed before installing this feature. </description>
-		<topic label="Feature Dependencies" href="guide/tools/editors/feature_editor/dependencies.htm"/>
+		<description>此页面列出了在安装此功能之前需要安装的所有插件和功能。</description>
+		<topic label="特征依赖性" href="guide/tools/editors/feature_editor/dependencies.htm"/>
 	</context>
 	<context id="manifest_feature_installation">
-		<description>This page details installation options</description>
-		<topic label="Feature Installation" href="guide/tools/editors/feature_editor/installation.htm"/>
+		<description>此页面详细介绍了安装选项</description>
+		<topic label="功能安装" href="guide/tools/editors/feature_editor/installation.htm"/>
 	</context>	
 	<context id="feature_synchronize_versions">
-		<description>The versions of the plug-ins and fragments should be synchronized with that of the packaged feature.</description>
-		<topic label="Feature Overview" href="guide/tools/editors/feature_editor/overview.htm"/>
+		<description>插件和片段的版本应与打包功能的版本同步。</description>
+		<topic label="功能概述" href="guide/tools/editors/feature_editor/overview.htm"/>
 	</context>
 	
 	<!-- Site Editor -->
 
 	<context id="manifest_site_overview" >
-		<description>This page shows the general information about the update site.</description>
-		<topic label="Setting up an update site project" href="guide/tools/project_wizards/new_update_site_project.htm"/>
-		<topic label="Building plug-ins and features using update site editor" href="guide/tools/editors/site_editor/site_editor.htm"/>
+		<description>此页面显示有关更新站点的一般信息。</description>
+		<topic label="设置更新站点项目" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<topic label="使用更新站点编辑器构建插件和功能" href="guide/tools/editors/site_editor/site_editor.htm"/>
 	</context>
 	<context id="manifest_site_build">
-		<description>This page allows you to configure how this site will be built from features and plug-ins in the workspace.</description>
-		<topic label="Setting up an update site project" href="guide/tools/project_wizards/new_update_site_project.htm"/>
-		<topic label="Building plug-ins and features using update site editor" href="guide/tools/editors/site_editor/site_editor.htm"/>
+		<description>此页面允许您配置如何从工作区中的功能和插件构建此站点。</description>
+		<topic label="设置更新站点项目" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<topic label="使用更新站点编辑器构建插件和功能" href="guide/tools/editors/site_editor/site_editor.htm"/>
 	</context>
 	<context id="manifest_site_features">
-		<description>This page lists all the features visible to the user when connecting to this site.</description>
-		<topic label="Setting up an update site project" href="guide/tools/project_wizards/new_update_site_project.htm"/>
-		<topic label="Building plug-ins and features using update site editor" href="guide/tools/editors/site_editor/site_editor.htm"/>
+		<description>此页面列出了连接到此站点时用户可见的所有功能。</description>
+		<topic label="设置更新站点项目" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<topic label="使用更新站点编辑器构建插件和功能" href="guide/tools/editors/site_editor/site_editor.htm"/>
 	</context>
 	<context id="manifest_site_archives">
-		<description>This page lists all the archive mappings in this site.</description>
-		<topic label="Setting up an update site project" href="guide/tools/project_wizards/new_update_site_project.htm"/>
-		<topic label="Building plug-ins and features using update site editor" href="guide/tools/editors/site_editor/site_editor.htm"/>
+		<description>此页面列出了此站点中的所有存档映射。</description>
+		<topic label="设置更新站点项目" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<topic label="使用更新站点编辑器构建插件和功能" href="guide/tools/editors/site_editor/site_editor.htm"/>
 	</context>
 		
 	<!-- Product Editor -->
 
 	<context id="overview_page">
-		<description>This page allows you to specify general information about the product, as well as test and export it.</description>
-  <topic href="concepts/product.htm" label="Product"/>
-		<topic label="Product Overview Page" href="guide/tools/editors/product_editor/overview.htm"/>
+		<description>此页面允许您指定有关产品的一般信息，以及测试和导出产品。</description>
+  <topic href="concepts/product.htm" label="产品"/>
+		<topic label="产品概述页面" href="guide/tools/editors/product_editor/overview.htm"/>
 	</context>
 	<context id="configuration_page">
-		<description>Select plug-ins or features belonging to the product.  Optionally specify custom config.ini file, or program arguments.</description>
-		<topic label="Product Configuration Page" href="guide/tools/editors/product_editor/configuration.htm"/>
+		<description>选择属于产品的插件或功能。 （可选）指定自定义config.ini文件或程序参数。</description>
+		<topic label="产品配置页面" href="guide/tools/editors/product_editor/configuration.htm"/>
 	</context>	
 	<context id="launching_page">
-		<description>Information on this page controls the native launcher properties and arguments for the product.</description>
-		<topic label="Product Launching Page" href="guide/tools/editors/product_editor/launching.htm"/>
+		<description>此页面上的信息控制产品的本机启动器属性和参数。</description>
+		<topic label="产品发布页面" href="guide/tools/editors/product_editor/launching.htm"/>
 	</context>
 	<context id="branding_page">
-		<description>Information on this page controls branding of the product.</description>
-		<topic label="Product Branding Page" href="guide/tools/editors/product_editor/branding.htm"/>
+		<description>此页面上的信息控制产品的品牌。</description>
+		<topic label="产品品牌" href="guide/tools/editors/product_editor/branding.htm"/>
 	</context>
 	<context id="splash_page">
-		<description>This page allows you to create and customize a splash screen for the product.</description>
-		<topic label="Product Splash Page" href="guide/tools/editors/product_editor/splash.htm"/>
+		<description>此页面允许您为产品创建和自定义初始屏幕。</description>
+		<topic label="产品启动页面" href="guide/tools/editors/product_editor/splash.htm"/>
 	</context>
 
 	<!-- Simple Cheat Sheet Editor -->
 
 	<context id="simple_cs_editor">
-		<description>This editor allows you to compose a simple cheat sheet, which presents a set of steps to help the user complete a certain task.</description>
-		<topic label="Simple Cheat Sheet Editor" href="guide/tools/editors/simple_cs_editor/editor.htm"/>
+		<description>此编辑器允许您撰写一个简单的备忘单，该备忘单提供了一组帮助用户完成特定任务的步骤。</description>
+		<topic label="简单的备忘单编辑器" href="guide/tools/editors/simple_cs_editor/editor.htm"/>
 	</context>
 
 	<!-- Composite Cheat Sheet Editor -->
 
 	<context id="composite_cs_editor">
-		<description>This editor allows you to compose a composite cheat sheet, which presents a set of tasks (represented by simple cheat sheets) to help the user achieve an overarching goal.</description>
-		<topic label="Composite Cheat Sheet Editor" href="guide/tools/editors/composite_cs_editor/editor.htm"/>
+		<description>此编辑器允许您撰写复合备忘单，其中提供了一组任务（由简单的备忘单表示），以帮助用户实现总体目标。</description>
+		<topic label="复合作弊表编辑器" href="guide/tools/editors/composite_cs_editor/editor.htm"/>
 	</context>
 
 	<!-- Register Cheat Sheet Wizard -->
 
 	<context id="register_cs">
-		<description>This wizard allows you to register a simple or composite cheat sheet with the Eclipse workbench to make it accessible through the Help menu.</description>
-		<topic label="Register Cheat Sheet Wizard" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm"/>
+		<description>该向导允许您使用Eclipse工作台注册简单或复合备忘单，以使其可通过“帮助”菜单访问。</description>
+		<topic label="注册备忘单向导" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm"/>
 	</context>
 	
 	<!-- Category Editor -->
 	
 	<context id="category_editor">
-		<description>This editor is used to modify category definition files that are used to generate categories when exporting.</description>
-		<topic label="Category Editor" href="guide/tools/editors/category_editor/definition_page.htm"/>
-		<topic label="New Category Definition" href="guide/tools/file_wizards/new_category.htm"/>
-		<topic label="Feature Export" href="guide/tools/export_wizards/export_features.htm"/>
+		<description>此编辑器用于修改导出时用于生成类别的类别定义文件。</description>
+		<topic label="类别编辑器" href="guide/tools/editors/category_editor/definition_page.htm"/>
+		<topic label="新类别定义" href="guide/tools/file_wizards/new_category.htm"/>
+		<topic label="功能导出" href="guide/tools/export_wizards/export_features.htm"/>
 	</context>
 	<context id="category_file_page">
-		<description>This wizard allows you to create a new category file used to generate categories when exporting.</description>
-		<topic label="New Category Definition" href="guide/tools/file_wizards/new_category.htm"/>
-		<topic label="Category Editor" href="guide/tools/editors/category_editor/definition_page.htm"/>
-		<topic label="Feature Export" href="guide/tools/export_wizards/export_features.htm"/>
+		<description>此向导允许您创建用于在导出时生成类别的新类别文件。</description>
+		<topic label="新类别定义" href="guide/tools/file_wizards/new_category.htm"/>
+		<topic label="类别编辑器" href="guide/tools/editors/category_editor/definition_page.htm"/>
+		<topic label="功能导出" href="guide/tools/export_wizards/export_features.htm"/>
 	</context>
 
 	<!-- Table of Contents Editor -->
 
 	<context id="toc_editor">
-		<description>This editor creates a Help table of contents, which allows you to organize how documentation is displayed to users of an Eclipse product.</description>
-		<topic label="Table of Contents Editor" href="guide/tools/editors/toc_editor/editor.htm"/>
+		<description>此编辑器创建一个帮助目录，允许您组织如何向Eclipse产品的用户显示文档。</description>
+		<topic label="目录编辑器" href="guide/tools/editors/toc_editor/editor.htm"/>
 	</context>
 
 	<context id="register_toc">
-		<description>This wizard allows you to register a Help table of contents with the project's plugin.xml file.</description>
-  <topic href="guide/tools/editors/toc_editor/editor.htm" label="Table of Contents Editor"/>
+		<description>该向导允许您使用项目的plugin.xml文件注册帮助目录。</description>
+  <topic href="guide/tools/editors/toc_editor/editor.htm" label="目录编辑器"/>
 	</context>
  <context id="target_editor" title="Target Definition Editor">
-    <description>The Target Definition Editor is used to edit target definition files in the workspace, which should end with the extension &quot;.target&quot;. Target definition files can be created using the New Target Definition Wizard or by moving them to the workspace on the Target Platform Preference Page.</description>
-    <topic href="guide/tools/editors/target_editor/target_editor.htm" label="Target Definition Editor"/>
-    <topic href="guide/tools/editors/target_editor/definition_page.htm" label="Target Definition Editor Definition Page"/>
-    <topic href="guide/tools/editors/target_editor/content_page.htm" label="Target Definition Editor Content Page"/>
-    <topic href="guide/tools/editors/target_editor/environment_page.htm" label="Target Definition Editor Environment Page"/>
-    <topic href="concepts/target.htm" label="Target Platform"/>
+    <description>目标定义编辑器用于编辑工作空间中的目标定义文件，该文件应以扩展名“.target”结尾。可以使用“新建目标定义向导”或将目标定义文件移动到“目标平台首选项”页面上的工作区来创建目标定义文件。</description>
+    <topic href="guide/tools/editors/target_editor/target_editor.htm" label="目标定义编辑器"/>
+    <topic href="guide/tools/editors/target_editor/definition_page.htm" label="目标定义编辑器定义页面"/>
+    <topic href="guide/tools/editors/target_editor/content_page.htm" label="目标定义编辑器内容页面"/>
+    <topic href="guide/tools/editors/target_editor/environment_page.htm" label="目标定义编辑器环境页面"/>
+    <topic href="concepts/target.htm" label="目标平台"/>
  </context>
 <!-- Children of the PDEFormPage -->
 
     <!-- PLACE HOLDER -->
 	<context id="target_editor_environment_page" title="Target Definition Editor Environment Page">
-		<description>The Environment Page in the Target Definition Editor is used to edit many settings in the definition affecting how the target will be compiled and run.</description>
+		<description>目标定义编辑器中的环境页面用于编辑定义中的许多设置，这些设置会影响目标的编译和运行方式。</description>
 	</context>
     <!-- PLACE HOLDER -->
 	<context id="target_editor_definition_page" title="Target Definition Editor Definition Page">
-		<description>The Definition Page in the Target Definition Editor is used to edit the most important settings in a target definition file. The Target Name is used to display your targets on the Target Platform Preference Page. The Locations section is used to add locations that contain plug-ins and works the same as the Location Tab on the Edit Target Wizard.</description>
+		<description>目标定义编辑器中的定义页面用于编辑目标定义文件中最重要的设置。目标名称用于在目标平台首选项页面上显示目标。 “位置”部分用于添加包含插件的位置，其工作方式与“编辑目标向导”上的“位置”选项卡相同。</description>
 	</context>
  <context id="target_editor_content_page" title="Target Definition Editor Content Page">
-    <description>The Content Page in the Target Definition Editor is used to view and edit the set of plug-ins to be included in the target definition when set as the active target platform. The definition must contain one or more locations containing plug-ins and the definition must be resolved to edit the content. Only the plug-ins that are checked on this page will be included in the target. There are multiple options available to filter and sort the list to quickly check what you require.</description>
+    <description>目标定义编辑器中的内容页面用于查看和编辑设置为活动目标平台时要包含在目标定义中的插件集。该定义必须包含一个或多个包含插件的位置，并且必须解析该定义才能编辑内容。只有在此页面上检查的插件才会包含在目标中。有多个选项可用于过滤和排序列表，以快速检查您的需求。</description>
  </context>
   <context id="target_editor_source_page" title="Target Definition Editor Source Page">
-    <description>The Source Page in the Target Definition Editor is used to view and edit the source code of a target definition file. Completion assist is available for tags and location unit ids and versions. Changes here are reflected in the other tabs and vice-versa.</description>
+    <description>目标定义编辑器中的源页面用于查看和编辑目标定义文件的源代码。完成帮助适用于标签和位置单元ID和版本。此处的更改将反映在其他选项卡中，反之亦然。</description>
  </context>
 
 <!-- END:  Editors -->
@@ -517,41 +517,41 @@ You can select any item to open it in an editor.</description>
 
    <!-- one to one mapping -->
    <context id="main_preference_page" >
-      <description>This page allows you to set Plug-in Development Environment general settings.</description>
+      <description>此页面允许您设置插件开发环境常规设置。</description>
 
-      <topic label="General Plug-in Development Preferences" href="guide/tools/preference_pages/plug_in_development.htm"/>
-      <topic label="PDE Preferences" href="guide/tools/preference_pages/preferences.htm"/>
+      <topic label="常规插件开发首选项" href="guide/tools/preference_pages/plug_in_development.htm"/>
+      <topic label="PDE首选项" href="guide/tools/preference_pages/preferences.htm"/>
    </context>
 
    <!-- Compilers -->
 
    <!-- one to one mapping -->
    <context id="compilers_preference_page" >
-      <description>This page allows you to specify the severity of reported errors and warnings in the manifest, plugin.xml and build.properties files.</description>
-	  <topic label="Compilers Preferences" href="guide/tools/preference_pages/compilers.htm"/>
+      <description>此页面允许您在manifest，plugin.xml和build.properties文件中指定报告的错误和警告的严重性。</description>
+	  <topic label="编译器首选项" href="guide/tools/preference_pages/compilers.htm"/>
 
-      <topic label="Plug-in Compiler Preferences" href="guide/tools/preference_pages/plugin_compiler.htm"/>
-      <topic label="Extension Point Schema Compiler Preferences" href="guide/tools/preference_pages/schema_compiler.htm"/>
-      <topic label="Feature and Update Site Compiler Preferences" href="guide/tools/preference_pages/feature_compiler.htm"/>
-      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE Preferences"/>	  
+      <topic label="插件编译器首选项" href="guide/tools/preference_pages/plugin_compiler.htm"/>
+      <topic label="扩展点架构编译器首选项" href="guide/tools/preference_pages/schema_compiler.htm"/>
+      <topic label="功能和更新站点编译器首选项" href="guide/tools/preference_pages/feature_compiler.htm"/>
+      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE首选项"/>	  
    </context>
 
    <!-- Editors -->
 
    <!-- one to one mapping -->
    <context id="editor_preference_page" >
-      <description>This page allows you to configure the behavior and presentation of PDE editors.</description>
-      <topic label="Editors Preferences" href="guide/tools/preference_pages/editors.htm"/>
-      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE Preferences"/>	 
+      <description>此页面允许您配置PDE编辑器的行为和表示。</description>
+      <topic label="编辑首选项" href="guide/tools/preference_pages/editors.htm"/>
+      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE首选项"/>	 
    </context>
 
    <!-- OSGi Frameworks -->
 
    <!-- one to one mapping -->
    <context id="osgi_preference_page" >
-      <description>This page allows you to manage the OSGi Framework settings.</description>
-      <topic label="OSGi Frameworks Preferences" href="guide/tools/preference_pages/osgi_frameworks.htm"/>
-      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE Preferences"/>	 
+      <description>此页面允许您管理OSGi Framework设置。</description>
+      <topic label="OSGi框架首选项" href="guide/tools/preference_pages/osgi_frameworks.htm"/>
+      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE首选项"/>	 
    </context>
 	
 
@@ -559,14 +559,14 @@ You can select any item to open it in an editor.</description>
 
    <!-- one to one mapping -->
    <context id="target_platform_preference_page" >
-      <description>This page allows you to manage a set of target definitions and select one as the active target platform. A target definition consists of a set of plug-ins and environment settings. The active target platform is used to build and launch your workspace plug-ins.</description>
-      <topic href="guide/tools/preference_pages/target_platform.htm" label="Target Platform Preferences"/>
-      <topic href="concepts/target.htm" label="Target Platform"/>
-      <topic href="guide/tools/target_shared/new_target_wizard.htm" label="New Target Wizard"/>
-      <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="Edit Target Wizard"/>
-      <topic href="guide/tools/target_shared/move_target_wizard.htm" label="Move Target Wizard"/>
-      <topic href="guide/tools/editors/target_editor/target_editor.htm" label="Target Editor"/>
-      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE Preferences"/>
+      <description>此页面允许您管理一组目标定义，并选择一个作为活动目标平台。目标定义由一组插件和环境设置组成。活动目标平台用于构建和启动工作区插件。</description>
+      <topic href="guide/tools/preference_pages/target_platform.htm" label="目标平台首选项"/>
+      <topic href="concepts/target.htm" label="目标平台"/>
+      <topic href="guide/tools/target_shared/new_target_wizard.htm" label="新目标向导"/>
+      <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="编辑目标向导"/>
+      <topic href="guide/tools/target_shared/move_target_wizard.htm" label="移动目标向导"/>
+      <topic href="guide/tools/editors/target_editor/target_editor.htm" label="目标编辑"/>
+      <topic href="guide/tools/preference_pages/preferences.htm" label="PDE首选项"/>
    </context>
     
 <!-- END:  Preference pages -->
@@ -574,32 +574,32 @@ You can select any item to open it in an editor.</description>
 
 <!-- Property pages -->	
 	<context id="plugin_development_property_page">
-      <description>Parent property page for the other pde property pages.  Allows you to modify how the manifest editor is displayed for your project.</description>
+      <description>其他pde属性页的父属性页面。允许您修改清单编辑器为项目显示的方式。</description>
    </context>
 
     <context id="selfhosting_property_page">
-      <description>This page allows you to exclude certain class folders from the project's classpath.</description>
-      <topic href="guide/tools/preference_pages/runtime_classpath_properties.htm" label="Runtime Classpath"/>
+      <description>此页面允许您从项目的类路径中排除某些类文件夹。</description>
+      <topic href="guide/tools/preference_pages/runtime_classpath_properties.htm" label="运行时类路径"/>
    </context>
 
    <context id="compilers_property_page">
-      <description>This page allows you to specify the behavior of the various manifest compilers.  The settings are identical to the Compilers Preference Page, but will only apply to a single project.</description>
-      <topic label="Plug-in Compiler Preferences" href="guide/tools/preference_pages/plugin_compiler.htm"/>
+      <description>此页面允许您指定各种清单编译器的行为。这些设置与编译器首选项页面相同，但仅适用于单个项目。</description>
+      <topic label="插件编译器首选项" href="guide/tools/preference_pages/plugin_compiler.htm"/>
    </context>
    
 <!-- START:  Views -->	
 
 	<context  id="plugins_view">
-		<description>The Plug-in View show the plug-ins and fragments that will be passed to the runtime workbench when running or debugging. If simple self-hosting is used, the view allows you to browse external plug-ins that are not part of the workspace.</description>
-	    <topic label="Plug-ins" href="guide/tools/views/plugins.htm"/>
+		<description>插件视图显示在运行或调试时将传递给运行时工作台的插件和片段。如果使用简单的自托管，则视图允许您浏览不属于工作区的外部插件。</description>
+	    <topic label="插件" href="guide/tools/views/plugins.htm"/>
 	</context>
 	<context id="dependencies_view">
-	 	<description>The Dependencies view shows all the plug-ins required to run the selected plug-in.</description>
-		<topic label="Plug-in Dependencies" href="guide/tools/views/plugin_dependencies.htm"/>
+	 	<description>“依赖关系”视图显示运行所选插件所需的所有插件。</description>
+		<topic label="插件依赖项" href="guide/tools/views/plugin_dependencies.htm"/>
 	</context>
 	<context id="registry_view">
-		<description>The Plug-in Registry view shows a read-only view of the plug-in registry of the running platform.</description>
-		<topic label="Plug-in Registry" href="guide/tools/views/plugin_registry.htm"/>
+		<description>Plug-in Registry视图显示正在运行的平台的插件注册表的只读视图。</description>
+		<topic label="插件注册表" href="guide/tools/views/plugin_registry.htm"/>
 	</context>
 
 <!-- END:  Views -->	
@@ -609,18 +609,18 @@ You can select any item to open it in an editor.</description>
 
 	<!-- PLACE HOLDER -->
 	<context id="externalize_strings_page">
-		<description>This page allows you to extract translatable strings and store them in a properties file for multi-language support.</description>
-		<topic label="Externalizing Strings" href="guide/tools/pde_actions/externalize_strings.htm"/>
+		<description>此页面允许您提取可翻译字符串并将其存储在属性文件中以支持多语言。</description>
+		<topic label="外化字符串" href="guide/tools/pde_actions/externalize_strings.htm"/>
 	</context>
 
 	<!-- PLACE HOLDER -->
 	<context id="xhtml_conversion_page">
-		<description>This page allows you to convert existing help files into XHTML</description>
+		<description>此页面允许您将现有帮助文件转换为XHTML</description>
 	</context>
 	
 	<!-- PLACE HOLDER -->
 	<context id="convert_preferences_page">
-		<description>This page allows you to convert preferences from an Eclipse Preferences (*.epf) file into plugin_customization file settings.</description>
+		<description>此页面允许您将Eclipse首选项（* .epf）文件中的首选项转换为plugin_customization文件设置。</description>
 	</context>
 	
 
@@ -629,89 +629,89 @@ You can select any item to open it in an editor.</description>
 	<!-- New Plug-in Project -->
 
 	<context id="new_project_structure_page">
-		<description>This wizard helps you create a new plug-in project. If the plug-in is to contain resources only, create a simple project. Otherwise, create a Java project.</description>
-		<topic label="Plug-in Project Structure" 
+		<description>该向导可帮助您创建新的插件项目。如果插件仅包含资源，请创建一个简单的项目。否则，创建一个Java项目。</description>
+		<topic label="插件项目结构" 
 			   href="guide/tools/project_wizards/plugin_structure.htm"/>
 	</context>
 	<context id="new_project_required_data">
-		<description>Data entered on this page is used to customize the generated manifest file and top level plug-in Java class.</description>
-		<topic label="Plug-in Content"
+		<description>此页面上输入的数据用于自定义生成的清单文件和顶级插件Java类。</description>
+		<topic label="插件内容"
 			   href="guide/tools/project_wizards/plugin_content.htm"/>
 	</context>
 	<context id="new_project_code_gen_page">
-		<description>For a quick start, use the code generation wizards to create a plug-in project containing a working extension.  You can customize a plug-in to contain any combination of the available extension templates by choosing the 'Custom Plug-in Wizard' option.</description>
-		<topic label="Templates"
+		<description>要快速入门，请使用代码生成向导创建包含工作扩展的插件项目。您可以通过选择“自定义插件向导”选项来自定义插件以包含可用扩展模板的任意组合。</description>
+		<topic label="模板"
 			   href="guide/tools/project_wizards/plugin_templates.htm"/>
 	</context>
 	
 	<!-- New Fragment Project -->
 	
 	<context id="new_fragment_structure_page">
-		<description>This wizard helps you create a new fragment project. If the fragment is to contain resources only, create a simple project. Otherwise, create a Java project.</description>
-		<topic label="Fragment Project Structure"
+		<description>该向导可帮助您创建新的片段项目。如果片段仅包含资源，请创建一个简单项目。否则，创建一个Java项目。</description>
+		<topic label="片段项目结构"
 			   href="guide/tools/project_wizards/fragment_structure.htm"/>
 	</context>
 	<context id="new_fragment_required_data">
-		<description>This page specifies the fragment's target plug-in and other data required to generate the fragment's manifest file.</description>
-		<topic label="Fragment Content"
+		<description>此页面指定片段的目标插件以及生成片段清单文件所需的其他数据。</description>
+		<topic label="片段内容"
 			   href="guide/tools/project_wizards/fragment_content.htm"/>
 	</context>	
 	
 	<!-- Plug-in From Existing JAR Archives Project -->
 	
 	<context id="new_library_plugin_jar_page">
-		<description>This wizard helps you create a new plug-in project from existing JAR archives. Use this page to specify archives to be included in the plug-in. The buttons allow adding JAR archives from the workspace or the file system.</description> 
-		<topic label="Plug-in From Existing JAR Archives"
+		<description>该向导可帮助您从现有JAR存档创建新的插件项目。使用此页面指定要包含在插件中的存档。这些按钮允许从工作区或文件系统添加JAR存档。</description> 
+		<topic label="来自现有JAR档案的插件"
 			   href="guide/tools/project_wizards/plugin_from_archives.htm"/>
 	</context>
 	<context id="new_library_plugin_structure_page">
-		<description>This wizard helps you create a new plug-in project from existing JAR archives. Data entered on this page is used to customize the generated manifest file.</description>
-		<topic label="Plug-in From Existing JAR Archives"
+		<description>该向导可帮助您从现有JAR存档创建新的插件项目。此页面上输入的数据用于自定义生成的清单文件。</description>
+		<topic label="来自现有JAR档案的插件"
 			   href="guide/tools/project_wizards/plugin_from_archives.htm"/>
 	</context>
 	<context id="new_feature_main">
-		<description>This wizard creates a new feature project that can be used to package plug-ins.</description>	
-		<topic label="Features" href="concepts/feature.htm"/>
-		<topic label="Setting up a feature project" href="guide/tools/project_wizards/new_feature_project.htm"/>
-  <topic href="guide/tools/editors/feature_editor/feature_editor.htm" label="Feature editor"/>
+		<description>该向导将创建一个可用于打包插件的新功能项目。</description>	
+		<topic label="特征" href="concepts/feature.htm"/>
+		<topic label="设置功能项目" href="guide/tools/project_wizards/new_feature_project.htm"/>
+  <topic href="guide/tools/editors/feature_editor/feature_editor.htm" label="功能编辑器"/>
 	</context>
 	
 	<!-- New Feature Project -->
 
 	<context id="new_feature_data">
-		<description>This page specifies basic data about the feature.</description>	
-		<topic label="Feature Project" 
+		<description>此页面指定有关该功能的基本数据。</description>	
+		<topic label="特色项目" 
 			   href="guide/tools/project_wizards/new_feature_project.htm"/>
 	</context>
 	<context id="new_feature_referenced_plugins">
-		<description>The plug-ins and fragments selected on this page will be packaged in the feature.</description>
-		<topic label="Feature Project" 
+		<description>此页面上选择的插件和片段将打包在该功能中。</description>
+		<topic label="特色项目" 
 			   href="guide/tools/project_wizards/new_feature_project.htm"/>
 	</context>
 	
 	<!-- New Feature Patch -->
 
 	<context id="new_patch_main">
-		<description>This wizard creates a patch to an existing feature.</description>	
-		<topic label="Features" href="concepts/feature.htm"/>
-		<topic label="Setting up a feature project" href="guide/tools/project_wizards/new_feature_project.htm"/>
+		<description>该向导为现有功能创建补丁。</description>	
+		<topic label="特征" href="concepts/feature.htm"/>
+		<topic label="设置功能项目" href="guide/tools/project_wizards/new_feature_project.htm"/>
 	</context>	
 	<context id="new_patch_data">
-		<description>This page specifies basic data about the patch and the feature it targets.</description>	
-		<topic label="Feature Patch" 
+		<description>此页面指定有关修补程序及其目标功能的基本数据。</description>	
+		<topic label="功能补丁" 
 			   href="guide/tools/project_wizards/new_feature_patch.htm"/>
 	</context>
 	<context id="new_patch_referenced_plugins">
-		<description>The plug-ins and fragments selected on this page will be packaged in the patch.</description>
-		<topic label="Features" href="concepts/feature.htm"/>
-		<topic label="Setting up a feature project" href="guide/tools/project_wizards/new_feature_project.htm"/>
+		<description>此页面上选择的插件和片段将打包在补丁中。</description>
+		<topic label="特征" href="concepts/feature.htm"/>
+		<topic label="设置功能项目" href="guide/tools/project_wizards/new_feature_project.htm"/>
 	</context>	
 	
 	<!-- New Update Site Project -->
 	
 	<context id="new_site_main">
-		<description>This wizard creates an update site project where you can publish features for the Update Manager to find.</description>
-		<topic label="Update Site Project" 
+		<description>此向导将创建一个更新站点项目，您可以在其中发布要查找的Update Manager的功能。</description>
+		<topic label="更新站点项目" 
 			   href="guide/tools/project_wizards/new_update_site_project.htm"/>
 	</context>
 
@@ -722,60 +722,60 @@ You can select any item to open it in an editor.</description>
 	<!-- New Extension Point Schema -->
 	
 	<context id="new_schema">
-		<description>All extensions that extend the specified extension point will be validated against this schema.</description>
-		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-   		<topic label="Extension point schema" href="guide/tools/editors/schema_editor/editor.htm"/>
-   		<topic href="guide/tools/editors/manifest_editor/extension_points.htm" label="Extension Points Page"/>
+		<description>扩展指定扩展点的所有扩展都将针对此模式进行验证。</description>
+		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+   		<topic label="扩展点架构" href="guide/tools/editors/schema_editor/editor.htm"/>
+   		<topic href="guide/tools/editors/manifest_editor/extension_points.htm" label="扩展点"/>
 	</context>
 
 	<!-- New Product Configuration -->
 	
 	<context id="product_file_page">
-		<description>This page allows you to create a new product configuration and initialize its content.</description>
-		<topic label="Product Configuration" 
+		<description>此页面允许您创建新的产品配置并初始化其内容。</description>
+		<topic label="产品配置" 
 			   href="guide/tools/file_wizards/new_product_config.htm"/>
 	</context>
 
 	<!-- New Cheat Sheet -->
 	
 	<context id="cheat_sheet_page">
-		<description>This page allows you to create a new cheat sheet.</description>
-		<topic label="Cheat Sheet" 
+		<description>此页面允许您创建新的备忘单。</description>
+		<topic label="备忘单" 
 			   href="guide/tools/file_wizards/new_cheat_sheet.htm"/>
 	</context>
 
 	<!-- New Target Definition -->
 	
 	<context id="target_definition_page">
-		<description>This page allows you to create a new target definition. A target definition specifies all aspects of a target - including its location, constituent plug-ins and environment.</description>
-		<topic label="Target Definition" 
+		<description>此页面允许您创建新的目标定义。目标定义指定目标的所有方面 - 包括其位置，组成插件和环境。</description>
+		<topic label="目标定义" 
 			   href="guide/tools/file_wizards/new_target_definition.htm"/>
 	</context>
 
 	<!-- New Table of Contents -->
 	
 	<context id="toc_page">
-		<description>This page allows you to create a new table of contents.</description>
-		<topic label="Table of Contents" href="guide/tools/file_wizards/new_toc.htm"/>
+		<description>此页面允许您创建新的目录。</description>
+		<topic label="目录" href="guide/tools/file_wizards/new_toc.htm"/>
 	</context>
 
 	<!-- New Context Help -->
 	
 	<context id="new_context_help_page">
-		<description>This page allows you to create a new Context Help file.</description>
-		<topic label="Context Help" href="guide/tools/file_wizards/new_ctx_help.htm"/>
+		<description>此页面允许您创建新的上下文帮助文件。</description>
+		<topic label="上下文帮助" href="guide/tools/file_wizards/new_ctx_help.htm"/>
 	</context>
 	
 <!-- END:  New File Creation Wizard pages -->
 	
 	<context id="converted_projects">
-		<description>Select Java projects to which you want to add PDE capabilities.
-If the selected project does not contain a manifest file, PDE will generate a generic one.</description>
-		<topic label="Converting existing projects" href="guide/tools/pde_actions/convert_projects.htm"/>
+		<description>选择要添加PDE功能的Java项目。
+如果所选项目不包含清单文件，则PDE将生成通用文件。</description>
+		<topic label="转换现有项目" href="guide/tools/pde_actions/convert_projects.htm"/>
 	</context>	
 
 	<context id="migrate_3_0">
-		<description>All pre-3.0 plug-ins must be migrated using this wizard to update their list of dependencies and add the 3.0 processing instruction.</description>
+		<description>必须使用此向导迁移所有3.0之前的插件，以更新其依赖项列表并添加3.0处理指令。</description>
 	</context>	
 
 <!-- START:  New Import Wizard pages -->
@@ -783,168 +783,168 @@ If the selected project does not contain a manifest file, PDE will generate a ge
 	<!-- Plugins and Fragments -->
 	
 	<context id="plugin_import_first_page">
-		<description>This wizard allows you to import plug-ins into the workspace.  Plug-ins can be imported from the current target, any other target definition or a local directory.  The next page of the wizard will allow you to choose which plug-ins to import.  You can either select from a list of all plug-ins at the source location or select based on the requirements of plug-ins already in your workspace.  Plug-ins can be imported in four different formats.  Binary projects will contain the compiled plug-in code and will have attached source, but the source cannot be edited.  Binary projects with linked content will use linked files instead of copying the plug-in contents into the project.  Projects with source folders will attempt to extract source from the imported plug-in to make an editable project.  Projects from a repository will look for a special entry in the plug-in manifest that specifies a repository (such as a CVS location) so that source can be checked out.</description>
-		<topic label="Plug-in Import" 
+		<description>该向导允许您将插件导入工作区。可以从当前目标，任何其他目标定义或本地目录导入插件。向导的下一页将允许您选择要导入的插件。您可以从源位置的所有插件列表中进行选择，也可以根据工作区中已有插件的要求进行选择。插件可以以四种不同的格式导入。二进制项目将包含已编译的插件代码，并且将附加源，但无法编辑源。具有链接内容的二进制项目将使用链接文件，而不是将插件内容复制到项目中。具有源文件夹的项目将尝试从导入的插件中提取源以生成可编辑的项目。来自存储库的项目将在插件清单中查找指定存储库（例如CVS位置）的特殊条目，以便可以检出源。</description>
+		<topic label="插件导入" 
 			   href="guide/tools/import_wizards/import_plugins.htm"/>
 	</context>
 	<context id="plugin_import_second_page">
-		<description>This list shows the plug-ins and fragments found in the location specified on the previous page.</description>
-		<topic label="Plug-in Import" 
+		<description>此列表显示在上一页指定的位置中找到的插件和片段。</description>
+		<topic label="插件导入" 
 			   href="guide/tools/import_wizards/import_plugins.htm"/>
 	</context>
 	<context id="plugin_import_express_page">
-		<description>For each one of the selected plug-ins, the wizard will import all its pre-requisites that do not already exist as shared projects in the workspace.</description>
-		<topic label="Plug-in Import" 
+		<description>对于每个选定的插件，向导将导入所有尚未作为工作空间中的共享项目存在的先决条件。</description>
+		<topic label="插件导入" 
 			   href="guide/tools/import_wizards/import_plugins.htm"/>
 	</context>
 
 	<!-- Features -->
 	
 	<context id="feature_import_first_page">
-		<description>This page defines the location from which the features will be imported into the workspace. This wizard should only be used in conjunction with feature-based self-hosting.</description>	
-		<topic label="Feature Import" 
+		<description>此页面定义将要素导入工作空间的位置。此向导应仅与基于功能的自托管一起使用。</description>	
+		<topic label="功能导入" 
 			   href="guide/tools/import_wizards/import_wizards.htm"/>
 	</context>
 	<context id="feature_import_second_page">
-		<description>This list shows the features found in the location specified on the previous page.</description>
-		<topic label="Feature Import" 
+		<description>此列表显示在上一页指定的位置中找到的功能。</description>
+		<topic label="功能导入" 
 			   href="guide/tools/import_wizards/import_wizards.htm"/>
 	</context>
 
 <!-- END:  New Import Wizard pages -->
 	
 	<context id="template_selection">
-		<description>Customize the plug-in by choosing one or more template extensions.</description>
+		<description>通过选择一个或多个模板扩展来自定义插件。</description>
 	</context>		
 	<context id="template_editor">
-		<description>This template creates a sample XML editor with basic editing capabilities, syntax highlighting, etc.</description>
+		<description>此模板创建一个示例XML编辑器，其中包含基本编辑功能，语法突出显示等。</description>
 	</context>
 	<context id="template_hello_world">
-		<description>This template creates a sample action set that adds a menu to the menu bar and a button to the toolbar.</description>
+		<description>此模板创建一个示例操作集，用于向菜单栏添加菜单和向工具栏添加按钮。</description>
 	</context>
 	<context id="template_help">
-		<description>This template creates a sample Help Table of Contents.</description>
+		<description>此模板创建示例帮助目录。</description>
 	</context>
 	<context id="template_intro">
-		<description>This template creates a sample intro for product.</description>
+		<description>此模板为产品创建示例介绍。</description>
 	</context>
 	<context id="template_multipage_editor">
-		<description>This template creates a multi-page editor that works on files with the chosen extension.</description>
+		<description>此模板创建一个多页面编辑器，用于处理具有所选扩展名的文件。</description>
 	</context>
 	<context id="template_new_wizard">
-		<description>This template creates a wizard that can create a new file in the workspace</description>
+		<description>此模板创建一个向导，可以在工作区中创建新文件</description>
 	</context>
 	<context id="template_popup_menu">
-		<description>This template adds a popup menu to the specified target object.
- The menu will appear in all views where an object of the specified type is selected.</description>
+		<description>此模板将弹出菜单添加到指定的目标对象。
+ 菜单将出现在选择了指定类型的对象的所有视图中。</description>
 	</context>
 	<context id="template_preference_page">
-		<description>This template creates a page that is contributed to the Preferences.</description>
+		<description>此模板创建一个提供给首选项的页面。</description>
 	</context>
 	<context id="template_property_page">
-		<description>This template adds a property page to a resource that matches the specified filter, and will appear in the Properties dialog for that resource.</description>
+		<description>此模板将属性页添加到与指定筛选器匹配的资源，并将显示在该资源的“属性”对话框中。</description>
  	</context>
  	<context id="template_view">
- 		<description>This template creates a workbench view and is contributed to the Workbench by creating a category.</description>
+ 		<description>此模板创建工作台视图，并通过创建类别向Workbench提供。</description>
  	</context>
  	<context id="template_universal_welcome">
- 		<description>This template creates a contribution to the Universal Welcome in the section of your choice. For this to work, your product must use Universal Welcome.</description>
+ 		<description>此模板在您选择的部分中创建对Universal Welcome的贡献。为此，您的产品必须使用Universal Welcome。</description>
  	</context>
  	<context id="template_builder">
- 		<description>This template creates an incremental project builder and a project nature.  A popup action on the project configures or unconfigures the nature.</description>
+ 		<description>此模板创建增量项目构建器和项目性质。项目的弹出操作配置或取消配置性质。</description>
  	</context>
  	<context id="manifest_add_dependencies">
- 		<description>This wizard allows you to add plug-ins as dependencies to your plug-in.
- Use the filter to accelerate your search for the plug-ins.</description>
-		<topic label="Dependencies page" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
-		<topic label="Creating a plug-in project" href="guide/tools/project_wizards/new_plugin_project.htm"/>
+ 		<description>该向导允许您将插件作为依赖项添加到插件中。
+ 使用过滤器可加快搜索插件的速度。</description>
+		<topic label="依赖页面" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<topic label="创建插件项目" href="guide/tools/project_wizards/new_plugin_project.htm"/>
 	</context>
 	<context id="add_extensions_main">
-		<description>This wizard allows you to add an extension to one of the available extension points.
- You can also create a working template extension from the list of available templates.</description>
- 		<topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="New Extension Wizard"/>
- 		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-   		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="Extensions Page"/>
-		<topic label="Dependencies page" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
-		<topic label="Extension point schema" href="guide/tools/editors/schema_editor/editor.htm"/>
+		<description>此向导允许您向其中一个可用扩展点添加扩展。
+ 您还可以从可用模板列表中创建工作模板扩展。</description>
+ 		<topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="新的扩展向导"/>
+ 		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+   		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="扩展页面"/>
+		<topic label="依赖页面" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<topic label="扩展点架构" href="guide/tools/editors/schema_editor/editor.htm"/>
  	</context>
  	<context id="add_extensions_schema_based">
- 		<description>This wizard allows you to extend one of the available extension points.  To be able to extend an extension point, your plug-in has to import the plug-in where the point is declared.</description>
- 		<topic href="concepts/extension.htm" label="Extensions and Extension Points"/>
-   		<topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="New Extension Wizard"/>
-   		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="Extensions Page"/>
-		<topic label="Dependencies page" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
-		<topic label="Extension point schema" href="guide/tools/editors/schema_editor/editor.htm"/>
+ 		<description>此向导允许您扩展其中一个可用的扩展点。为了能够扩展扩展点，您的插件必须导入声明该点的插件。</description>
+ 		<topic href="concepts/extension.htm" label="扩展和扩展点"/>
+   		<topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="新的扩展向导"/>
+   		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="扩展页面"/>
+		<topic label="依赖页面" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<topic label="扩展点架构" href="guide/tools/editors/schema_editor/editor.htm"/>
  	</context>
   <context id="project_selection_dialog">
-     <description>This dialog is used to select a plug-in project to configure specific settings for.</description>
-     <topic href="guide/tools/preference_pages/compilers.htm" label="Compilers Preferences"/>
-     <topic href="guide/tools/preference_pages/plugin_compiler.htm" label="Plug-in Compiler Preferences"/>
+     <description>此对话框用于选择要为其配置特定设置的插件项目。</description>
+     <topic href="guide/tools/preference_pages/compilers.htm" label="编译器首选项"/>
+     <topic href="guide/tools/preference_pages/plugin_compiler.htm" label="插件编译器首选项"/>
   </context>
  	<context id="java_attribute_wizard_page">
- 		<description>This wizard allows you to create a new Java class or select an existing one.</description>
+ 		<description>该向导允许您创建新的Java类或选择现有的Java类。</description>
  	</context>
 	<context id="feature_portability_wizard">
-		<description>This wizard allows you to add constraints to ensure that your feature is not installed or shown in a context that does not match these constraints.</description>
-		<topic label="Feature manifest editor" href="guide/tools/editors/feature_editor/feature_editor.htm"/>
+		<description>此向导允许您添加约束，以确保您的功能未安装或显示在与这些约束不匹配的上下文中。</description>
+		<topic label="功能清单编辑器" href="guide/tools/editors/feature_editor/feature_editor.htm"/>
 	</context>		
 
 <!-- START:  Export Wizards -->
 	
 	<context id="plugin_export_wizard" >
-		<description>This wizard builds and exports the selected plug-ins and/or fragments into the specified location.</description>
-		<topic label="Plug-in Export" href="guide/tools/export_wizards/export_plugins.htm"/>
-  <topic href="guide/tools/export_wizards/export_features.htm" label="Feature Export"/>
-  <topic href="tasks/ui_export_install_into_host.htm" label="Export and Install into Running Host"/>
+		<description>该向导构建并将选定的插件和/或片段导出到指定位置。</description>
+		<topic label="插件导出" href="guide/tools/export_wizards/export_plugins.htm"/>
+  <topic href="guide/tools/export_wizards/export_features.htm" label="功能导出"/>
+  <topic href="tasks/ui_export_install_into_host.htm" label="导出并安装到运行主机"/>
 	</context>
 	<context id="feature_export_wizard">
-		<description>This wizard builds and exports the selected features and the associated plug-ins into the specified location.</description>
-		<topic label="Feature Export" href="guide/tools/export_wizards/export_features.htm"/>
-  <topic href="guide/tools/export_wizards/export_plugins.htm" label="Plug-in Export"/>
-  <topic href="tasks/ui_export_install_into_host.htm" label="Export and Install into Running Host"/>
+		<description>该向导构建并将选定的功能和相关插件导出到指定位置。</description>
+		<topic label="功能导出" href="guide/tools/export_wizards/export_features.htm"/>
+  <topic href="guide/tools/export_wizards/export_plugins.htm" label="插件导出"/>
+  <topic href="tasks/ui_export_install_into_host.htm" label="导出并安装到运行主机"/>
 	</context>
 	<context id="product_export_wizard">
-		<description>This page allows you to export a product to a destination outside the Eclipse workspace</description>
-  <topic href="concepts/product.htm" label="Product"/>
-		<topic label="Product Export" href="guide/tools/export_wizards/export_product.htm"/>
+		<description>此页面允许您将产品导出到Eclipse工作区外的目标</description>
+  <topic href="concepts/product.htm" label="产品"/>
+		<topic label="产品出口" href="guide/tools/export_wizards/export_product.htm"/>
 	</context>
 
 <!-- END:  Export Wizards -->
 	
 	<context id="plugins_container_page">
-		<description>This page shows you the actual classpath entries that are managed by this dynamic classpath container. In case one of the library entries does not have source associated, you can add source by selecting 'Attach Source...' button.</description>
+		<description>此页面显示由此动态类路径容器管理的实际类路径条目。如果其中一个库条目没有关联源，您可以通过选择“附加源...”按钮添加源。</description>
 	</context>		
  	
  	<!-- new help contents, need to be completed -->
  	<context id="advanced_plugin_export_page">
-		<description>This page allows signing the JARs for added security.
-If present, the JNLP option allows generation of manifests for Java Web Start deployment.</description>
+		<description>此页面允许签署JAR以增加安全性。
+如果存在，JNLP选项允许为Java Web Start部署生成清单。</description>
 	</context>
 	<context id="cross_platform_export_page">
-		<description>When exporting for multiple platforms, select the desired target platforms on this page.  A directory will be created for each selection.</description>
+		<description>导出多个平台时，请在此页面上选择所需的目标平台。将为每个选择创建一个目录。</description>
 	</context>
 	<context id="library_plugin_jars">
-		<description>Add JAR archives to include in the new plug-in.  JAR files can be imported from existing workspace projects, or external directories. </description>
+		<description>添加JAR存档以包含在新插件中。可以从现有工作空间项目或外部目录导入JAR文件。</description>
 	</context>	
 	<context id="plugin_working_set">
-		<description>Create a new working set by selecting plug-ins or fragments that will belong to it.</description>
+		<description>通过选择属于它的插件或片段来创建新的工作集。</description>
 	</context>
 	<context id="product_definitions_wizard_page">
-		<description>This wizard creates a new product extension.  A product must be assoicated with an application.</description>
-  <topic href="concepts/product.htm" label="Product"/>
+		<description>该向导将创建一个新的产品扩展。产品必须与应用程序相关联。</description>
+  <topic href="concepts/product.htm" label="产品"/>
 	</context>
 	<context id="project_names_page">
-		<description>Specify project name.</description>
+		<description>指定项目名称。</description>
 	</context>
 	<context id="required_plugins_container_page">
-		<description>The Plug-in Dependencies container is a read-only container managed by PDE.  This page shows the classpath entries that the container resolves to for this particular plug-in project.</description>
-		<topic label="Access Restrictions" href="guide/tools/editors/manifest_editor/access_rules.htm"/>
+		<description>Plug-in Dependencies容器是PDE管理的只读容器。此页面显示容器为此特定插件项目解析的类路径条目。</description>
+		<topic label="访问限制" href="guide/tools/editors/manifest_editor/access_rules.htm"/>
 	</context>
 	<context id="review_page">
-		<description>Review details of the selected sample.</description>
+		<description>查看所选样本的详细信息。</description>
 	</context>
 	<context id="selection_page">
-		<description>Select the samples to create.</description>
+		<description>选择要创建的样本。</description>
 	</context>
  	
  	
@@ -952,110 +952,110 @@ If present, the JNLP option allows generation of manifests for Java Web Start de
 
 <!-- Editor Outline -->
 	<context id="outline_sort_action">
-		<description>This action sorts elements in the Outline View.</description>
+		<description>此操作会对“大纲视图”中的元素进行排序。</description>
 	</context>
 <!-- END Editor Outline -->
 	
     <context id="ctx_help_editor" title="Context Help Editor">
-    	<description>This editor creates a context help XML file, which allows you to create and edit dynamic help entries.</description>
-    	<topic href="guide/tools/editors/ctx_help_editor/ctx_help_editor.htm" label="Context Help Editor"/>
+    	<description>此编辑器创建上下文帮助XML文件，该文件允许您创建和编辑动态帮助条目。</description>
+    	<topic href="guide/tools/editors/ctx_help_editor/ctx_help_editor.htm" label="上下文帮助编辑器"/>
     </context>
     
 <!-- Target related contexts -->    
    <context id="target_platform_state" title="Target Platform State View">
-      <description>The Target Platform State view shows the current status of the resolver state in PDE.</description>
-      <topic href="guide/tools/views/target_platform_state.htm" label="Target Platform State View"/>
+      <description>“目标平台状态”视图显示PDE中解析程序状态的当前状态。</description>
+      <topic href="guide/tools/views/target_platform_state.htm" label="目标平台状态视图"/>
    </context>
    <context id="new_target_wizard" title="New Target Wizard">
-      <description>This wizard creates a new target definition that will be added to the Target Platform Preference Page. There are several options to initialize your target definition with data. The new target definition will be saved in the Eclipse preferences, to create a target definition in your workspace use the New Target Definition File Wizard.</description>
-      <topic href="guide/tools/target_shared/new_target_wizard.htm" label="New Target Wizard"/>
+      <description>此向导将创建一个新目标定义，该定义将添加到目标平台首选项页面。有几个选项可以使用数据初始化目标定义。新目标定义将保存在Eclipse首选项中，以使用“新目标定义文件向导”在工作区中创建目标定义。</description>
+      <topic href="guide/tools/target_shared/new_target_wizard.htm" label="新目标向导"/>
    </context>
    <context id="edit_target_wizard" title="Target Definition Wizard">
-      <description>This wizard is used to edit target definitions. It is opened when a target definition on the Target Platform Preference Page is edited or a new definition is created. This wizard provides the same functionality as the Target Editor.</description>
-      <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="Edit Target Wizard"/>
-      <topic href="guide/tools/target_shared/edit_target_arguments_tab.htm" label="Argument Tab"/>
-      <topic href="guide/tools/target_shared/edit_target_content_tab.htm" label="Content Tab"/>
-      <topic href="guide/tools/target_shared/edit_target_environment_tab.htm" label="Environment Tab"/>
-      <topic href="guide/tools/target_shared/edit_target_implicit_tab.htm" label="Implicit Dependencies Tab"/>
-      <topic href="guide/tools/target_shared/edit_target_locations_tab.htm" label="Locations Tab"/>
+      <description>该向导用于编辑目标定义。当编辑目标平台首选项页面上的目标定义或创建新定义时，它将打开。该向导提供与目标编辑器相同的功能。</description>
+      <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="编辑目标向导"/>
+      <topic href="guide/tools/target_shared/edit_target_arguments_tab.htm" label="参数选项卡"/>
+      <topic href="guide/tools/target_shared/edit_target_content_tab.htm" label="内容标签"/>
+      <topic href="guide/tools/target_shared/edit_target_environment_tab.htm" label="环境标签"/>
+      <topic href="guide/tools/target_shared/edit_target_implicit_tab.htm" label="隐式依赖选项卡"/>
+      <topic href="guide/tools/target_shared/edit_target_locations_tab.htm" label="位置选项卡"/>
    </context>
    <context id="edit_target_wizard_locations_tab" title="Target Definition Wizard Locations Tab">
-      <description>The Location Tab in the Edit Target Wizard is used to set the locations that provide the plug-ins included in the target definition. There are several types of locations, allowing for definitions to be constructed in different styles.</description>
+      <description>“编辑目标向导”中的“位置”选项卡用于设置提供目标定义中包含的插件的位置。有几种类型的位置，允许以不同的样式构造定义。</description>
    </context>
    <context id="edit_target_wizard_argument_tab" title="Target Definition Wizard Arguments Tab">
-      <description>The Arguments Tab in the Edit Target Wizard is used to set the default program and vm arguments for new PDE launch configurations.</description>
+      <description>“编辑目标向导”中的“参数”选项卡用于设置新PDE启动配置的默认程序和vm参数。</description>
    </context>
    <context id="edit_target_wizard_content_tab" title="Target Definition Wizard Content Tab">
-      <description>The Content Tab in the Edit Target Wizard is used to set a subset of plug-ins to include in the target platform. The tab displays a list of all plug-ins available in the target definition&apos;s locations. Only the plug-ins checked on this tab will be included. There are multiple ways to organize and filter the list.</description>
+      <description>“编辑目标向导”中的“内容”选项卡用于设置要包含在目标平台中的插件子集。该选项卡显示目标定义位置中可用的所有插件的列表。仅包含此选项卡上选中的插件。有多种方法可以组织和过滤列表。</description>
    </context>
    <context id="edit_target_wizard_environment_tab" title="Target Definition Wizard Environment Tab">
-      <description>The Environment Tab in the Edit Target Wizard is used to set environment settings that affect how a target is compiled and run. The environment settings can also be edited on the Environment Page of the Target Editor.</description>
+      <description>“编辑目标向导”中的“环境”选项卡用于设置影响目标编译和运行方式的环境设置。也可以在目标编辑器的环境页面上编辑环境设置。</description>
    </context>
    <context id="edit_target_wizard_implicit_tab" title="Target Definition Wizard Implicit Dependencies Tab">
-      <description>The Implicit Tab in the Edit Target Wizard is used to set the implicit dependencies of the target. Any plug-in marked as an implicit dependency will always be added as a required plug-in when PDE determines requirements. Implicit dependencies can also be edited on the Environment Page of the Target Editor.</description>
+      <description>“编辑目标向导”中的“隐式”选项卡用于设置目标的隐式依赖关系。当PDE确定要求时，任何标记为隐式依赖项的插件将始终作为必需的插件添加。也可以在目标编辑器的环境页面上编辑隐式依赖项。</description>
    </context>
    <context id="implicit_dependencies_selection_dialog" title="Implicit Dependencies Selection Dialog">
-      <description>The Implicit Dependencies Selection Dialog allows you to browse through the plug-ins in your target and add one or more of them as implicit dependencies.</description>
-      <topic href="guide/tools/target_shared/implicit_plugin_selection_dialog.htm" label="Implicit Dependencies Selection Dialog"/>
+      <description>隐式依赖关系选择对话框允许您浏览目标中的插件，并将其中一个或多个作为隐式依赖项添加。</description>
+      <topic href="guide/tools/target_shared/implicit_plugin_selection_dialog.htm" label="隐式依赖关系选择对话框"/>
    </context>
    <context id="move_target_wizard" title="Move Target Wizard">
-      <description>This wizard moves a target definition stored in the Eclipse preferences to a file in the workspace. This wizard is accessed by pressing Move on the Target Platform Preference Page. You must choose a project or directory to create the file in and a filename. Target definition files must end in the file extension &quot;.target&quot;.</description>
-      <topic href="guide/tools/target_shared/move_target_wizard.htm" label="Move Target Definition"/>
+      <description>该向导将存储在Eclipse首选项中的目标定义移动到工作空间中的文件。按“目标平台首选项”页面上的“移动”可访问此向导。您必须选择一个项目或目录来创建文件和文件名。目标定义文件必须以文件扩展名“.target”结尾。</description>
+      <topic href="guide/tools/target_shared/move_target_wizard.htm" label="移动目标定义"/>
    </context>
    <context id="import_arguments_dialog" title="Import Arguments">
-      <description>The Import Arguments dialog is used to copy the arguments used in installations in your target. Often, if you have an Eclipse installation in your target that requires certain vm arguments to launch, you will require the same arguments to launch.</description>
-      <topic href="guide/tools/target_shared/import_arguments_dialog.htm" label="Import Arguments"/>
+      <description>“导入参数”对话框用于复制目标中安装中使用的参数。通常，如果您的目标中有一个Eclipse安装需要启动某些vm参数，则需要使用相同的参数来启动。</description>
+      <topic href="guide/tools/target_shared/import_arguments_dialog.htm" label="导入参数"/>
    </context>
    <context id="add_location_wizard" title="Add Location Wizard">
-      <description>The Add Location Wizard is opened from the Location Tab or the Definition Page. It is used to add a new location to a target definition. On the first page you must select a type of location to add.</description>
-      <topic href="guide/tools/target_shared/location_add_wizard.htm" label="Add Location Wizard"/>
+      <description>将从“位置”选项卡或“定义页面”打开“添加位置向导”。它用于向目标定义添加新位置。在第一页上，您必须选择要添加的位置类型。</description>
+      <topic href="guide/tools/target_shared/location_add_wizard.htm" label="添加位置向导"/>
    </context>
    <context id="location_add_directory_wizard" title="Add Directory Location Wizard">
-      <description>The Directory Location Wizard is used to create and edit directory locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_directory_wizard.htm" label="Directory Location Wizard"/>
+      <description>目录位置向导用于在目标定义中创建和编辑目录位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_directory_wizard.htm" label="目录位置向导"/>
    </context>
    <context id="location_edit_directory_wizard" title="Edit Directory Location Wizard">
-      <description>The Directory Location Wizard is used to create and edit directory locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_directory_wizard.htm" label="Directory Location Wizard"/>
+      <description>目录位置向导用于在目标定义中创建和编辑目录位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_directory_wizard.htm" label="目录位置向导"/>
    </context>
    <context id="location_preview_wizard" title="Preview Contents">
-      <topic href="guide/tools/target_shared/location_preview.htm" label="Preview Location Contents"/>
+      <topic href="guide/tools/target_shared/location_preview.htm" label="预览位置内容"/>
    </context>
    <context id="location_add_feature_wizard" title="Add Feature Locations Wizard">
-      <description>The Add Feature Locations Wizard is opened from the Add Location Wizard. Select a folder containing features (it can also contain a folder called &quot;features&quot;). All features found in the directory will be adde to the list. Check the features you want to add to your target. When Finish is pressed locations will be added to your target for each selected feature. The plug-ins in the features will be added to your target.</description>
-      <topic href="guide/tools/target_shared/location_add_features_wizard.htm" label="Add Feature Locations Wizard"/>
+      <description>从添加位置向导打开添加功能位置向导。选择包含功能的文件夹（它还可以包含名为“features”的文件夹）。目录中的所有功能都将添加到列表中。检查要添加到目标的功能。按下完成后，将为每个所选要素添加目标位置。功能中的插件将添加到目标中。</description>
+      <topic href="guide/tools/target_shared/location_add_features_wizard.htm" label="添加功能位置向导"/>
    </context>
    <context id="location_edit_feature_wizard" title="Edit Feature Location Wizard">
-      <description>The Edit Feature Location Wizard allows you to view the details of a feature location in your target definition.</description>
-      <topic href="guide/tools/target_shared/location_edit_feature_wizard.htm" label="Edit Feature Location Wizard"/>
+      <description>“编辑功能位置向导”允许您查看目标定义中功能位置的详细信息。</description>
+      <topic href="guide/tools/target_shared/location_edit_feature_wizard.htm" label="编辑功能位置向导"/>
    </context>
    <context id="location_add_installation_wizard" title="Add Installation Location Wizard">
-      <description>The Installation Location Wizard is used to create and edit installation locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_installation_wizard.htm" label="Installation Location Wizard"/>		
+      <description>“安装位置向导”用于在目标定义中创建和编辑安装位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_installation_wizard.htm" label="安装位置向导"/>		
    </context>
    <context id="location_edit_installation_wizard" title="Edit Installation Location Wizard">      
-      <description>The Installation Location Wizard is used to create and edit installation locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_installation_wizard.htm" label="Installation Location Wizard"/>
+      <description>“安装位置向导”用于在目标定义中创建和编辑安装位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_installation_wizard.htm" label="安装位置向导"/>
    </context>
    <context id="location_add_site_wizard" title="Add Software Site Location Wizard">
-      <description>The Software Site Location Wizard is used to create and edit software site locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_site_wizard.htm" label="Software Site Location Wizard"/>      
+      <description>软件站点位置向导用于在目标定义中创建和编辑软件站点位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_site_wizard.htm" label="软件站点位置向导"/>      
    </context>
    <context id="location_edit_site_wizard" title="Edit Software Site Location Wizard">
-      <description>The Software Site Location Wizard is used to create and edit software site locations in target definitions.</description>
-      <topic href="guide/tools/target_shared/location_edit_site_wizard.htm" label="Software Site Location Wizard"/>
+      <description>软件站点位置向导用于在目标定义中创建和编辑软件站点位置。</description>
+      <topic href="guide/tools/target_shared/location_edit_site_wizard.htm" label="软件站点位置向导"/>
    </context>
    <context id="launcher_osgi_framework" title="OSGi Framework Configuration">
-      <description>The OSGi Framework launches an OSGi runtime with bundles from the workspace and target platform.</description>
-      <topic href="guide/tools/launchers/equinox_launcher.htm" label="OSGi Framework Launcher"/>
+      <description>OSGi Framework使用工作区和目标平台中的bundle启动OSGi运行时。</description>
+      <topic href="guide/tools/launchers/equinox_launcher.htm" label="OSGi框架启动器"/>
    </context>
    <context id="launcher_eclipse_application" title="Eclipse Application Configuration">
-      <description>The Eclipse Application launcher runs or debugs plug-ins by launching a separate Eclipse application.</description>
+      <description>Eclipse Application启动程序通过启动单独的Eclipse应用程序来运行或调试插件。</description>
       <topic href="guide/tools/launchers/eclipse_application_launcher.htm" label="Eclipse Application Launcher"/>
    </context>
    <context id="launcher_junit_plugin" title="Junit Plug-in Test Configuration">
-      <description>The JUnit Plug-in Test Launcher runs JUnit Plug-in tests in a launched Eclipse application.</description>
-      <topic href="guide/tools/launchers/junit_launcher.htm" label="JUnit Plug-in Test Launcher"/>
+      <description>JUnit插件测试启动器在已启动的Eclipse应用程序中运行JUnit插件测试。</description>
+      <topic href="guide/tools/launchers/junit_launcher.htm" label="JUnit插件测试启动器"/>
    </context>
 <!-- END Target related contexts -->
 </contexts>

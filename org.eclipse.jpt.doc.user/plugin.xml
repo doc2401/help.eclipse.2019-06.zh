@@ -31,21 +31,21 @@
 			id="org.eclipse.jpt.jpa.cheatsheet.CreateJpaProject"
 			contentFile="$nl$/cheatsheets/add_persistence.xml"
 			category="org.eclipse.jpt.jpa.category">
-			<description>%createAJpaProjectDescription</description>
+			<description>％createAJpaProjectDescription</description>
 		</cheatsheet>
 
 		<cheatsheet name="%createAPersistentEntity"
 			id="org.eclipse.jpt.jpa.cheatsheet.AddEntity"
 			contentFile="$nl$/cheatsheets/create_entity.xml"
 			category="org.eclipse.jpt.jpa.category">
-			<description>%createAPersistentEntityDescription</description>
+			<description>％createAPersistentEntityDescription</description>
 		</cheatsheet>
 
 		<cheatsheet name="%MapAPersistentEntity"
 			id="org.eclipse.jpt.jpa.cheatsheet.MapEntity"
 			contentFile="$nl$/cheatsheets/map_entity.xml"
 			category="org.eclipse.jpt.jpa.category">
-			<description>%MapAPersistentEntityDescription</description>
+			<description>％MapAPersistentEntityDescription</description>
 		</cheatsheet>
 
 	</extension>

@@ -11,85 +11,85 @@
          IBM Corporation - initial API and implementation
  -->
 
-<toc label="Tasks">
-   <topic label="PDE Build">
-	  <topic href="tasks/pde_product_build.htm" label="Automated Building of RCP applications from a product configuration file">
+<toc label="任务">
+   <topic label="PDE构建">
+	  <topic href="tasks/pde_product_build.htm" label="从产品配置文件自动构建RCP应用程序">
 	  </topic>
-	  <topic href="tasks/pde_feature_build.htm" label="Automated Building of Features">
+	  <topic href="tasks/pde_feature_build.htm" label="自动构建功能">
 	  </topic>
-	  <topic href="tasks/pde_plugins_build.htm" label="Automated Building of Plug-ins">
+	  <topic href="tasks/pde_plugins_build.htm" label="自动构建插件">
 	  </topic>
-	  <topic href="tasks/pde_feature_generating_ant.htm" label="Generating Ant scripts from PDE">
+	  <topic href="tasks/pde_feature_generating_ant.htm" label="从PDE生成Ant脚本">
 	  </topic>
-	  <topic href="tasks/pde_feature_generating_antcommandline.htm" label="Generating Ant scripts from scripts">
+	  <topic href="tasks/pde_feature_generating_antcommandline.htm" label="从脚本生成Ant脚本">
 	  </topic>
-   <topic href="tasks/pde_shared_license.htm" label="Using Shared Licenses">
+   <topic href="tasks/pde_shared_license.htm" label="使用共享许可证">
    </topic>
    </topic>
-   <topic label="PDE Build Advanced Topics">
-      <topic href="tasks/pde_customization.htm" label="Customizing a Headless Build">
+   <topic label="PDE构建高级主题">
+      <topic href="tasks/pde_customization.htm" label="定制无头构建">
       </topic>
-      <topic href="tasks/pde_custom_callbacks.htm" label="Feature and Plug-in Custom Build Steps">
+      <topic href="tasks/pde_custom_callbacks.htm" label="功能和插件自定义构建步骤">
       </topic>
-      <topic href="tasks/pde_fetch_phase.htm" label="Fetching from Repositories">
+      <topic href="tasks/pde_fetch_phase.htm" label="从存储库中获取">
       </topic>
-      <topic href="tasks/pde_controlling_output.htm" label="Controlling the output format of the build">
+      <topic href="tasks/pde_controlling_output.htm" label="控制构建的输出格式">
       </topic>
-      <topic href="tasks/pde_compilation_order.htm" label="Compilation Order and Parallelization">
+      <topic href="tasks/pde_compilation_order.htm" label="编译顺序和并行化">
       </topic>
-      <topic href="tasks/pde_version_qualifiers.htm" label="Version Qualifiers">
+      <topic href="tasks/pde_version_qualifiers.htm" label="版本限定符">
       </topic>
-      <topic href="tasks/pde_compilation_env.htm" label="Controlling compilation environment">
+      <topic href="tasks/pde_compilation_env.htm" label="控制编译环境">
       </topic>
-      <topic href="tasks/pde_compiler_options.htm" label="Compiler options and settings">
+      <topic href="tasks/pde_compiler_options.htm" label="编译器选项和设置">
       </topic>
-      <topic href="tasks/pde_source_generation.htm" label="Source Plug-in and Feature generation">
+      <topic href="tasks/pde_source_generation.htm" label="源插件和功能生成">
       </topic>
-      <topic href="tasks/pde_individual_source.htm" label="Individual Source Bundles">
+      <topic href="tasks/pde_individual_source.htm" label="个别来源包">
       </topic>
-      <topic href="tasks/pde_packager.htm" label="Repackaging Eclipse Components">
+      <topic href="tasks/pde_packager.htm" label="重新打包Eclipse组件">
       </topic>
-      <topic href="tasks/pde_rootfiles.htm" label="Adding Files to the Root of a Build">
+      <topic href="tasks/pde_rootfiles.htm" label="将文件添加到构建的根目录">
       </topic>
-      <topic label="Topic">
+      <topic label="话题">
       </topic>
    </topic>
-  <topic label="PDE Build Integration with p2">
-  	<topic href="tasks/pde_p2_builds.htm" label="Building p2 Repositories and products">
+  <topic label="PDE与p2构建集成">
+  	<topic href="tasks/pde_p2_builds.htm" label="构建p2存储库和产品">
   	</topic>
-  	<topic href="tasks/pde_p2_featurebuilds.htm" label="Feature builds with p2">
+  	<topic href="tasks/pde_p2_featurebuilds.htm" label="使用p2构建功能">
   	</topic>
-  	<topic href="tasks/pde_p2_productbuilds.htm" label="Product builds with p2">
+  	<topic href="tasks/pde_p2_productbuilds.htm" label="产品使用p2构建">
   	</topic>
-     <topic href="tasks/pde_p2_buildtasks.htm" label="PDE/Build extensions to p2">
+     <topic href="tasks/pde_p2_buildtasks.htm" label="PDE / Build扩展到p2">
      </topic>
-     <topic href="tasks/pde_p2_integration.htm" label="Integration with the 3.4 metadata generator">
+     <topic href="tasks/pde_p2_integration.htm" label="与3.4元数据生成器集成">
      </topic>
-     <topic href="tasks/pde_p2_featuremetadata.htm" label="Feature Metadata Layout">
+     <topic href="tasks/pde_p2_featuremetadata.htm" label="特征元数据布局">
      </topic>
-     <topic href="tasks/pde_p2_reusingmetadata.htm" label="Reusing Metadata">
+     <topic href="tasks/pde_p2_reusingmetadata.htm" label="重用元数据">
      </topic>
-     <topic href="tasks/pde_p2_configuringproducts.htm" label="Configuring Products">
+     <topic href="tasks/pde_p2_configuringproducts.htm" label="配置产品">
      </topic>
   </topic>
-   <topic label="API Tools">
-      <topic href="tasks/api_tooling_setup.htm" label="Setting up API Tools">
+   <topic label="API工具">
+      <topic href="tasks/api_tooling_setup.htm" label="设置API工具">
       </topic>
-      <topic href="tasks/api_tooling_baseline.htm" label="Setting up a baseline">
+      <topic href="tasks/api_tooling_baseline.htm" label="设置基线">
       </topic>
-      <topic href="tasks/api_tooling_create_filters.htm" label="Creating filters">
+      <topic href="tasks/api_tooling_create_filters.htm" label="创建过滤器">
       </topic>
-      <topic href="tasks/api_tooling_remove_filters.htm" label="Remove filters">
+      <topic href="tasks/api_tooling_remove_filters.htm" label="删除过滤器">
       </topic>
-      <topic href="tasks/api_tooling_options.htm" label="Changing API Tools options">
+      <topic href="tasks/api_tooling_options.htm" label="更改API工具选项">
       </topic>
-      <topic href="tasks/api_tooling_compare_to_baseline.htm" label="Comparing to an API baseline">
+      <topic href="tasks/api_tooling_compare_to_baseline.htm" label="与API基准相比">
       </topic>
    </topic>
    <topic label="PDE UI">
-      <topic href="tasks/ui_export_install_into_host.htm" label="Export and Install Into Running Host">
+      <topic href="tasks/ui_export_install_into_host.htm" label="导出并安装到运行主机">
       </topic>
-      <topic href="tasks/ui_import_from_cvs.htm" label="Import Projects from a Repository">
+      <topic href="tasks/ui_import_from_cvs.htm" label="从存储库导入项目">
       </topic>
    </topic>
 </toc>

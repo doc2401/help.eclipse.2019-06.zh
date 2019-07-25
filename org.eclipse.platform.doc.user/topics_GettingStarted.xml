@@ -3,121 +3,121 @@
 <!-- ==================================== -->
 <!-- Define topics for the GettingStarted -->
 <!-- ==================================== -->
-<toc label="GettingStarted">
-   <topic label="Basic tutorial" href="gettingStarted/qs-01.htm">
-      <topic label="The Workbench" href="gettingStarted/qs-02a.htm"/>
-      <topic label="Editors and views" href="gettingStarted/qs-02b.htm">
-         <topic label="Editors" href="gettingStarted/qs-02d.xhtml"/>
-         <topic label="Views" href="gettingStarted/qs-02e.htm"/>
+<toc label="入门">
+   <topic label="基础教程" href="gettingStarted/qs-01.htm">
+      <topic label="工作台" href="gettingStarted/qs-02a.htm"/>
+      <topic label="编辑和观点" href="gettingStarted/qs-02b.htm">
+         <topic label="编者" href="gettingStarted/qs-02d.xhtml"/>
+         <topic label="查看" href="gettingStarted/qs-02e.htm"/>
       </topic>
           
-      <topic label="A simple project" href="gettingStarted/qs-07a.htm">
-         <topic label="Using the File menu" href="gettingStarted/qs-07b.htm"/>
-         <topic label="Using the popup" href="gettingStarted/qs-07c.htm"/>
-         <topic label="Using the New button" href="gettingStarted/qs-07d.htm"/>
+      <topic label="一个简单的项目" href="gettingStarted/qs-07a.htm">
+         <topic label="使用“文件”菜单" href="gettingStarted/qs-07b.htm"/>
+         <topic label="使用弹出窗口" href="gettingStarted/qs-07c.htm"/>
+         <topic label="使用“新建”按钮" href="gettingStarted/qs-07d.htm"/>
       </topic>
  
-      <topic label="Closing an editor" href="gettingStarted/qs-10b.htm"/>
+      <topic label="关闭编辑" href="gettingStarted/qs-10b.htm"/>
 
-      <topic label="Navigating resources" href="gettingStarted/qs-12.htm">
-         <topic label="Opening resources in the Project Explorer" href="gettingStarted/qs-12b.htm"/>
-         <topic label="Go To" href="gettingStarted/qs-12c.htm"/>
+      <topic label="浏览资源" href="gettingStarted/qs-12.htm">
+         <topic label="在Project Explorer中打开资源" href="gettingStarted/qs-12b.htm"/>
+         <topic label="去" href="gettingStarted/qs-12c.htm"/>
       </topic>
 
-      <topic label="Files" href="gettingStarted/qs-13.htm"/>
+      <topic label="档" href="gettingStarted/qs-13.htm"/>
 
-      <topic label="Exporting files" href="gettingStarted/qs-24a.xhtml"/>
+      <topic label="导出文件" href="gettingStarted/qs-24a.xhtml"/>
 
-      <topic label="Importing files" href="gettingStarted/qs-31a.htm">
-         <topic label="Drag and drop or copy and paste" href="gettingStarted/qs-31b.htm"/>
-         <topic label="Import wizard" href="gettingStarted/qs-31c.htm"/>
+      <topic label="导入文件" href="gettingStarted/qs-31a.htm">
+         <topic label="拖放或复制粘贴" href="gettingStarted/qs-31b.htm"/>
+         <topic label="导入向导" href="gettingStarted/qs-31c.htm"/>
       </topic>
 
-      <topic label="Deleting resources" href="gettingStarted/qs-32.htm"/>
+      <topic label="删除资源" href="gettingStarted/qs-32.htm"/>
 	  
-      <topic label="Working with other editors" href="gettingStarted/qs-34a.xhtml">
-         <topic label="External editors" href="gettingStarted/qs-34b.xhtml"/>
-         <topic label="Embedded editors" href="gettingStarted/qs-34c.xhtml"
+      <topic label="与其他编辑一起工作" href="gettingStarted/qs-34a.xhtml">
+         <topic label="外部编辑" href="gettingStarted/qs-34b.xhtml"/>
+         <topic label="嵌入式编辑器" href="gettingStarted/qs-34c.xhtml"
              filter="ws=win32"/>
-         <topic label="Editing files outside the Workbench" href="gettingStarted/qs-34d.htm"/>
+         <topic label="编辑Workbench外部的文件" href="gettingStarted/qs-34d.htm"/>
 	 </topic>
 
-      <topic label="Copying, renaming and moving" href="gettingStarted/qs-35.htm">
-         <topic label="Copying" href="gettingStarted/qs-35b.htm"/>
-         <topic label="Renaming" href="gettingStarted/qs-35c.htm"/>
-         <topic label="Moving" href="gettingStarted/qs-35d.htm"/>
+      <topic label="复制，重命名和移动" href="gettingStarted/qs-35.htm">
+         <topic label="仿形" href="gettingStarted/qs-35b.htm"/>
+         <topic label="重命名" href="gettingStarted/qs-35c.htm"/>
+         <topic label="移动" href="gettingStarted/qs-35d.htm"/>
       </topic>
 
-      <topic label="Searching" href="gettingStarted/qs-36.htm">
-         <topic label="Starting a search" href="gettingStarted/qs-36a.htm"/>
-         <topic label="The Search view" href="gettingStarted/qs-36b.htm"/>
+      <topic label="搜索" href="gettingStarted/qs-36.htm">
+         <topic label="开始搜索" href="gettingStarted/qs-36a.htm"/>
+         <topic label="搜索视图" href="gettingStarted/qs-36b.htm"/>
       </topic>
 
-      <topic label="Tasks and markers" href="gettingStarted/qs-37-2b.htm">
-         <topic label="Unassociated tasks" href="gettingStarted/qs-37-2d.htm"/>
-         <topic label="Associated tasks" href="gettingStarted/qs-37-2d2.htm"/>
-         <topic label="Opening files" href="gettingStarted/qs-37-2f.htm"/>
+      <topic label="任务和标记" href="gettingStarted/qs-37-2b.htm">
+         <topic label="无关联的任务" href="gettingStarted/qs-37-2d.htm"/>
+         <topic label="相关任务" href="gettingStarted/qs-37-2d2.htm"/>
+         <topic label="打开文件" href="gettingStarted/qs-37-2f.htm"/>
       </topic>
 
-      <topic label="Bookmarks" href="gettingStarted/qs-37-3b.htm">
-         <topic label="Adding and viewing bookmarks" href="gettingStarted/qs-37-3c.htm"/>
-         <topic label="Using bookmarks" href="gettingStarted/qs-37-3e.htm"/>
-        <topic label="Removing bookmarks" href="gettingStarted/qs-37-3f.htm"/>
+      <topic label="书签" href="gettingStarted/qs-37-3b.htm">
+         <topic label="添加和查看书签" href="gettingStarted/qs-37-3c.htm"/>
+         <topic label="使用书签" href="gettingStarted/qs-37-3e.htm"/>
+        <topic label="删除书签" href="gettingStarted/qs-37-3f.htm"/>
       </topic>
 
-      <topic label="Rearranging views and editors" href="gettingStarted/qs-39.htm">
-         <topic label="Rearranging views" href="gettingStarted/qs-39d.htm"/>
-         <topic label="Tiling editors" href="gettingStarted/qs-39e.htm"/>
-         <topic label="Rearranging tabbed views" href="gettingStarted/qs-39f.htm" />
-         <topic label="Maximizing and minimizing" href="gettingStarted/qs-39g.htm"/>
+      <topic label="重新排列视图和编辑器" href="gettingStarted/qs-39.htm">
+         <topic label="重新排列视图" href="gettingStarted/qs-39d.htm"/>
+         <topic label="平铺编辑" href="gettingStarted/qs-39e.htm"/>
+         <topic label="重新排列选项卡式视图" href="gettingStarted/qs-39f.htm" />
+         <topic label="最大化和最小化" href="gettingStarted/qs-39g.htm"/>
       </topic>
 
-      <topic label="Perspectives" href="gettingStarted/qs-43.htm">
-         <topic label="New perspectives" href="gettingStarted/qs-43b.htm"/>
-         <topic label="New windows" href="gettingStarted/qs-43c.htm"/>
-         <topic label="Saving perspectives" href="gettingStarted/qs-43e.htm"/>
-         <topic label="Turning menu and tool bar items on and off" href="gettingStarted/qs-43f.htm"/>
+      <topic label="展望" href="gettingStarted/qs-43.htm">
+         <topic label="新观点" href="gettingStarted/qs-43b.htm"/>
+         <topic label="新窗户" href="gettingStarted/qs-43c.htm"/>
+         <topic label="保存观点" href="gettingStarted/qs-43e.htm"/>
+         <topic label="打开和关闭菜单和工具栏项目" href="gettingStarted/qs-43f.htm"/>
       </topic>
 
-      <topic label="Comparing" href="gettingStarted/qs-52.htm">
-         <topic label="Simple compare" href="gettingStarted/qs-52c.htm"/>
-         <topic label="Understanding the comparison" href="gettingStarted/qs-52d.htm"/>
-         <topic label="Working with the comparison" href="gettingStarted/qs-52e.htm"/>
+      <topic label="对比" href="gettingStarted/qs-52.htm">
+         <topic label="简单比较" href="gettingStarted/qs-52c.htm"/>
+         <topic label="理解比较" href="gettingStarted/qs-52d.htm"/>
+         <topic label="使用比较" href="gettingStarted/qs-52e.htm"/>
          <enablement>
             <test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.compare"/>
          </enablement>
       </topic>
 
-      <topic label="Local history" href="gettingStarted/qs-55.htm"/>
+      <topic label="当地历史" href="gettingStarted/qs-55.htm"/>
 	  
-	  <topic label="Responsive UI" href="gettingStarted/qs-responsiveUI.htm"/>	
+	  <topic label="响应式用户界面" href="gettingStarted/qs-responsiveUI.htm"/>	
 
-      <topic label="Exiting the Workbench" href="gettingStarted/qs-55b.htm"/>
+      <topic label="退出工作台" href="gettingStarted/qs-55b.htm"/>
 
    </topic>
    
    <anchor id="gs_afterbasic" />
 
-   <topic label="Team CVS tutorial" href="gettingStarted/qs-60_team.htm">
-      <topic label="Setting up a CVS repository" href="gettingStarted/qs-60a_setup.htm"/>
-      <topic label="Starting offline" href="gettingStarted/qs-61c_offline.htm"/>
+   <topic label="团队CVS教程" href="gettingStarted/qs-60_team.htm">
+      <topic label="设置CVS存储库" href="gettingStarted/qs-60a_setup.htm"/>
+      <topic label="离线开始" href="gettingStarted/qs-61c_offline.htm"/>
 
-      <topic label="Sharing the project" href="gettingStarted/qs-61d_repoloca.htm">
-         <topic label="Specifying a repository location" href="gettingStarted/qs-61d_repolocb.htm"/>
-         <topic label="Repository locations" href="gettingStarted/qs-61e_whatisloc.htm"/>
-         <topic label="Sharing a project" href="gettingStarted/qs-61f_syncproject.htm"/>
+      <topic label="分享项目" href="gettingStarted/qs-61d_repoloca.htm">
+         <topic label="指定存储库位置" href="gettingStarted/qs-61d_repolocb.htm"/>
+         <topic label="存储库位置" href="gettingStarted/qs-61e_whatisloc.htm"/>
+         <topic label="分享项目" href="gettingStarted/qs-61f_syncproject.htm"/>
       </topic>
 
-      <topic label="Working with another user" href="gettingStarted/qs-64a_another.htm">
-         <topic label="Checking out a project" href="gettingStarted/qs-64b_fredadd.htm"/>
-         <topic label="Another user making changes" href="gettingStarted/qs-64b_fredmod.htm"/>
-         <topic label="Making our own changes" href="gettingStarted/qs-64c_catch_mod.htm"/>
-         <topic label="Working with conflicting changes" href="gettingStarted/qs-64c_catch_sync_view.htm"/>
-         <topic label="Replacing" href="gettingStarted/qs-70_replace.htm"/>
-         <topic label="Versioning your project" href="gettingStarted/qs-74_version.htm"/>
-         <topic label="A quick review" href="gettingStarted/qs-74_review.htm"/>
+      <topic label="与其他用户合作" href="gettingStarted/qs-64a_another.htm">
+         <topic label="签出一个项目" href="gettingStarted/qs-64b_fredadd.htm"/>
+         <topic label="另一个用户进行更改" href="gettingStarted/qs-64b_fredmod.htm"/>
+         <topic label="做出我们自己的改变" href="gettingStarted/qs-64c_catch_mod.htm"/>
+         <topic label="处理相互冲突的更改" href="gettingStarted/qs-64c_catch_sync_view.htm"/>
+         <topic label="更换" href="gettingStarted/qs-70_replace.htm"/>
+         <topic label="对项目进行版本控制" href="gettingStarted/qs-74_version.htm"/>
+         <topic label="快速回顾一下" href="gettingStarted/qs-74_review.htm"/>
       </topic>
-      <topic label="Working with CVS History" href="gettingStarted/qs-70_workingWithHistory.htm"/>
+      <topic label="使用CVS历史记录" href="gettingStarted/qs-70_workingWithHistory.htm"/>
       <enablement>
          <test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.team.cvs.ui"/>
       </enablement>
@@ -125,23 +125,23 @@
 
    <anchor id="gs_afterteam" />
 
-   <topic label="Ant &amp; external tools tutorial" href="gettingStarted/qs-80_ant.htm">
-     <topic label="Eclipse Ant basics" href="gettingStarted/qs-81_basics.htm">
-       <topic label="Creating Ant buildfiles" href="gettingStarted/qs-82_create.htm"/>
-       <topic label="Editing Ant buildfiles" href="gettingStarted/qs-83_edit.htm"/>
-       <topic label="Running Ant buildfiles" href="gettingStarted/qs-84_run_ant.htm"/>
-       <topic label="Saving &amp; Reusing Ant options" href="gettingStarted/qs-85_ant_configs.htm"/>
-       <topic label="Using the Ant view" href="gettingStarted/qs-85a_ant_view.htm"/>
+   <topic label="蚂蚁＆amp;外部工具教程" href="gettingStarted/qs-80_ant.htm">
+     <topic label="Eclipse Ant基础知识" href="gettingStarted/qs-81_basics.htm">
+       <topic label="创建Ant构建文件" href="gettingStarted/qs-82_create.htm"/>
+       <topic label="编辑Ant构建文件" href="gettingStarted/qs-83_edit.htm"/>
+       <topic label="运行Ant构建文件" href="gettingStarted/qs-84_run_ant.htm"/>
+       <topic label="拯救和重用Ant选项" href="gettingStarted/qs-85_ant_configs.htm"/>
+       <topic label="使用Ant视图" href="gettingStarted/qs-85a_ant_view.htm"/>
      </topic>    
-     <topic label="Ant buildfiles as project builders" href="gettingStarted/qs-92_project_builders.htm">
-       <topic label="Creating a project builder Ant buildfile" href="gettingStarted/qs-93_project_builder.htm"/>
-       <topic label="Executing project builders" href="gettingStarted/qs-94_run_pj.htm"/>
-       <topic href="gettingStarted/qs-93a_project_builder_targets.htm" label="Project Builder Ant Targets">
+     <topic label="Ant buildfiles作为项目构建者" href="gettingStarted/qs-92_project_builders.htm">
+       <topic label="创建项目构建器Ant构建文件" href="gettingStarted/qs-93_project_builder.htm"/>
+       <topic label="执行项目构建器" href="gettingStarted/qs-94_run_pj.htm"/>
+       <topic href="gettingStarted/qs-93a_project_builder_targets.htm" label="项目构建器Ant目标">
        </topic>       
      </topic>      	
-     <topic label="External tools" href="gettingStarted/qs-95_external_tools.htm">
-       <topic label="Non-Ant project builders" href="gettingStarted/qs-96_non_ant_pjs.htm"/>
-       <topic label="Stand-alone external tools" href="gettingStarted/qs-97_standalone_ets.htm"/>
+     <topic label="外部工具" href="gettingStarted/qs-95_external_tools.htm">
+       <topic label="非Ant项目构建者" href="gettingStarted/qs-96_non_ant_pjs.htm"/>
+       <topic label="独立的外部工具" href="gettingStarted/qs-97_standalone_ets.htm"/>
      </topic>	
      <enablement>
         <test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>

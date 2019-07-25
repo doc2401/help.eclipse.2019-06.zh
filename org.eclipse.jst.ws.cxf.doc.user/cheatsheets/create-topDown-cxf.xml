@@ -17,52 +17,52 @@
    <intro
          href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm">
       <description>
-         This cheat sheet will demonstrate how to use the Web Services wizard to generate a JAX-WS Service Endpoint Interface and a skeleton implementation bean from a WSDL document using the Apache CXF runtime.
-         <br/>
-         <br/>
-If you need help at any step, click the help button in the top right corner (?).
-      </description>
+         此备忘单将演示如何使用Web服务向导使用Apache CXF运行时从WSDL文档生成JAX-WS服务端点接口和框架实现bean。
+         <BR/>
+         <BR/>
+如果您在任何步骤中需要帮助，请单击右上角的帮助按钮（？）。
+      </description>
    </intro>
    <item
          href="/org.eclipse.wst.wsdl.ui.doc.user/tasks/tcrtwsdl.html"
          title="Create or import a WSDL document">
       <description>
-         Create or import a WSDL file into the Web Content folder of the Web project. The WSDL document must have a valid service element.
-      </description>
+         创建WSDL文件或将其导入Web项目的Web Content文件夹。 WSDL文档必须具有有效的服务元素。
+      </description>
    </item>
    <item
          dialog="true"
          href="/org.eclipse.jst.ws.cxf.doc.user/tasks/create_topdown.html"
          title="Generate a JAX-WS SEI and a skeleton implementation bean from the WSDL document">
       <description>
-         To generate a JAX-WS SEI and a skeleton implementation bean from a WSDL document perform the following steps:
-      </description>
+         要从WSDL文档生成JAX-WS SEI和框架实现bean，请执行以下步骤：
+      </description>
       <subitem
-            label="Select &quot;File -&gt; New -&gt; Other...&quot; from the main menu, expand the &quot;Web Services&quot; category and select &quot;Web Service&quot;. Click &quot;OK&quot; to launch the Web Services wizard or select the &quot;Click to perform&quot; button to do this automatically.">
+            label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.creation.ui.wizard.serverwizard)"/>
       </subitem>
       <subitem
-            label="Select &quot;Top down Java bean Web Service&quot; as the &quot;Web service type&quot;.">
+            label="选择“自上而下的Java bean Web服务”作为“Web服务类型”。">
       </subitem>
       <subitem
-            label="Browse to select the Service definition.">
+            label="浏览以选择服务定义。">
       </subitem>
       <subitem
-            label="Verify that &quot;Apache CXF 2.x&quot; is selected as the Web service runtime.">
+            label="验证“Apache CXF 2.x”被选为Web服务运行时。">
       </subitem>
       <subitem
-            label="Move the service slider to the &quot;Develop service&quot; stage.">
+            label="将服务滑块移动到“开发服务”阶段。">
       </subitem>
       <subitem
-            label="Accept all other default values on this page and click &quot;Next &gt;&quot;.">
+            label="接受此页面上的所有其他默认值，然后点击“下一步＆gt;”。">
       </subitem>
       <subitem
-            label="On the Apache CXF WSDL to Java page accept the defaults and click &quot;Next &gt;&quot;.">
+            label="在Apache CXF WSDL to Java页面上接受默认值，然后单击“下一步＆gt;”。">
       </subitem>
       <subitem
-            label="Select &quot;Generate Implementation&quot; on the WSDL to Java preference override page and click &quot;Finish&quot;.">
+            label="选择“生成实施”在WSDL to Java首选项覆盖页面上，单击“完成”。">
       </subitem>
    </item>
 </cheatsheet>

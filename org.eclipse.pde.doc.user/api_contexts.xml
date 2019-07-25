@@ -12,124 +12,124 @@
 
 <contexts>
    <context id="apiprofiles_preference_page" title="API Baselines">
-      <description>This page allows you to manage API baselines and set the problem severity for a missing baseline. An API baseline is used when analyzing APIs for compatibility with a previous release. The checked baseline is used when analyzing workspace plug-ins.</description>
-      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API Baseline Preferences"/>
-      <topic href="tasks/api_tooling_baseline.htm" label="Adding API Baselines"/>
-      <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="Add API Baseline Quick Fix"/>
-      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard"/>
+      <description>此页面允许您管理API基准并为缺少的基准设置问题严重性。在分析API以与先前版本兼容时，将使用API基准。在分析工作区插件时使用已检查的基线。</description>
+      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API基准首选项"/>
+      <topic href="tasks/api_tooling_baseline.htm" label="添加API基准"/>
+      <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="添加API基线快速修复"/>
+      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导"/>
    </context>
    <context id="api_tooling_setup_wizard_page" title="API Tools Setup">
-      <description>This wizard is used to configure plug-in projects for API analysis.</description>
-      <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API Tools Setup Wizard"/>
-      <topic href="tasks/api_tooling_setup.htm" label="Setting Up API Tools"/>
-      <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API Tools Setup Command"/>
-      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="Defining API Restrictions"/>
+      <description>该向导用于配置用于API分析的插件项目。</description>
+      <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API工具安装向导"/>
+      <topic href="tasks/api_tooling_setup.htm" label="设置API工具"/>
+      <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API工具安装命令"/>
+      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="定义API限制"/>
    </context>
    <context id="apitools_error_warning_preference_page" title="API Errors/Warnings">
-      <description>This page allows you to configure default workspace settings for problem severities related to API compatibility and use. You can also create project specific settings via project properties.</description>
-      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="Defining API Restrictions"/>
-      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API Error and Warning Preferences"/>
-      <topic href="http://wiki.eclipse.org/Execution_Environments" label="Execution Environments"/>
-      <topic href="tasks/api_tooling_options.htm" label="Changing API Options"/>
+      <description>此页面允许您为与API兼容性和使用相关的问题严重性配置默认工作区设置。您还可以通过项目属性创建项目特定设置。</description>
+      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="定义API限制"/>
+      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API错误和警告首选项"/>
+      <topic href="http://wiki.eclipse.org/Execution_Environments" label="执行环境"/>
+      <topic href="tasks/api_tooling_options.htm" label="更改API选项"/>
    </context>
    <context id="apitools_error_warning_explain_incompatibility_field_addition_class" title="'Field Addition to Class' Incompatibility">
-      <description>Adding an API field to an API class is considered a breaking change for two reasons:
-1) Potential name clash
-2) Potential linkage error
-However, field additions can be acceptable with proper precautions.
-See the "'Add API field' incompatibility" link below for details.</description>
-      <topic href="https://wiki.eclipse.org/Evolving_Java-based_APIs_2#add-api-field" label="'Add API field' incompatibility"/>
+      <description>将API字段添加到API类被认为是一个重大变化，原因有两个：
+1）潜在的名字冲突
+2）潜在的连锁错误
+但是，通过适当的预防措施可以接受现场添加。
+有关详细信息，请参阅下面的“'添加API字段'不兼容性”链接。</description>
+      <topic href="https://wiki.eclipse.org/Evolving_Java-based_APIs_2#add-api-field" label="“添加API字段”不兼容"/>
    </context>
    <context id="apitools_error_warning_prop_page" title="API Errors/Warnings">
-      <description>This page allows you to configure project specific settings for problem severities related to API compatibility and use.</description>
-      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API Error and Warning Preferences"/>
-      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="Defining API Restrictions"/>
-      <topic href="tasks/api_tooling_options.htm" label="Changing API Options"/>
+      <description>此页面允许您为与API兼容性和使用相关的问题严重性配置项目特定设置。</description>
+      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API错误和警告首选项"/>
+      <topic href="reference/api-tooling/api_javadoc_tags.htm" label="定义API限制"/>
+      <topic href="tasks/api_tooling_options.htm" label="更改API选项"/>
    </context>
    <context id="project_specific_settings_selection_dialog" title="Project Specific Configuration">
-      <description>This dialog allows you to select a project to create project specific API problem severity settings.</description>
-      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API Error and Warning Preferences"/>
-      <topic href="tasks/api_tooling_options.htm" label="Changing API Options"/>
+      <description>此对话框允许您选择项目以创建项目特定的API问题严重性设置。</description>
+      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API错误和警告首选项"/>
+      <topic href="tasks/api_tooling_options.htm" label="更改API选项"/>
    </context>
    <context id="apitools_filters_property_page" title="API Problem Filters">
-      <description>This page displays API problems for a project that have been filtered from the workspace. The filters are created with quick fixes, and can be removed from this page.</description>
-      <topic href="reference/api-tooling/propertypages/ref-filters-prop.htm" label="API Problem Filters Property Page"/>
-      <topic href="tasks/api_tooling_create_filters.htm" label="Adding API Problem Filters"/>
-      <topic href="tasks/api_tooling_remove_filters.htm" label="Removing API Problem Filters"/>
-      <topic href="reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm" label="API Problem Filter Quick Fix"/>
+      <description>此页面显示已从工作区过滤的项目的API问题。过滤器是使用快速修复创建的，可以从此页面中删除。</description>
+      <topic href="reference/api-tooling/propertypages/ref-filters-prop.htm" label="API问题过滤器属性页面"/>
+      <topic href="tasks/api_tooling_create_filters.htm" label="添加API问题过滤器"/>
+      <topic href="tasks/api_tooling_remove_filters.htm" label="删除API问题过滤器"/>
+      <topic href="reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm" label="API问题过滤器快速修复"/>
    </context>
    <context id="apiprofiles_wizard_page" title="API Baseline">
-      <description>This wizard is used to create or edit an API baseline. You must assign a name and location to each baseline. The location is a file system directory containing the baseline&apos;s plug-ins.</description>
-      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard"/>
-      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API Baseline Preferences"/>
-      <topic href="tasks/api_tooling_baseline.htm" label="Adding API Baselines"/>
-      <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="Missing API Baseline Quick Fix"/>
+      <description>该向导用于创建或编辑API基准。您必须为每个基线指定名称和位置。该位置是包含基线插件的文件系统目录。</description>
+      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导"/>
+      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API基准首选项"/>
+      <topic href="tasks/api_tooling_baseline.htm" label="添加API基准"/>
+      <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="缺少API基线快速修复"/>
    </context>
    <context id="apiusescans_preference_page" title="API Use Scans">
-      <description>This page allows you to manage a list of API use scans generated by the Ant task or the API use report tool.  API use scans contain a list of references between bundles.  The API analysis builder will check each of the enabled use scans to ensure all known references still exist in your workspace projects.</description>
-      <topic href="reference/api-tooling/preferences/ref-usescans.htm" label="API Use Scans Preferences"/>
-      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API Error and Warning Preferences"/>
-      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API Use Ant Task"/>
-      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API Use Reports"/>
+      <description>此页面允许您管理Ant任务或API使用报告工具生成的API使用扫描列表。 API使用扫描包含bundle之间的引用列表。 API分析构建器将检查每个已启用的用户扫描，以确保工作区项目中仍存在所有已知引用。</description>
+      <topic href="reference/api-tooling/preferences/ref-usescans.htm" label="API使用扫描首选项"/>
+      <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API错误和警告首选项"/>
+      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API使用Ant任务"/>
+      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API使用报告"/>
    </context>
    <context id="api_tooling_setup_action" title="API Tools Setup">
-      <description>This action is used to open the API Tools Setup wizard. The wizard allows you to configure API analysis for plug-in projects.</description>
-      <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API Tools Setup Command"/>
-      <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API Tools Setup Wizard"/>
-      <topic href="tasks/api_tooling_setup.htm" label="Setting Up API Tools"/>
+      <description>此操作用于打开API Tools安装向导。该向导允许您为插件项目配置API分析。</description>
+      <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API工具安装命令"/>
+      <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API工具安装向导"/>
+      <topic href="tasks/api_tooling_setup.htm" label="设置API工具"/>
    </context>
    <context id="api_compare_wizard_page" title="API Compare">
-      <description>This wizard is used to compare a selected set of projects/source folders/package fragments/units against a selected API baseline.</description>
-      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API Baseline Preferences"/>
-      <topic href="tasks/api_tooling_baseline.htm" label="Adding API Baselines"/>
-      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard"/>
-      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API Compare Wizard"/>
+      <description>此向导用于将选定的一组项目/源文件夹/包片段/单元与选定的API基准进行比较。</description>
+      <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API基准首选项"/>
+      <topic href="tasks/api_tooling_baseline.htm" label="添加API基准"/>
+      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导"/>
+      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API比较向导"/>
    </context>
    <context id="api_tooling_view">
-      <description>This view is used to see the result of a comparison between a selected set of projects/source folders/package fragments/units and a selected API baseline.</description>
-      <topic href="reference/api-tooling/views/ref-api-tooling-view.htm" label="API Tools View"/>
-      <topic href="tasks/api_tooling_baseline.htm" label="Adding API Baselines"/>
-      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard"/>
-      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API Compare Wizard"/>
+      <description>此视图用于查看所选项目/源文件夹/包片段/单元集与所选API基准之间的比较结果。</description>
+      <topic href="reference/api-tooling/views/ref-api-tooling-view.htm" label="API工具视图"/>
+      <topic href="tasks/api_tooling_baseline.htm" label="添加API基准"/>
+      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导"/>
+      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API比较向导"/>
    </context>
    <context id="api_compare_export_dialog">
-      <description>This dialog is used to export the result of an API comparison. Specify an ".xml" extension to generate an XML file, or an ".html" extension to generate an HTML report.</description>
-      <topic href="reference/api-tooling/views/ref-api-tooling-view.htm" label="API Tools View"/>
-      <topic href="tasks/api_tooling_baseline.htm" label="Adding API Baselines"/>
-      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard"/>
-      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API Compare Wizard"/>
+      <description>此对话框用于导出API比较的结果。指定“.xml”扩展名以生成XML文件，或指定“.html”扩展名以生成HTML报告。</description>
+      <topic href="reference/api-tooling/views/ref-api-tooling-view.htm" label="API工具视图"/>
+      <topic href="tasks/api_tooling_baseline.htm" label="添加API基准"/>
+      <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导"/>
+      <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API比较向导"/>
    </context>
    <context id="api_use_pattern_tab" title="API Use Pattern Tab">
-      <description>This tab allows you to set package name patterns to use during a use scan for augmenting API descriptions.</description>
-      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API Use Reports"/>
-      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API Use Ant Task"/>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Patterns Wizard"/>
+      <description>此选项卡允许您设置在使用扫描期间使用的包名称模式，以扩充API描述。</description>
+      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API使用报告"/>
+      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API使用Ant任务"/>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
    <context id="api_use_main_tab" title="API Use Main Tab">
-      <description>This tab allows you to configure all of the settings to generate an API use report.</description>
-      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API Use Reports"/>
-      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API Use Ant Task"/>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Patterns Wizard"/>
+      <description>此选项卡允许您配置所有设置以生成API使用报告。</description>
+      <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API使用报告"/>
+      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API使用Ant任务"/>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
    <context id="apitools_archive_pattern_wizard_page" title="API Use Archive Pattern Page">
-      <description>This page allows you to add a use pattern for excluding nested archives from within a given bundle</description>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Pattern Wizard"/>
+      <description>此页面允许您添加用于从给定包中排除嵌套存档的使用模式</description>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
    <context id="apitools_pattern_selection_wizard_page" title="API Use Pattern Selection Page">
-      <description>This page allows you to select the type of use pattern to create</description>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Pattern Wizard"/>
+      <description>此页面允许您选择要创建的使用模式的类型</description>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
    <context id="apitools_description_pattern_wizard_page" title="API Use Pattern Package Description Page">
-      <description>This page allows you to create a use pattern that is used to specify what is internal / API for the given package pattern</description>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Pattern Wizard"/>
+      <description>此页面允许您创建用于指定给定包模式的内部/ API的用法模式</description>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
    <context id="apitools_report_pattern_wizard_page">
-      <description>This page allows you to create a name pattern that can be used to prune references to or from a member from the HTML of a converted use report</description>
-      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Pattern Wizard"/>
+      <description>此页面允许您创建一个名称模式，该模式可用于从转换后的使用报告的HTML中修剪对成员的引用或从成员中删除引用</description>
+      <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导"/>
    </context>
       <context id="launcher_api_use_report" title="API Use Report">
-      <description>The API Use Report launch configuration runs a use scan reporting API references, internal references, and illegal API use.</description>
-      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API Use Scan Report Task"/>
-      <topic href="reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task.htm" label="API Use Scan Report Conversion Task"/>
+      <description>API使用报告启动配置运行使用扫描报告API引用，内部引用和非法API使用。</description>
+      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API使用扫描报告任务"/>
+      <topic href="reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task.htm" label="API使用扫描报告转换任务"/>
    </context>
 </contexts>

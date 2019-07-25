@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <toc label="VIATRA" topic="html/viatra.html">
-   <topic href="html/tutorial.html" label="Getting Started with VIATRA">
-       <topic href="html/tutorial.html#_using_the_query_development_environment" label="Getting started with Query Development">
+   <topic href="html/tutorial.html" label="VIATRA入门">
+       <topic href="html/tutorial.html#_using_the_query_development_environment" label="开始使用Query Development">
        </topic>
-       <topic href="html/tutorial.html#_using_queries_programmatically" label="Using the Runtime API of VIATRA Query">
+       <topic href="html/tutorial.html#_using_queries_programmatically" label="使用VIATRA Query的Runtime API">
        </topic>
-       <topic href="html/tutorial.html#_batch_transformations" label="Getting Started with Batch Transformation Development">
+       <topic href="html/tutorial.html#_batch_transformations" label="批量转换开发入门">
        </topic>
-       <topic href="html/tutorial.html#_event_driven_transformations" label="Getting Started with Event-driven Transformation">
+       <topic href="html/tutorial.html#_event_driven_transformations" label="事件驱动的转换入门">
        </topic>
-       <topic href="html/tutorial.html#_debugging_model_transformations" label="Debugging Model Transformation">
+       <topic href="html/tutorial.html#_debugging_model_transformations" label="调试模型转换">
        </topic>
    </topic>
-   <topic label="Reference Documentation">
-       <topic href="html/query-language.html" label="The VIATRA Query Language">
-          <topic href="html/query-language.html#vql-basics" label="Basic Concepts and Syntax">
+   <topic label="参考文档">
+       <topic href="html/query-language.html" label="VIATRA查询语言">
+          <topic href="html/query-language.html#vql-basics" label="基本概念和语法">
           </topic>
-          <topic href="html/query-language.html#recursion" label="Recursion Support">
+          <topic href="html/query-language.html#recursion" label="递归支持">
           </topic>
-          <topic href="html/query-language.html#functional-dependencies" label="Functional Dependencies">
+          <topic href="html/query-language.html#functional-dependencies" label="功能依赖">
           </topic>
-          <topic href="html/query-language.html#extensibility" label="Extensibility">
-          </topic>
-       </topic>
-       <topic href="html/query-api.html" label="The VIATRA Query Runtime">
-          <topic href="html/query-api.html#_most_important_classes_and_their_relationships" label="Matches and Matchers">
-          </topic>
-          <topic href="html/query-api.html#_lifecycle_management" label="Lifecycle Management">
-          </topic>
-          <topic href="html/query-api.html#_typical_programming_patterns" label="Programming Patterns">
-          </topic>
-          <topic href="html/query-api.html#_the_viatra_query_generic_api" label="The Generic Query API">
-          </topic>
-          <topic href="html/query-api.html#_viatra_query_base" label="The Base Indexer">
-          </topic>
-          <topic href="html/query-api.html#sec-query-scopes" label="Query Scopes">
-          </topic>
-          <topic href="html/query-api.html#_pattern_matching_with_local_search" label="Local Search">
-          </topic>
-          <topic href="html/query-api.html#sec-query-hints" label="Query Evaluation Hints">
-          </topic>
-          <topic href="html/query-api.html#_query_specification_registry" label="The Query Specification Registry">
-          </topic>
-          <topic href="html/query-api.html#_performance_tuning_and_special_engine_modes" label="Performance tuning and special engine modes">
-          </topic>
-          <topic href="html/query-api.html#_logging_in_viatra_query" label="Configure Logging">
+          <topic href="html/query-language.html#extensibility" label="可扩展性">
           </topic>
        </topic>
-       <topic href="html/transformations.html" label="Developing Model Transformations">
-          <topic href="html/transformations.html#batch-transformations" label="Batch Model Transformations">
+       <topic href="html/query-api.html" label="VIATRA查询运行时">
+          <topic href="html/query-api.html#_most_important_classes_and_their_relationships" label="比赛和匹配">
           </topic>
-          <topic href="html/transformations.html#event-driven-transformations" label="Event-Driven Model Transformations">
+          <topic href="html/query-api.html#_lifecycle_management" label="生命周期管理">
           </topic>
-          <topic href="html/transformations.html#model-manipulation" label="Model Manipulation Primitives">
+          <topic href="html/query-api.html#_typical_programming_patterns" label="编程模式">
           </topic>
-          <topic href="html/transformations.html#transformation-debugger" label="Debugging Model Transformations">
+          <topic href="html/query-api.html#_the_viatra_query_generic_api" label="通用查询API">
           </topic>
-          <topic href="html/evm.html" label="The Event-Driven Virtual Machine">
+          <topic href="html/query-api.html#_viatra_query_base" label="基本索引器">
+          </topic>
+          <topic href="html/query-api.html#sec-query-scopes" label="查询范围">
+          </topic>
+          <topic href="html/query-api.html#_pattern_matching_with_local_search" label="本地搜索">
+          </topic>
+          <topic href="html/query-api.html#sec-query-hints" label="查询评估提示">
+          </topic>
+          <topic href="html/query-api.html#_query_specification_registry" label="查询规范注册表">
+          </topic>
+          <topic href="html/query-api.html#_performance_tuning_and_special_engine_modes" label="性能调整和特殊引擎模式">
+          </topic>
+          <topic href="html/query-api.html#_logging_in_viatra_query" label="配置日志记录">
           </topic>
        </topic>
-       <topic href="html/tools.html" label="Development Tools">
-           <topic href="html/tools/preferences.html" label="Preferences">
+       <topic href="html/transformations.html" label="开发模型转换">
+          <topic href="html/transformations.html#batch-transformations" label="批量模型转换">
+          </topic>
+          <topic href="html/transformations.html#event-driven-transformations" label="事件驱动的模型转换">
+          </topic>
+          <topic href="html/transformations.html#model-manipulation" label="模型操纵基元">
+          </topic>
+          <topic href="html/transformations.html#transformation-debugger" label="调试模型转换">
+          </topic>
+          <topic href="html/evm.html" label="事件驱动的虚拟机">
+          </topic>
+       </topic>
+       <topic href="html/tools.html" label="开发工具">
+           <topic href="html/tools/preferences.html" label="喜好">
            </topic>
            <topic href="html/tools.html#rete-visualizer" label="Rete Visualizer">
            </topic>
-           <topic href="html/tools.html#local-search-debugger" label="Local Search Debugger">
+           <topic href="html/tools.html#local-search-debugger" label="本地搜索调试器">
            </topic>
-           <topic href="html/tools.html#query-tests" label="Functional Testing of Model Queries">
+           <topic href="html/tools.html#query-tests" label="模型查询的功能测试">
            </topic>
-           <topic href="html/tools.html#viatra-maven-plugin" label="Using VIATRA Query in Maven Projects">
+           <topic href="html/tools.html#viatra-maven-plugin" label="在Maven项目中使用VIATRA查询">
            </topic>
        </topic>
-       <topic href="html/addons.html" label="Addons and Integrations">
-           <topic href="html/addons.html#viatra-validation" label="VIATRA Validation Framework">
+       <topic href="html/addons.html" label="插件和集成">
+           <topic href="html/addons.html#viatra-validation" label="VIATRA验证框架">
            </topic>
-           <topic href="html/addons.html#viatra-qbf" label="Query Based Features">
+           <topic href="html/addons.html#viatra-qbf" label="基于查询的功能">
            </topic>
-           <topic href="html/addons.html#surrogate-queries" label="Surrogate Queries">
+           <topic href="html/addons.html#surrogate-queries" label="代理查询">
            </topic>
-           <topic href="html/addons.html#databinding" label="JFace Data Binding Support">
+           <topic href="html/addons.html#databinding" label="JFace数据绑定支持">
            </topic>
-           <topic href="html/addons.html#viewers" label="VIATRA Viewers">
+           <topic href="html/addons.html#viewers" label="VIATRA观众">
            </topic>
        </topic>
    </topic>
-   <topic href="html/releases.html" label="Release Information">
+   <topic href="html/releases.html" label="发布信息">
       <topic href="html/releases.html#viatra-20" label="VIATRA 2.0">
       </topic>
       <topic href="html/releases.html#viatra-17" label="VIATRA 1.7">
@@ -100,42 +100,42 @@
       <topic href="html/releases.html#viatra-12" label="VIATRA 1.2">
       </topic>
    </topic>
-     <topic href="html/cps/Home.html" label="CPS Demonstrator">
-       <topic href="html/cps/Domains.html" label="Domain Models">
+     <topic href="html/cps/Home.html" label="CPS示威者">
+       <topic href="html/cps/Domains.html" label="领域模型">
        </topic>
-       <topic href="html/cps/CPS-to-Deployment-Transformation.html" label="CPS-to-Deployment Transformation Specification">
+       <topic href="html/cps/CPS-to-Deployment-Transformation.html" label="CPS到部署转换规范">
        </topic>
-       <topic href="html/cps/Alternative-transformation-methods.html" label="CPS-to-Deployment Transformation Alternatives">
-           <topic href="html/cps/Simple-and-optimized-Xtend-batch-M2M-transformation.html" label="Simple and Optimized Batch">
+       <topic href="html/cps/Alternative-transformation-methods.html" label="CPS到部署转型的替代方案">
+           <topic href="html/cps/Simple-and-optimized-Xtend-batch-M2M-transformation.html" label="简单和优化的批次">
            </topic>
-           <topic href="html/cps/Simple-Xtend-and-Query-M2M-transformation.html" label="Simple Xtend + Viatra Query">
+           <topic href="html/cps/Simple-Xtend-and-Query-M2M-transformation.html" label="简单的Xtend + Viatra查询">
            </topic>
-           <topic href="html/cps/VIATRA-transformation-API-based-batch-M2M-transformation.html" label="VIATRA Batch Transformation API">
+           <topic href="html/cps/VIATRA-transformation-API-based-batch-M2M-transformation.html" label="VIATRA批量转换API">
            </topic>
-           <topic href="html/cps/Query-result-traceability-M2M-transformation.html" label="Query Result Traceability">
+           <topic href="html/cps/Query-result-traceability-M2M-transformation.html" label="查询结果可跟踪性">
            </topic>
-           <topic href="html/cps/Partial-batch-M2M-transformation.html" label="Partial Batch">
+           <topic href="html/cps/Partial-batch-M2M-transformation.html" label="部分批次">
            </topic>
-           <topic href="html/cps/VIATRA-Transformation-API-based-QRT-MTM-Transformation.html" label="VIATRA Event-driven API with Query Result Traceability">
+           <topic href="html/cps/VIATRA-Transformation-API-based-QRT-MTM-Transformation.html" label="具有查询结果可跟踪性的VIATRA事件驱动API">
            </topic>
-           <topic href="html/cps/CPS-to-Deployment-Unit-Tests.html" label="Unit Tests">
-           </topic>
-       </topic>
-       <topic href="html/cps/Code-Generator-Distributed-realization-Xtend-templates.html" label="Code Generation">
-           <topic href="html/cps/Deployment-change-monitor.html" label="Change Monitor for Deployment">
+           <topic href="html/cps/CPS-to-Deployment-Unit-Tests.html" label="单元测试">
            </topic>
        </topic>
-       <topic href="html/cps/Model-Generator.html" label="CPS Model Generator">
-           <topic href="html/cps/Plan-Executor.html" label="Plan Executor">
+       <topic href="html/cps/Code-Generator-Distributed-realization-Xtend-templates.html" label="代码生成">
+           <topic href="html/cps/Deployment-change-monitor.html" label="更改部署监视器">
            </topic>
        </topic>
-       <topic href="html/cps/Live-Validation.html" label="Validation Example">
+       <topic href="html/cps/Model-Generator.html" label="CPS模型生成器">
+           <topic href="html/cps/Plan-Executor.html" label="计划执行人">
+           </topic>
        </topic>
-       <topic href="html/cps/Incremental-Viewers.html" label="Viewers Example">
+       <topic href="html/cps/Live-Validation.html" label="验证示例">
        </topic>
-       <topic href="html/cps/Generate-CPS-models.html" label="CPS Model Generator">
+       <topic href="html/cps/Incremental-Viewers.html" label="观众示例">
        </topic>
-       <topic href="html/cps/CPS-Application.html" label="CPS Application">
+       <topic href="html/cps/Generate-CPS-models.html" label="CPS模型生成器">
+       </topic>
+       <topic href="html/cps/CPS-Application.html" label="CPS申请">
        </topic>
    </topic>
    <anchor id="org.eclipse.viatra"/>

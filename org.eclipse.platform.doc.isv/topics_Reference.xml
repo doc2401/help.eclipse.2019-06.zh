@@ -3,9 +3,9 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the references                                              -->
 <!-- ============================================================================= -->
-<toc label="Reference">
+<toc label="参考">
 
-	<topic label="API Reference" href="reference/api/overview-summary.html">
+	<topic label="API参考" href="reference/api/overview-summary.html">
       <topic label="org.eclipse.ant.core" href="reference/api/org/eclipse/ant/core/package-summary.html"/>
       <topic label="org.eclipse.compare" href="reference/api/org/eclipse/compare/package-summary.html"/>
       <topic label="org.eclipse.compare.contentmergeviewer" href="reference/api/org/eclipse/compare/contentmergeviewer/package-summary.html"/>
@@ -209,7 +209,7 @@
       <topic label="org.eclipse.swt.opengl" href="reference/api/org/eclipse/swt/opengl/package-summary.html"/>
       <topic label="org.eclipse.swt.printing" href="reference/api/org/eclipse/swt/printing/package-summary.html"/>
       <topic label="org.eclipse.swt.program" href="reference/api/org/eclipse/swt/program/package-summary.html"/>
-      <topic label="org.eclipse.swt.widgets" href="reference/api/org/eclipse/swt/widgets/package-summary.html"/>
+      <topic label="是org.eclipse.swt.widgets" href="reference/api/org/eclipse/swt/widgets/package-summary.html"/>
       <topic label="org.eclipse.team.core" href="reference/api/org/eclipse/team/core/package-summary.html"/>
       <topic label="org.eclipse.team.core.diff" href="reference/api/org/eclipse/team/core/diff/package-summary.html"/>
       <topic label="org.eclipse.team.core.diff.provider" href="reference/api/org/eclipse/team/core/diff/provider/package-summary.html"/>
@@ -282,7 +282,7 @@
       <topic label="org.eclipse.ui.texteditor.rulers" href="reference/api/org/eclipse/ui/texteditor/rulers/package-summary.html"/>
       <topic label="org.eclipse.ui.texteditor.spelling" href="reference/api/org/eclipse/ui/texteditor/spelling/package-summary.html"/>
       <topic label="org.eclipse.ui.texteditor.templates" href="reference/api/org/eclipse/ui/texteditor/templates/package-summary.html"/>
-      <topic label="org.eclipse.ui.views" href="reference/api/org/eclipse/ui/views/package-summary.html"/>
+      <topic label="的org.eclipse.ui.views" href="reference/api/org/eclipse/ui/views/package-summary.html"/>
       <topic label="org.eclipse.ui.views.bookmarkexplorer" href="reference/api/org/eclipse/ui/views/bookmarkexplorer/package-summary.html"/>
       <topic label="org.eclipse.ui.views.contentoutline" href="reference/api/org/eclipse/ui/views/contentoutline/package-summary.html"/>
       <topic label="org.eclipse.ui.views.framelist" href="reference/api/org/eclipse/ui/views/framelist/package-summary.html"/>
@@ -297,7 +297,7 @@
       <topic label="org.eclipse.update.configurator" href="reference/api/org/eclipse/update/configurator/package-summary.html"/>
     </topic>
 
-	<topic label="Extension Points Reference" href="reference/extension-points/index.html">
+	<topic label="扩展点参考" href="reference/extension-points/index.html">
        <topic label="org.eclipse.ant.core.antProperties" href="reference/extension-points/org_eclipse_ant_core_antProperties.html"/>
        <topic label="org.eclipse.ant.core.antTasks" href="reference/extension-points/org_eclipse_ant_core_antTasks.html"/>
        <topic label="org.eclipse.ant.core.antTypes" href="reference/extension-points/org_eclipse_ant_core_antTypes.html"/>
@@ -325,7 +325,7 @@
        <topic label="org.eclipse.core.resources.teamHook" href="reference/extension-points/org_eclipse_core_resources_teamHook.html"/>
        <topic label="org.eclipse.core.resources.variableResolvers" href="reference/extension-points/org_eclipse_core_resources_variableResolvers.html"/>
        <topic label="org.eclipse.core.runtime.adapters" href="reference/extension-points/org_eclipse_core_runtime_adapters.html"/>
-       <topic label="org.eclipse.core.runtime.applications" href="reference/extension-points/org_eclipse_core_runtime_applications.html"/>
+       <topic label="了org.eclipse.core.runtime.applications" href="reference/extension-points/org_eclipse_core_runtime_applications.html"/>
        <topic label="org.eclipse.core.runtime.contentTypes" href="reference/extension-points/org_eclipse_core_runtime_contentTypes.html"/>
        <topic label="org.eclipse.core.runtime.preferences" href="reference/extension-points/org_eclipse_core_runtime_preferences.html"/>
        <topic label="org.eclipse.core.runtime.products" href="reference/extension-points/org_eclipse_core_runtime_products.html"/>
@@ -388,7 +388,7 @@
        <topic label="org.eclipse.help.criteriaProvider" href="reference/extension-points/org_eclipse_help_criteriaProvider.html"/>
        <topic label="org.eclipse.help.contexts" href="reference/extension-points/org_eclipse_help_contexts.html"/>
        <topic label="org.eclipse.help.index" href="reference/extension-points/org_eclipse_help_index.html"/>
-       <topic label="org.eclipse.help.toc" href="reference/extension-points/org_eclipse_help_toc.html"/>
+       <topic label="org.eclipse.help.toc将此" href="reference/extension-points/org_eclipse_help_toc.html"/>
        <topic label="org.eclipse.help.base.activitySupport" href="reference/extension-points/org_eclipse_help_base_activitySupport.html"/>
        <topic label="org.eclipse.help.base.browser" href="reference/extension-points/org_eclipse_help_base_browser.html"/>
        <topic label="org.eclipse.help.base.display" href="reference/extension-points/org_eclipse_help_base_display.html"/>
@@ -452,7 +452,7 @@
        <topic label="org.eclipse.ui.decorators" href="reference/extension-points/org_eclipse_ui_decorators.html"/>
        <topic label="org.eclipse.ui.dropActions" href="reference/extension-points/org_eclipse_ui_dropActions.html"/>
        <topic label="org.eclipse.ui.editorActions" href="reference/extension-points/org_eclipse_ui_editorActions.html"/>
-       <topic label="org.eclipse.ui.editors" href="reference/extension-points/org_eclipse_ui_editors.html"/>
+       <topic label="org.Eclipse.ui.editors的" href="reference/extension-points/org_eclipse_ui_editors.html"/>
        <topic label="org.eclipse.ui.editors.annotationTypes" href="reference/extension-points/org_eclipse_ui_editors_annotationTypes.html"/>
        <topic label="org.eclipse.ui.editors.documentProviders" href="reference/extension-points/org_eclipse_ui_editors_documentProviders.html"/>
        <topic label="org.eclipse.ui.editors.markerAnnotationSpecification" href="reference/extension-points/org_eclipse_ui_editors_markerAnnotationSpecification.html"/>
@@ -508,8 +508,8 @@
        <topic label="org.eclipse.ui.statusHandlers" href="reference/extension-points/org_eclipse_ui_statusHandlers.html"/>
        <topic label="org.eclipse.ui.systemSummarySections" href="reference/extension-points/org_eclipse_ui_systemSummarySections.html"/>
        <topic label="org.eclipse.ui.themes" href="reference/extension-points/org_eclipse_ui_themes.html"/>
-       <topic label="org.eclipse.ui.viewActions" href="reference/extension-points/org_eclipse_ui_viewActions.html"/>
-       <topic label="org.eclipse.ui.views" href="reference/extension-points/org_eclipse_ui_views.html"/>
+       <topic label="的org.eclipse.ui.viewActions" href="reference/extension-points/org_eclipse_ui_viewActions.html"/>
+       <topic label="的org.eclipse.ui.views" href="reference/extension-points/org_eclipse_ui_views.html"/>
        <topic label="org.eclipse.ui.views.properties.tabbed.propertyContributor" href="reference/extension-points/org_eclipse_ui_views_properties_tabbed_propertyContributor.html"/>
        <topic label="org.eclipse.ui.views.properties.tabbed.propertySections" href="reference/extension-points/org_eclipse_ui_views_properties_tabbed_propertySections.html"/>
        <topic label="org.eclipse.ui.views.properties.tabbed.propertyTabs" href="reference/extension-points/org_eclipse_ui_views_properties_tabbed_propertyTabs.html"/>
@@ -521,32 +521,32 @@
        <topic label="org.eclipse.ui.workingSets" href="reference/extension-points/org_eclipse_ui_workingSets.html"/>
     </topic>
 
-	<topic label="OSGi R7 Core API Reference" href="https://osgi.org/javadoc/osgi.core/7.0.0/"/>
-	<topic label="OSGi R7 Compendium API Reference" href="https://osgi.org/javadoc/osgi.cmpn/7.0.0/"/>
-	<topic label="OSGi R7 Enterprise API Reference" href="https://osgi.org/javadoc/osgi.enterprise/7.0.0/"/>
+	<topic label="OSGi R7核心API参考" href="https://osgi.org/javadoc/osgi.core/7.0.0/"/>
+	<topic label="OSGi R7 Compendium API参考" href="https://osgi.org/javadoc/osgi.cmpn/7.0.0/"/>
+	<topic label="OSGi R7 Enterprise API参考" href="https://osgi.org/javadoc/osgi.enterprise/7.0.0/"/>
 
-	<topic label="Other reference information" href="reference/misc/index.html">
-      	<topic label="Runtime options" href="reference/misc/runtime-options.html"/>
+	<topic label="其他参考信息" href="reference/misc/index.html">
+      	<topic label="运行时选项" href="reference/misc/runtime-options.html"/>
       	<topic label="Eclipse Launcher" href="reference/misc/launcher.html"/>
-      	<topic label="API rules of engagement" href="reference/misc/api-usage-rules.html"/>
-      	<topic label="Naming conventions" href="reference/misc/naming.html"/>
-      	<topic label="Glossary of terms" href="reference/misc/terminology.html"/>
-      	<topic label="Map of platform plug-ins" href="reference/misc/overview-platform.html"/>
-      	<topic label="Starting Eclipse from Java" href="reference/misc/eclipsestarter.html"/>
-      	<topic label="Multi-user installs" href="reference/misc/multi_user_installs.html"/>		
-       	<topic label="Third party libraries and classloading" href="reference/misc/buddy_loading.html"/>
-      	<topic label="Plug-in manifest " href="reference/misc/plugin_manifest.html"/>
-       	<topic label="OSGi bundle manifest" href="reference/misc/bundle_manifest.html"/>
-     	<topic label="Project description file" href="reference/misc/project_description_file.html"/>
-		<topic label="Message bundles" href="reference/misc/message_bundles.html"/>
-		<topic label="The &quot;platform&quot; URL protocol" href="reference/misc/platform-scheme-uri.html"/>
-      	<topic label="Tips for making user interfaces accessible" href="reference/misc/ui_accessibility_tips.html"/>
+      	<topic label="API参与规则" href="reference/misc/api-usage-rules.html"/>
+      	<topic label="命名约定" href="reference/misc/naming.html"/>
+      	<topic label="专业术语" href="reference/misc/terminology.html"/>
+      	<topic label="平台插件的地图" href="reference/misc/overview-platform.html"/>
+      	<topic label="从Java启动Eclipse" href="reference/misc/eclipsestarter.html"/>
+      	<topic label="多用户安装" href="reference/misc/multi_user_installs.html"/>		
+       	<topic label="第三方库和类加载" href="reference/misc/buddy_loading.html"/>
+      	<topic label="插件清单" href="reference/misc/plugin_manifest.html"/>
+       	<topic label="OSGi捆绑清单" href="reference/misc/bundle_manifest.html"/>
+     	<topic label="项目描述文件" href="reference/misc/project_description_file.html"/>
+		<topic label="消息包" href="reference/misc/message_bundles.html"/>
+		<topic label="“平台” URL协议" href="reference/misc/platform-scheme-uri.html"/>
+      	<topic label="使用户界面可访问的提示" href="reference/misc/ui_accessibility_tips.html"/>
 		<topic label ="Supporting bidirectional text" href="reference/misc/bidi.html"/>
-       	<topic label="How to write an Eclipse installer" href="reference/misc/eclipse-install.html"/>
-       	<topic label="About.ini file format" href="reference/misc/about_customization.html"/>
-       	<topic label="Plug-in archives" href="reference/misc/plugin_archive.html"/>
-       	<topic label="Feature manifest" href="reference/misc/feature_manifest.html"/>
-       	<topic label="Feature archives" href="reference/misc/feature_archive.html"/>
-        <topic label="The dropins folder and supported file layouts" href="reference/misc/p2_dropins_format.html"/>
+       	<topic label="如何编写Eclipse安装程序" href="reference/misc/eclipse-install.html"/>
+       	<topic label="About.ini文件格式" href="reference/misc/about_customization.html"/>
+       	<topic label="插件档案" href="reference/misc/plugin_archive.html"/>
+       	<topic label="功能清单" href="reference/misc/feature_manifest.html"/>
+       	<topic label="功能档案" href="reference/misc/feature_archive.html"/>
+        <topic label="dropins文件夹和支持的文件布局" href="reference/misc/p2_dropins_format.html"/>
    	</topic>
 </toc>

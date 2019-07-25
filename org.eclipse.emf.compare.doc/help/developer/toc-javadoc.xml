@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?NLS TYPE="org.eclipse.help.toc"?><toc label="API Reference">
-<topic href="help/developer/javadoc/overview-summary.html" label="API Reference">
-<topic label="Packages">
+<?NLS TYPE="org.eclipse.help.toc"?><toc label="API参考">
+<topic href="help/developer/javadoc/overview-summary.html" label="API参考">
+<topic label="包">
 <topic href="help/developer/javadoc/org/eclipse/emf/compare/package-summary.html" label="org.eclipse.emf.compare"/>
 <topic href="help/developer/javadoc/org/eclipse/emf/compare/adapterfactory/context/package-summary.html" label="org.eclipse.emf.compare.adapterfactory.context"/>
 <topic href="help/developer/javadoc/org/eclipse/emf/compare/command/package-summary.html" label="org.eclipse.emf.compare.command"/>
@@ -126,7 +126,7 @@
 <topic href="help/developer/javadoc/org/eclipse/emf/compare/util/package-summary.html" label="org.eclipse.emf.compare.util"/>
 <topic href="help/developer/javadoc/org/eclipse/emf/compare/utils/package-summary.html" label="org.eclipse.emf.compare.utils"/>
 </topic>
-<topic href="help/developer/javadoc/constant-values.html" label="Constant Values"/>
-<topic href="help/developer/javadoc/deprecated-list.html" label="Deprecated List"/>
+<topic href="help/developer/javadoc/constant-values.html" label="常数值"/>
+<topic href="help/developer/javadoc/deprecated-list.html" label="弃用清单"/>
 </topic>
 </toc>

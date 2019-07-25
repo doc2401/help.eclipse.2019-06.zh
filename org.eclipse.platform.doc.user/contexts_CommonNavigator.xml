@@ -8,12 +8,12 @@
   <!-- ===================== -->
 
     <context id="common_navigator">
-        <description>The Project Explorer provides a hierarchical view of the artifacts in the Workbench.</description>
+        <description>Project Explorer提供了Workbench中工件的分层视图。</description>
         <topic label="Project Explorer" href="concepts/cnav.htm"/>
-        <topic label="Views" href="concepts/concepts-5.htm"/>
+        <topic label="查看" href="concepts/concepts-5.htm"/>
     </context>
     <context id="link_editor_action">
-        <description>This command links the view with an editor.</description>
+        <description>此命令将视图与编辑器链接。</description>
         <topic label="Project Explorer" href="concepts/cnav.htm"/>
     </context>
 

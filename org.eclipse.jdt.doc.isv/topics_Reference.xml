@@ -3,8 +3,8 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the references                                              -->
 <!-- ============================================================================= -->
-<toc label="Reference">
-	<topic label="API Reference" href="reference/api/overview-summary.html">
+<toc label="参考">
+	<topic label="API参考" href="reference/api/overview-summary.html">
 	   <topic label="org.eclipse.ant.launching" href="reference/api/org/eclipse/ant/launching/package-summary.html"/>
 	   <topic label="org.eclipse.ant.ui.launching" href="reference/api/org/eclipse/ant/ui/launching/package-summary.html"/>
        <topic label="org.eclipse.jdt.apt.core.build" href="reference/api/org/eclipse/jdt/apt/core/build/package-summary.html"/>
@@ -62,7 +62,7 @@
        <topic label="org.eclipse.jdt.junit.wizards" href="reference/api/org/eclipse/jdt/junit/wizards/package-summary.html"/>
 	</topic>
 
-	<topic label="Extension Points Reference" href="reference/extension-points/index.html">
+	<topic label="扩展点参考" href="reference/extension-points/index.html">
 	     <topic label="org.eclipse.jdt.apt.core.annotationProcessorFactory" href="reference/extension-points/org_eclipse_jdt_apt_core_annotationProcessorFactory.html"/>
          <topic label="org.eclipse.jdt.core.annotationProcessorManager" href="reference/extension-points/org_eclipse_jdt_core_annotationProcessorManager.html"/>
          <topic label="org.eclipse.jdt.core.classpathContainerInitializer" href="reference/extension-points/org_eclipse_jdt_core_classpathContainerInitializer.html"/>
@@ -100,7 +100,7 @@
          <topic label="org.eclipse.jdt.ui.quickAssistProcessors" href="reference/extension-points/org_eclipse_jdt_ui_quickAssistProcessors.html"/>
          <topic label="org.eclipse.jdt.ui.quickFixProcessors" href="reference/extension-points/org_eclipse_jdt_ui_quickFixProcessors.html"/>
 	</topic>
-	<topic label="Other Reference Information" href="reference/misc/index.html">
-      	<topic label="JDT Plug-ins Map" href="reference/misc/overview-jdt.html"/>
+	<topic label="其他参考信息" href="reference/misc/index.html">
+      	<topic label="JDT插件映射" href="reference/misc/overview-jdt.html"/>
 	</topic>
 </toc>

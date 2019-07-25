@@ -15,7 +15,7 @@
 <!-- ============================================================================= -->
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
-<toc label="Web Tools Platform reference information">
+<toc label="Web Tools Platform参考信息">
    <anchor id="command_reference"/>
    <anchor id="UI_reference"/>
    <anchor id="javadoc_common"/>

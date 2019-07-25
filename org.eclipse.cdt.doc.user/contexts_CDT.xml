@@ -10,331 +10,331 @@
 <context id ="projects_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_cproj_view.htm"
-   	label="C/C++ Projects view"/>
+   	label="C / C ++项目视图"/>
 </context>
 <context id ="navigator_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_navigator_view.htm"
-   	label="Navigator view"/>
+   	label="导航视图"/>
 </context>
 <context id ="outline_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_outline_view.htm"
-   	label="Outline view"/>
+   	label="大纲视图"/>
 </context>
 <context id ="make_targets_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_make_targets_view.htm"
-   	label="Make Targets view"/>
+   	label="制作目标视图"/>
 </context>
 <context id ="editor_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_editor_view.htm"
-   	label="Editor view"/>
+   	label="编辑观点"/>
 </context>
 <context id ="problems_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_problems_view.htm"
-   	label="Problems view (C/C++)"/>
+   	label="问题视图（C / C ++）"/>
 </context>
 <context id ="tasks_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_tasks_view.htm"
-   	label="Tasks view"/>
+   	label="任务视图"/>
 </context>
 <context id ="properties_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_properties_view.htm"
-   	label="Properties view"/>
+   	label="属性视图"/>
 </context>
 <context id ="search_view">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_search_view.htm"
-   	label="Search view"/>
+   	label="搜索视图"/>
 </context>
 <context id ="find_replace">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_find_replace.htm"
-   	label="C/C++ Find and Replace"/>
+   	label="C / C ++查找和替换"/>
 </context>
 <context id ="c_pref">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_pref.htm"
-   	label="C/C++ Preferences"/>
+   	label="C / C ++首选项"/>
 </context>
 <context id ="build_pref">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_build_pref.htm"
-   	label="Build Console"/>
+   	label="构建控制台"/>
 </context>
 <context id ="code_temp">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_code_temp.htm"
-   	label="C/C++ Editor Templates Preferences"/>
+   	label="C / C ++编辑器模板首选项"/>
 </context>
 <context id ="codeformatter_preference_page_context">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_code_style_pref.htm"
-   	label="C/C++ Code Style Preferences"/>
+   	label="C / C ++代码样式首选项"/>
 </context>
 <context id ="c_editor_gen">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_gen.htm"
-   	label="C/C++ Editor Advanced Preferences"/>
+   	label="C / C ++编辑器高级首选项"/>
 </context>
 <context id ="c_editor_color">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_color.htm"
-   	label="C/C++ Editor Syntax Coloring Preferences"/>
+   	label="C / C ++编辑器语法着色首选项"/>
 </context>
 <context id ="c_editor_con_assist">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_con_assist.htm"
-   	label="C/C++ Editor Content Assist Preferences"/>
+   	label="C / C ++编辑器内容辅助首选项"/>
 </context>
 <context id ="c_editor_hov">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_hov.htm"
-   	label="C/C++ Editor Hovers Preferences"/>
+   	label="C / C ++编辑器悬停首选项"/>
 </context>
 <context id ="save_actions_preference_page_context">
    <description>This page allows to configure editor save actions.</description>
    <topic href="reference/cdt_u_c_editor_save_actions.htm"
-   	label="C/C++ Editor Save Actions Preferences"/>
+   	label="C / C ++编辑器保存操作首选项"/>
 </context>
 <context id ="scalability_preference_page_context">
    <description>This page allows to configure editor scalability mode options. The scalability mode helps to deal with very large source files.</description>
    <topic href="reference/cdt_u_c_editor_scalability.htm"
-   	label="C/C++ Editor Scalability Preferences"/>
+   	label="C / C ++编辑器可伸缩性首选项"/>
 </context>
 <context id ="c_editor_typing">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_typing.htm"
-   	label="C/C++ Editor Typing Preferences"/>
+   	label="C / C ++编辑器键入首选项"/>
 </context>
 <context id ="c_editor_folding">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_editor_folding.htm"
-   	label="C/C++ Editor Folding Preferences"/>
+   	label="C / C ++编辑器折叠首选项"/>
 </context>
 <context id ="c_file_types">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_c_file_types.htm"
-   	label="File Types"/>
+   	label="文件类型"/>
 </context>
 <context id ="make_targets_pref">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_make_targets_pref.htm"
-   	label="Make Targets"/>
+   	label="制作目标"/>
 </context>
 <context id ="newproj_buildset">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_newproj_buildset.htm"
-   	label="Make Builder"/>
+   	label="制作生成器"/>
 </context>
 <context id ="newproj_parser_error">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_newproj_parser_error.htm"
-   	label="Error Parser"/>
+   	label="错误分析器"/>
 </context>
 <context id ="newproj_parser_binary">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_newproj_parser_binary.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="discovery_preferences">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_discovery_preferences.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>
 <context id ="cdt_u_pref_build_scanner_discovery">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_pref_build_scanner_discovery.htm"
-   	label="Scanner Discovery Preferences"/>
+   	label="扫描仪发现首选项"/>
 </context>
 <context id ="cdt_u_prop_general_sd_entries">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_sd_entries.htm"
-   	label="Scanner Discovery Entries Tab"/>
+   	label="扫描程序发现条目选项卡"/>
 </context>
 <context id ="cdt_u_prop_general_sd_providers">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_sd_providers.htm"
-   	label="Scanner Discovery Providers Tab"/>
+   	label="扫描仪发现提供程序选项卡"/>
 </context>
 <context id ="man_prop_indexer">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_idx.htm"
-   	label="Indexer"/>
+   	label="索引"/>
 </context>
 <context id ="std_prop_file_types">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_typ.htm"
-   	label="File Types"/>
+   	label="文件类型"/>
 </context>
 <context id ="std_prop_include">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_inc.htm"
-   	label="Include Paths and Symbols"/>
+   	label="包括路径和符号"/>
 </context>
 <context id ="std_prop_indexer">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_idx.htm"
-   	label="Indexer"/>
+   	label="索引"/>
 </context>
 <context id ="std_prop_build">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build.htm"
-   	label="Make Builder"/>
+   	label="制作生成器"/>
 </context>
 <context id ="std_prop_error">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"
-   	label="Error Parser"/>
+   	label="错误分析器"/>
 </context>
 <context id ="std_prop_binary">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_settings_binparser.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="std_prop_discovery">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_discovery.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>
 <context id ="std_prop_source">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_src.htm"
-   	label="Source"/>
+   	label="资源"/>
 </context>
 <context id ="std_prop_output">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_out.htm"
-   	label="Output"/>
+   	label="产量"/>
 </context>
 <context id ="std_prop_projects">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_exp.htm"
-   	label="Projects"/>
+   	label="项目"/>
 </context>
 <context id ="std_prop_libraries">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_lib.htm"
-   	label="Libraries"/>
+   	label="图书馆"/>
 </context>
 <context id ="std_prop_containers">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_sym.htm"
-   	label="Path Containers"/>
+   	label="路径容器"/>
 </context>
 <context id ="std_prop_references">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_pns_ref.htm"
-   	label="Project References"/>
+   	label="项目参考"/>
 </context>
 <context id ="new_proj_wiz">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_new_proj_wiz.htm"
-   	label="C/C++ New Project Wizard"/>
+   	label="C / C ++新项目向导"/>
 </context>
 <context id ="new_proj_wiz_m_name">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_new_proj_wiz_name.htm"
-   	label="Name"/>
+   	label="名称"/>
 </context>
 <context id ="new_proj_wiz_m_target">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_new_proj_wiz_type.htm"
-          label="Select a Project Type"/>
+          label="选择项目类型"/>
 </context>
 <context id ="new_proj_wiz_m_proj">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_ref.htm"
-   	label="Referenced Projects"/>
+   	label="参考项目"/>
 </context>
 <context id ="new_proj_wiz_m_errorp">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"
-   	label="Error Parsers"/>
+   	label="错误解析器"/>
 </context>
 <context id ="new_proj_wiz_m_cindexer">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_idx.htm"
-   	label="C/C++ Indexer"/>
+   	label="C / C ++索引器"/>
 </context>
 <context id ="new_proj_wiz_s_name">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_new_proj_wiz_name.htm"
-   	label="Name"/>
+   	label="名称"/>
 </context>
 <context id ="new_proj_wiz_s_proj">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_ref.htm"
-   	label="Referenced Projects"/>
+   	label="参考项目"/>
 </context>
 <context id ="new_proj_wiz_s_errorp">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"
-   	label="Error Parsers"/>
+   	label="错误解析器"/>
 </context>
 <context id ="new_proj_wiz_s_binary">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_build_settings_binparser.htm"
-   	label="Binary Parser"/>
+   	label="二进制解析器"/>
 </context>
 <context id ="new_proj_wiz_s_discovery">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_scanner_discovery.htm"
-   	label="Discovery Options"/>
+   	label="发现选项"/>
 </context>
 <context id ="new_proj_wiz_s_cindexer">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_prop_general_idx.htm"
-   	label="C/C++ Indexer"/>
+   	label="C / C ++索引器"/>
 </context>
 <context id ="run_dbg_main">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_run_dbg_main.htm"
-   	label="Main"/>
+   	label="主要"/>
 </context>
 <context id ="run_dbg_arg">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_run_dbg_arg.htm"
-   	label="Arguments"/>
+   	label="参数"/>
 </context>
 <context id ="run_dbg_env">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_run_dbg_env.htm"
-   	label="Environment"/>
+   	label="环境"/>
 </context>
 <context id ="run_dbg_dbg">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_run_dbg_dbg.htm"
-   	label="Debugger"/>
+   	label="调试器"/>
 </context>
 <context id ="run_dbg_srce">
    <description>Click below to see help.</description>
    <topic href="reference/cdt_u_run_dbg_srce.htm"
-   	label="Source"/>
+   	label="资源"/>
 </context>
 <context id ="run_dbg_comm">
    <description>Click below to see help.</description>
    <topic href="reference/run_dbg_comm"
-   	label="Common"/>
+   	label="共同"/>
 </context>
 <context id ="cdt_u_search">
    <description>Use the C/C++ Search to search for occurrences of C/C++ elements.</description>
    <topic href="reference/cdt_u_search.htm"
-   	label="C/C++ search page"/>
+   	label="C / C ++搜索页面"/>
 </context>
 <context id ="open_element_dialog_context">
    <description>This dialog allows to open up the declaration of C/C++ classes, structures, unions, typedefs, enumerations, namespaces, functions, methods, variables and macros.</description>
    <topic href="reference/cdt_u_open_element.htm"
-   	label="Open Element"/>
+   	label="打开元素"/>
 </context>
 <context id="code_templates_preference_context">
     <description>Specify the templates used for code generation and new files.</description>
-    <topic label="Code Templates Preferences" href="reference/cdt_u_c_code_templates_pref.htm"/>
+    <topic label="代码模板首选项" href="reference/cdt_u_c_code_templates_pref.htm"/>
 </context>
 <context id="toggle_mark_occurrences_action_context">
     <description>Allows you to switch mark occurrences on and off.</description>
@@ -345,190 +345,190 @@
 
 <context id="appearance_preference_page_context">
     <description>Customize the appearance of C/C++ elements in viewers.</description>
-    <topic label="Appearance Preferences" href="reference/cdt_u_appearance_pref.htm"/>
+    <topic label="外观偏好" href="reference/cdt_u_appearance_pref.htm"/>
 </context>
 
 <context id="cdt_u_prop_build">
    <description></description>
-   <topic href="reference/cdt_u_prop_build.htm" label="C/C++ Build"/> 
+   <topic href="reference/cdt_u_prop_build.htm" label="C / C ++ Build"/> 
 </context>                         
 <context id="cdt_u_prop_build_variables">
    <description></description>
-   <topic href="reference/cdt_u_prop_build_variables.htm" label="Build Variables"/> 
-   <topic href="tasks/cdt_t_add_build_var.htm" label="Adding and Editing Build Variables"/> 
+   <topic href="reference/cdt_u_prop_build_variables.htm" label="构建变量"/> 
+   <topic href="tasks/cdt_t_add_build_var.htm" label="添加和编辑构建变量"/> 
 </context>
 <context id="cdt_u_prop_build_discovery">
    <description></description>
-   <topic href="reference/cdt_u_prop_build_discovery.htm" label="Discovery Options"/> 
+   <topic href="reference/cdt_u_prop_build_discovery.htm" label="发现选项"/> 
 </context>               
 <context id="cdt_u_prop_build_environment">
    <description></description>
    <topic href="reference/cdt_u_prop_build_environment.htm"    	
-   label="Environment tab"/> 
+   label="环境标签"/> 
 </context>             
 <context id="cdt_u_prop_build_setting_tool">
    <description></description>
    <topic href="reference/cdt_u_prop_build_settings_tool.htm"    	
-   label="Tool Settings"/> 
+   label="工具设置"/> 
 </context>            
 <context id="cdt_u_prop_build_setting_steps">
    <description></description>
    <topic href="reference/cdt_u_prop_build_settings_steps.htm"    	
-   label="Build Steps"/> 
+   label="构建步骤"/> 
 </context>           
 <context id="cdt_u_prop_build_setting_artifact">
    <description></description>
    <topic href="reference/cdt_u_prop_build_settings_artifact.htm"    	
-   label="Build Artifact"/>
+   label="构建神器"/>
 </context>        
 <context id="cdt_u_prop_build_setting_binparser">
    <description></description>
    <topic href="reference/cdt_u_prop_build_settings_binparser.htm"    	
-   label="Binary Parsers"/> 
+   label="二进制解析器"/> 
 </context>       
 <context id="cdt_u_prop_build_setting_errparser">
    <description></description>
    <topic href="reference/cdt_u_prop_build_settings_errparser.htm"    	
-   label="Error Parsers"/> 
+   label="错误解析器"/> 
 </context>       
 <context id="cdt_u_prop_build_toolchain">
    <description></description>
    <topic href="reference/cdt_u_prop_build_toolchain.htm"    	
-   label="Tool Chain Editor"/> 
+   label="工具链编辑器"/> 
 </context>               
 <context id="cdt_u_prop_pns_inc">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_inc.htm"    	
-   label="Include paths"/> 
+   label="包含路径"/> 
 </context>                       
 <context id="cdt_u_prop_pns_sym">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_sym.htm"    	
-   label="Symbols"/> </context>                       
+   label="符号"/> </context>                       
 <context id="cdt_u_prop_pns_libpath">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_libpath.htm"    	
-   label="Library paths"/> 
+   label="图书馆路径"/> 
 </context>                   
 <context id="cdt_u_prop_pns_lib">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_lib.htm"    	
-   label="Libraries"/> 
+   label="图书馆"/> 
 </context>                       
 <context id="cdt_u_prop_pns_ref">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_ref.htm"    	
-   label="References"/> 
+   label="参考"/> 
 </context>                       
 <context id="cdt_u_prop_pns_src">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_src.htm"    	
-   label="Source Location"/> 
+   label="来源地点"/> 
 </context>                       
 <context id="cdt_u_prop_pns_out">
    <description></description>
    <topic href="reference/cdt_u_prop_general_pns_out.htm"    	
-   label="Output Locations"/> 
+   label="输出位置"/> 
 </context>                       
 <context id="cdt_u_prop_resource">
    <description></description>
    <topic href="reference/cdt_u_prop_resource.htm"    	
-   label="Resource"/> 
+   label="资源"/> 
 </context>                      
 <context id="cdt_u_prop_builders">
    <description></description>
    <topic href="reference/cdt_u_prop_builders.htm"    	
-   label="Builders"/> 
+   label="建设者"/> 
 </context>                      
 <context id="cdt_u_prop_general">
    <description></description>
    <topic href="reference/cdt_u_prop_general.htm"    	
-   label="Common"/> 
+   label="共同"/> 
 </context>                       
 <context id="cdt_u_prop_general_doc">
    <description></description>
    <topic href="reference/cdt_u_prop_general_doc.htm"    	
-   label="Documentation"/> 
+   label="文档"/> 
 </context>                   
 <context id="cdt_u_prop_general_typ">
    <description></description>
    <topic href="reference/cdt_u_prop_general_typ.htm"    	
-   label="File Types"/> 
+   label="文件类型"/> 
 </context>                   
 <context id="cdt_u_prop_general_idx">
    <description></description>
    <topic href="reference/cdt_u_prop_general_idx.htm"    	
-   label="Indexer"/> 
+   label="索引"/> 
 </context>                   
 <context id="cdt_u_prop_general_lng">
    <description></description>
    <topic href="reference/cdt_u_prop_general_lng.htm"    	
-   label="Language Mappings"/> 
+   label="语言映射"/> 
 </context>                   
 
 <context id="cdt_u_pref_multi_cfg">
    <description></description>
    <topic href="reference/cdt_u_pref_multi_cfg.htm"    	
-   label="Multi Configuration Edit tab"/> 
+   label="多配置编辑选项卡"/> 
 </context>                   
 <context id="cdt_u_pref_prop_pages">
    <description></description>
    <topic href="reference/cdt_u_pref_prop_pages.htm"    	
-   label="Property Pages Settins tab"/> 
+   label="属性页设置选项卡"/> 
 </context>
 <context id="tasktags_preference_page_context" title="Task Tags (C/C++)">
    <description>Create todo task tags.</description>
-   <topic href="reference/cdt_u_pref_task_tags.htm" label="Task Tags preference"/>
+   <topic href="reference/cdt_u_pref_task_tags.htm" label="任务标签首选项"/>
 </context>                   
 <context id="cdt_u_pref_wizard_defaults">
    <description></description>
    <topic href="reference/cdt_u_pref_wizard_defaults.htm"    	
-   label="CDT New Project Wizard Defaults tab"/> 
+   label="CDT新建项目向导默认选项卡"/> 
 </context>                   
 <context id="cdt_u_pref_wizard_toolchains">
    <description></description>
    <topic href="reference/cdt_u_pref_wizard_toolchains.htm"    	
-   label="Preferred Toolchains tab"/> 
+   label="首选工具链选项卡"/> 
 </context>                   
 
 <context id="type_hierarchy_view_context" title="About Type Hierarchy view">
     <description>This view displays a type&apos;s hierarchy.</description>
-    <topic label="Type Hierarchy view" href="reference/cdt_u_type_hierarchy_view.htm"/>
+    <topic label="键入层次结构视图" href="reference/cdt_u_type_hierarchy_view.htm"/>
 </context>
 <context id="call_hierarchy_view_context" title="About Call Hierarchy view">
     <description>The Call Hierarchy shows all callers or callees of the given function.</description>
-    <topic label="Call Hierarchy view" href="reference/cdt_u_call_hierarchy_view.htm"/>
+    <topic label="调用层次结构视图" href="reference/cdt_u_call_hierarchy_view.htm"/>
 </context>
 <context id="include_browser_view_context" title="About Include Browser view">
     <description>This view displays include file relationships.</description>
-    <topic label="Include Browser view" href="reference/cdt_u_include_browser_view.htm"/>
+    <topic label="包括浏览器视图" href="reference/cdt_u_include_browser_view.htm"/>
 </context>
 <context id="cdt_t_conv_proj_context" title="Converting a C or C++ nature for a project">
    <description>This wizard converts a project to a C/C++ project.</description>
-   <topic href="tasks/cdt_t_conv_proj.htm" label="Converting a C or C++ nature for a project"/>
+   <topic href="tasks/cdt_t_conv_proj.htm" label="转换项目的C或C ++性质"/>
 </context>
 <context id="cdt_creating_cpp_file_context" title="Creating your C++ file">
-   <topic href="getting_started/cdt_w_newcpp.htm" label="Creating your C++ file"/>
+   <topic href="getting_started/cdt_w_newcpp.htm" label="创建C ++文件"/>
 </context>
 <context id="project_explorer_context" title="Project Explorer">
    <description>The Project Explorer displays project information.</description>
-   <topic href="reference/cdt_u_project_explorer_view.htm" label="Project Explorer view"/>
+   <topic href="reference/cdt_u_project_explorer_view.htm" label="Project Explorer视图"/>
 </context>
 <context id="content_outline_context" title="Outline">
-   <topic href="reference/cdt_u_outline_view.htm" label="Outline view"/>
+   <topic href="reference/cdt_u_outline_view.htm" label="大纲视图"/>
 </context>
 
 <context id="indexer_preference_page" title="Indexer">
    <description>Configure the C/C++ Indexer.</description>
-   <topic href="reference/cdt_u_indexer_preference.html" label="C/C++ Indexer preferences"/>
+   <topic href="reference/cdt_u_indexer_preference.html" label="C / C ++ Indexer首选项"/>
 </context>
 <context id="language_mapping_preference_page" title="Language Mappings">
    <description>Customize the use of C/C++ language associations for the workspace.</description>
-   <topic href="reference/cdt_u_language_mapping_pref.htm" label="C/C++ Language Mapping preferences"/>
+   <topic href="reference/cdt_u_language_mapping_pref.htm" label="C / C ++语言映射首选项"/>
 </context>
 <context id="build_console_preference_page" title="Build Console">
    <description>Customize the appearance of messages that appear in the Build Console.</description>
-   <topic href="reference/cdt_u_console_pref.htm" label="C/C++ Console preferences"/>
+   <topic href="reference/cdt_u_console_pref.htm" label="C / C ++控制台首选项"/>
 </context>
 
 </contexts>

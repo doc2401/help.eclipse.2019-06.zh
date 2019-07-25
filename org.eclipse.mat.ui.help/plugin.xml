@@ -39,7 +39,7 @@
 				contentFile="$nl$/tutorials/object_query_language.xml"
 				category="org.eclipse.mat.tutorials"
 				name="%cheatsheet.oql.name">
-			<description>%cheatsheet.oql.description</description>
+			<description>％cheatsheet.oql.description</description>
 		</cheatsheet>
 
 		<cheatsheet
@@ -48,7 +48,7 @@
 				category="org.eclipse.mat.tutorials"
 				composite="false"
 				name="%cheatsheet.basic.name">
-			<description>%cheatsheet.basic.description</description>
+			<description>％cheatsheet.basic.description</description>
 		</cheatsheet>
 
 		<cheatsheet
@@ -57,7 +57,7 @@
 				category="org.eclipse.mat.tutorials"
 				composite="false"
 				name="%cheatsheet.component.name">
-			<description>%cheatsheet.component.description</description>
+			<description>％cheatsheet.component.description</description>
 		</cheatsheet>
 
 		<cheatsheet
@@ -65,7 +65,7 @@
 				contentFile="$nl$/tutorials/best_features_tutorial.xml"
 				category="org.eclipse.mat.tutorials"
 				name="%cheatsheet.best.name">
-			<description>%cheatsheet.best.description</description>
+			<description>％cheatsheet.best.description</description>
 		</cheatsheet>
 
 		<cheatsheet
@@ -73,7 +73,7 @@
 				contentFile="$nl$/tutorials/memory_hunting.xml"
 				category="org.eclipse.mat.tutorials"
 				name="%cheatsheet.finding.name">
-			<description>%cheatsheet.finding.description</description>
+			<description>％cheatsheet.finding.description</description>
 		</cheatsheet>
 	</extension>
 

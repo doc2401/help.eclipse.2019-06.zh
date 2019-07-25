@@ -1,58 +1,58 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Mylyn/User_Guide/User-Guide.html" label="Mylyn User Guide">
-	<topic href="Mylyn/User_Guide/User-Guide.html" label="Task List">
-		<topic href="Mylyn/User_Guide/User-Guide.html#Finding_Tasks" label="Finding Tasks">
-			<topic href="Mylyn/User_Guide/User-Guide.html#Available_Fields" label="Available Fields"></topic>
-			<topic href="Mylyn/User_Guide/User-Guide.html#Search_Operators" label="Search Operators"></topic>
+<toc topic="Mylyn/User_Guide/User-Guide.html" label="Mylyn用户指南">
+	<topic href="Mylyn/User_Guide/User-Guide.html" label="任务列表">
+		<topic href="Mylyn/User_Guide/User-Guide.html#Finding_Tasks" label="寻找任务">
+			<topic href="Mylyn/User_Guide/User-Guide.html#Available_Fields" label="可用字段"></topic>
+			<topic href="Mylyn/User_Guide/User-Guide.html#Search_Operators" label="搜索运算符"></topic>
 		</topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Task_List_Presentation" label="Task List Presentation"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Icon_Legend_and_Color_Coding" label="Icon Legend and Color Coding"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Creating_New_Tasks" label="Creating New Tasks">
-			<topic href="Mylyn/User_Guide/User-Guide.html#Local_Tasks" label="Local Tasks"></topic>
-			<topic href="Mylyn/User_Guide/User-Guide.html#Repository_Tasks" label="Repository Tasks"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Task_List_Presentation" label="任务列表演示"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Icon_Legend_and_Color_Coding" label="图标图例和颜色编码"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Creating_New_Tasks" label="创建新任务">
+			<topic href="Mylyn/User_Guide/User-Guide.html#Local_Tasks" label="本地任务"></topic>
+			<topic href="Mylyn/User_Guide/User-Guide.html#Repository_Tasks" label="存储库任务"></topic>
 		</topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Creating_new_Queries" label="Creating new Queries"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Scheduling" label="Scheduling"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Synchronization" label="Synchronization"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Incoming_Changes" label="Incoming Changes"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Reviewing_Tasks" label="Reviewing Tasks"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Task_Progress_Indicators" label="Task Progress Indicators"></topic>
-		<topic href="Mylyn/User_Guide/User-Guide.html#Task_List_Settings_and_Operations" label="Task List Settings and Operations"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Creating_new_Queries" label="创建新查询"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Scheduling" label="调度"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Synchronization" label="同步"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Incoming_Changes" label="传入的变化"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Reviewing_Tasks" label="检查任务"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Task_Progress_Indicators" label="任务进度指标"></topic>
+		<topic href="Mylyn/User_Guide/User-Guide.html#Task_List_Settings_and_Operations" label="任务列表设置和操作"></topic>
 	</topic>
-	<topic href="Mylyn/User_Guide/Task-Repositories.html" label="Task Repositories"></topic>
-	<topic href="Mylyn/User_Guide/Task-Editor.html" label="Task Editor">
-		<topic href="Mylyn/User_Guide/Task-Editor.html#Repository_Task_Details" label="Repository Task Details"></topic>
-		<topic href="Mylyn/User_Guide/Task-Editor.html#Context" label="Context"></topic>
-		<topic href="Mylyn/User_Guide/Task-Editor.html#Planning" label="Planning"></topic>
+	<topic href="Mylyn/User_Guide/Task-Repositories.html" label="任务存储库"></topic>
+	<topic href="Mylyn/User_Guide/Task-Editor.html" label="任务编辑器">
+		<topic href="Mylyn/User_Guide/Task-Editor.html#Repository_Task_Details" label="存储库任务详细信息"></topic>
+		<topic href="Mylyn/User_Guide/Task-Editor.html#Context" label="上下文"></topic>
+		<topic href="Mylyn/User_Guide/Task-Editor.html#Planning" label="规划"></topic>
 	</topic>
-	<topic href="Mylyn/User_Guide/Task-Focused-Interface.html" label="Task-Focused Interface">
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Focusing_Navigator_Views" label="Focusing Navigator Views"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Alt.2BClick_Navigation_.2F_Show_Filtered_Children" label="Alt+Click Navigation / Show Filtered Children"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Focusing_Editors" label="Focusing Editors"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Task-focused_Ordering" label="Task-focused Ordering"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Working_Set_Integration" label="Working Set Integration"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Open_Task_dialog" label="Open Task dialog"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Task_Hyperlinking" label="Task Hyperlinking"></topic>
-		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Reporting_Bugs_from_the_Error_Log" label="Reporting Bugs from the Error Log"></topic>
+	<topic href="Mylyn/User_Guide/Task-Focused-Interface.html" label="以任务为中心的界面">
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Focusing_Navigator_Views" label="聚焦导航器视图"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Alt.2BClick_Navigation_.2F_Show_Filtered_Children" label="Alt +单击导航/显示已过滤的子项"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Focusing_Editors" label="聚焦编辑"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Task-focused_Ordering" label="以任务为中心的订购"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Working_Set_Integration" label="工作集集成"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Open_Task_dialog" label="打开任务对话框"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Task_Hyperlinking" label="任务超链接"></topic>
+		<topic href="Mylyn/User_Guide/Task-Focused-Interface.html#Reporting_Bugs_from_the_Error_Log" label="报告错误日志中的错误"></topic>
 	</topic>
-	<topic href="Mylyn/User_Guide/Team-Support.html" label="Team Support">
-		<topic href="Mylyn/User_Guide/Team-Support.html#Task-focused_Change_Sets" label="Task-focused Change Sets"></topic>
-		<topic href="Mylyn/User_Guide/Team-Support.html#Automatic_Commit_Messages" label="Automatic Commit Messages"></topic>
-		<topic href="Mylyn/User_Guide/Team-Support.html#Working_with_Patches" label="Working with Patches"></topic>
+	<topic href="Mylyn/User_Guide/Team-Support.html" label="团队支持">
+		<topic href="Mylyn/User_Guide/Team-Support.html#Task-focused_Change_Sets" label="以任务为中心的变更集"></topic>
+		<topic href="Mylyn/User_Guide/Team-Support.html#Automatic_Commit_Messages" label="自动提交消息"></topic>
+		<topic href="Mylyn/User_Guide/Team-Support.html#Working_with_Patches" label="使用补丁"></topic>
 	</topic>
-	<topic href="Mylyn/User_Guide/Shortcuts.html" label="Shortcuts"></topic>
-	<topic href="Mylyn/User_Guide/Preferences.html" label="Preferences">
-		<topic href="Mylyn/User_Guide/Preferences.html#Tasks" label="Tasks"></topic>
-		<topic href="Mylyn/User_Guide/Preferences.html#Context_2" label="Context"></topic>
-		<topic href="Mylyn/User_Guide/Preferences.html#Resources" label="Resources"></topic>
-		<topic href="Mylyn/User_Guide/Preferences.html#Breakpoints" label="Breakpoints"></topic>
-		<topic href="Mylyn/User_Guide/Preferences.html#Team" label="Team"></topic>
+	<topic href="Mylyn/User_Guide/Shortcuts.html" label="快捷键"></topic>
+	<topic href="Mylyn/User_Guide/Preferences.html" label="喜好">
+		<topic href="Mylyn/User_Guide/Preferences.html#Tasks" label="任务"></topic>
+		<topic href="Mylyn/User_Guide/Preferences.html#Context_2" label="上下文"></topic>
+		<topic href="Mylyn/User_Guide/Preferences.html#Resources" label="资源"></topic>
+		<topic href="Mylyn/User_Guide/Preferences.html#Breakpoints" label="断点"></topic>
+		<topic href="Mylyn/User_Guide/Preferences.html#Team" label="球队"></topic>
 	</topic>
-	<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html" label="Task Repository Connectors">
-		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Bugzilla_Connector" label="Bugzilla Connector"></topic>
-		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Trac_Connector" label="Trac Connector"></topic>
-		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Generic_Web_Templates_Connector" label="Generic Web Templates Connector"></topic>
+	<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html" label="任务存储库连接器">
+		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Bugzilla_Connector" label="Bugzilla连接器"></topic>
+		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Trac_Connector" label="Trac连接器"></topic>
+		<topic href="Mylyn/User_Guide/Task-Repository-Connectors.html#Generic_Web_Templates_Connector" label="通用Web模板连接器"></topic>
 	<anchor id="additions-repository-connectors"/>
 	</topic>
-	<topic href="Mylyn/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+	<topic href="Mylyn/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 </toc>

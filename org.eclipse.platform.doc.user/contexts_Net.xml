@@ -7,8 +7,8 @@
  	<!-- ********************************** -->
  	
  	<context id="proxy_preference_page_context" >
-      <description>This page allows you to specify the proxy settings to be used when connecting to the network.</description>
-      <topic label="Network Connections Preferences" href="reference/ref-net-preferences.htm"/>
+      <description>此页面允许您指定连接到网络时要使用的代理设置。</description>
+      <topic label="网络连接首选项" href="reference/ref-net-preferences.htm"/>
    	</context>
    	
  

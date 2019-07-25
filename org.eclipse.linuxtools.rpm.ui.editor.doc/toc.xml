@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="Specfile Editor User Guide">
-	<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="Specfile Editor User Guide">
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="Overview"></topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Installing.html" label="Installing"></topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html" label="General Usage">
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Creating_a_New_RPM_project" label="Creating a New RPM project"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Creating_a_New_Specfile" label="Creating a New Specfile"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Building_RPMs" label="Building RPMs">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Toolbar" label="Toolbar"></topic>
+<toc topic="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="Specfile Editor用户指南">
+	<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="Specfile Editor用户指南">
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html" label="概观"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Installing.html" label="安装"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html" label="一般用法">
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Creating_a_New_RPM_project" label="创建一个新的RPM项目"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Creating_a_New_Specfile" label="创建新的Specfile"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Building_RPMs" label="构建RPM">
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Toolbar" label="工具栏"></topic>
 			</topic>
 			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#rpmlint" label="rpmlint">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Quick_Fixes" label="Quick Fixes"></topic>
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Quick_Fixes" label="快速修复"></topic>
 			</topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Hyperlink_Detection" label="Hyperlink Detection">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Patches" label="Patches"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Hyperlink_Detection" label="超链接检测">
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html#Patches" label="补丁"></topic>
 			</topic>
 		</topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Import-src-rpm.html" label="Import src.rpm">
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Import-src-rpm.html#Invoking_the_Eclipse_SRPM_Import_Feature" label="Invoking the Eclipse SRPM Import Feature"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Import-src-rpm.html" label="导入src.rpm">
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Import-src-rpm.html#Invoking_the_Eclipse_SRPM_Import_Feature" label="调用Eclipse SRPM导入功能"></topic>
 		</topic>
 		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html" label="Createrepo">
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Creating_a_Repository" label="Creating a Repository"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Getting_Familiar_with_the_Editor" label="Getting Familiar with the Editor">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Repository_Page" label="Repository Page"></topic>
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Metadata_Page" label="Metadata Page"></topic>
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Repo_Editor" label="Repo Editor"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Creating_a_Repository" label="创建存储库"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Getting_Familiar_with_the_Editor" label="熟悉编辑">
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Repository_Page" label="存储库页面"></topic>
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Metadata_Page" label="元数据页面"></topic>
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Createrepo.html#Repo_Editor" label="回购编辑"></topic>
 			</topic>
 		</topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html" label="Configuring Specfile Editor Settings">
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Macro_Completion" label="Macro Completion"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#RPM_Completions" label="RPM Completions">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Package_Information" label="Package Information"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html" label="配置Specfile Editor设置">
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Macro_Completion" label="宏完成"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#RPM_Completions" label="RPM完成">
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Package_Information" label="包装信息"></topic>
 			</topic>
 			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Rpmlint" label="Rpmlint"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Task_Tags" label="Task Tags"></topic>
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Templates" label="Templates"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Task_Tags" label="任务标签"></topic>
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile-Editor-Settings.html#Templates" label="模板"></topic>
 		</topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html" label="Configuring Createrepo Execution">
-			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html#Repository_Specific_Configuration" label="Repository Specific Configuration">
-				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html#Deltas" label="Deltas"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html" label="配置Createrepo执行">
+			<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html#Repository_Specific_Configuration" label="存储库特定配置">
+				<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Createrepo-Execution.html#Deltas" label="三角洲"></topic>
 			</topic>
 		</topic>
-		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="Linux_Tools_Project/SpecfileEditor/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

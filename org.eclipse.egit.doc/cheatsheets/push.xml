@@ -12,59 +12,59 @@
 <cheatsheet title="Pushing to another Git Repository">
 	<intro>
 		<description>
-			With the Git Push Wizard you can push commits to another repository using different transport protocols.
-		</description>
+使用Git Push Wizard，您可以使用不同的传输协议将提交推送到另一个存储库。
+</description>
 	</intro>
 	<item title="Start Push Wizard" dialog="true">
 		<description>
-			The push wizard can be started from the context menu on a repository or project by &quot;Push...&quot; or &quot;Team > Push...&quot;.<br /><br />
-			<b>To start this cheat sheet from within the opened wizard, click the help icon and then select &quot;Pushing to another Git Repository&quot;.</b>
-		</description>
+可以通过“推送...”从存储库或项目的上下文菜单启动推送向导。或“团队>推......”。<br /> <br />
+<b>要从打开的向导中启动此备忘单，请单击帮助图标，然后选择“推送到另一个Git存储库”。</ b>
+</description>
 	</item>
 	<item
 		href="/org.eclipse.egit.doc/help/EGit/User_Guide/Tasks.html#Push_URI"
 		title="Destination Git Repository" dialog="true">
 		<description>
-			<b>Select a push specification or enter the repository location.</b><br /><br />
-			If you already configured a <b>push specification</b>, you can select it from the &quot;Configured remote repository&quot; drop-down list. Otherwise you have to specify the URI of a repository you want to push to as follows:<br /><br />
-			If you have a <b>repository URI</b> in your clipboard, i.e. copied from a gitweb, github, wiki or any other page, it will be automatically entered into the URI field. The other fields (i.e. Host, Repository path, Protocol, Port) will then be automatically filled.<br /><br />
-			In case pushing requires <b>authentication</b> (which is the most likely case), enter your credentials into the User and Password fields.
-		</description>
+<b>选择推送规范或输入存储库位置。</ b> <br /> <br />
+如果您已配置<b>推送规范</ b>，则可以从“已配置的远程存储库”中选择它。下拉列表。否则，您必须按如下方式指定要推送到的存储库的URI：<br /> <br />
+如果您的剪贴板中有<b>存储库URI </ b>，即从gitweb，github，wiki或任何其他页面复制，它将自动输入到URI字段中。其他字段（即主机，存储库路径，协议，端口）将自动填充。<br /> <br />
+如果推送需要<b>身份验证</ b>（最可能的情况），请在“用户”和“密码”字段中输入您的凭据。
+</description>
 	</item>
 	<item
 		href="/org.eclipse.egit.doc/help/EGit/User_Guide/User-Guide.html#Eclipse_SSH_Configuration"
 		title="Using SSH" skip="true" dialog="true">
 		<description>
-			If you connect to the repository via SSH for the first time, you have to accept the <b>host key</b> of the repository before proceeding.<br /><br />
-			In case your SSH key is protected by a <b>passphrase</b>, you have to enter it in a dialog that opens automatically.
-		</description>
+如果您是第一次通过SSH连接到存储库，则必须先接受存储库的<b>主机密钥</ b>，然后再继续。<br /> <br />
+如果您的SSH密钥受<b>密码短语</ b>保护，则必须在自动打开的对话框中输入该密钥。
+</description>
 	</item>
 	<item
 		href="/org.eclipse.egit.doc/help/EGit/User_Guide/Tasks.html#Push_Ref_Specifications"
 		title="Push Ref Specifications" dialog="true">
 		<description>
-			<b>Specify reference mappings</b><br /><br />
-			To map your local branch names to the same branch names that are available in the destination repository click &quot;Add all branches spec&quot;.<br /><br />
-			If you want to declare different mappings, either enter reference names into the &quot;Source ref&quot; and &quot;Destination ref&quot; fields or select an existing entry from the drop-down lists. Afterwards click &quot;Add Spec&quot; to transfer the mapping into the &quot;Specifications for push&quot; list.<br /><br />
-			A typical mapping is 'HEAD' as source reference and 'refs/heads/master' as destination reference. This means that the current HEAD (which points to the currently checked out branch) is mapped to the destination master branch.<br /><br />
-			When pushing to a <b>Gerrit code review</b> system enter 'refs/for/master' as destination reference. This pushes the change to the review queue for the master branch.
-		</description>
+<b>指定参考映射</ b> <br /> <br />
+要将本地分支名称映射到目标存储库中可用的相同分支名称，请单击“添加所有分支规范”。<br /> <br />
+如果要声明不同的映射，请在“Source ref”中输入引用名称。和“目的地参考”字段或从下拉列表中选择现有条目。然后点击“添加规格”将映射转移到“推送规范”中清单。<br /> <br />
+典型的映射是'HEAD'作为源引用，'refs / heads / master'作为目标引用。这意味着当前HEAD（指向当前已检出的分支）将映射到目标主分支。<br /> <br />
+当推送到<b> Gerrit代码审查</ b>系统时，输入'refs / for / master'作为目标参考。这会将更改推送到主分支的审阅队列。
+</description>
 	</item>
 	<item
 		href="/org.eclipse.egit.doc/help/EGit/User_Guide/Tasks.html#Push_Confirmation"
 		title="Push Confirmation" dialog="true">
 		<description>
-			<b>Confirm the push configuration</b><br /><br />
-			A preview of all changes pushed to the destination repository is shown. The &quot;Status&quot; column contains '[new branch]' for references that will be newly created in the destination repository. For reference updates, the range of commits will be shown, i.e. the SHA1 of the first and the last commit to be pushed.<br /><br />
-			<b>Click Finish.</b>
-		</description>
+<b>确认推送配置</ b> <br /> <br />
+将显示推送到目标存储库的所有更改的预览。 “状态”是指“状态”。 column包含将在目标存储库中新创建的引用的“[new branch]”。对于参考更新，将显示提交范围，即第一个和最后一个要推送的提交的SHA1。<br /> <br />
+<b>单击“完成”。</ b>
+</description>
 	</item>
 	<item title="Push Results" dialog="true">
 		<description>
-			The results page shows a list similar to the previous page and a confirmation message from the destination repository.<br /><br />
-			In case of errors the error message from the destination repository is displayed as well.<br /><br />
-			<b>Click Ok to end the wizard.</b>
-		</description>
+结果页面显示与上一页类似的列表以及来自目标存储库的确认消息。<br /> <br />
+如果出现错误，也会显示来自目标存储库的错误消息。<br /> <br />
+<b>单击“确定”结束向导。</ b>
+</description>
 		<onCompletion>You have now successfully pushed to another Git repository.</onCompletion>
 	</item>
 </cheatsheet>

@@ -16,19 +16,19 @@
    <intro
          href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm">
       <description>
-            This cheat sheet will demonstrate how to install and create an instance of the Apache Tomcat server in order to deploy and test your JAX-WS Web service.
-            <br/>
-            <br/>
-If you need help at any step, click the help button in the top right corner (?).
-      </description>
+            此备忘单将演示如何安装和创建Apache Tomcat服务器的实例，以便部署和测试您的JAX-WS Web服务。
+            <BR/>
+            <BR/>
+如果您在任何步骤中需要帮助，请单击右上角的帮助按钮（？）。
+      </description>
    </intro>
    <item
          href="/org.eclipse.jst.server.ui.doc.user/topics/tomcat.html"
          skip="true"
          title="Download and install Apache Tomcat">
       <description>
-         Download and install Apache Tomcat version 5.5.x or 6.0.x from the following site: http://tomcat.apache.org/. Selecting  the &quot;Click to perform&quot; button below will open a web browser at that location.
-      </description>
+         从以下站点下载并安装Apache Tomcat版本5.5.x或6.0.x：http：//tomcat.apache.org/。选择“点击执行”下面的按钮将在该位置打开Web浏览器。
+      </description>
       <command
             required="false"
             serialization="org.eclipse.ui.browser.openBrowser(url=http://tomcat.apache.org/)"/>
@@ -39,32 +39,32 @@ If you need help at any step, click the help button in the top right corner (?).
          skip="false"
          title="Create an Apache Tomcat server">
       <description>
-         Perform the following the steps to create a Tomcat server in the workbench.
-      </description>
+         执行以下步骤以在工作台中创建Tomcat服务器。
+      </description>
       <subitem
-            label="Select &quot;File -&gt; New -&gt; Other...&quot; from the main menu, expand the &quot;Server&quot; category within the resulting &quot;New Wizard&quot; dialog box and choose &quot;Server&quot;. Click &quot;Next &gt;&quot;."
+            label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“服务器”按钮。产生的“新向导”中的类别对话框并选择“服务器”。点击“下一步”＆gt;。"
             skip="true">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.wst.server.ui.new.server)"/>
       </subitem>
       <subitem
-            label="Select the version of Tomcat that you have installed on the first page. Click &quot;Next &gt;&quot;."
+            label="选择您在第一页上安装的Tomcat版本。点击“下一步”＆gt;。"
             skip="true">
       </subitem>
       <subitem
-            label="Specify the Tomcat Installation directory and click &quot;Finish&quot;."
+            label="指定Tomcat安装目录，然后单击“完成”。"
             skip="true">
       </subitem>
       <subitem
-            label="Open the Servers view by selecting &quot;Window -&gt; Show View -&gt; Other..&quot; from the main menu, expand the &quot;Server&quot; category within the resulting &quot;Show View&quot; dialog box and choose &quot;Servers&quot;. Click &quot;OK&quot;."
+            label="选择“Window  - ＆gt;打开Servers视图。显示视图 - ＆gt;其它..＆QUOT;从主菜单中，展开“服务器”按钮。结果“显示视图”中的类别对话框并选择“服务器”。点击“确定”。"
             skip="true">
          <command
                required="false"
                serialization="org.eclipse.ui.views.showView(org.eclipse.ui.views.showView.viewId=org.eclipse.wst.server.ui.ServersView)"/>
       </subitem>
       <subitem
-            label="Start the Tomcat server by selecting the server in the Servers view and clicking the &quot;Start the server&quot; button in the Servers view toolbar.">
+            label="通过在Servers视图中选择服务器并单击“Start the server”，启动Tomcat服务器。 “服务器”视图工具栏中的按钮">
       </subitem>
    </item>
 </cheatsheet>

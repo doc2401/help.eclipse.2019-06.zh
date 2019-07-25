@@ -4,31 +4,31 @@
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
 
-<toc label="Java development user guide">
-    <topic label="Java development overview" href="gettingStarted/intro/overview.htm"/>
-	<topic label="Getting Started">
+<toc label="Java开发用户指南">
+    <topic label="Java开发概述" href="gettingStarted/intro/overview.htm"/>
+	<topic label="入门">
 		<link toc="topics_GettingStarted.xml" />
 	</topic>
 	<anchor id="jdt_getstart" />
-	<topic label="Concepts">
+	<topic label="概念">
 		<link toc="topics_Concepts.xml" />
 	</topic>
 	<anchor id="jdt_concepts" />
-	<topic label="Tasks">
+	<topic label="任务">
 		<link toc="topics_Tasks.xml" />
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
 		<link toc="topics_Reference.xml" />
 	</topic>
 	<anchor id="jdt_reference" />
 	
-	<topic label="Tips and tricks" href="tips/jdt_tips.html">
+	<topic label="技巧和窍门" href="tips/jdt_tips.html">
 		<link toc="topics_Tips.xml" />
 	</topic>
-	<topic label="What's new" href="whatsNew/jdt_whatsnew.html">
+	<topic label="什么是新的" href="whatsNew/jdt_whatsnew.html">
 		<link toc="topics_WhatsNew.xml" />
 	</topic>
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 	<enablement>
 		<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.jdt.ui"/>
 	</enablement>

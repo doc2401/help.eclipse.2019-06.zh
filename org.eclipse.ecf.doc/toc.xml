@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="ECF Remote Services Developer Guide" link_to="toc.xml">
-    <topic label="New and Noteworthy" href="http://www.eclipse.org/ecf/NewAndNoteworthy.html"/>
-    <topic label="Download and Install" href="http://www.eclipse.org/ecf/downloads.php"/>
-    <topic label="Remote Services" href="http://wiki.eclipse.org/ECF">
+<toc label="ECF远程服务开发人员指南" link_to="toc.xml">
+    <topic label="新的和值得注意的" href="http://www.eclipse.org/ecf/NewAndNoteworthy.html"/>
+    <topic label="下载并安装" href="http://www.eclipse.org/ecf/downloads.php"/>
+    <topic label="远程服务" href="http://wiki.eclipse.org/ECF">
 		<link toc="topics_Reference_RemoteServices.xml"/>
     </topic>
-    <topic label="Resources">
+    <topic label="资源">
         <link toc="topics_Reference.xml"/>
     </topic> 
 </toc>

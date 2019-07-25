@@ -11,33 +11,33 @@
   Contributors:
        Thales - initial API and implementation
 -->
-<toc label="EMF Diff/Merge Guide" topic="html/EMF-DiffMerge.html">
-	<topic href="html/EMF-DiffMerge.html" label="User&apos;s Guide">
-		<topic href="html/EMF-DiffMerge.html#Overview" label="Overview"></topic>
-		<topic href="html/EMF-DiffMerge.html#Starting_the_Diff.2FMerge_GUI" label="Starting the Diff/Merge GUI"></topic>
-		<topic href="html/EMF-DiffMerge.html#Configuring_a_Comparison" label="Configuring a Comparison">
-			<topic href="html/EMF-DiffMerge.html#Predefined_Configurations" label="Predefined Configurations"></topic>
-			<topic href="html/EMF-DiffMerge.html#Advanced_Matching" label="Advanced Matching"></topic>
-			<topic href="html/EMF-DiffMerge.html#Other_Advanced_Options" label="Other Advanced Options"></topic>
+<toc label="EMF差异/合并指南" topic="html/EMF-DiffMerge.html">
+	<topic href="html/EMF-DiffMerge.html" label="用户指南">
+		<topic href="html/EMF-DiffMerge.html#Overview" label="概观"></topic>
+		<topic href="html/EMF-DiffMerge.html#Starting_the_Diff.2FMerge_GUI" label="启动Diff / Merge GUI"></topic>
+		<topic href="html/EMF-DiffMerge.html#Configuring_a_Comparison" label="配置比较">
+			<topic href="html/EMF-DiffMerge.html#Predefined_Configurations" label="预定义配置"></topic>
+			<topic href="html/EMF-DiffMerge.html#Advanced_Matching" label="高级匹配"></topic>
+			<topic href="html/EMF-DiffMerge.html#Other_Advanced_Options" label="其他高级选项"></topic>
 		</topic>
-		<topic href="html/EMF-DiffMerge.html#Computing_a_Comparison" label="Computing a Comparison"></topic>
-		<topic href="html/EMF-DiffMerge.html#Exploiting_a_Comparison" label="Exploiting a Comparison">
-			<topic href="html/EMF-DiffMerge.html#Vertical_Areas" label="Vertical Areas"></topic>
-			<topic href="html/EMF-DiffMerge.html#Horizontal_Areas" label="Horizontal Areas"></topic>
-			<topic href="html/EMF-DiffMerge.html#Synthesis_Section" label="Synthesis Section"></topic>
-			<topic href="html/EMF-DiffMerge.html#Difference_Categories_Dialog" label="Difference Categories Dialog"></topic>
-			<topic href="html/EMF-DiffMerge.html#Details_Section" label="Details Section"></topic>
-			<topic href="html/EMF-DiffMerge.html#Difference_Handling_Buttons" label="Difference Handling Buttons"></topic>
-			<topic href="html/EMF-DiffMerge.html#Textual_Comparison" label="Textual Comparison"></topic>
+		<topic href="html/EMF-DiffMerge.html#Computing_a_Comparison" label="计算比较"></topic>
+		<topic href="html/EMF-DiffMerge.html#Exploiting_a_Comparison" label="利用比较">
+			<topic href="html/EMF-DiffMerge.html#Vertical_Areas" label="垂直区域"></topic>
+			<topic href="html/EMF-DiffMerge.html#Horizontal_Areas" label="水平区域"></topic>
+			<topic href="html/EMF-DiffMerge.html#Synthesis_Section" label="合成部分"></topic>
+			<topic href="html/EMF-DiffMerge.html#Difference_Categories_Dialog" label="差异类别对话框"></topic>
+			<topic href="html/EMF-DiffMerge.html#Details_Section" label="细节部分"></topic>
+			<topic href="html/EMF-DiffMerge.html#Difference_Handling_Buttons" label="差异处理按钮"></topic>
+			<topic href="html/EMF-DiffMerge.html#Textual_Comparison" label="文本比较"></topic>
 		</topic>
-		<topic href="html/EMF-DiffMerge.html#Difference_Resolution_in_a_Nutshell" label="Difference Resolution in a Nutshell">
-			<topic href="html/EMF-DiffMerge.html#Opening_the_GUI" label="Opening the GUI"></topic>
-			<topic href="html/EMF-DiffMerge.html#Resolving_Differences" label="Resolving Differences"></topic>
-			<topic href="html/EMF-DiffMerge.html#Saving_Merge_Decisions" label="Saving Merge Decisions"></topic>
+		<topic href="html/EMF-DiffMerge.html#Difference_Resolution_in_a_Nutshell" label="坚果壳中的差异分辨率">
+			<topic href="html/EMF-DiffMerge.html#Opening_the_GUI" label="打开GUI"></topic>
+			<topic href="html/EMF-DiffMerge.html#Resolving_Differences" label="解决差异"></topic>
+			<topic href="html/EMF-DiffMerge.html#Saving_Merge_Decisions" label="保存合并决策"></topic>
 		</topic>
-		<topic href="html/EMF-DiffMerge.html#Integration_with_Version_Control" label="Integration with Version Control">
-			<topic href="html/EMF-DiffMerge.html#Local_File_History" label="Local File History"></topic>
-			<topic href="html/EMF-DiffMerge.html#Version_Control_Systems" label="Version Control Systems"></topic>
+		<topic href="html/EMF-DiffMerge.html#Integration_with_Version_Control" label="与版本控制集成">
+			<topic href="html/EMF-DiffMerge.html#Local_File_History" label="本地文件历史记录"></topic>
+			<topic href="html/EMF-DiffMerge.html#Version_Control_Systems" label="版本控制系统"></topic>
 		</topic>
 	</topic>
 </toc>

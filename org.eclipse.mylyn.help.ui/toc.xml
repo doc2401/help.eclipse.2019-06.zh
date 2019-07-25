@@ -11,15 +11,15 @@
          Tasktop Technologies - initial API and implementation
  -->
 
-<toc label="Tasks User Guide">
+<toc label="任务用户指南">
  <anchor id="before-reference" />
- <topic label="Feature Reference">
+ <topic label="功能参考">
   	<anchor id="before-reference-content"/>
     <link toc="Mylyn-User-Guide-toc.xml"/>
     <anchor id="after-reference-content"/>
     <anchor id="additions-reference" />
  </topic>
- <topic label="Frequently Asked Questions">
+ <topic label="经常问的问题">
   	<anchor id="before-faq-content"/>
     <link toc="Mylyn-FAQ-toc.xml"/>
     <anchor id="after-faq-content"/>
@@ -27,7 +27,7 @@
  </topic>
   	<anchor id="after-reference" />
   	<anchor id="additions" />
- 	<topic href="doc/notices.html" label="Legal" />
+ 	<topic href="doc/notices.html" label="法律" />
 </toc>
 
 

@@ -13,10 +13,10 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the main guide                                              -->
 <!-- ============================================================================= -->
-<toc label="bogus" href="bogus" >
+<toc label="虚假" href="bogus" >
 	<anchor id="draw2d" />
 	<anchor id="zest" />
-	<topic label="GEF (MVC)" href="reference/api/overview-summary.html">
+	<topic label="GEF（MVC）" href="reference/api/overview-summary.html">
 		<topic label="org.eclipse.gef" href="reference/api/org/eclipse/gef/package-summary.html" />
 		<topic label="org.eclipse.gef.commands" href="reference/api/org/eclipse/gef/commands/package-summary.html" />
 		<topic label="org.eclipse.gef.dnd" href="reference/api/org/eclipse/gef/dnd/package-summary.html" />

@@ -9,9 +9,9 @@
     Contributors:
         Alexander Nyßen (itemis AG) - initial API and implementation
  -->
-<toc label="GEF Graph Developer Documentation">
+<toc label="GEF图形开发者文档">
    <link toc="reference/wiki/Graph-toc.xml"/>
    <!-- overview-summary.html is not generated here, as we only have a single package -->
-   <topic href="reference/api/org/eclipse/gef4/graph/package-summary.html" label="API Reference">
+   <topic href="reference/api/org/eclipse/gef4/graph/package-summary.html" label="API参考">
 	</topic>
 </toc>

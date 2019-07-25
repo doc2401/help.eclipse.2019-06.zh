@@ -1,183 +1,183 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <toc topic="Mylyn/FAQ/FAQ.html" label="Mylyn FAQ">
-	<topic href="Mylyn/FAQ/FAQ.html" label="What is Mylyn?"></topic>
-	<topic href="Mylyn/FAQ/Installation.html" label="Installation">
-		<topic href="Mylyn/FAQ/Installation.html#Install_-_Eclipse_3.4_and_later" label="Install - Eclipse 3.4 and later"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#What_is_the_release_schedule.3F" label="What is the release schedule?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Which_sub-projects_are_included_in_Mylyn_releases.3F" label="Which sub-projects are included in Mylyn releases?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#What_versions_of_Eclipse_are_supported.3F" label="What versions of Eclipse are supported?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Which_repositories_are_supported.3F" label="Which repositories are supported?">
+	<topic href="Mylyn/FAQ/FAQ.html" label="什么是Mylyn？"></topic>
+	<topic href="Mylyn/FAQ/Installation.html" label="安装">
+		<topic href="Mylyn/FAQ/Installation.html#Install_-_Eclipse_3.4_and_later" label="安装 -  Eclipse 3.4及更高版本"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#What_is_the_release_schedule.3F" label="什么是发布时间表？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Which_sub-projects_are_included_in_Mylyn_releases.3F" label="Mylyn版本中包含哪些子项目？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#What_versions_of_Eclipse_are_supported.3F" label="支持哪些版本的Eclipse？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Which_repositories_are_supported.3F" label="支持哪些存储库？">
 			<topic href="Mylyn/FAQ/Installation.html#Mylyn_3.8" label="Mylyn 3.8"></topic>
 			<topic href="Mylyn/FAQ/Installation.html#Mylyn_3.7" label="Mylyn 3.7"></topic>
 			<topic href="Mylyn/FAQ/Installation.html#Mylyn_3.6" label="Mylyn 3.6"></topic>
 			<topic href="Mylyn/FAQ/Installation.html#Mylyn_3.5" label="Mylyn 3.5"></topic>
 			<topic href="Mylyn/FAQ/Installation.html#Mylyn_3.4" label="Mylyn 3.4"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Installation.html#What_version_of_Java_is_required.3F" label="What version of Java is required?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#What_version_of_Mylyn_is_distributed_with_the_Eclipse_downloads.3F" label="What version of Mylyn is distributed with the Eclipse downloads?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#My_tasks_or_queries_disappeared.2C_what_do_I_do.3F" label="My tasks or queries disappeared, what do I do?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#General_Installation_Troubleshooting" label="General Installation Troubleshooting"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Installation_Troubleshooting_on_Eclipse_3.4_and_later" label="Installation Troubleshooting on Eclipse 3.4 and later">
-			<topic href="Mylyn/FAQ/Installation.html#Why_does_the_installation_fail_with_.27.27No_repository_found.27.27.3F" label="Why does the installation fail with &apos;&apos;No repository found&apos;&apos;?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Why_does_update_fail_with_.27.27Cannot_complete_the_request.27.27.3F" label="Why does update fail with &apos;&apos;Cannot complete the request&apos;&apos;?"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#What_version_of_Java_is_required.3F" label="需要什么版本的Java？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#What_version_of_Mylyn_is_distributed_with_the_Eclipse_downloads.3F" label="什么版本的Mylyn随Eclipse下载一起发布？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#My_tasks_or_queries_disappeared.2C_what_do_I_do.3F" label="我的任务或疑问消失了，我该怎么办？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#General_Installation_Troubleshooting" label="一般安装故障排除"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Installation_Troubleshooting_on_Eclipse_3.4_and_later" label="Eclipse 3.4及更高版本上的安装故障排除">
+			<topic href="Mylyn/FAQ/Installation.html#Why_does_the_installation_fail_with_.27.27No_repository_found.27.27.3F" label="为什么安装失败并且''没有找到存储库''？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Why_does_update_fail_with_.27.27Cannot_complete_the_request.27.27.3F" label="为什么更新失败并且''无法完成请求''？"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Installation.html#Installation_Troubleshooting_on_Eclipse_3.3_and_earlier" label="Installation Troubleshooting on Eclipse 3.3 and earlier"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Why_can.27t_I_update_Mylyn_3.0_to_a_newer_release.3F" label="Why can&apos;t I update Mylyn 3.0 to a newer release?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Installing_on_Linux" label="Installing on Linux">
-			<topic href="Mylyn/FAQ/Installation.html#How_can_I_get_the_SWT_internal_browser_to_work_under_Linux.3F" label="How can I get the SWT internal browser to work under Linux?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#I.E2.80.99m_getting_a_.E2.80.9CCould_not_create_Browser_page:_No_more_handles.E2.80.9D_error" label="I’m getting a “Could not create Browser page: No more handles” error"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#I.E2.80.99m_having_unstable_performance_on_Linux_with_a_Sun_JVM_are_there_options.3F" label="I’m having unstable performance on Linux with a Sun JVM are there options?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Memory_consumption_problem_with_internal_browser_on_Linux-GTK" label="Memory consumption problem with internal browser on Linux-GTK"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Error:_No_more_handles_error" label="Error: No more handles error"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Recommended_Settings_for_GTK" label="Recommended Settings for GTK"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Recommended_GTK_Setup_for_KDE" label="Recommended GTK Setup for KDE"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Solving_issues_with_KDE_environment_variable_settings" label="Solving issues with KDE environment variable settings"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Known_UI_issues_with_KDE" label="Known UI issues with KDE"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Installation_Troubleshooting_on_Eclipse_3.3_and_earlier" label="Eclipse 3.3及更早版本的安装故障排除"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Why_can.27t_I_update_Mylyn_3.0_to_a_newer_release.3F" label="为什么我不能将Mylyn 3.0更新到更新版本？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Installing_on_Linux" label="在Linux上安装">
+			<topic href="Mylyn/FAQ/Installation.html#How_can_I_get_the_SWT_internal_browser_to_work_under_Linux.3F" label="如何让SWT内部浏览器在Linux下运行？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#I.E2.80.99m_getting_a_.E2.80.9CCould_not_create_Browser_page:_No_more_handles.E2.80.9D_error" label="我收到了“无法创建浏览器页面：没有更多句柄”错误"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#I.E2.80.99m_having_unstable_performance_on_Linux_with_a_Sun_JVM_are_there_options.3F" label="我在Linux上使用Sun JVM的性能不稳定有选择吗？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Memory_consumption_problem_with_internal_browser_on_Linux-GTK" label="Linux-GTK上内部浏览器的内存消耗问题"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Error:_No_more_handles_error" label="错误：不再处理错误"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Recommended_Settings_for_GTK" label="GTK的推荐设置"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Recommended_GTK_Setup_for_KDE" label="推荐的KDE GTK设置"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Solving_issues_with_KDE_environment_variable_settings" label="解决KDE环境变量设置问题"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Known_UI_issues_with_KDE" label="KDE已知的UI问题"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Installation.html#Installing_on_MacOS" label="Installing on MacOS"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Configuration_Troubleshooting" label="Configuration Troubleshooting">
-			<topic href="Mylyn/FAQ/Installation.html#The_default_Key_Mappings_aren.E2.80.99t_working_correctly.2C_what_can_I_do.3F" label="The default Key Mappings aren’t working correctly, what can I do?">
-				<topic href="Mylyn/FAQ/Installation.html#Linux_key_mappings_a_problem.3F" label="Linux key mappings a problem?"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Installing_on_MacOS" label="在MacOS上安装"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Configuration_Troubleshooting" label="配置故障排除">
+			<topic href="Mylyn/FAQ/Installation.html#The_default_Key_Mappings_aren.E2.80.99t_working_correctly.2C_what_can_I_do.3F" label="默认的键映射无法正常工作，我该怎么办？">
+				<topic href="Mylyn/FAQ/Installation.html#Linux_key_mappings_a_problem.3F" label="Linux密钥映射有问题吗？"></topic>
 			</topic>
-			<topic href="Mylyn/FAQ/Installation.html#How_do_I_enable_spell_checking_in_Eclipse_3.2_and_older.3F" label="How do I enable spell checking in Eclipse 3.2 and older?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#How_can_I_change_the_number_of_editors_left_open_before_Mylyn_starts_closing_editors.3F" label="How can I change the number of editors left open before Mylyn starts closing editors?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Do_I_need_the_Outline_View_when_running_Mylyn.3F" label="Do I need the Outline View when running Mylyn?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#What_does_the_message_.E2.80.9Ccontent_assist_proposals_no_longer_appear.E2.80.9D_mean.3F" label="What does the message “content assist proposals no longer appear” mean?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Why_do_I_get_errors_like_.E2.80.9CHTTP_Response_Code_407.E2.80.9D_or_.E2.80.9CProxy_Authentication_Error.E2.80.9D_when_accessing_repositories_through_a_proxy_server.3F" label="Why do I get errors like “HTTP Response Code 407” or “Proxy Authentication Error” when accessing repositories through a proxy server?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#I_can.E2.80.99t_use_Ctrl.2BAlt.2BShift.2BArrow_Up_for.27.27_Mark_as_Landmark.27.27.__What_do_I_do.3F" label="I can’t use Ctrl+Alt+Shift+Arrow Up for&apos;&apos; Mark as Landmark&apos;&apos;.  What do I do?"></topic>
-			<topic href="Mylyn/FAQ/Installation.html#Why_do_I_get_an_error_when_accessing_secured_web_sites.3F" label="Why do I get an error when accessing secured web sites?"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#How_do_I_enable_spell_checking_in_Eclipse_3.2_and_older.3F" label="如何在Eclipse 3.2及更早版本中启用拼写检查？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#How_can_I_change_the_number_of_editors_left_open_before_Mylyn_starts_closing_editors.3F" label="如何在Mylyn开始关闭编辑器之前更改保持打开的编辑器数量？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Do_I_need_the_Outline_View_when_running_Mylyn.3F" label="运行Mylyn时是否需要大纲视图？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#What_does_the_message_.E2.80.9Ccontent_assist_proposals_no_longer_appear.E2.80.9D_mean.3F" label="“内容辅助提案不再出现”的消息是什么意思？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Why_do_I_get_errors_like_.E2.80.9CHTTP_Response_Code_407.E2.80.9D_or_.E2.80.9CProxy_Authentication_Error.E2.80.9D_when_accessing_repositories_through_a_proxy_server.3F" label="当通过代理服务器访问存储库时，为什么会出现“HTTP响应代码407”或“代理验证错误”等错误？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#I_can.E2.80.99t_use_Ctrl.2BAlt.2BShift.2BArrow_Up_for.27.27_Mark_as_Landmark.27.27.__What_do_I_do.3F" label="我不能使用Ctrl + Alt + Shift + Arrow Up来表示''。标记为Landmark''。我该怎么办？"></topic>
+			<topic href="Mylyn/FAQ/Installation.html#Why_do_I_get_an_error_when_accessing_secured_web_sites.3F" label="访问安全网站时为什么会出错？"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Installation.html#Uninstall_troubleshooting" label="Uninstall troubleshooting"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#Why_am_seeing_java.lang.OutOfMemoryError:_PermGen_space_errors.3F" label="Why am seeing java.lang.OutOfMemoryError: PermGen space errors?"></topic>
-		<topic href="Mylyn/FAQ/Installation.html#What_is_Mylyn.E2.80.99s_performance_profile.3F" label="What is Mylyn’s performance profile?"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Uninstall_troubleshooting" label="卸载故障排除"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#Why_am_seeing_java.lang.OutOfMemoryError:_PermGen_space_errors.3F" label="为什么看到java.lang.OutOfMemoryError：PermGen空间错误？"></topic>
+		<topic href="Mylyn/FAQ/Installation.html#What_is_Mylyn.E2.80.99s_performance_profile.3F" label="Mylyn的表现简介是什么？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Task-List.html" label="Task List">
-		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_restore_my_tasks_from_backup.3F" label="How do I restore my tasks from backup?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_clear_outgoing_changes_on_a_task.3F" label="How do I clear outgoing changes on a task?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Why_do_my_tasks_not_appear_in_the_Task_List.3F" label="Why do my tasks not appear in the Task List?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Why_do_tasks_appear_in_the_.27.27Unmatched.27.27_container.3F" label="Why do tasks appear in the &apos;&apos;Unmatched&apos;&apos; container?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_change_the_Task_List_colors.3F" label="How do I change the Task List colors?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#The_Unmatched_category_contains_many_irrelevant_tasks.2C_how_do_I_clean_it_up.3F" label="The Unmatched category contains many irrelevant tasks, how do I clean it up?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#How_does_Mylyn_count_the_active_time_for_a_task.3F" label="How does Mylyn count the active time for a task?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_prevent_long-running_tasks_from_adding_to_the_progress_bar.3F" label="How do I prevent long-running tasks from adding to the progress bar?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Does_the_Task_List_replace_the_Eclipse_Tasks_view.3F" label="Does the Task List replace the Eclipse Tasks view?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#What_if_I_use_multiple_workspaces.3F" label="What if I use multiple workspaces?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_export_my_task_and_repository_data.3F" label="How do I export my task and repository data?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Why_does_Mylyn_use_the_term_.E2.80.9Ctask.E2.80.9D.3F" label="Why does Mylyn use the term “task”?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Why_are_closed_tasks_not_greyed_out_on_Linux.3F" label="Why are closed tasks not greyed out on Linux?"></topic>
-		<topic href="Mylyn/FAQ/Task-List.html#Why_is_starring_tasks_not_supported.3F" label="Why is starring tasks not supported?"></topic>
+	<topic href="Mylyn/FAQ/Task-List.html" label="任务列表">
+		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_restore_my_tasks_from_backup.3F" label="如何从备份中恢复任务？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_clear_outgoing_changes_on_a_task.3F" label="如何清除任务的外发更改？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Why_do_my_tasks_not_appear_in_the_Task_List.3F" label="为什么我的任务没有出现在任务列表中？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Why_do_tasks_appear_in_the_.27.27Unmatched.27.27_container.3F" label="为什么任务出现在''不匹配''中。容器？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_change_the_Task_List_colors.3F" label="如何更改任务列表颜色？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#The_Unmatched_category_contains_many_irrelevant_tasks.2C_how_do_I_clean_it_up.3F" label="“不匹配”类别包含许多不相关的任务，如何清理它？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#How_does_Mylyn_count_the_active_time_for_a_task.3F" label="Mylyn如何计算任务的活动时间？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_prevent_long-running_tasks_from_adding_to_the_progress_bar.3F" label="如何防止长时间运行的任务添加到进度条？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Does_the_Task_List_replace_the_Eclipse_Tasks_view.3F" label="任务列表是否替换了Eclipse Tasks视图？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#What_if_I_use_multiple_workspaces.3F" label="如果我使用多个工作区怎么办？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#How_do_I_export_my_task_and_repository_data.3F" label="如何导出任务和存储库数据？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Why_does_Mylyn_use_the_term_.E2.80.9Ctask.E2.80.9D.3F" label="为什么Mylyn使用术语“任务”？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Why_are_closed_tasks_not_greyed_out_on_Linux.3F" label="为什么Linux上的封闭任务不会变得灰暗？"></topic>
+		<topic href="Mylyn/FAQ/Task-List.html#Why_is_starring_tasks_not_supported.3F" label="为什么不支持主演任务？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Task-Editor.html" label="Task Editor">
-		<topic href="Mylyn/FAQ/Task-Editor.html#When_I_submit_a_new_bug_to_eclipse.org_the_priority_isn.E2.80.99t_updated.3F" label="When I submit a new bug to eclipse.org the priority isn’t updated?"></topic>
-		<topic href="Mylyn/FAQ/Task-Editor.html#Why_am_I_seeing_strange_boxes_where_I_expect_to_see_proper_characters.3F" label="Why am I seeing strange boxes where I expect to see proper characters?"></topic>
-		<topic href="Mylyn/FAQ/Task-Editor.html#How_can_I_view_images_or_screenshots_that_are_attached_to_an_image.3F" label="How can I view images or screenshots that are attached to an image?"></topic>
+	<topic href="Mylyn/FAQ/Task-Editor.html" label="任务编辑器">
+		<topic href="Mylyn/FAQ/Task-Editor.html#When_I_submit_a_new_bug_to_eclipse.org_the_priority_isn.E2.80.99t_updated.3F" label="当我向eclipse.org提交新的bug时，优先级没有更新？"></topic>
+		<topic href="Mylyn/FAQ/Task-Editor.html#Why_am_I_seeing_strange_boxes_where_I_expect_to_see_proper_characters.3F" label="为什么我看到奇怪的盒子，我希望看到正确的字符？"></topic>
+		<topic href="Mylyn/FAQ/Task-Editor.html#How_can_I_view_images_or_screenshots_that_are_attached_to_an_image.3F" label="如何查看附加到图像的图像或屏幕截图？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Task-Repositories.html" label="Task Repositories">
-		<topic href="Mylyn/FAQ/Task-Repositories.html#What_if_I.E2.80.99m_not_using_a_Task_Repository.3F" label="What if I’m not using a Task Repository?"></topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#What_if_Mylyn_doesn.E2.80.99t_support_my_task.2Fbug.2Fissue.2Fticket_repository.3F" label="What if Mylyn doesn’t support my task/bug/issue/ticket repository?"></topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_were_my_repository_credentials_reset.3F" label="Why were my repository credentials reset?"></topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_are_my_updated_repository_attributes_not_showing_up.3F" label="Why are my updated repository attributes not showing up?"></topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#Authentication_Troubleshooting" label="Authentication Troubleshooting">
-			<topic href="Mylyn/FAQ/Task-Repositories.html#Certificate_authentication" label="Certificate authentication">
-				<topic href="Mylyn/FAQ/Task-Repositories.html#Creating_a_keystore" label="Creating a keystore"></topic>
+	<topic href="Mylyn/FAQ/Task-Repositories.html" label="任务存储库">
+		<topic href="Mylyn/FAQ/Task-Repositories.html#What_if_I.E2.80.99m_not_using_a_Task_Repository.3F" label="如果我没有使用任务存储库怎么办？"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#What_if_Mylyn_doesn.E2.80.99t_support_my_task.2Fbug.2Fissue.2Fticket_repository.3F" label="如果Mylyn不支持我的任务/错误/问题/票证存储库怎么办？"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_were_my_repository_credentials_reset.3F" label="为什么我的存储库凭据被重置？"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_are_my_updated_repository_attributes_not_showing_up.3F" label="为什么我的更新的存储库属性没有显示？"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#Authentication_Troubleshooting" label="验证故障排除">
+			<topic href="Mylyn/FAQ/Task-Repositories.html#Certificate_authentication" label="证书认证">
+				<topic href="Mylyn/FAQ/Task-Repositories.html#Creating_a_keystore" label="创建密钥库"></topic>
 			</topic>
-			<topic href="Mylyn/FAQ/Task-Repositories.html#NTLM_authentication" label="NTLM authentication"></topic>
+			<topic href="Mylyn/FAQ/Task-Repositories.html#NTLM_authentication" label="NTLM身份验证"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#Network_Troubleshooting" label="Network Troubleshooting">
-			<topic href="Mylyn/FAQ/Task-Repositories.html#Performance_Problems_with_HTTPS" label="Performance Problems with HTTPS"></topic>
-			<topic href="Mylyn/FAQ/Task-Repositories.html#Error_.22Received_fatal_alert:_bad_record_mac.22_when_using_https" label="Error &quot;Received fatal alert: bad_record_mac&quot; when using https"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#Network_Troubleshooting" label="网络故障排除">
+			<topic href="Mylyn/FAQ/Task-Repositories.html#Performance_Problems_with_HTTPS" label="HTTPS的性能问题"></topic>
+			<topic href="Mylyn/FAQ/Task-Repositories.html#Error_.22Received_fatal_alert:_bad_record_mac.22_when_using_https" label="错误“收到致命警报：bad_record_mac”使用https时"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_are_task_hyperlinks_not_working.3F" label="Why are task hyperlinks not working?"></topic>
+		<topic href="Mylyn/FAQ/Task-Repositories.html#Why_are_task_hyperlinks_not_working.3F" label="为什么任务超链接不起作用？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Bugzilla-Connector.html" label="Bugzilla Connector">
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#What_versions_are_supported.3F" label="What versions are supported?">
-			<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Tips_for_server_administrators" label="Tips for server administrators"></topic>
+	<topic href="Mylyn/FAQ/Bugzilla-Connector.html" label="Bugzilla连接器">
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#What_versions_are_supported.3F" label="支持哪些版本？">
+			<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Tips_for_server_administrators" label="服务器管理员提示"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_are_queries_failing.3F" label="Why are queries failing?"></topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_I_see_my_old_username.3F" label="Why do I see my old username?"></topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_tasks_fail_to_open.3F" label="Why do tasks fail to open?"></topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_tasks_fail_to_submit.3F" label="Why do tasks fail to submit?"></topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#What_time_zone_is_used_in_the_task_editor.3F" label="What time zone is used in the task editor?"></topic>
-		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Known_limitations" label="Known limitations"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_are_queries_failing.3F" label="为什么查询失败？"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_I_see_my_old_username.3F" label="为什么我会看到我的旧用户名？"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_tasks_fail_to_open.3F" label="为什么任务无法打开？"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Why_do_tasks_fail_to_submit.3F" label="为什么任务无法提交？"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#What_time_zone_is_used_in_the_task_editor.3F" label="任务编辑器中使用了什么时区？"></topic>
+		<topic href="Mylyn/FAQ/Bugzilla-Connector.html#Known_limitations" label="已知限制"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/JIRA-Connector.html" label="JIRA Connector"></topic>
-	<topic href="Mylyn/FAQ/Trac-Connector.html" label="Trac Connector">
-		<topic href="Mylyn/FAQ/Trac-Connector.html#What_are_the_server_requirements.3F" label="What are the server requirements?">
-			<topic href="Mylyn/FAQ/Trac-Connector.html#XML-RPC_.28recommended.29" label="XML-RPC (recommended)"></topic>
-			<topic href="Mylyn/FAQ/Trac-Connector.html#Web" label="Web"></topic>
+	<topic href="Mylyn/FAQ/JIRA-Connector.html" label="JIRA连接器"></topic>
+	<topic href="Mylyn/FAQ/Trac-Connector.html" label="Trac连接器">
+		<topic href="Mylyn/FAQ/Trac-Connector.html#What_are_the_server_requirements.3F" label="服务器要求是什么？">
+			<topic href="Mylyn/FAQ/Trac-Connector.html#XML-RPC_.28recommended.29" label="XML-RPC（推荐）"></topic>
+			<topic href="Mylyn/FAQ/Trac-Connector.html#Web" label="卷筒纸"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Recommended_Trac_version" label="Recommended Trac version"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Does_Mylyn_support_Trac_0.11.3F" label="Does Mylyn support Trac 0.11?"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Why_do_I_get_an_HTTP_Error_500_Internal_server_error_when_creating_a_ticket_that_contains_non-ASCII_characters.3F" label="Why do I get an HTTP Error 500 Internal server error when creating a ticket that contains non-ASCII characters?"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Known_limitations_2" label="Known limitations"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Why_are_tasks_opened_in_a_web_browser_and_not_in_the_rich_editor.3F" label="Why are tasks opened in a web browser and not in the rich editor?"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Which_URLs_does_Mylyn_access_in_a_Trac_repository.3F" label="Which URLs does Mylyn access in a Trac repository?"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Problems_opening_the_web_editor_on_Linux" label="Problems opening the web editor on Linux"></topic>
-		<topic href="Mylyn/FAQ/Trac-Connector.html#Which_Trac_Plugins_are_supported_by_Mylyn.3F" label="Which Trac Plugins are supported by Mylyn?"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Recommended_Trac_version" label="推荐的Trac版本"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Does_Mylyn_support_Trac_0.11.3F" label="Mylyn是否支持Trac 0.11？"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Why_do_I_get_an_HTTP_Error_500_Internal_server_error_when_creating_a_ticket_that_contains_non-ASCII_characters.3F" label="创建包含非ASCII字符的故障单时，为什么会出现HTTP Error 500内部服务器错误？"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Known_limitations_2" label="已知限制"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Why_are_tasks_opened_in_a_web_browser_and_not_in_the_rich_editor.3F" label="为什么在Web浏览器中而不是在富编辑器中打开任务？"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Which_URLs_does_Mylyn_access_in_a_Trac_repository.3F" label="Mylyn在Trac存储库中访问哪些URL？"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Problems_opening_the_web_editor_on_Linux" label="在Linux上打开Web编辑器时出现问题"></topic>
+		<topic href="Mylyn/FAQ/Trac-Connector.html#Which_Trac_Plugins_are_supported_by_Mylyn.3F" label="Mylyn支持哪些Trac插件？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Web-Templates-Connector.html" label="Web Templates Connector">
-		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Where_can_I_find_the_Web_Templates_connector.3F" label="Where can I find the Web Templates connector?"></topic>
-		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Why_can.E2.80.99t_I_connect_using_one_of_the_existing_templates.3F" label="Why can’t I connect using one of the existing templates?"></topic>
-		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Known_limitations_3" label="Known limitations"></topic>
-		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Where_can_I_find_additional_templates.3F" label="Where can I find additional templates?"></topic>
+	<topic href="Mylyn/FAQ/Web-Templates-Connector.html" label="Web模板连接器">
+		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Where_can_I_find_the_Web_Templates_connector.3F" label="我在哪里可以找到Web模板连接器？"></topic>
+		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Why_can.E2.80.99t_I_connect_using_one_of_the_existing_templates.3F" label="为什么我无法使用现有模板之一进行连接？"></topic>
+		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Known_limitations_3" label="已知限制"></topic>
+		<topic href="Mylyn/FAQ/Web-Templates-Connector.html#Where_can_I_find_additional_templates.3F" label="我在哪里可以找到其他模板？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Task-Focused-UI.html" label="Task-Focused UI">
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#What_is_the_Task-Focused_UI.3F" label="What is the Task-Focused UI?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_do_files_disappear_from_Focused_views_when_I_close_them.3F" label="Why do files disappear from Focused views when I close them?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_did_all_my_editor_tabs_disappear.3F" label="Why did all my editor tabs disappear?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#How_do_I_get_rid_of_an_element_if_it_is_not_interesting.3F" label="How do I get rid of an element if it is not interesting?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Which_Focused_UI_features_can_I_turn_off.3F" label="Which Focused UI features can I turn off?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_can.E2.80.99t_I_Alt.2BClick_to_references_libraries.3F" label="Why can’t I Alt+Click to references libraries?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_is_the_.27.27Link_with_Editor.27.27_button_disabled.3F" label="Why is the &apos;&apos;Link with Editor&apos;&apos; button disabled?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#What_happened_to_the_Active_Search_and_Active_Hierarchy_views.3F" label="What happened to the Active Search and Active Hierarchy views?"></topic>
-		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_does_startup_of_org.eclipse.mylyn.context.ui_take_so_long.3F" label="Why does startup of org.eclipse.mylyn.context.ui take so long?"></topic>
+	<topic href="Mylyn/FAQ/Task-Focused-UI.html" label="以任务为中心的UI">
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#What_is_the_Task-Focused_UI.3F" label="什么是以任务为中心的UI？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_do_files_disappear_from_Focused_views_when_I_close_them.3F" label="当我关闭它们时，为什么文件会从聚焦视图中消失？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_did_all_my_editor_tabs_disappear.3F" label="为什么我的编辑器标签都消失了？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#How_do_I_get_rid_of_an_element_if_it_is_not_interesting.3F" label="如果元素没有意义，我如何摆脱它？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Which_Focused_UI_features_can_I_turn_off.3F" label="我可以关闭哪些重点用户界面功能？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_can.E2.80.99t_I_Alt.2BClick_to_references_libraries.3F" label="为什么我不能Alt + Click来引用库？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_is_the_.27.27Link_with_Editor.27.27_button_disabled.3F" label="为什么''与编辑器的链接''是'按钮被禁用？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#What_happened_to_the_Active_Search_and_Active_Hierarchy_views.3F" label="Active Search和Active Hierarchy视图发生了什么变化？"></topic>
+		<topic href="Mylyn/FAQ/Task-Focused-UI.html#Why_does_startup_of_org.eclipse.mylyn.context.ui_take_so_long.3F" label="为什么org.eclipse.mylyn.context.ui的启动需要这么长时间？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Context-and-Timing-data.html" label="Context and Timing data">
-		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#How_do_I_prevent_code_checked_out_from_polluting_my_task_context.3F" label="How do I prevent code checked out from polluting my task context?"></topic>
-		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#Why_do_I_see_strange_elapsed_times_on_my_Planning_tab.3F" label="Why do I see strange elapsed times on my Planning tab?"></topic>
-		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#Is_the_backwards_compatibility_and_refactoring_of_task_context_handled.3F" label="Is the backwards compatibility and refactoring of task context handled?"></topic>
+	<topic href="Mylyn/FAQ/Context-and-Timing-data.html" label="上下文和计时数据">
+		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#How_do_I_prevent_code_checked_out_from_polluting_my_task_context.3F" label="如何防止签出的代码污染我的任务上下文？"></topic>
+		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#Why_do_I_see_strange_elapsed_times_on_my_Planning_tab.3F" label="为什么我在Planning选项卡上看到奇怪的经过时间？"></topic>
+		<topic href="Mylyn/FAQ/Context-and-Timing-data.html#Is_the_backwards_compatibility_and_refactoring_of_task_context_handled.3F" label="是否处理了任务上下文的向后兼容性和重构？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Java-Development.html" label="Java Development">
-		<topic href="Mylyn/FAQ/Java-Development.html#Content_assist_troubleshooting" label="Content assist troubleshooting"></topic>
-		<topic href="Mylyn/FAQ/Java-Development.html#Why_do_interesting_elements_not_show_in_the_Project_Explorer.3F" label="Why do interesting elements not show in the Project Explorer?"></topic>
-		<topic href="Mylyn/FAQ/Java-Development.html#How_do_I_stop_declarations_from_showing_in_the_Package_Explorer.3F" label="How do I stop declarations from showing in the Package Explorer?"></topic>
-		<topic href="Mylyn/FAQ/Java-Development.html#Why_does_nothing_show_up_in_the_Active_Search_or_Active_Hierarchy.3F" label="Why does nothing show up in the Active Search or Active Hierarchy?"></topic>
-		<topic href="Mylyn/FAQ/Java-Development.html#Known_limitations_4" label="Known limitations"></topic>
+	<topic href="Mylyn/FAQ/Java-Development.html" label="Java开发">
+		<topic href="Mylyn/FAQ/Java-Development.html#Content_assist_troubleshooting" label="内容辅助故障排除"></topic>
+		<topic href="Mylyn/FAQ/Java-Development.html#Why_do_interesting_elements_not_show_in_the_Project_Explorer.3F" label="为什么有趣的元素没有在Project Explorer中显示？"></topic>
+		<topic href="Mylyn/FAQ/Java-Development.html#How_do_I_stop_declarations_from_showing_in_the_Package_Explorer.3F" label="如何停止在Package Explorer中显示声明？"></topic>
+		<topic href="Mylyn/FAQ/Java-Development.html#Why_does_nothing_show_up_in_the_Active_Search_or_Active_Hierarchy.3F" label="为什么在Active Search或Active Hierarchy中没有显示任何内容？"></topic>
+		<topic href="Mylyn/FAQ/Java-Development.html#Known_limitations_4" label="已知限制"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Team-Support.html" label="Team Support">
-		<topic href="Mylyn/FAQ/Team-Support.html#My_change_set_is_missing_or_doesn.E2.80.99t_contain_elements_it_should._Help.21" label="My change set is missing or doesn’t contain elements it should. Help!"></topic>
-		<topic href="Mylyn/FAQ/Team-Support.html#Why_does_task_change_set_not_appear_when_I_modify_files.3F" label="Why does task change set not appear when I modify files?"></topic>
-		<topic href="Mylyn/FAQ/Team-Support.html#Why_do_files_disappear_from_the_change_set_when_I_close_them.3F" label="Why do files disappear from the change set when I close them?"></topic>
-		<topic href="Mylyn/FAQ/Team-Support.html#Why_am_I_missing_elements_when_I_retrieve_someone_else.E2.80.99s_context.3F" label="Why am I missing elements when I retrieve someone else’s context?"></topic>
+	<topic href="Mylyn/FAQ/Team-Support.html" label="团队支持">
+		<topic href="Mylyn/FAQ/Team-Support.html#My_change_set_is_missing_or_doesn.E2.80.99t_contain_elements_it_should._Help.21" label="我的更改集缺失或不包含它应该包含的元素。救命！"></topic>
+		<topic href="Mylyn/FAQ/Team-Support.html#Why_does_task_change_set_not_appear_when_I_modify_files.3F" label="为什么修改文件时不会出现任务更改设置？"></topic>
+		<topic href="Mylyn/FAQ/Team-Support.html#Why_do_files_disappear_from_the_change_set_when_I_close_them.3F" label="当我关闭文件时，为什么文件会从更改集中消失？"></topic>
+		<topic href="Mylyn/FAQ/Team-Support.html#Why_am_I_missing_elements_when_I_retrieve_someone_else.E2.80.99s_context.3F" label="当我检索别人的上下文时，为什么我缺少元素？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/WikiText.html" label="WikiText">
-		<topic href="Mylyn/FAQ/WikiText.html#What_is_WikiText.3F" label="What is WikiText?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_get_WikiText.3F" label="Where can I get WikiText?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#How_does_WikiText_integrate_with_Mylyn.3F" label="How does WikiText integrate with Mylyn?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#How_do_I_enable.2Fdisable_WikiText_extensions_to_Mylyn.3F" label="How do I enable/disable WikiText extensions to Mylyn?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_find_WikiText_documentation.3F" label="Where can I find WikiText documentation?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#How_do_I_run_the_WikiText_Ant_tasks.3F" label="How do I run the WikiText Ant tasks?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#Can_I_use_WikiText_without_Eclipse.3F" label="Can I use WikiText without Eclipse?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#What_output_can_WikiText_create.3F" label="What output can WikiText create?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#What_wiki_markup_languages_does_WikiText_support.3F" label="What wiki markup languages does WikiText support?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#Why_doesn.27t_the_preview_tab_show_up_in_the_WikiText_editor.3F" label="Why doesn&apos;t the preview tab show up in the WikiText editor?"></topic>
-		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_find_out_more_about_WikiText.3F" label="Where can I find out more about WikiText?"></topic>
+	<topic href="Mylyn/FAQ/WikiText.html" label="wikitext的">
+		<topic href="Mylyn/FAQ/WikiText.html#What_is_WikiText.3F" label="什么是WikiText？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_get_WikiText.3F" label="我在哪里可以获得WikiText？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#How_does_WikiText_integrate_with_Mylyn.3F" label="WikiText如何与Mylyn集成？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#How_do_I_enable.2Fdisable_WikiText_extensions_to_Mylyn.3F" label="如何启用/禁用Mylyn的WikiText扩展？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_find_WikiText_documentation.3F" label="我在哪里可以找到WikiText文档？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#How_do_I_run_the_WikiText_Ant_tasks.3F" label="如何运行WikiText Ant任务？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#Can_I_use_WikiText_without_Eclipse.3F" label="我可以在没有Eclipse的情况下使用WikiText吗？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#What_output_can_WikiText_create.3F" label="WikiText可以创建什么输出？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#What_wiki_markup_languages_does_WikiText_support.3F" label="WikiText支持哪些wiki标记语言？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#Why_doesn.27t_the_preview_tab_show_up_in_the_WikiText_editor.3F" label="为什么预览选项卡不会出现在WikiText编辑器中？"></topic>
+		<topic href="Mylyn/FAQ/WikiText.html#Where_can_I_find_out_more_about_WikiText.3F" label="我在哪里可以找到有关WikiText的更多信息？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Integration-with-other-tools.html" label="Integration with other tools">
-		<topic href="Mylyn/FAQ/Integration-with-other-tools.html#Using_Mylyn_with_WTP" label="Using Mylyn with WTP"></topic>
-		<topic href="Mylyn/FAQ/Integration-with-other-tools.html#External_builders" label="External builders"></topic>
+	<topic href="Mylyn/FAQ/Integration-with-other-tools.html" label="与其他工具集成">
+		<topic href="Mylyn/FAQ/Integration-with-other-tools.html#Using_Mylyn_with_WTP" label="将Mylyn与WTP结合使用"></topic>
+		<topic href="Mylyn/FAQ/Integration-with-other-tools.html#External_builders" label="外部建设者"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Misc.html" label="Misc">
-		<topic href="Mylyn/FAQ/Misc.html#Performance" label="Performance">
-			<topic href="Mylyn/FAQ/Misc.html#Retrieval_of_repository_configuration" label="Retrieval of repository configuration"></topic>
+	<topic href="Mylyn/FAQ/Misc.html" label="杂项">
+		<topic href="Mylyn/FAQ/Misc.html#Performance" label="性能">
+			<topic href="Mylyn/FAQ/Misc.html#Retrieval_of_repository_configuration" label="检索存储库配置"></topic>
 		</topic>
-		<topic href="Mylyn/FAQ/Misc.html#Command_Line" label="Command Line"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#System_Properties" label="System Properties"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#How_can_I_report_a_dead-lock_or_a_problem_about_a_stalled_UI.3F" label="How can I report a dead-lock or a problem about a stalled UI?"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#How_do_I_enable_debugging_output_for_network_communications.3F" label="How do I enable debugging output for network communications?"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#How_do_I_enable_debugging_output_for_plug-ins.3F" label="How do I enable debugging output for plug-ins?"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#Which_usage_monitoring_framework_should_I_use.3F" label="Which usage monitoring framework should I use?"></topic>
-		<topic href="Mylyn/FAQ/Misc.html#How_does_Mylyn_relate_to_IBM.E2.80.99s_Jazz.3F" label="How does Mylyn relate to IBM’s Jazz?"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#Command_Line" label="命令行"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#System_Properties" label="系统属性"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#How_can_I_report_a_dead-lock_or_a_problem_about_a_stalled_UI.3F" label="如何报告死锁或有关停止的用户界面的问题？"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#How_do_I_enable_debugging_output_for_network_communications.3F" label="如何为网络通信启用调试输出？"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#How_do_I_enable_debugging_output_for_plug-ins.3F" label="如何为插件启用调试输出？"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#Which_usage_monitoring_framework_should_I_use.3F" label="我应该使用哪种使用情况监控框架？"></topic>
+		<topic href="Mylyn/FAQ/Misc.html#How_does_Mylyn_relate_to_IBM.E2.80.99s_Jazz.3F" label="Mylyn如何与IBM的Jazz相关联？"></topic>
 	</topic>
-	<topic href="Mylyn/FAQ/Updating-This-Document.html" label="Updating This Document"></topic>
+	<topic href="Mylyn/FAQ/Updating-This-Document.html" label="更新本文档"></topic>
 </toc>

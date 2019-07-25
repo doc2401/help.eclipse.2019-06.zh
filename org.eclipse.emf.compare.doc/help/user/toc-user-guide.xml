@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="help/user/user-guide.html#User_Guide" label="User Guide">
-	<topic href="help/user/user-guide.html#Getting_Started" label="Getting Started">
-		<topic href="help/user/user-guide.html#Installing_EMF_Compare" label="Installing EMF Compare">
-			<topic href="help/user/user-guide.html#Marketplace_Client" label="Marketplace Client"></topic>
-			<topic href="help/user/user-guide.html#Update_Site" label="Update Site"></topic>
-			<topic href="help/user/user-guide.html#Compatibility" label="Compatibility"></topic>
+<toc topic="help/user/user-guide.html#User_Guide" label="用户指南">
+	<topic href="help/user/user-guide.html#Getting_Started" label="入门">
+		<topic href="help/user/user-guide.html#Installing_EMF_Compare" label="安装EMF比较">
+			<topic href="help/user/user-guide.html#Marketplace_Client" label="市场客户"></topic>
+			<topic href="help/user/user-guide.html#Update_Site" label="更新网站"></topic>
+			<topic href="help/user/user-guide.html#Compatibility" label="兼容性"></topic>
 		</topic>
-		<topic href="help/user/user-guide.html#User_Interface_Breakdown" label="User Interface Breakdown">
-			<topic href="help/user/user-guide.html#Toolbar" label="Toolbar"></topic>
-			<topic href="help/user/user-guide.html#Contextual_menu_in_the_overview_of_differences" label="Contextual menu in the overview of differences"></topic>
-			<topic href="help/user/user-guide.html#Signification_of_icons_associated_with_differences" label="Signification of icons associated with differences"></topic>
-			<topic href="help/user/user-guide.html#After_merge" label="After merge"></topic>
-			<topic href="help/user/user-guide.html#Merge_actions_recap" label="Merge actions recap"></topic>
-			<topic href="help/user/user-guide.html#Items_for_not_loaded_fragments" label="Items for not loaded fragments"></topic>
-		</topic>
-	</topic>
-	<topic href="help/user/user-guide.html#Launch_Comparison" label="Launch Comparison">
-		<topic href="help/user/user-guide.html#Compare_with_local_models" label="Compare with local models">
-			<topic href="help/user/user-guide.html#Compare_with_each_other" label="Compare with each other"></topic>
-			<topic href="help/user/user-guide.html#Compare_with_local_history" label="Compare with local history"></topic>
-		</topic>
-		<topic href="help/user/user-guide.html#Compare_with_remote_models_.28EGit.29" label="Compare with remote models (EGit)">
-			<topic href="help/user/user-guide.html#Compare_with_latest" label="Compare with latest"></topic>
-			<topic href="help/user/user-guide.html#Compare_two_differing_branches" label="Compare two differing branches"></topic>
-			<topic href="help/user/user-guide.html#Resource_name_changes" label="Resource name changes"></topic>
+		<topic href="help/user/user-guide.html#User_Interface_Breakdown" label="用户界面细分">
+			<topic href="help/user/user-guide.html#Toolbar" label="工具栏"></topic>
+			<topic href="help/user/user-guide.html#Contextual_menu_in_the_overview_of_differences" label="差异概述中的上下文菜单"></topic>
+			<topic href="help/user/user-guide.html#Signification_of_icons_associated_with_differences" label="与差异相关的图标的表示"></topic>
+			<topic href="help/user/user-guide.html#After_merge" label="合并后"></topic>
+			<topic href="help/user/user-guide.html#Merge_actions_recap" label="合并行动回顾"></topic>
+			<topic href="help/user/user-guide.html#Items_for_not_loaded_fragments" label="未加载片段的项目"></topic>
 		</topic>
 	</topic>
-	<topic href="help/user/user-guide.html#Features" label="Features">
-		<topic href="help/user/user-guide.html#Grouping_Differences" label="Grouping Differences"></topic>
-		<topic href="help/user/user-guide.html#Filtering_Differences" label="Filtering Differences"></topic>
-		<topic href="help/user/user-guide.html#Handling_Conflicts" label="Handling Conflicts"></topic>
-		<topic href="help/user/user-guide.html#Text_Attribute_Comparison" label="Text Attribute Comparison"></topic>
-		<topic href="help/user/user-guide.html#Graphical_Comparison" label="Graphical Comparison"></topic>
-		<topic href="help/user/user-guide.html#Logical_Model" label="Logical Model"></topic>
-		<topic href="help/user/user-guide.html#UML_Specialization" label="UML Specialization"></topic>
+	<topic href="help/user/user-guide.html#Launch_Comparison" label="发布比较">
+		<topic href="help/user/user-guide.html#Compare_with_local_models" label="与本地型号比较">
+			<topic href="help/user/user-guide.html#Compare_with_each_other" label="相互比较"></topic>
+			<topic href="help/user/user-guide.html#Compare_with_local_history" label="与当地历史比较"></topic>
+		</topic>
+		<topic href="help/user/user-guide.html#Compare_with_remote_models_.28EGit.29" label="与远程型号（EGit）比较">
+			<topic href="help/user/user-guide.html#Compare_with_latest" label="与最新的比较"></topic>
+			<topic href="help/user/user-guide.html#Compare_two_differing_branches" label="比较两个不同的分支"></topic>
+			<topic href="help/user/user-guide.html#Resource_name_changes" label="资源名称更改"></topic>
+		</topic>
 	</topic>
-	<topic href="help/user/user-guide.html#Customization" label="Customization">
-		<topic href="help/user/user-guide.html#Engines" label="Engines">
-			<topic href="help/user/user-guide.html#Match_Engine" label="Match Engine">
-				<topic href="help/user/user-guide.html#Configure_registered_matching_engine" label="Configure registered matching engine">
-					<topic href="help/user/user-guide.html#Matching_strategy_for_default_match_engine" label="Matching strategy for default match engine"></topic>
+	<topic href="help/user/user-guide.html#Features" label="特征">
+		<topic href="help/user/user-guide.html#Grouping_Differences" label="分组差异"></topic>
+		<topic href="help/user/user-guide.html#Filtering_Differences" label="过滤差异"></topic>
+		<topic href="help/user/user-guide.html#Handling_Conflicts" label="处理冲突"></topic>
+		<topic href="help/user/user-guide.html#Text_Attribute_Comparison" label="文本属性比较"></topic>
+		<topic href="help/user/user-guide.html#Graphical_Comparison" label="图形比较"></topic>
+		<topic href="help/user/user-guide.html#Logical_Model" label="逻辑模型"></topic>
+		<topic href="help/user/user-guide.html#UML_Specialization" label="UML专业化"></topic>
+	</topic>
+	<topic href="help/user/user-guide.html#Customization" label="定制">
+		<topic href="help/user/user-guide.html#Engines" label="引擎">
+			<topic href="help/user/user-guide.html#Match_Engine" label="匹配引擎">
+				<topic href="help/user/user-guide.html#Configure_registered_matching_engine" label="配置注册的匹配引擎">
+					<topic href="help/user/user-guide.html#Matching_strategy_for_default_match_engine" label="默认匹配引擎的匹配策略"></topic>
 				</topic>
-				<topic href="help/user/user-guide.html#Enable.2FDisable_Match_Engines" label="Enable/Disable Match Engines"></topic>
+				<topic href="help/user/user-guide.html#Enable.2FDisable_Match_Engines" label="启用/禁用匹配引擎"></topic>
 			</topic>
-			<topic href="help/user/user-guide.html#For_other_engines" label="For other engines">
-				<topic href="help/user/user-guide.html#Choose_the_default_engine" label="Choose the default engine"></topic>
-			</topic>
-		</topic>
-		<topic href="help/user/user-guide.html#Post_processors_customization" label="Post processors customization">
-			<topic href="help/user/user-guide.html#Model_Resolvers" label="Model Resolvers">
-				<topic href="help/user/user-guide.html#Choose_a_strategy" label="Choose a strategy"></topic>
-				<topic href="help/user/user-guide.html#Disable_model_resolution" label="Disable model resolution"></topic>
+			<topic href="help/user/user-guide.html#For_other_engines" label="对于其他引擎">
+				<topic href="help/user/user-guide.html#Choose_the_default_engine" label="选择默认引擎"></topic>
 			</topic>
 		</topic>
-		<topic href="help/user/user-guide.html#User_Interface_customization" label="User Interface customization">
-			<topic href="help/user/user-guide.html#Colors_Customization" label="Colors Customization"></topic>
-			<topic href="help/user/user-guide.html#Filters" label="Filters"></topic>
-			<topic href="help/user/user-guide.html#Groups" label="Groups"></topic>
-			<topic href="help/user/user-guide.html#Items_providers" label="Items providers"></topic>
+		<topic href="help/user/user-guide.html#Post_processors_customization" label="后处理器定制">
+			<topic href="help/user/user-guide.html#Model_Resolvers" label="模型解析器">
+				<topic href="help/user/user-guide.html#Choose_a_strategy" label="选择一个策略"></topic>
+				<topic href="help/user/user-guide.html#Disable_model_resolution" label="禁用模型分辨率"></topic>
+			</topic>
+		</topic>
+		<topic href="help/user/user-guide.html#User_Interface_customization" label="用户界面自定义">
+			<topic href="help/user/user-guide.html#Colors_Customization" label="颜色定制"></topic>
+			<topic href="help/user/user-guide.html#Filters" label="过滤器"></topic>
+			<topic href="help/user/user-guide.html#Groups" label="组"></topic>
+			<topic href="help/user/user-guide.html#Items_providers" label="物品供应商"></topic>
 		</topic>
 	</topic>
-	<topic href="help/user/user-guide.html#Logical_Model_View" label="Logical Model View">
-		<topic href="help/user/user-guide.html#Toolbar_2" label="Toolbar"></topic>
-		<topic href="help/user/user-guide.html#Contextual_Menu" label="Contextual Menu"></topic>
+	<topic href="help/user/user-guide.html#Logical_Model_View" label="逻辑模型视图">
+		<topic href="help/user/user-guide.html#Toolbar_2" label="工具栏"></topic>
+		<topic href="help/user/user-guide.html#Contextual_Menu" label="上下文菜单"></topic>
 	</topic>
-	<topic href="help/user/user-guide.html#Known_Bugs_and_Limitations" label="Known Bugs and Limitations"></topic>
-	<topic href="help/user/user-guide.html#Other_Materials" label="Other Materials"></topic>
+	<topic href="help/user/user-guide.html#Known_Bugs_and_Limitations" label="已知错误和限制"></topic>
+	<topic href="help/user/user-guide.html#Other_Materials" label="其他材料"></topic>
 </toc>

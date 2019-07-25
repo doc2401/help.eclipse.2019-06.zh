@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="reference/wiki/Zest.html" label="GEF Zest Developer Documentation">
-	<topic href="reference/wiki/Zest.html" label="Introduction"></topic>
+<toc topic="reference/wiki/Zest.html" label="GEF Zest开发人员文档">
+	<topic href="reference/wiki/Zest.html" label="介绍"></topic>
 	<topic href="reference/wiki/Zest.html#zest-fx" label="Zest.FX">
-		<topic href="reference/wiki/Zest.html#root" label="{Root}">
+		<topic href="reference/wiki/Zest.html#root" label="{根}">
 			<topic href="reference/wiki/Zest.html#zestfxmodule" label="ZestFxModule"></topic>
 			<topic href="reference/wiki/Zest.html#zestproperties" label="ZestProperties"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#behaviors" label="Behaviors">
-			<topic href="reference/wiki/Zest.html#abstractlayoutbehavior-graphlayoutbehavior-nodelayoutbehavior-edgelayoutbehavior" label="AbstractLayoutBehavior, GraphLayoutBehavior, NodeLayoutBehavior, EdgeLayoutBehavior"></topic>
-			<topic href="reference/wiki/Zest.html#abstracthidingbehavior-nodehidingbehavior-edgehidingbehavior-edgelabelhidingbehavior" label="AbstractHidingBehavior, NodeHidingBehavior, EdgeHidingBehavior, EdgeLabelHidingBehavior"></topic>
+		<topic href="reference/wiki/Zest.html#behaviors" label="行为">
+			<topic href="reference/wiki/Zest.html#abstractlayoutbehavior-graphlayoutbehavior-nodelayoutbehavior-edgelayoutbehavior" label="AbstractLayoutBehavior，GraphLayoutBehavior，NodeLayoutBehavior，EdgeLayoutBehavior"></topic>
+			<topic href="reference/wiki/Zest.html#abstracthidingbehavior-nodehidingbehavior-edgehidingbehavior-edgelabelhidingbehavior" label="AbstractHidingBehavior，NodeHidingBehavior，EdgeHidingBehavior，EdgeLabelHidingBehavior"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#models" label="Models">
+		<topic href="reference/wiki/Zest.html#models" label="楷模">
 			<topic href="reference/wiki/Zest.html#hidingmodel" label="HidingModel"></topic>
 			<topic href="reference/wiki/Zest.html#navigationmodel" label="NavigationModel"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#operations" label="Operations">
-			<topic href="reference/wiki/Zest.html#hideoperation-showhiddenneighboursoperation" label="HideOperation, ShowHiddenNeighboursOperation"></topic>
+		<topic href="reference/wiki/Zest.html#operations" label="操作">
+			<topic href="reference/wiki/Zest.html#hideoperation-showhiddenneighboursoperation" label="HideOperation，ShowHiddenNeighboursOperation"></topic>
 			<topic href="reference/wiki/Zest.html#navigateoperation" label="NavigateOperation"></topic>
 			<topic href="reference/wiki/Zest.html#changeattributesoperation" label="ChangeAttributesOperation"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#parts" label="Parts">
+		<topic href="reference/wiki/Zest.html#parts" label="部分">
 			<topic href="reference/wiki/Zest.html#zestfxrootpart" label="ZestFxRootPart"></topic>
-			<topic href="reference/wiki/Zest.html#graphpart-nodepart-nodelabelpart-edgepart-edgelabelpart-zestfxcontentpartfactory" label="GraphPart, NodePart, NodeLabelPart, EdgePart, EdgeLabelPart, ZestFxContentPartFactory"></topic>
-			<topic href="reference/wiki/Zest.html#hidehoverhandlepart-showhiddenneighborshoverhandlepart-zestfxhoverhandlepartfactory" label="HideHoverHandlePart, ShowHiddenNeighborsHoverHandlePart, ZestFxHoverHandlePartFactory"></topic>
+			<topic href="reference/wiki/Zest.html#graphpart-nodepart-nodelabelpart-edgepart-edgelabelpart-zestfxcontentpartfactory" label="GraphPart，NodePart，NodeLabelPart，EdgePart，EdgeLabelPart，ZestFxContentPartFactory"></topic>
+			<topic href="reference/wiki/Zest.html#hidehoverhandlepart-showhiddenneighborshoverhandlepart-zestfxhoverhandlepartfactory" label="HideHoverHandlePart，ShowHiddenNeighborsHoverHandlePart，ZestFxHoverHandlePartFactory"></topic>
 			<topic href="reference/wiki/Zest.html#hiddenneighborsfeedbackpart" label="HiddenNeighborsFeedbackPart"></topic>
 			<topic href="reference/wiki/Zest.html#zestfxselectionhandlepartfactory" label="ZestFxSelectionHandlePartFactory"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#policies" label="Policies">
-			<topic href="reference/wiki/Zest.html#hidepolicy-showhiddenneighborspolicy-hideontypepolicy-showhiddenneighborsontypepolicy-hidefirstanchorageonclickpolicy-showhiddenneighborsoffirstanchorageonclickpolicy" label="HidePolicy, ShowHiddenNeighborsPolicy, HideOnTypePolicy, ShowHiddenNeighborsOnTypePolicy, HideFirstAnchorageOnClickPolicy, ShowHiddenNeighborsOfFirstAnchorageOnClickPolicy"></topic>
-			<topic href="reference/wiki/Zest.html#transformlabelpolicy-translateselectedandrelocatelabelsondragpolicy" label="TransformLabelPolicy, TranslateSelectedAndRelocateLabelsOnDragPolicy"></topic>
-			<topic href="reference/wiki/Zest.html#semanticzoompolicy-opennestedgraphondoubleclickpolicy-openparentgraphondoubleclickpolicy" label="SemanticZoomPolicy, OpenNestedGraphOnDoubleClickPolicy, OpenParentGraphOnDoubleClickPolicy"></topic>
+		<topic href="reference/wiki/Zest.html#policies" label="政策">
+			<topic href="reference/wiki/Zest.html#hidepolicy-showhiddenneighborspolicy-hideontypepolicy-showhiddenneighborsontypepolicy-hidefirstanchorageonclickpolicy-showhiddenneighborsoffirstanchorageonclickpolicy" label="HidePolicy，ShowHiddenNeighborsPolicy，HideOnTypePolicy，ShowHiddenNeighborsOnTypePolicy，HideFirstAnchorageOnClickPolicy，ShowHiddenNeighborsOfFirstAnchorageOnClickPolicy"></topic>
+			<topic href="reference/wiki/Zest.html#transformlabelpolicy-translateselectedandrelocatelabelsondragpolicy" label="TransformLabelPolicy，TranslateSelectedAndRelocateLabelsOnDragPolicy"></topic>
+			<topic href="reference/wiki/Zest.html#semanticzoompolicy-opennestedgraphondoubleclickpolicy-openparentgraphondoubleclickpolicy" label="SemanticZoomPolicy，OpenNestedGraphOnDoubleClickPolicy，OpenParentGraphOnDoubleClickPolicy"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#providers" label="Providers">
+		<topic href="reference/wiki/Zest.html#providers" label="供应商">
 			<topic href="reference/wiki/Zest.html#nodepartanchorprovider" label="NodePartAnchorProvider"></topic>
 		</topic>
 	</topic>
 	<topic href="reference/wiki/Zest.html#zest-fx-jface" label="Zest.FX.JFace">
-		<topic href="reference/wiki/Zest.html#root2" label="{Root}">
+		<topic href="reference/wiki/Zest.html#root2" label="{根}">
 			<topic href="reference/wiki/Zest.html#zestcontentviewer" label="ZestContentViewer"></topic>
 			<topic href="reference/wiki/Zest.html#igraphcontentprovider" label="IGraphContentProvider"></topic>
 			<topic href="reference/wiki/Zest.html#igraphattributesprovider" label="IGraphAttributesProvider"></topic>
 		</topic>
 	</topic>
 	<topic href="reference/wiki/Zest.html#zest-fx-ui" label="Zest.FX.UI">
-		<topic href="reference/wiki/Zest.html#root3" label="{Root}">
+		<topic href="reference/wiki/Zest.html#root3" label="{根}">
 			<topic href="reference/wiki/Zest.html#zestfxuimodule" label="ZestFxUiModule"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#parts2" label="Parts">
+		<topic href="reference/wiki/Zest.html#parts2" label="部分">
 			<topic href="reference/wiki/Zest.html#zestfxuiview" label="ZestFxUiView"></topic>
 		</topic>
 	</topic>
-	<topic href="reference/wiki/Zest.html#migration-from-zest-1-x-to-gef-zest" label="Migration from Zest 1.x to GEF Zest">
-		<topic href="reference/wiki/Zest.html#a-name-migration-from-zest-1x-core-to-gef4-zestfx-a-migration-from-zest-1-x-core-to-gef-zest-fx" label="Migration from Zest 1.x Core to GEF Zest.FX">
-			<topic href="reference/wiki/Zest.html#customizing-styles" label="Customizing Styles"></topic>
-			<topic href="reference/wiki/Zest.html#customizing-visualizations" label="Customizing Visualizations"></topic>
-			<topic href="reference/wiki/Zest.html#modifying-graphs" label="Modifying graphs"></topic>
-			<topic href="reference/wiki/Zest.html#layout-filter" label="Layout filter"></topic>
+	<topic href="reference/wiki/Zest.html#migration-from-zest-1-x-to-gef-zest" label="从Zest 1.x迁移到GEF Zest">
+		<topic href="reference/wiki/Zest.html#a-name-migration-from-zest-1x-core-to-gef4-zestfx-a-migration-from-zest-1-x-core-to-gef-zest-fx" label="从Zest 1.x Core迁移到GEF Zest.FX">
+			<topic href="reference/wiki/Zest.html#customizing-styles" label="自定义样式"></topic>
+			<topic href="reference/wiki/Zest.html#customizing-visualizations" label="自定义可视化"></topic>
+			<topic href="reference/wiki/Zest.html#modifying-graphs" label="修改图表"></topic>
+			<topic href="reference/wiki/Zest.html#layout-filter" label="布局过滤器"></topic>
 		</topic>
-		<topic href="reference/wiki/Zest.html#a-name-migration-from-zest-1x-jface-to-gef4-zestfxjface-a-migration-from-zest-1-x-jface-to-gef-zest-fx-jface" label="Migration from Zest 1.x JFace to GEF Zest.FX.JFace">
-			<topic href="reference/wiki/Zest.html#content-providers" label="Content Providers"></topic>
-			<topic href="reference/wiki/Zest.html#label-providers" label="Label Providers"></topic>
-			<topic href="reference/wiki/Zest.html#dedicated-providers-for-styles-tooltip-colors-fonts" label="Dedicated Providers for Styles, Tooltip, Colors, Fonts"></topic>
-			<topic href="reference/wiki/Zest.html#zooming" label="Zooming"></topic>
+		<topic href="reference/wiki/Zest.html#a-name-migration-from-zest-1x-jface-to-gef4-zestfxjface-a-migration-from-zest-1-x-jface-to-gef-zest-fx-jface" label="从Zest 1.x JFace迁移到GEF Zest.FX.JFace">
+			<topic href="reference/wiki/Zest.html#content-providers" label="内容提供商"></topic>
+			<topic href="reference/wiki/Zest.html#label-providers" label="标签提供商"></topic>
+			<topic href="reference/wiki/Zest.html#dedicated-providers-for-styles-tooltip-colors-fonts" label="风格，工具提示，颜色，字体的专用提供商"></topic>
+			<topic href="reference/wiki/Zest.html#zooming" label="缩放"></topic>
 		</topic>
 	</topic>
 	<anchor id="additions"/>

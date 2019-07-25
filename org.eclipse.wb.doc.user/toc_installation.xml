@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
-<toc label="Installation" link_to="toc.xml#installation" topic="html/installation/index.html"> 
+<toc label="安装" link_to="toc.xml#installation" topic="html/installation/index.html"> 
 	<topic 
-		label="System Requirements"
+		label="系统要求"
 		href="html/installation/system.html"/>
-   <topic href="html/installation/updatesite_3.8.html" label="Using update site for Eclipse 3.8 and 4.2">
+   <topic href="html/installation/updatesite_3.8.html" label="使用Eclipse 3.8和4.2的更新站点">
    </topic>
-   <topic href="html/installation/updatesite_3.7.html" label="Using update site for Eclipse 3.7">
+   <topic href="html/installation/updatesite_3.7.html" label="使用Eclipse 3.7的更新站点">
    </topic>
-   <topic href="html/installation/updatesite_3.6.html" label="Using update site for Eclipse 3.6">
+   <topic href="html/installation/updatesite_3.6.html" label="使用Eclipse 3.6的更新站点">
    </topic>
-   <topic href="html/installation/updatesite_3.5.html" label="Using update site for Eclipse 3.5">
+   <topic href="html/installation/updatesite_3.5.html" label="使用Eclipse 3.5的更新站点">
    </topic>
 	<topic 
-		label="Uninstall"
+		label="卸载"
 		href="html/installation/uninstall.html"/> 
 </toc>

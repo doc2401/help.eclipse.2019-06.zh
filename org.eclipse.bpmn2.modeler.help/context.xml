@@ -1,33 +1,33 @@
 <contexts>
    <context id="TOC">
-      <description>This is a graphical editor for authoring BPMN 2.0 compliant process diagrams.</description>
+      <description>这是一个用于编写符合BPMN 2.0标准的流程图的图形编辑器。</description>
       <topic href="html/toc.html" label="BPMN2 Modeler" />
    </context>
    <context id="Property_View">
-      <description>This shows the properties of the currently selected BPMN2 element.</description>
-      <topic href="html/PROPERTY VIEW.htm" label="BPMN2 Properties View" />
-      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="BPMN 2.0 Element Reference" />
+      <description>这显示了当前所选BPMN2元素的属性。</description>
+      <topic href="html/PROPERTY VIEW.htm" label="BPMN2属性视图" />
+      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="BPMN 2.0元素参考" />
    </context>
    <context id="Property_Dialog">
-      <description>This shows the properties of the currently selected BPMN2 element in a popup dialog instead of the Property View.</description>
-      <topic href="html/POPUP DIALOGS.htm" label="BPMN2 Properties Dialog" />
-      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="BPMN 2.0 Element Reference" />
+      <description>这将在弹出对话框中显示当前所选BPMN2元素的属性，而不是属性视图。</description>
+      <topic href="html/POPUP DIALOGS.htm" label="BPMN2属性对话框" />
+      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="BPMN 2.0元素参考" />
    </context>
    <context id="Outline_View">
-      <description>This shows an outline of of the BPMN2 process currently being edited.</description>
-      <topic href="html/OUTLINE VIEW.htm" label="BPMN2 Outline View" />
+      <description>这显示了当前正在编辑的BPMN2流程的概要。</description>
+      <topic href="html/OUTLINE VIEW.htm" label="BPMN2大纲视图" />
    </context>
    <context id="User_Preferences">
-      <description>Preference settings for the BPMN2 Diagram Editor.</description>
-      <topic href="html/USER PREFERENCES.htm" label="BPMN2 Preferences" />
+      <description>BPMN2图编辑器的首选项设置。</description>
+      <topic href="html/USER PREFERENCES.htm" label="BPMN2首选项" />
    </context>
    <context id="New_File_Wizard">
-      <description>This wizard creates a new BPMN 2.0 process diagram.</description>
-      <topic href="html/BPMN2 NEW FILE WIZARDS.htm#_Toc371905856" label="New File Wizard" />
-      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm#_Toc371905985" label="BPMN 2.0 Diagram Types" />
+      <description>该向导将创建一个新的BPMN 2.0流程图。</description>
+      <topic href="html/BPMN2 NEW FILE WIZARDS.htm#_Toc371905856" label="新文件向导" />
+      <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm#_Toc371905985" label="BPMN 2.0图表类型" />
    </context>
    <context id="JBPM_New_File_Wizard">
-      <description>This wizard creates a new jBPM process diagram.</description>
-      <topic href="html/BPMN2 NEW FILE WIZARDS.htm#_Toc371905857" label="New jBPM Process Wizard" />
+      <description>该向导将创建一个新的jBPM流程图。</description>
+      <topic href="html/BPMN2 NEW FILE WIZARDS.htm#_Toc371905857" label="新的jBPM流程向导" />
    </context>
 </contexts>

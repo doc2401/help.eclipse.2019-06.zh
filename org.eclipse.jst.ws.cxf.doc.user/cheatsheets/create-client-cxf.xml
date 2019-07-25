@@ -17,46 +17,46 @@
    <intro
          href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm">
       <description>
-         This cheat sheet will guide you through the individual steps to generate a JAX-WS client from a WSDL document using Apache CXF.
-      </description>
+         此备忘单将指导您完成使用Apache CXF从WSDL文档生成JAX-WS客户端的各个步骤。
+      </description>
    </intro>
    <item
          dialog="true"
          href="/org.eclipse.jst.ws.cxf.doc.user/tasks/create_client.html"
          title="Generate a JAX-WS client from a WSDL document">
       <description>
-         To generate a JAX-WS client from a WSDL document perform the following steps.
-         
-      </description>
-      <subitem label="Select &quot;File -&gt; New -&gt; Other...&quot; from the main menu, expand the &quot;Web Services&quot; category and choose &quot;Web Service Client&quot;. Click &quot;OK&quot;. Select the &quot;Click to perform&quot; button below to do this automatically.">
+         要从WSDL文档生成JAX-WS客户端，请执行以下步骤。
+         
+      </description>
+      <subitem label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务客户端”。点击“确定”。选择“点击执行”按钮下面的按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.internal.consumption.ui.wizard.client.clientwizard)"/>
       </subitem>
       <subitem
-            label="Enter the URI to the remote WSDL file that will be used to generate the client.">
+            label="输入将用于生成客户端的远程WSDL文件的URI。">
       </subitem>
       <subitem
-            label="Select &quot;Java Proxy&quot; as the &quot;Client type&quot;.">
+            label="选择“Java代理”作为“客户类型”。">
       </subitem>
       <subitem
-            label="Verify that &quot;Apache CXF 2.x&quot; is selected as the &quot;Web service runtime&quot;.">
+            label="验证“Apache CXF 2.x”被选为“Web服务运行时”。">
       </subitem>
       <subitem
-            label="Select the &quot;Client project&quot; link to choose the project in to which the JAX-WS client will be generated.">
+            label="选择“客户端项目”链接以选择将生成JAX-WS客户端的项目。">
       </subitem>
       <subitem
-            label="Move the client slider position to &quot;Develop Client&quot; and click &quot;Finish&quot;.">
+            label="将客户端滑块位置移动到“开发客户端”然后单击“完成”。">
       </subitem>
    </item>
    <item
          href="/org.eclipse.jdt.doc.user/gettingStarted/qs-12.htm"
          title="Run the JAX-WS client">
       <description>
-         Before running the client check the operation parameters that CXF generated for you and edit if necessary.
-<br/>
-<br/>
-To <b>run</b> your client, right-click on the client in the Project Explorer and select <b>Run As &gt; Java Application</b>. A new console view will open and display the responses of the operation invocations.
-      </description>
+         在运行客户端之前，请检查CXF为您生成的操作参数，并在必要时进行编辑。
+<BR/>
+<BR/>
+要<b>运行</ b>您的客户端，请在项目浏览器中右键单击客户端，然后选择<b>运行方式＆gt; Java应用程序</ b>。将打开一个新的控制台视图，并显示操作调用的响应。
+      </description>
    </item>
 </cheatsheet>

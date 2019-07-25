@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Acceleo Documentation" topic="pages/index.html">
- <topic href="pages/overview.html" label="Overview">
+<toc label="Acceleo文档" topic="pages/index.html">
+ <topic href="pages/overview.html" label="概观">
  </topic>
  <anchor id="org.eclipse.acceleo.doc.overview.anchor"/>
- <topic href="pages/gettingstarted/index.html" label="Getting Started">
+ <topic href="pages/gettingstarted/index.html" label="入门">
   <link toc="toc_gettingstarted.xml" />
  </topic>
  <anchor id="org.eclipse.acceleo.doc.gettingstarted.anchor"/>
- <topic href="pages/features/index.html" label="Features">
+ <topic href="pages/features/index.html" label="特征">
  </topic>
  <anchor id="org.eclipse.acceleo.doc.concepts.anchor"/>
- <topic label="Reference">
+ <topic label="参考">
   <link toc="toc_reference.xml" />
  </topic>
  <anchor id="org.eclipse.acceleo.doc.reference.anchor"/>
- <topic href="pages/whatsnew/index.html" label="What&apos;s new">
+ <topic href="pages/whatsnew/index.html" label="什么是新的">
  </topic>
- <topic label="Legal" href="pages/legal.html">
+ <topic label="法律" href="pages/legal.html">
  </topic>
  <anchor id="org.eclipse.acceleo.doc.anchor"/>
  <enablement>

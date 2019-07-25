@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Reference" >
-  <topic label="Reference">
-    <topic label="API Reference">
-       <topic label="Report Object Model API Reference" href="model/api/index.html"/>
-       <topic label="Report Engine API Reference" href="engine/api/index.html"/>
-       <topic label="BIRT Report Scripting API Reference" href="enginescript/api/index.html"/>
-       <topic label="Open Data Access (ODA) 2.0.2 API Reference" href="odaold/api/index.html"/>
-       <!--topic label="Open Data Access (ODA) 3.0.0 API Reference" href="oda/api/index.html"/-->
-       <topic label="Chart Engine API Reference" href="chart/api/index.html"/>
-       <topic label="Chart User Interface API Reference" href="chartui/api/index.html"/>
+<toc label="参考" >
+  <topic label="参考">
+    <topic label="API参考">
+       <topic label="报告对象模型API参考" href="model/api/index.html"/>
+       <topic label="报告引擎API参考" href="engine/api/index.html"/>
+       <topic label="BIRT报告脚本API参考" href="enginescript/api/index.html"/>
+       <topic label="开放数据访问（ODA）2.0.2 API参考" href="odaold/api/index.html"/>
+       <!--topic label="开放数据访问（ODA）3.0.0 API参考" href="oda/api/index.html"/-->
+       <topic label="Chart Engine API参考" href="chart/api/index.html"/>
+       <topic label="图表用户界面API参考" href="chartui/api/index.html"/>
     </topic>
-    <topic label="Extension Points Reference" >
+    <topic label="扩展点参考" >
       <topic label="org_eclipse_birt_chart_engine_aggregatefunctions" href="ref/ext/org_eclipse_birt_chart_engine_aggregatefunctions.html" />
       <topic label="org_eclipse_birt_chart_engine_datasetprocessors" href="ref/ext/org_eclipse_birt_chart_engine_datasetprocessors.html" />
       <topic label="org_eclipse_birt_chart_engine_devicerenderers" href="ref/ext/org_eclipse_birt_chart_engine_devicerenderers.html" />
@@ -33,6 +33,6 @@
       <topic label="org_eclipse_birt_report_model_reportItemModel" href="ref/ext/org_eclipse_birt_report_model_reportItem.html" />
       <!--topic label="org_eclipse_datatools_connectivity_oda_datasource" href="ref/ext/org_eclipse_datatools_connectivity_oda_datasource.html" /-->
     </topic>
-    <topic label="Report Object Model (ROM) Defintions Reference" href="doc/rom/index.html" />
+    <topic label="报告对象模型（ROM）定义参考" href="doc/rom/index.html" />
   </topic>
 </toc>

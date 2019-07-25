@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="help/EGit/GitHub/User_Guide/User-Guide.html" label="EGit GitHub Documentation">
-	<topic href="help/EGit/GitHub/User_Guide/User-Guide.html" label="Mylyn GitHub Connector User Guide">
-		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html" label="Overview"></topic>
-		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Getting_Started" label="Getting Started"></topic>
-		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Issues" label="Issues">
-			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Queries" label="Queries"></topic>
-			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Issue_Editor" label="Issue Editor"></topic>
+<toc topic="help/EGit/GitHub/User_Guide/User-Guide.html" label="EGit GitHub文档">
+	<topic href="help/EGit/GitHub/User_Guide/User-Guide.html" label="Mylyn GitHub连接器用户指南">
+		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html" label="概观"></topic>
+		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Getting_Started" label="入门"></topic>
+		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Issues" label="问题">
+			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Queries" label="查询"></topic>
+			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Issue_Editor" label="问题编辑"></topic>
 		</topic>
-		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Gists" label="Gists">
-			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Creating" label="Creating"></topic>
-			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Queries_2" label="Queries"></topic>
-			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Gist_Editor" label="Gist Editor"></topic>
+		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Gists" label="要旨">
+			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Creating" label="创建"></topic>
+			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Queries_2" label="查询"></topic>
+			<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Gist_Editor" label="要点编辑"></topic>
 		</topic>
-		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Frequently_Asked_Questions_.28FAQ.29" label="Frequently Asked Questions (FAQ)"></topic>
-		<topic href="help/EGit/GitHub/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="help/EGit/GitHub/User_Guide/User-Guide.html#Frequently_Asked_Questions_.28FAQ.29" label="常见问题（FAQ）"></topic>
+		<topic href="help/EGit/GitHub/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

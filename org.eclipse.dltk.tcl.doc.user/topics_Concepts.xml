@@ -3,32 +3,32 @@
 <!-- ========================== -->
 <!-- Define topics for the Concepts -->
 <!-- ========================== -->
-<toc label="Concepts" href="concepts/concepts-1.htm" >
-   <topic label="Overview" href="concepts/concepts-1.htm"/>
-   <topic label="Tcl projects" href="concepts/concepts-3.htm"/>
+<toc label="概念" href="concepts/concepts-1.htm" >
+   <topic label="概观" href="concepts/concepts-1.htm"/>
+   <topic label="Tcl项目" href="concepts/concepts-3.htm"/>
    <anchor id="c_javaprojects" />
 
-   <topic label="Tcl Build path" href="concepts/cbuildcp.htm">
+   <topic label="Tcl构建路径" href="concepts/cbuildcp.htm">
       <anchor id="c_buildclasspath" />
-      <topic label="Exclusion and inclusion filters" href="concepts/filters.htm" />
+      <topic label="排除和包含过滤器" href="concepts/filters.htm" />
       <anchor id="c_filters" />
    </topic>
-   <topic label="Tcl perspectives" href="concepts/concepts-5.htm"/>
+   <topic label="Tcl观点" href="concepts/concepts-5.htm"/>
    <anchor id="c_javaperspective" />
-   <topic label="Tcl views" href="concepts/cjavaviews.htm">
+   <topic label="Tcl观点" href="concepts/cjavaviews.htm">
       <anchor id="c_javaviews" />
-      <topic label="Filtering in Tcl views" href="concepts/cjavaviews_filtering.htm"/>
-      <topic label="Sorting in Tcl views" href="concepts/cjavaviews_sorting.htm"/>
+      <topic label="在Tcl视图中过滤" href="concepts/cjavaviews_filtering.htm"/>
+      <topic label="在Tcl视图中排序" href="concepts/cjavaviews_sorting.htm"/>
    </topic>
-   <topic label="Tcl editor" href="concepts/concepts-7.htm"/>
+   <topic label="Tcl编辑" href="concepts/concepts-7.htm"/>
    <anchor id="c_javaeditor" />
-   <topic label="Tcl search" href="concepts/concepts-8.htm"/>
+   <topic label="Tcl搜索" href="concepts/concepts-8.htm"/>
    <anchor id="c_javasearch" />
-   <topic label="Debugger" href="concepts/cdebugger.htm"/>
+   <topic label="调试器" href="concepts/cdebugger.htm"/>
    <anchor id="c_debugger" />
-   <topic label="Debugging" href="concepts/clocdbug.htm" />
+   <topic label="调试" href="concepts/clocdbug.htm" />
    <anchor id="c_localdebug" />
-   <topic label="Breakpoints" href="concepts/cbrkpnts.htm" />
+   <topic label="断点" href="concepts/cbrkpnts.htm" />
    <anchor id="c_breakpoints" />
   
 </toc>

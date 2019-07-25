@@ -19,68 +19,68 @@
  -->
    <intro href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html">
       <description>
-         Here you will learn the basics on snapshots and memory analysis.
-			We will focus on heap dumps only, the most complete type of snapshot.
-      </description>
+         在这里，您将学习快照和内存分析的基础知识。
+我们将只关注堆转储，这是最完整的快照类型。
+      </description>
    </intro>
    <item title="Open the heap dump" dialog="true" skip="false" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html">
       <description>
-         From the main menu, select
-			<b>File > Open Snapshot</b>,
-			<br/> then select a heap dump and press
-			<b>Open</b>.
-			<br/> In this cheat sheet we will use a sample heap dump. Please open it by
-			activating the action link below.
-      </description>
+         从主菜单中选择
+<b>文件>打开快照</ b>，
+<br/>然后选择堆转储并按
+<b>打开</ b>的。
+<br/>在这个备忘单中，我们将使用示例堆转储。请打开它
+激活下面的动作链接。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof"/>
    </item>
    <item title="Open Class Histogram" dialog="true" skip="false" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html#N10001__class_histogram">
       <description>
-         Class Histogram shows the classes found in the snapshot, 
-			the number of objects for each class, the heap memory consumption 
-			of these objects, and the minimum retained size of the objects. 
-			To open the view press
-			<br/>
-			<b>Open Class Histogram</b>
-			<br/> toolbar button.
-      </description>
+         类直方图显示快照中找到的类，
+每个类的对象数，堆内存消耗
+这些对象以及对象的最小保留大小。
+要打开视图，请按
+<BR/>
+<b>公开课直方图</ b>
+<br/>工具栏按钮。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="histogram"/>
    </item>
    <item title="Sort histogram by classloader" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/gettingstarted/basictutorial.html#N10001__histogram_by_classloader">
       <description>
-         To see the histogram sorted by classloaders select the
-			<br/>
-			<b>Group by classloader</b>
-			<br/>
-			combobox toolbar button. To return to the initial sorting select the
-			<b>Group by class</b> option of the same combobox.
-      </description>
+         要查看按类加载器排序的直方图，请选择
+<BR/>
+<b>按类加载器分组</ b>
+<BR/>
+组合框工具栏按钮。要返回初始排序，请选择
+<b>按类别</ b>选项使用相同的组合框。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="Histogram -groupby BY_CLASSLOADER"/>
    </item>
    <item title="Compare two snapshots" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/noteworthy.html#note_worthy">
       <description>
-         To compare two snapshots open a baseline snapshot and a later snapshot and from the snapshot Class Histogram view press the
-			<br/>
-			<b>Compare to another Heap Dump</b>
-			<br/>
-			toolbar button, and select the baseline snapshot to see the differences.
+         要比较两个快照，请打开基准快照和更高版本的快照，然后从快照类直方图视图中按
+<BR/>
+<b>与另一个堆转储比较</ b>
+<BR/>
+工具栏按钮，并选择基线快照以查看差异。
 
-			There is also a more general comparison view using the compare basket. Tables and trees are added to the compare basket from the Navigation History.
-      </description>
+使用比较篮子还有一个更一般的比较视图。表和树将添加到导航历史记录中的比较篮子中。
+      </description>
    </item>
    <item title="Export histogram data" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/tasks/exportdata.html">
       <description>
-         To export the histogram sorted by classes or classloaders press the
-			<br/>
-			<b>Export</b>
-			<br/> combobox toolbar button. Now you can choose among HTML, CSV and TXT export
-			formats.
-			<br/>
-			<br/> To copy the selection to the clipboard press 
-			<br/>
-			<b>Ctrl-C</b>
-			<br/> or use the context menu action.
-      </description>
+         要导出按类或类加载器排序的直方图，请按
+<BR/>
+<b>导出</ b>的
+<br/>组合框工具栏按钮。现在您可以选择HTML，CSV和TXT导出
+格式。
+<BR/>
+<br/>要将选择复制到剪贴板，请按
+<BR/>
+<B> Ctrl-C键</ B>
+<br/>或使用上下文菜单操作。
+      </description>
       <onCompletion>
          Congratulations! You have learned how to perform the basic analysis of the heap dump.
       </onCompletion>

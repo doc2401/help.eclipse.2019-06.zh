@@ -11,9 +11,9 @@
          Tasktop Technologies - initial API and implementation
  -->
 
-<toc label="Mylyn Documentation">
+<toc label="Mylyn文档">
 	<anchor id="pre" />
-	<topic label="Tasks User Guide">
+	<topic label="任务用户指南">
       <link toc="toc.xml"/>
     </topic>    
 	<anchor id="additions" />

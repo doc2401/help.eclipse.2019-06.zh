@@ -14,38 +14,38 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="JPA Diagram Editor Project User Guide">
+<toc label="JPA Diagram Editor项目用户指南">
 
-	<topic label="Getting Started" href="html/getting_started.html"/>
+	<topic label="入门" href="html/getting_started.html"/>
 	
-    <topic label="Tasks">
-    	<topic href="PLUGINS_ROOT/org.eclipse.jpt.doc.user/getting_started003.htm" label="Create new JPA project">
+    <topic label="任务">
+    	<topic href="PLUGINS_ROOT/org.eclipse.jpt.doc.user/getting_started003.htm" label="创建新的JPA项目">
     	</topic>
-     	<topic href="html/task_configuring_editor.html" label="Configuring the JPA Diagram Editor">
+     	<topic href="html/task_configuring_editor.html" label="配置JPA图编辑器">
     	</topic>
-    	<topic href="html/task_open_diagram.html" label="Creating and Displaying Persistent Types">
+    	<topic href="html/task_open_diagram.html" label="创建和显示持久类型">
     	</topic>
-    	<topic href="html/entity_inheritance.html" label="Managing Entity Inheritance">
+    	<topic href="html/entity_inheritance.html" label="管理实体继承">
     	</topic>
-    	<topic href="html/task_remove_entities.html" label="Defining and Removing Relationships between Entities">
+    	<topic href="html/task_remove_entities.html" label="定义和删除实体之间的关系">
     	</topic>
-    	<topic href="html/task_manage_types.html" label="Managing Persistent Types">
+    	<topic href="html/task_manage_types.html" label="管理持久性类型">
     	</topic>
-    	<topic href="html/task_refactor_entities.html" label="Refactoring, Configuring and Removing Persistent Types">
+    	<topic href="html/task_refactor_entities.html" label="重构，配置和删除持久类型">
     	</topic>
-    	<topic href="html/task_open_miniature_view.html" label="Opening the Miniature View and the JPA Details View">
+    	<topic href="html/task_open_miniature_view.html" label="打开微缩视图和JPA详细信息视图">
     	</topic>
-    	<topic href="html/xml_entities.html" label="Defining Persistent Types in orm.xml">
+    	<topic href="html/xml_entities.html" label="在orm.xml中定义持久性类型">
     	</topic>
-    	<topic href="html/task_20_support.html" label="JPA Diagram Editor Support for JPA 2.0">
-    		<topic href="html/embeddables.html" label="Embedding an Embeddable"/>
-    		<topic href="html/element_collection.html" label="Adding Attribute of Type element-collection"/>
-    		<topic href="html/embeddable_relationships.html" label="Defining and Removing Relationships between Embeddables	and Entities"/>
-    		<topic href="html/derived_identifiers.html" label="Derived Identifiers"/>
+    	<topic href="html/task_20_support.html" label="JPA Diagram Editor支持JPA 2.0">
+    		<topic href="html/embeddables.html" label="嵌入嵌入式"/>
+    		<topic href="html/element_collection.html" label="添加Type元素集合的属性"/>
+    		<topic href="html/embeddable_relationships.html" label="定义和删除可嵌入和实体之间的关系"/>
+    		<topic href="html/derived_identifiers.html" label="派生标识符"/>
     	</topic>
  	</topic>
-    <topic label="Reference">
-       <topic href="html/reference_project_page.html" label="Property Page - JPA Diagram Editor Options">
+    <topic label="参考">
+       <topic href="html/reference_project_page.html" label="属性页 -  JPA图编辑器选项">
        </topic>
     </topic> 
 

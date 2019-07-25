@@ -3,84 +3,84 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the porting guide index                                     -->
 <!-- ============================================================================= -->
-<toc label="Migration">
-	<topic label="Deprecated API removals" href="porting/removals.html"/>
-	<topic label="Migrating to Eclipse 4.12 from 4.11">
-		<topic label="Introduction" href="porting/eclipse_4_12_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.12/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.12/incompatibilities.html" />
-		<topic label="Adopting 4.12 mechanisms and API" href="porting/4.12/recommended.html" />
+<toc label="移民">
+	<topic label="弃用的API删除" href="porting/removals.html"/>
+	<topic label="从4.11迁移到Eclipse 4.12">
+		<topic label="介绍" href="porting/eclipse_4_12_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.12/faq.html" />
+		<topic label="不兼容性" href="porting/4.12/incompatibilities.html" />
+		<topic label="采用4.12机制和API" href="porting/4.12/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.11 from 4.10">
-		<topic label="Introduction" href="porting/eclipse_4_11_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.11/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.11/incompatibilities.html" />
-		<topic label="Adopting 4.11 mechanisms and API" href="porting/4.11/recommended.html" />
+	<topic label="从4.10迁移到Eclipse 4.11">
+		<topic label="介绍" href="porting/eclipse_4_11_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.11/faq.html" />
+		<topic label="不兼容性" href="porting/4.11/incompatibilities.html" />
+		<topic label="采用4.11机制和API" href="porting/4.11/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.10 from 4.9">
-		<topic label="Introduction" href="porting/eclipse_4_10_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.10/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.10/incompatibilities.html" />
-		<topic label="Adopting 4.10 mechanisms and API" href="porting/4.10/recommended.html" />
+	<topic label="从4.9迁移到Eclipse 4.10">
+		<topic label="介绍" href="porting/eclipse_4_10_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.10/faq.html" />
+		<topic label="不兼容性" href="porting/4.10/incompatibilities.html" />
+		<topic label="采用4.10机制和API" href="porting/4.10/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.9 from 4.8">
-		<topic label="Introduction" href="porting/eclipse_4_9_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.9/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.9/incompatibilities.html" />
-		<topic label="Adopting 4.9 mechanisms and API" href="porting/4.9/recommended.html" />
+	<topic label="从4.8迁移到Eclipse 4.9">
+		<topic label="介绍" href="porting/eclipse_4_9_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.9/faq.html" />
+		<topic label="不兼容性" href="porting/4.9/incompatibilities.html" />
+		<topic label="采用4.9机制和API" href="porting/4.9/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.8 from 4.7">
-		<topic label="Introduction" href="porting/eclipse_4_8_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.8/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.8/incompatibilities.html" />
-		<topic label="Adopting 4.8 mechanisms and API" href="porting/4.8/recommended.html" />
+	<topic label="从4.7迁移到Eclipse 4.8">
+		<topic label="介绍" href="porting/eclipse_4_8_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.8/faq.html" />
+		<topic label="不兼容性" href="porting/4.8/incompatibilities.html" />
+		<topic label="采用4.8机制和API" href="porting/4.8/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.7 from 4.6">
-		<topic label="Introduction" href="porting/eclipse_4_7_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.7/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.7/incompatibilities.html" />
-		<topic label="Adopting 4.7 mechanisms and API" href="porting/4.7/recommended.html" />
+	<topic label="从4.6迁移到Eclipse 4.7">
+		<topic label="介绍" href="porting/eclipse_4_7_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.7/faq.html" />
+		<topic label="不兼容性" href="porting/4.7/incompatibilities.html" />
+		<topic label="采用4.7机制和API" href="porting/4.7/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.6 from 4.5">
-		<topic label="Introduction" href="porting/eclipse_4_6_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.6/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.6/incompatibilities.html" />
-		<topic label="Adopting 4.6 mechanisms and API" href="porting/4.6/recommended.html" />
+	<topic label="从4.5迁移到Eclipse 4.6">
+		<topic label="介绍" href="porting/eclipse_4_6_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.6/faq.html" />
+		<topic label="不兼容性" href="porting/4.6/incompatibilities.html" />
+		<topic label="采用4.6机制和API" href="porting/4.6/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.5 from 4.4">
-		<topic label="Introduction" href="porting/eclipse_4_5_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.5/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.5/incompatibilities.html" />
-		<topic label="Adopting 4.5 mechanisms and API" href="porting/4.5/recommended.html" />
+	<topic label="从4.4迁移到Eclipse 4.5">
+		<topic label="介绍" href="porting/eclipse_4_5_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.5/faq.html" />
+		<topic label="不兼容性" href="porting/4.5/incompatibilities.html" />
+		<topic label="采用4.5机制和API" href="porting/4.5/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.4 from 4.3">
-		<topic label="Introduction" href="porting/eclipse_4_4_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.4/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.4/incompatibilities.html" />
-		<topic label="Adopting 4.4 mechanisms and API" href="porting/4.4/recommended.html" />
+	<topic label="从4.3迁移到Eclipse 4.4">
+		<topic label="介绍" href="porting/eclipse_4_4_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.4/faq.html" />
+		<topic label="不兼容性" href="porting/4.4/incompatibilities.html" />
+		<topic label="采用4.4机制和API" href="porting/4.4/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.3 from 4.2">
-		<topic label="Introduction" href="porting/eclipse_4_3_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.3/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.3/incompatibilities.html" />
-		<topic label="Adopting 4.3 mechanisms and API" href="porting/4.3/recommended.html" />
+	<topic label="从4.2迁移到Eclipse 4.3">
+		<topic label="介绍" href="porting/eclipse_4_3_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.3/faq.html" />
+		<topic label="不兼容性" href="porting/4.3/incompatibilities.html" />
+		<topic label="采用4.3机制和API" href="porting/4.3/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 4.2 from 3.7">
-		<topic label="Introduction" href="porting/eclipse_4_2_porting_guide.html"/>
-		<topic label="FAQ" href="porting/4.2/faq.html" />
-		<topic label="Incompatibilities" href="porting/4.2/incompatibilities.html" />
-		<topic label="Adopting 4.2 mechanisms and API" href="porting/4.2/recommended.html" />
+	<topic label="从3.7迁移到Eclipse 4.2">
+		<topic label="介绍" href="porting/eclipse_4_2_porting_guide.html"/>
+		<topic label="常问问题" href="porting/4.2/faq.html" />
+		<topic label="不兼容性" href="porting/4.2/incompatibilities.html" />
+		<topic label="采用4.2机制和API" href="porting/4.2/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 3.7 from 3.6">
-		<topic label="Introduction" href="porting/eclipse_3_7_porting_guide.html"/>
-		<topic label="FAQ" href="porting/3.7/faq.html" />
-		<topic label="Incompatibilities" href="porting/3.7/incompatibilities.html" />
-		<topic label="Adopting 3.7 mechanisms and API" href="porting/3.7/recommended.html" />
+	<topic label="从3.6迁移到Eclipse 3.7">
+		<topic label="介绍" href="porting/eclipse_3_7_porting_guide.html"/>
+		<topic label="常问问题" href="porting/3.7/faq.html" />
+		<topic label="不兼容性" href="porting/3.7/incompatibilities.html" />
+		<topic label="采用3.7机制和API" href="porting/3.7/recommended.html" />
 	</topic>
-	<topic label="Migrating to Eclipse 3.6 from 3.5">
-		<topic label="Introduction" href="porting/eclipse_3_6_porting_guide.html"/>
-		<topic label="FAQ" href="porting/3.6/faq.html" />
-		<topic label="Incompatibilities" href="porting/3.6/incompatibilities.html" />
-		<topic label="Adopting 3.6 mechanisms and API" href="porting/3.6/recommended.html" />
+	<topic label="从3.5迁移到Eclipse 3.6">
+		<topic label="介绍" href="porting/eclipse_3_6_porting_guide.html"/>
+		<topic label="常问问题" href="porting/3.6/faq.html" />
+		<topic label="不兼容性" href="porting/3.6/incompatibilities.html" />
+		<topic label="采用3.6机制和API" href="porting/3.6/recommended.html" />
 	</topic>
 </toc>

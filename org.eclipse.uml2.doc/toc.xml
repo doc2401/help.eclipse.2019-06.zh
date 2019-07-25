@@ -19,21 +19,21 @@
 <!-- Define the top level topics                                            -->
 <!-- ====================================================================== -->
 
-<toc label="UML2 Developer Guide">
-	<topic label="Getting Started">
-		<topic label="Getting Started With UML2" href="http://wiki.eclipse.org/MDT/UML2/Getting_Started_with_UML2" />
-		<topic label="Introduction to UML2 Profiles" href="http://wiki.eclipse.org/MDT/UML2/Introduction_to_UML2_Profiles" />
+<toc label="UML2开发人员指南">
+	<topic label="入门">
+		<topic label="UML2入门" href="http://wiki.eclipse.org/MDT/UML2/Getting_Started_with_UML2" />
+		<topic label="UML2配置文件简介" href="http://wiki.eclipse.org/MDT/UML2/Introduction_to_UML2_Profiles" />
 	</topic>
-	<topic label="Tutorials">
-		<topic label="Creating DSLs using UML2" href="http://www.eclipse.org/modeling/mdt/uml2/docs/tutorials/EclipseCon2008_Tutorial_Creating_Robust_Scalable_DSL_with_UML_files/frame.html" />
+	<topic label="教程">
+		<topic label="使用UML2创建DSL" href="http://www.eclipse.org/modeling/mdt/uml2/docs/tutorials/EclipseCon2008_Tutorial_Creating_Robust_Scalable_DSL_with_UML_files/frame.html" />
 	</topic>		
-	<topic label="Articles">
-		<topic label="Defining Generics with UML Templates" href="http://www.eclipse.org/articles/article.php?file=Article-Defining-Generics-with-UML-Templates/index.html" />
-		<topic label="Customizing UML: Which Technique is Right for You?" href="http://www.eclipse.org/modeling/mdt/uml2/docs/articles/Customizing_UML2_Which_Technique_is_Right_For_You/article.html" />
+	<topic label="用品">
+		<topic label="使用UML模板定义泛型" href="http://www.eclipse.org/articles/article.php?file=Article-Defining-Generics-with-UML-Templates/index.html" />
+		<topic label="自定义UML：哪种技术适合您？" href="http://www.eclipse.org/modeling/mdt/uml2/docs/articles/Customizing_UML2_Which_Technique_is_Right_For_You/article.html" />
 	</topic>
-	<topic label="Online Docs">
-		<topic label="UML2 5.0 Migration Guide" href="http://wiki.eclipse.org/MDT/UML2/UML2_5.0_Migration_Guide" />
-		<topic label="UML2 FAQ" href="http://wiki.eclipse.org/MDT/UML2/FAQ" />
+	<topic label="在线文档">
+		<topic label="UML2 5.0迁移指南" href="http://wiki.eclipse.org/MDT/UML2/UML2_5.0_Migration_Guide" />
+		<topic label="UML2常见问题" href="http://wiki.eclipse.org/MDT/UML2/FAQ" />
 		<topic label="UML2 Javadoc" href="http://www.eclipse.org/modeling/mdt/javadoc/#uml2" />
 	</topic>
 </toc>

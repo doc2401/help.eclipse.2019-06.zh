@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="Docker Tooling User Guide">
-	<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="Docker Tooling User Guide">
-		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="Introduction"></topic>
-		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html" label="Docker Tooling Perspective">
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Explorer_View" label="Docker Explorer View">
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview" label="Overview"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#New_Connection_Wizard" label="New Connection Wizard"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Edit_Connection_Wizard" label="Edit Connection Wizard"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Filtering" label="Filtering"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Explorer_Context_Menu" label="Docker Explorer Context Menu"></topic>
+<toc topic="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="Docker工具用户指南">
+	<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="Docker工具用户指南">
+		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html" label="介绍"></topic>
+		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html" label="Docker工具视角">
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Explorer_View" label="Docker资源管理器视图">
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview" label="概观"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#New_Connection_Wizard" label="新连接向导"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Edit_Connection_Wizard" label="编辑连接向导"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Filtering" label="过滤"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Explorer_Context_Menu" label="Docker Explorer上下文菜单"></topic>
 			</topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Images_View" label="Docker Images View">
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview_2" label="Overview"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Pull_Image" label="Pull Image"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Push_Image" label="Push Image"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Run_Image" label="Run Image">
-					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Run_Image_Launch_Configuration" label="Run Image Launch Configuration"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Images_View" label="Docker图像视图">
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview_2" label="概观"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Pull_Image" label="拉图像"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Push_Image" label="推送图片"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Run_Image" label="运行图像">
+					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Run_Image_Launch_Configuration" label="运行映像启动配置"></topic>
 				</topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Build_Image" label="Build Image">
-					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Dockerfile_Editor" label="Dockerfile Editor"></topic>
-					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Build_Image_Run_Configuration" label="Build Image Run Configuration"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Build_Image" label="构建图像">
+					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Dockerfile_Editor" label="Dockerfile编辑器"></topic>
+					<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Build_Image_Run_Configuration" label="构建映像运行配置"></topic>
 				</topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Add_Tag" label="Add Tag"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Remove_Tag" label="Remove Tag"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Add_Tag" label="添加标签"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Remove_Tag" label="删除标签"></topic>
 			</topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Containers_View" label="Docker Containers View">
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview_3" label="Overview"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Filtering_Labels" label="Filtering Labels"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Commit_Container" label="Commit Container"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Display_Log" label="Display Log"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Containers_View" label="Docker容器视图">
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Overview_3" label="概观"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Filtering_Labels" label="过滤标签"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Commit_Container" label="提交容器"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Display_Log" label="显示日志"></topic>
 			</topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Copy_from_Container" label="Copy from Container"></topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Copy_to_Container" label="Copy to Container"></topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Image_Hierarchy_View" label="Docker Image Hierarchy View"></topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Properties_View" label="Properties View"></topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Compose" label="Docker Compose"></topic>
-			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Preferences" label="Docker Preferences">
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Main_Preference_Page" label="Docker Main Preference Page"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Compose_Preference_Page" label="Docker Compose Preference Page"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Machine_Preference_Page" label="Docker Machine Preference Page"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Logging_Preference_Page" label="Docker Logging Preference Page"></topic>
-				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Registry_Accounts_Preference_Page" label="Docker Registry Accounts Preference Page"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Copy_from_Container" label="从容器中复制"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Copy_to_Container" label="复制到容器"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Image_Hierarchy_View" label="Docker图像层次结构视图"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Properties_View" label="属性视图"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Compose" label="Docker撰写"></topic>
+			<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Preferences" label="Docker首选项">
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Main_Preference_Page" label="Docker主要偏好页面"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Compose_Preference_Page" label="Docker撰写首选项页面"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Machine_Preference_Page" label="Docker机器首选项"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Logging_Preference_Page" label="Docker日志首选项页面"></topic>
+				<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Perspective.html#Docker_Registry_Accounts_Preference_Page" label="Docker注册帐户首选项页面"></topic>
 			</topic>
 		</topic>
-		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="Linux_Tools_Project/Docker_Tooling/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

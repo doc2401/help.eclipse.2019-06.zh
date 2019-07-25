@@ -11,49 +11,49 @@
          Thales Corporate Services S.A.S - initial API and implementation
  -->
 
-<toc label="EGF Eclipse Generation Factories Guide">
-   <topic href="html/overview/overview.html" label="Overview">
+<toc label="EGF Eclipse生成工厂指南">
+   <topic href="html/overview/overview.html" label="概观">
       <anchor id="egfOverviews"/>
    </topic>
-   <topic label="Getting Started">
-      <topic href="http://eclipse.org/egf/" label="EGF Project Page">
+   <topic label="入门">
+      <topic href="http://eclipse.org/egf/" label="EGF项目">
       </topic>
       <topic href="http://wiki.eclipse.org/EGF" label="EGF Wiki">
       </topic>
-      <topic href="http://wiki.eclipse.org/images/6/66/EGF_Introduction.pdf" label="Introduction to EGF (slides on-line)">
+      <topic href="http://wiki.eclipse.org/images/6/66/EGF_Introduction.pdf" label="EGF介绍（幻灯片在线）">
       </topic>
       <anchor id="gettingstarted"/>
    </topic>
-   <topic label="Tutorials">
+   <topic label="教程">
       <anchor id="egfEngineTutorials"/>
-      <topic label="On-line Tutorials">
-         <topic href="http://wiki.eclipse.org/EGF_Tutorial_and_Use_Cases" label="All the tutorials">
+      <topic label="在线教程">
+         <topic href="http://wiki.eclipse.org/EGF_Tutorial_and_Use_Cases" label="所有教程">
          </topic>
-         <topic href="http://wiki.eclipse.org/images/5/50/EGF_Tutorial_Generation_Chain_v0.1.0.pdf" label="Generation Chain">
+         <topic href="http://wiki.eclipse.org/images/5/50/EGF_Tutorial_Generation_Chain_v0.1.0.pdf" label="代链">
          </topic>
-         <topic href="http://wiki.eclipse.org/images/5/5c/EGF_Tutorial_M2TReporting.pdf" label="Model-to-text: post-processing and reporting">
+         <topic href="http://wiki.eclipse.org/images/5/5c/EGF_Tutorial_M2TReporting.pdf" label="模型到文本：后处理和报告">
          </topic>
-         <topic href="http://wiki.eclipse.org/images/b/bd/EGF_Tutorial_Pattern_Trace.pdf" label="Pattern Trace">
+         <topic href="http://wiki.eclipse.org/images/b/bd/EGF_Tutorial_Pattern_Trace.pdf" label="模式跟踪">
          </topic>
-         <topic href="http://wiki.eclipse.org/images/4/43/EGF-Tutorial_reuse_and_customization_v0.1.0.pdf" label="Pattern reuse and customization">
+         <topic href="http://wiki.eclipse.org/images/4/43/EGF-Tutorial_reuse_and_customization_v0.1.0.pdf" label="模式重用和定制">
          </topic>
       </topic>
    </topic>
-   <topic label="Concepts">
+   <topic label="概念">
       <anchor id="concepts"/>
    </topic>
-   <topic label="Tasks">
+   <topic label="任务">
       <anchor id="tasks"/>
    </topic>
-   <!--<topic label="Process">
+   <!--<topic label="处理">
       <anchor id="process"/>
    </topic>-->
-   <topic label="Reference">
+   <topic label="参考">
       <anchor id="reference"/>
    </topic>
-   <topic label="Portfolio">
+   <topic label="投资组合">
       <anchor id="factoryComponents"/>
    </topic>
-   <topic label="What's new" href="http://wiki.eclipse.org/EGF/Releases"/>
-   <topic label="Legal" href="html/notices.html"/>
+   <topic label="什么是新的" href="http://wiki.eclipse.org/EGF/Releases"/>
+   <topic label="法律" href="html/notices.html"/>
 </toc>

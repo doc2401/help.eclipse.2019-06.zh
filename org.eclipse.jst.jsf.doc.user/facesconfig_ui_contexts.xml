@@ -16,8 +16,8 @@
 <contexts>
 	<context id="use_facesconfig_editor">
 		<description>
-			Configuring the faces-config xml File
-		</description>
-		<topic href="html/tasks/use_facesconfig_editor.html" label="Configuring Faces Config File" />
+配置faces-config xml文件
+</description>
+		<topic href="html/tasks/use_facesconfig_editor.html" label="配置Faces配置文件" />
 	</context>
 </contexts>

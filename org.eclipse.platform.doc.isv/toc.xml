@@ -4,26 +4,26 @@
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
 
-<toc label="Platform Plug-in Developer Guide">
-	<topic label="Programmer&apos;s Guide">
+<toc label="平台插件开发人员指南">
+	<topic label="程序员指南">
 		<link toc="topics_Guide.xml" />
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
 		<link toc="topics_Reference.xml" />
 	</topic>
-	<topic label="What's new" href="whatsNew/platform_isv_whatsnew.html">
+	<topic label="什么是新的" href="whatsNew/platform_isv_whatsnew.html">
 		<link toc="topics_WhatsNew.xml"/>
 	</topic>
-	<topic label="Plug-in Migration Guide">
+	<topic label="插件迁移指南">
 		<link toc="topics_Porting.xml"/>
 	</topic>
-	<topic label="Examples Guide">
+	<topic label="示例指南">
 		<link toc="topics_Samples.xml" />
 	</topic>
-	<topic label="Questions Index" href="questions/index.html">
+	<topic label="问题索引" href="questions/index.html">
 		<link toc="topics_Questions.xml" />
 	</topic>
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 	<enablement>
 		<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.pde.ui"/>
 	</enablement>

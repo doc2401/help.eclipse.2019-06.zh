@@ -12,578 +12,578 @@
 	Breakpoints View
 -->
 	<context  id="breakpoint_suspend_policy_toggle_action_context" >
-		<description>This command toggles a breakpoint's suspend policy between suspending all threads in a VM or only the thread in which the breakpoint was encountered.</description>
-		<topic label="Exception Breakpoint Suspend Policy" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
-		<topic label="Exception Breakpoint Suspend on Subclass Option" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
-		<topic label="Suspend Policy Context Action" href="reference/views/breakpoints/ref-suspendpolicy_contextaction.htm" />
-		<topic label="Exception Breakpoint Uncaught Option" href="reference/breakpoints/ref-uncaught_option.htm" />
-		<topic label="Add Java Exception Breakpoint" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此命令在挂起VM中的所有线程或仅遇到断点的线程之间切换断点的挂起策略。</description>
+		<topic label="异常断点暂停策略" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
+		<topic label="异常断点暂停子类选项" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
+		<topic label="暂停政策背景行动" href="reference/views/breakpoints/ref-suspendpolicy_contextaction.htm" />
+		<topic label="异常断点未捕获选项" href="reference/breakpoints/ref-uncaught_option.htm" />
+		<topic label="添加Java异常断点" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>				
 	<context  id="hit_count_action_context" >
-		<description>This command opens a dialog to configure a breakpoint's hit count.</description>
-		<topic label="Hit Count Option" href="reference/breakpoints/ref-hitcount_option.htm" />
-		<topic label="Hit Count Context Action" href="reference/views/breakpoints/ref-hitcount_contextaction.htm"/>
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此命令将打开一个对话框，以配置断点的命中计数。</description>
+		<topic label="命中计数选项" href="reference/breakpoints/ref-hitcount_option.htm" />
+		<topic label="命中计数上下文操作" href="reference/views/breakpoints/ref-hitcount_contextaction.htm"/>
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>	
 	<context  id="breakpoint_properties_action_context" >
-		<description>This command opens a dialog to configure a breakpoint's properties.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此命令将打开一个对话框，以配置断点的属性。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context  id="exception_caught_toggle_action_context" >
-		<description>When checked, this command configures an exception breakpoint to suspend execution in caught locations.</description>
-		<topic label="Exception Breakpoint Caught Option" href="reference/breakpoints/ref-caught_option.htm" />
-		<topic label="Exception Breakpoint Uncaught Option" href="reference/breakpoints/ref-uncaught_option.htm" />
-		<topic label="Caught Context Action" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
-		<topic label="Uncaught Context Action" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
-		<topic label="Exception Breakpoint Suspend on Subclass Option" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
-		<topic label="Add Java Exception Breakpoint" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>选中此选项后，此命令将配置异常断点以暂停捕获位置中的执行。</description>
+		<topic label="异常断点捕获选项" href="reference/breakpoints/ref-caught_option.htm" />
+		<topic label="异常断点未捕获选项" href="reference/breakpoints/ref-uncaught_option.htm" />
+		<topic label="捕捉上下文行动" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
+		<topic label="未捕获的上下文操作" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
+		<topic label="异常断点暂停子类选项" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
+		<topic label="添加Java异常断点" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context  id="exception_uncaught_toggle_action_context" >
-		<description>When checked, this command configures an exception breakpoint to suspend execution in uncaught locations.</description>
-		<topic label="Uncaught" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
-		<topic label="Exception Breakpoint Uncaught Option" href="reference/breakpoints/ref-uncaught_option.htm" />
-		<topic label="Exception Breakpoint Caught Option" href="reference/breakpoints/ref-caught_option.htm" />
-		<topic label="Caught Context Action" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
-		<topic label="Exception Breakpoint Suspend on Subclass Option" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
-		<topic label="Add Java Exception Breakpoint" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>选中此选项后，此命令将配置异常断点以暂停未捕获位置的执行。</description>
+		<topic label="未捕获" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
+		<topic label="异常断点未捕获选项" href="reference/breakpoints/ref-uncaught_option.htm" />
+		<topic label="异常断点捕获选项" href="reference/breakpoints/ref-caught_option.htm" />
+		<topic label="捕捉上下文行动" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
+		<topic label="异常断点暂停子类选项" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
+		<topic label="添加Java异常断点" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>	
 	<context  id="entry_toggle_action_context" >
-		<description>When checked, this command configures a method breakpoint to suspend execution when a method is entered.</description>
-		<topic label="Entry" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
-		<topic label="Method Breakpoint Entry Option" href="reference/breakpoints/ref-entry_option.htm" />
-		<topic label="Exit" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>选中此选项后，此命令将配置方法断点以在输入方法时暂停执行。</description>
+		<topic label="条目" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
+		<topic label="方法断点输入选项" href="reference/breakpoints/ref-entry_option.htm" />
+		<topic label="出口" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>				
 	<context  id="exit_toggle_action_context" >
-		<description>When checked, this command configures a method breakpoint to suspend execution when a method is exited.</description>
-		<topic label="Exit" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
-		<topic label="Method Breakpoint Exit Option" href="reference/breakpoints/ref-exit_option.htm" />
-		<topic label="Entry" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>选中此选项后，此命令将配置方法断点以在退出方法时暂停执行。</description>
+		<topic label="出口" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
+		<topic label="方法断点退出选项" href="reference/breakpoints/ref-exit_option.htm" />
+		<topic label="条目" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>				
 
 <!--
 	Console
 -->
 	<context  id="stack_trace_console_context">
-		<description>You can paste, format, and navigate Java stack traces in this console.</description>
-		<topic label="Stacktrace Console" href="reference/views/console/ref-stacktrace_console.htm"/>
-		<topic label="Console View" href="reference/views/console/ref-console_view.htm"/>
-		<topic label="Autoformat Console" href="reference/views/console/ref-autoformat_action.htm"/>
-		<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-		<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-		<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-		<topic label="Format" href="reference/views/console/ref-format_action.htm"/>
-		<topic label="Open Link" href="reference/views/console/ref-openlink_action.htm"/>
-		<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-		<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
+		<description>您可以在此控制台中粘贴，格式化和导航Java堆栈跟踪。</description>
+		<topic label="Stacktrace控制台" href="reference/views/console/ref-stacktrace_console.htm"/>
+		<topic label="控制台视图" href="reference/views/console/ref-console_view.htm"/>
+		<topic label="Autoformat控制台" href="reference/views/console/ref-autoformat_action.htm"/>
+		<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+		<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+		<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+		<topic label="格式" href="reference/views/console/ref-format_action.htm"/>
+		<topic label="打开链接" href="reference/views/console/ref-openlink_action.htm"/>
+		<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+		<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
 	</context>
 	<context id="console_autoformat_stacktraces_action">
-		<description>This command allows you to quickly toggle the stacktrace auto-format option. When on, all Java stacktraces pasted into the console will automatically be formatted for you.</description>
-		<topic label="Autoformat Console" href="reference/views/console/ref-autoformat_action.htm"/>
-		<topic label="Format" href="reference/views/console/ref-format_action.htm"/>
-		<topic label="Stacktrace Console" href="reference/views/console/ref-stacktrace_console.htm"/>
-		<topic label="Console View" href="reference/views/console/ref-console_view.htm"/>
+		<description>此命令允许您快速切换stacktrace自动格式选项。启用此选项后，将自动为您格式化粘贴到控制台中的所有Java堆栈跟踪。</description>
+		<topic label="Autoformat控制台" href="reference/views/console/ref-autoformat_action.htm"/>
+		<topic label="格式" href="reference/views/console/ref-format_action.htm"/>
+		<topic label="Stacktrace控制台" href="reference/views/console/ref-stacktrace_console.htm"/>
+		<topic label="控制台视图" href="reference/views/console/ref-console_view.htm"/>
 	</context>
 	<context id="format_java_stack_trace_console_action_context">
-		<description>Select this command to format the text in the console as a Java stack trace.  Formatting will fix whitespace problems and add links where possible.</description>
-		<topic label="Format" href="reference/views/console/ref-format_action.htm"/>
-		<topic label="Autoformat Console" href="reference/views/console/ref-autoformat_action.htm"/>
-		<topic label="Stacktrace Console" href="reference/views/console/ref-stacktrace_console.htm"/>
-		<topic label="Console View" href="reference/views/console/ref-console_view.htm"/>
+		<description>选择此命令可将控制台中的文本格式化为Java堆栈跟踪。格式化将解决空白问题并尽可能添加链接。</description>
+		<topic label="格式" href="reference/views/console/ref-format_action.htm"/>
+		<topic label="Autoformat控制台" href="reference/views/console/ref-autoformat_action.htm"/>
+		<topic label="Stacktrace控制台" href="reference/views/console/ref-stacktrace_console.htm"/>
+		<topic label="控制台视图" href="reference/views/console/ref-console_view.htm"/>
 	</context>
 
 <!-- 
 	Context Launch Shortcuts
 -->
 	<context  id="shortcut_local_java_application" >
-		<description>This command launches the selected main type as a Java application.</description>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
-		<topic label="Java application launch configuration" href=" tasks\tasks-java-local-configuration.htm"/>
-		<topic label="Debugger Concepts" href="concepts/cdebugger.htm"/>
-		<topic label="Running and Debugging" href="tasks/task-running_and_debugging.htm"/>
+		<description>此命令将选定的主类型作为Java应用程序启动。</description>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
+		<topic label="Java应用程序启动配置" href=" tasks\tasks-java-local-configuration.htm"/>
+		<topic label="调试器概念" href="concepts/cdebugger.htm"/>
+		<topic label="运行和调试" href="tasks/task-running_and_debugging.htm"/>
 	</context> 
 	<context  id="shortcut_java_applet" >
-		<description>This command launches the selected applet in an applet viewer.</description>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
-		<topic label="Debugger Concepts" href="concepts/cdebugger.htm"/>
-		<topic label="Running and Debugging" href="tasks/task-running_and_debugging.htm"/>
+		<description>此命令在applet查看器中启动选定的applet。</description>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
+		<topic label="调试器概念" href="concepts/cdebugger.htm"/>
+		<topic label="运行和调试" href="tasks/task-running_and_debugging.htm"/>
 	</context>
 
 <!--
 	Debug View
 -->
 	<context  id="show_system_threads_action_context" >
-		<description>This command toggles the display of non-suspended system threads.</description>
-		<topic label="Show System Threads" href="reference/views/debug/ref-showsystemthreads.htm"/>
-		<topic label="Show Monitors" href="reference/views/debug/ref-showmonitors.htm"/>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm"/>
-		<topic label="Show Thread Groups" href="reference/views/debug/ref-showthreadgroups.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令切换非挂起系统线程的显示。</description>
+		<topic label="显示系统线程" href="reference/views/debug/ref-showsystemthreads.htm"/>
+		<topic label="显示监视器" href="reference/views/debug/ref-showmonitors.htm"/>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm"/>
+		<topic label="显示线程组" href="reference/views/debug/ref-showthreadgroups.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>
 	<context id="show_monitors_action_context">
-		<description>This command toggles the display of owned monitors and monitors being waiting on by each suspended thread in the debug view.</description>
-		<topic label="Show Monitors" href="reference/views/debug/ref-showmonitors.htm"/>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm"/>
-		<topic label="Show System Threads" href="reference/views/debug/ref-showsystemthreads.htm"/>
-		<topic label="Show Thread Groups" href="reference/views/debug/ref-showthreadgroups.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令切换调试视图中每个挂起的线程正在等待的拥有的监视器和监视器的显示。</description>
+		<topic label="显示监视器" href="reference/views/debug/ref-showmonitors.htm"/>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm"/>
+		<topic label="显示系统线程" href="reference/views/debug/ref-showsystemthreads.htm"/>
+		<topic label="显示线程组" href="reference/views/debug/ref-showthreadgroups.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>
 	<context  id="show_thread_groups_action_context" >
-		<description>This command toggles the display of thread groups in the debug view.</description>
-		<topic label="Show Thread Groups" href="reference/views/debug/ref-showthreadgroups.htm"/>
-		<topic label="Show Monitors" href="reference/views/debug/ref-showmonitors.htm"/>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm"/>
-		<topic label="Show System Threads" href="reference/views/debug/ref-showsystemthreads.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令切换调试视图中线程组的显示。</description>
+		<topic label="显示线程组" href="reference/views/debug/ref-showthreadgroups.htm"/>
+		<topic label="显示监视器" href="reference/views/debug/ref-showmonitors.htm"/>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm"/>
+		<topic label="显示系统线程" href="reference/views/debug/ref-showsystemthreads.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>
 	<context  id="add_package_step_filter_action_context" >
-		<description>This command creates a step filter for the package associated with the receiver of the selected stack frame.</description>
-		<topic label="Filter Package" href="reference/views/debug/ref-filterpackage.htm"/>
-		<topic label="Edit Step Filters" href="reference/views/debug/ref-editstepfilters.htm"/>
-		<topic label="Filter Type" href="reference/views/debug/ref-filtertype.htm"/>
-		<topic label="Use Step Filters" href="reference/views/debug/ref-usestepfilters.htm"/>
-		<topic label="Stepping" href="tasks/task-stepping.htm" /> 
-		<topic label="Step Into" href="reference/views/debug/ref-stepinto.htm"/>
-		<topic label="Step Over" href="reference/views/debug/ref-stepover.htm"/>
-		<topic label="Step Return" href="reference/views/debug/ref-stepreturn.htm"/>
-		<topic label="Resume" href="reference/views/debug/ref-resume.htm"/>
-		<topic label="Suspend" href="reference/views/debug/ref-suspend.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令为与所选堆栈帧的接收器关联的包创建步骤过滤器。</description>
+		<topic label="过滤包" href="reference/views/debug/ref-filterpackage.htm"/>
+		<topic label="编辑步骤过滤器" href="reference/views/debug/ref-editstepfilters.htm"/>
+		<topic label="过滤器类型" href="reference/views/debug/ref-filtertype.htm"/>
+		<topic label="使用步骤过滤器" href="reference/views/debug/ref-usestepfilters.htm"/>
+		<topic label="步进" href="tasks/task-stepping.htm" /> 
+		<topic label="踏入" href="reference/views/debug/ref-stepinto.htm"/>
+		<topic label="跳过" href="reference/views/debug/ref-stepover.htm"/>
+		<topic label="退一步" href="reference/views/debug/ref-stepreturn.htm"/>
+		<topic label="恢复" href="reference/views/debug/ref-resume.htm"/>
+		<topic label="暂停" href="reference/views/debug/ref-suspend.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>	
 	<context  id="add_type_step_filter_action_context" >
-		<description>This command creates a step filter for the type associated with the receiver of the selected stack frame.</description>
-		<topic label="Filter Type" href="reference/views/debug/ref-filtertype.htm"/>
-		<topic label="Edit Step Filters" href="reference/views/debug/ref-editstepfilters.htm"/>
-		<topic label="Filter Package" href="reference/views/debug/ref-filterpackage.htm"/>
-		<topic label="Use Step Filters" href="reference/views/debug/ref-usestepfilters.htm"/>
-		<topic label="Stepping" href="tasks/task-stepping.htm" /> 
-		<topic label="Step Into" href="reference/views/debug/ref-stepinto.htm"/>
-		<topic label="Step Over" href="reference/views/debug/ref-stepover.htm"/>
-		<topic label="Step Return" href="reference/views/debug/ref-stepreturn.htm"/>
-		<topic label="Resume" href="reference/views/debug/ref-resume.htm"/>
-		<topic label="Suspend" href="reference/views/debug/ref-suspend.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令为与所选堆栈帧的接收器关联的类型创建步骤过滤器。</description>
+		<topic label="过滤器类型" href="reference/views/debug/ref-filtertype.htm"/>
+		<topic label="编辑步骤过滤器" href="reference/views/debug/ref-editstepfilters.htm"/>
+		<topic label="过滤包" href="reference/views/debug/ref-filterpackage.htm"/>
+		<topic label="使用步骤过滤器" href="reference/views/debug/ref-usestepfilters.htm"/>
+		<topic label="步进" href="tasks/task-stepping.htm" /> 
+		<topic label="踏入" href="reference/views/debug/ref-stepinto.htm"/>
+		<topic label="跳过" href="reference/views/debug/ref-stepover.htm"/>
+		<topic label="退一步" href="reference/views/debug/ref-stepreturn.htm"/>
+		<topic label="恢复" href="reference/views/debug/ref-resume.htm"/>
+		<topic label="暂停" href="reference/views/debug/ref-suspend.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>	
 	<context  id="edit_step_filters_action_context" >
-		<description>This command opens the Java step filters preference page.</description>
-		<topic label="Edit Step Filters" href="reference/views/debug/ref-editstepfilters.htm"/>
-		<topic label="Use Step Filters" href="reference/views/debug/ref-usestepfilters.htm"/>
-		<topic label="Stepping" href="tasks/task-stepping.htm" /> 
-		<topic label="Step Into" href="reference/views/debug/ref-stepinto.htm"/>
-		<topic label="Step Over" href="reference/views/debug/ref-stepover.htm"/>
-		<topic label="Step Return" href="reference/views/debug/ref-stepreturn.htm"/>
-		<topic label="Resume" href="reference/views/debug/ref-resume.htm"/>
-		<topic label="Suspend" href="reference/views/debug/ref-suspend.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
+		<description>此命令将打开Java步骤筛选器首选项页面。</description>
+		<topic label="编辑步骤过滤器" href="reference/views/debug/ref-editstepfilters.htm"/>
+		<topic label="使用步骤过滤器" href="reference/views/debug/ref-usestepfilters.htm"/>
+		<topic label="步进" href="tasks/task-stepping.htm" /> 
+		<topic label="踏入" href="reference/views/debug/ref-stepinto.htm"/>
+		<topic label="跳过" href="reference/views/debug/ref-stepover.htm"/>
+		<topic label="退一步" href="reference/views/debug/ref-stepreturn.htm"/>
+		<topic label="恢复" href="reference/views/debug/ref-resume.htm"/>
+		<topic label="暂停" href="reference/views/debug/ref-suspend.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
 	</context>
 
 <!-- 
 	Dialogs
 -->     
 	<context id="add_exception_dialog_context">
-		<description>This dialog allows you to add an exception breakpoint.</description>
-		<topic label="Add Java Exception Breakpoint" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
-		<topic label="Exception Breakpoint Suspend Policy" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
-		<topic label="Exception Breakpoint Suspend on Subclass Option" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
-		<topic label="Exception Breakpoint Uncaught Option" href="reference/breakpoints/ref-uncaught_option.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<description>此对话框允许您添加异常断点。</description>
+		<topic label="添加Java异常断点" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
+		<topic label="异常断点暂停策略" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
+		<topic label="异常断点暂停子类选项" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
+		<topic label="异常断点未捕获选项" href="reference/breakpoints/ref-uncaught_option.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
 	</context>
 	<context  id="add_new_jre_wizard_page_context" >
-		<description>This wizard allows you to create a new JRE install.  Select the type of JRE you are trying to add and hit next to continue.</description>
-  <topic href="tasks/task-add_new_jre.htm" label="Add New JRE"/>
-  <topic href="tasks/tasks-JREs.htm" label="Working with JREs"/>
-		<topic label="Installed JREs Preference Page" href="reference/preferences/java/debug/ref-installed_jres.htm" />
-		<topic label="Running and Debugging" href="tasks/task-running_and_debugging.htm"/>
+		<description>该向导允许您创建新的JRE安装。选择您要添加的JRE类型，然后单击下一步继续。</description>
+  <topic href="tasks/task-add_new_jre.htm" label="添加新JRE"/>
+  <topic href="tasks/tasks-JREs.htm" label="使用JRE"/>
+		<topic label="已安装的JRE首选项页面" href="reference/preferences/java/debug/ref-installed_jres.htm" />
+		<topic label="运行和调试" href="tasks/task-running_and_debugging.htm"/>
 	</context>
  <context id="edit_std_vm_jre_wizard_page_context">
-    <description>This dialog allows you to configure the location, name, and libraries associated with a JRE. Source and javadoc can be configured for each library.</description>
-    <topic href="tasks/task-add_new_jre.htm#StdVM" label="Add New JRE for Standard VM"/>
-    <topic href="tasks/tasks-JREs.htm" label="Working with JREs"/>
-    <topic href="reference/preferences/java/debug/ref-installed_jres.htm" label="Installed JREs Preference Page"/>
-    <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+    <description>此对话框允许您配置与JRE关联的位置，名称和库。可以为每个库配置Source和javadoc。</description>
+    <topic href="tasks/task-add_new_jre.htm#StdVM" label="为标准VM添加新的JRE"/>
+    <topic href="tasks/tasks-JREs.htm" label="使用JRE"/>
+    <topic href="reference/preferences/java/debug/ref-installed_jres.htm" label="已安装的JRE首选项页面"/>
+    <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
  </context>
  <context id="edit_ee_file_jre_wizard_page_context">
-    <description>This dialog allows you to configure the location, name, and libraries associated with a JRE. Source and javadoc can be configured for each library.</description>
-    <topic href="tasks/task-add_new_jre.htm#EEFile" label="Add New JRE from Execution Environment Description File"/>
-    <topic href="tasks/tasks-JREs.htm" label="Working with JREs"/>
-    <topic href="reference/preferences/java/debug/ref-installed_jres.htm" label="Installed JREs Preference Page"/>
-    <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+    <description>此对话框允许您配置与JRE关联的位置，名称和库。可以为每个库配置Source和javadoc。</description>
+    <topic href="tasks/task-add_new_jre.htm#EEFile" label="从执行环境描述文件添加新JRE"/>
+    <topic href="tasks/tasks-JREs.htm" label="使用JRE"/>
+    <topic href="reference/preferences/java/debug/ref-installed_jres.htm" label="已安装的JRE首选项页面"/>
+    <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
  </context>
 	<context  id="jre_details_dialog_context" >
-		<description>This dialog allows you to view the read-only properties of a JRE contributed by a plug-in.</description>
-  <topic href="tasks/tasks-JREs.htm" label="Working with JREs"/>
-		<topic label="Installed JREs Preference Page" href="reference/preferences/java/debug/ref-installed_jres.htm" />
-  <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+		<description>此对话框允许您查看插件提供的JRE的只读属性。</description>
+  <topic href="tasks/tasks-JREs.htm" label="使用JRE"/>
+		<topic label="已安装的JRE首选项页面" href="reference/preferences/java/debug/ref-installed_jres.htm" />
+  <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
 	</context>
 	<context  id="edit_detail_formatter_dialog_context" >
-		<description>This dialog allows you to configure the detail formatter code snippet associated with a Java class.</description>
-		<topic label="Detail Formatters Preference Page" href="reference/preferences/java/debug/ref-detail_formatters.htm" />
-		<topic label="Detail Pane" href="reference/views/shared/ref-detailpane.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm" />
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm" />
+		<description>此对话框允许您配置与Java类关联的详细格式化程序代码段。</description>
+		<topic label="详细格式化首选项页面" href="reference/preferences/java/debug/ref-detail_formatters.htm" />
+		<topic label="细节窗格" href="reference/views/shared/ref-detailpane.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm" />
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm" />
 	</context>
 	<context  id="edit_logical_structure_dialog_context" >
-		<description>This dialog allows you to configure the logical structure code snippet associated with a Java class.</description>
-		<topic label="Logical Structures Preference Page" href="reference/preferences/java/debug/ref-logical_structures.htm" />
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm" />
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm" />
+		<description>此对话框允许您配置与Java类关联的逻辑结构代码段。</description>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm" />
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm" />
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm" />
 	</context>
 	<context  id="snippet_imports_dialog_context" >
-		<description>This dialog allows you to configure the imports associated with a snippet editor.</description>
+		<description>此对话框允许您配置与代码段编辑器关联的导入。</description>
 	</context>
 	<context id="select_main_method_dialog">
-		<description>This dialog allows you to select a class with the main method you wish to launch.</description>
-		<topic label="Debugger Concepts" href="concepts/cdebugger.htm"/>
-		<topic label="Running and Debugging" href="tasks/task-running_and_debugging.htm"/>
-		<topic label="Preparing to Debug" href="tasks/task-preparing_to_debug.htm"/>
-		<topic label="Local Debugging" href="concepts/clocdbug.htm"/>
-		<topic label="Remote Debugging" href="concepts/cremdbug.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此对话框允许您选择具有要启动的主方法的类。</description>
+		<topic label="调试器概念" href="concepts/cdebugger.htm"/>
+		<topic label="运行和调试" href="tasks/task-running_and_debugging.htm"/>
+		<topic label="准备调试" href="tasks/task-preparing_to_debug.htm"/>
+		<topic label="本地调试" href="concepts/clocdbug.htm"/>
+		<topic label="远程调试" href="concepts/cremdbug.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 		<context id="expression_input_dialog">
-		<description>This dialog allows you to change the value of a Java object by creating an expression that will be evaluated to generate the value.</description>
-		<topic label="Change Variable Value Command" href="reference/views/shared/ref-changevarvalue.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此对话框允许您通过创建将被计算以生成值的表达式来更改Java对象的值。</description>
+		<topic label="更改变量值命令" href="reference/views/shared/ref-changevarvalue.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context id="string_value_input_dialog">
-		<description>This dialog allows you to change the value of a Java String by entering literal text or by creating an expression that will be eveluated to generate the value.</description>
-		<topic label="Change Variable Value Command" href="reference/views/shared/ref-changevarvalue.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此对话框允许您通过输入文字文本或创建将被生成以生成值的表达式来更改Java String的值。</description>
+		<topic label="更改变量值命令" href="reference/views/shared/ref-changevarvalue.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context id="default_input_dialog">
-		<description>This dialog allows you to input a new value for a variable.</description>
-		<topic label="Change Variable Value Command" href="reference/views/shared/ref-changevarvalue.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此对话框允许您为变量输入新值。</description>
+		<topic label="更改变量值命令" href="reference/views/shared/ref-changevarvalue.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context id="instance_breakpoint_selection_dialog_context">
-		<description>This dialog allows you to restrict breakpoints to only suspend execution when they are in specific Java object instances.</description>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<description>此对话框允许您将断点限制为仅在特定Java对象实例中暂停执行。</description>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
 	</context>
 	<context id="select_project_dialog">
-		<description>This dialog allows you to select projects to add to the classpath or source lookup path.  In addition, you can choose whether you want exported entries and required projects to also be added.</description>
+		<description>此对话框允许您选择要添加到类路径或源查找路径的项目。此外，您还可以选择是否还要添加导出的条目和所需的项目。</description>
 	</context>
 
 <!--
 	Debug Shell View
 -->
     <context  id="display_view_context" >
-		<description>This view displays the result of expression evaluations. It allows you to select an expression and evaluate it.</description>
-		<topic label="Debug Shell View" href="reference/views/display/ref-debug_shell_view.htm"/>
-		<topic label="Clear" href="reference/views/display/ref-clear.htm"/>	
-		<topic label="Display Result" href="reference/views/shared/ref-display.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Execute Selected Statement" href="reference/views/shared/ref-execute.htm"/>
-		<topic label="Inspect" href="reference/views/shared/ref-inspect.htm"/>
+		<description>此视图显示表达式评估的结果。它允许您选择表达式并对其进行评估。</description>
+		<topic label="调试Shell视图" href="reference/views/display/ref-debug_shell_view.htm"/>
+		<topic label="明确" href="reference/views/display/ref-clear.htm"/>	
+		<topic label="显示结果" href="reference/views/shared/ref-display.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="执行选定的声明" href="reference/views/shared/ref-execute.htm"/>
+		<topic label="检查" href="reference/views/shared/ref-inspect.htm"/>
    	</context>
 	<context  id="clear_display_view_action_context" >
-		<description>This command clears the contents of the Debug Shell view.</description>
-		<topic label="Clear" href="reference/views/display/ref-clear.htm"/>
-		<topic label="Debug Shell View" href="reference/views/display/ref-debug_shell_view.htm"/>
+		<description>此命令清除Debug Shell视图的内容。</description>
+		<topic label="明确" href="reference/views/display/ref-clear.htm"/>
+		<topic label="调试Shell视图" href="reference/views/display/ref-debug_shell_view.htm"/>
 	</context>
 
 <!-- 
 	Launch Configuration Tabs
 -->
 	<context  id="launch_configuration_dialog_arguments_tab" >
-		<description>This tab allows you to specify the program and virtual machine arguments for the launch associated with this launch configuration as well as the working directory</description>
-		<topic label="Java application launch configuration" href="tasks/tasks-java-local-configuration.htm"/>
-		<topic label="Setting execution arguments" href="tasks/tasks-executionArgs.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此选项卡允许您指定与此启动配置关联的启动的程序和虚拟机参数以及工作目录</description>
+		<topic label="Java应用程序启动配置" href="tasks/tasks-java-local-configuration.htm"/>
+		<topic label="设置执行参数" href="tasks/tasks-executionArgs.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_classpath_tab" >
-		<description>This tab allows you to specify the classpath for the launch associated with this launch configuration</description>
-		<topic label="Java application launch configuration" href="tasks/tasks-java-local-configuration.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此选项卡允许您指定与此启动配置关联的启动的类路径</description>
+		<topic label="Java应用程序启动配置" href="tasks/tasks-java-local-configuration.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_connect_tab" >
-		<description>This tab allows you to set specific information for remote debugging</description>
-		<topic label="Using the remote Java application launch configuration" href="tasks/task-remotejava_launch_config.htm"/>
-		<topic label="Remote debugging" href="concepts/cremdbug.htm"/>
-        <topic label="Java application launch configuration" href="tasks/tasks-java-local-configuration.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此选项卡允许您设置远程调试的特定信息</description>
+		<topic label="使用远程Java应用程序启动配置" href="tasks/task-remotejava_launch_config.htm"/>
+		<topic label="远程调试" href="concepts/cremdbug.htm"/>
+        <topic label="Java应用程序启动配置" href="tasks/tasks-java-local-configuration.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_jre_tab" >
-		<description>This tab allows you to define the JRE used to run or debug the application</description>
-		<topic label="Java application launch configuration" href="tasks/tasks-java-local-configuration.htm"/>
-		<topic label="Working with JREs" href="tasks/tasks-JREs.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此选项卡允许您定义用于运行或调试应用程序的JRE</description>
+		<topic label="Java应用程序启动配置" href="tasks/tasks-java-local-configuration.htm"/>
+		<topic label="使用JRE" href="tasks/tasks-JREs.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_main_tab" >
-		<description>This tab allows you specify parameters associated with the main type for the launch.</description>
-		<topic label="Java application launch configuration" href="tasks/tasks-java-local-configuration.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此选项卡允许您指定与启动的主要类型关联的参数。</description>
+		<topic label="Java应用程序启动配置" href="tasks/tasks-java-local-configuration.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context id="new_snippet_wizard_page_context">
-		<description>This wizard helps you create a new Java scrapbook page.</description>
-		<topic label="Creating a Scrapbook Page" href="tasks/task-create_scrapbook_page.htm"/>
-		<topic label="New Java Scrapbook Page Wizard" href="reference/ref-wizard-scrapbook.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>该向导可帮助您创建新的Java剪贴簿页面。</description>
+		<topic label="创建剪贴簿页面" href="tasks/task-create_scrapbook_page.htm"/>
+		<topic label="新的Java剪贴簿页面向导" href="reference/ref-wizard-scrapbook.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context id="working_directory_context">
-		<description>This component allows you to change the default working directory.</description>
-		<topic label="Java application launch configuration" href=" tasks\tasks-java-local-configuration.htm"/>
-		<topic label="Setting execution arguments" href="tasks/tasks-executionArgs.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+		<description>此组件允许您更改默认工作目录。</description>
+		<topic label="Java应用程序启动配置" href=" tasks\tasks-java-local-configuration.htm"/>
+		<topic label="设置执行参数" href="tasks/tasks-executionArgs.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_applet_parameters_tab" >
-    	<description>This tab allows you to specify the applet viewer parameters for the launch associated with this launch configuration</description>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+    	<description>此选项卡允许您为与此启动配置关联的启动指定applet查看器参数</description>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_applet_main_tab">
-	    <description>This tab allows you specify parameters associated with the applet for the launch.</description>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+	    <description>此选项卡允许您指定与启动的小程序关联的参数。</description>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
 	</context>
 	<context  id="launch_configuration_dialog_applet_arguments_tab">
-	    <description>This tab allows you to specify the program and virtual machine arguments for the launch associated with this launch configuration as well as the working directory</description>
-     	<topic label="Setting execution arguments" href="tasks/tasks-executionArgs.htm"/>
-		<topic label="Launching a Java Program" href="tasks/task-launching_java_program.htm"/>
+	    <description>此选项卡允许您指定与此启动配置关联的启动的程序和虚拟机参数以及工作目录</description>
+     	<topic label="设置执行参数" href="tasks/tasks-executionArgs.htm"/>
+		<topic label="启动Java程序" href="tasks/task-launching_java_program.htm"/>
     </context>
 	
 <!--
 	Navigate Menu
 -->
 	<context  id="open_variable_concrete_type_hierarchy_action_context" >
-		<description>This command opens a Type Hierarchy view on the type of the selected object.</description>
+		<description>此命令将打开所选对象类型的“类型层次结构”视图。</description>
 	</context>	
 	<context  id="open_variable_concrete_type_action_context" >
-		<description>This command opens a Java editor on the type of the selected object.</description>
+		<description>此命令将打开所选对象类型的Java编辑器。</description>
 	</context>				
 	<context  id="open_variable_declared_type_hierarchy_action_context" >
-		<description>This command opens a Type Hierarchy view on the declared type of the selected variable.</description>
+		<description>此命令将在所选变量的声明类型上打开“类型层次结构”视图。</description>
 	</context>
 	<context  id="open_on_variable_type_action_context" >
-		<description>This command opens a Java editor on the declared type of the selected variable.</description>
+		<description>此命令在所选变量的声明类型上打开Java编辑器。</description>
 	</context>
 	<context  id="open_on_receiving_type_action_context" >
-		<description>This command opens a Java editor on the type of the receiver of the selected stack frame.</description>
+		<description>此命令打开所选堆栈帧的接收器类型的Java编辑器。</description>
 	</context>		
 	<context  id="open_receiving_type_hierarchy_action_context" >
-		<description>This command opens a Type Hierarchy view on the type of the receiver of the selected stack frame.</description>
+		<description>此命令将打开所选堆栈帧的接收器类型的“类型层次结构”视图。</description>
 	</context>	
 	<context  id="open_on_declaring_type_action_context" >
-		<description>This command opens a Java editor on the type in which the method of the selected stack frame is defined.</description>
+		<description>此命令打开一个Java编辑器，其中包含定义所选堆栈帧的方法的类型。</description>
 	</context>		
 	<context  id="open_declaring_type_hierarchy_action_context" >
-		<description>This command opens a Type Hierarchy view on the type in which the method of the selected stack frame is defined.</description>
+		<description>此命令将打开类型层次结构视图，该视图类型定义了所选堆栈帧的方法。</description>
 	</context>
 	<context  id="open_from_clipboard_action_context" title="Open from Clipboard">
-		<description>Opens a Java element or a Java stack trace from the clipboard.</description>
-		<topic label="Navigate actions" href="reference/ref-menu-navigate.htm"/>
+		<description>从剪贴板打开Java元素或Java堆栈跟踪。</description>
+		<topic label="导航操作" href="reference/ref-menu-navigate.htm"/>
 	</context>
 <!-- 
 	Preference/Property Pages 
 -->
 	<context  id="java_debug_preference_page_context" >
-		<description>On this page, you can configure Java debugging preferences for suspending execution, hot code replace, and communication timeouts.</description>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<description>在此页面上，您可以配置Java调试首选项以暂停执行，热代码替换和通信超时。</description>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 	</context>
 	<context  id="java_detail_formatter_preference_page_context" >
-		<description>On this page, you can define code snippets used to display the details for variables and expressions in the Variables and Expressions view details area.</description>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<description>在此页面上，您可以在“变量和表达式”视图详细信息区域中定义用于显示变量和表达式详细信息的代码片段。</description>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 	</context>
 	<context id="java_heapwalking_preference_page">
-		<description>This page allows you to configure heap walking settings for Java 1.6 SE vms</description>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<description>此页面允许您配置Java 1.6 SE vms的堆行走设置</description>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 	</context>
 	<context id="java_logical_structures_page">
-		<description>On this page, you can configure logical structure displays for variables in the Java debugger.</description>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<description>在此页面上，您可以在Java调试器中为变量配置逻辑结构显示。</description>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 	</context> 
 	<context  id="java_primitives_preference_page_context" >
-		<description>On this page, you can configure display options for primitive variables in the Java debugger.</description>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<description>在此页面上，您可以在Java调试器中配置原始变量的显示选项。</description>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 	</context>
 	<context  id="java_step_filter_preference_page_context" >
-		<description>On this page, you can configure the step filters for the Java debugger.</description>
-		<topic label="Step Filtering Preferences" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
-		<topic label="Debug Preferences" href="reference/preferences/java/debug/ref-debug.htm"/>
-		<topic label="Detail Formatters Preferences" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Heap Walking Preferences" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-		<topic label="Logical Structures Preferences" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-		<topic label="Primitive Display Options Preferences" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+		<description>在此页面上，您可以配置Java调试程序的步骤筛选器。</description>
+		<topic label="步骤过滤首选项" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+		<topic label="调试首选项" href="reference/preferences/java/debug/ref-debug.htm"/>
+		<topic label="详细格式化首选项" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="堆行走偏好" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+		<topic label="逻辑结构首选项" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+		<topic label="原始显示选项首选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
 	</context>
 	<context  id="jre_preference_page_context" >
-		<description>On this page, you can add, remove, and edit JRE configurations.</description>
-		<topic label="Installed JREs Preferences" href="reference/preferences/java/debug/ref-installed_jres.htm"/>
-		<topic label="Execution Environments Preferences" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
-		<topic label="Working with JREs" href="tasks/tasks-JREs.htm"/>
+		<description>在此页面上，您可以添加，删除和编辑JRE配置。</description>
+		<topic label="已安装的JRE首选项" href="reference/preferences/java/debug/ref-installed_jres.htm"/>
+		<topic label="执行环境首选项" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
+		<topic label="使用JRE" href="tasks/tasks-JREs.htm"/>
 	</context>
 	<context  id="jre_profiles_page_context" >
-		<description>On this page, you can specify a default JRE to use for each JRE profile.</description>
-		<topic label="Execution Environments Preferences" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
-		<topic label="Installed JREs Preferences" href="reference/preferences/java/debug/ref-installed_jres.htm"/>
-		<topic label="Working with JREs" href="tasks/tasks-JREs.htm"/>
+		<description>在此页面上，您可以指定用于每个JRE配置文件的默认JRE。</description>
+		<topic label="执行环境首选项" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
+		<topic label="已安装的JRE首选项" href="reference/preferences/java/debug/ref-installed_jres.htm"/>
+		<topic label="使用JRE" href="tasks/tasks-JREs.htm"/>
 	</context>
 	<context  id="java_breakpoint_preference_page_context" >
-		<description>On this page, you can modify the properties of a Java breakpoint.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>在此页面上，您可以修改Java断点的属性。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>     
 	<context id="vm_capabilities_property_page">
-		<description>This page displays optional debug capabilities of the selected VM.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面显示所选VM的可选调试功能。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context id="java_breakpoint_property_page">
-		<description>This page allows you to configure the selected breakpoint.  Enablement restricts when this breakpoint will suspend execution.  Hit count sets the number of times this breakpoint must be reached before suspending execution.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面允许您配置选定的断点。启用限制此断点何时将暂停执行。命中计数设置在暂停执行之前必须达到此断点的次数。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context id="java_breakpoint_advanced_property_page">
-		<description>This page allows you to restrict the breakpoint to only suspend execution in specific threads.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面允许您将断点限制为仅挂起特定线程中的执行。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context id="java_exception_breakpoint_property_page">
-		<description>This page allows you to configure an exception breakpoint.  Caught and uncaught options allow you to change the circumstances in which the breakpoint will suspend execution.  You can also change the suspend policy determining what actions to take when an exception occurs.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面允许您配置异常断点。捕获和未捕获的选项允许您更改断点将暂停执行的环境。您还可以更改挂起策略，确定发生异常时要执行的操作。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context id="java_exception_breakpoint_filtering_property_page">
-		<description>This page allows you to select or define breakpoint filters for Java exception breakpoints. A filter can be selected, or you can define an expression using the Add button.</description>
-		<topic label="Add Exception Breakpoint Filters" href="tasks/tasks-create-exception-filter-expression.htm"></topic>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面允许您为Java异常断点选择或定义断点过滤器。可以选择过滤器，也可以使用“添加”按钮定义表达式。</description>
+		<topic label="添加异常断点过滤器" href="tasks/tasks-create-exception-filter-expression.htm"></topic>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 	<context id="java_line_breakpoint_property_page">
-		<description>This page allows you to configure the selected breakpoint.  Line breakpoints can have enablement conditions, which are snippets of code that must return a boolean value determining when this breakpoint should suspend execution.  Watchpoints can choose to suspend on field access or modification.</description>
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm" />
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
+		<description>此页面允许您配置选定的断点。换行符可以具有启用条件，这些条件是必须返回布尔值的代码片段，用于确定此断点何时应暂停执行。观察点可以选择暂停现场访问或修改。</description>
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm" />
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
 	</context>
 
 <!--
 	Run Menu
 -->
 	<context  id="add_exception_action_context" >
-		<description>This command opens a dialog to create a Java exception breakpoint.</description>
-		<topic label="Add Exception Breakpoint" href="reference/view/breakpoints/ref-addexception_viewaction.htm"/>
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令将打开一个对话框以创建Java异常断点。</description>
+		<topic label="添加异常断点" href="reference/view/breakpoints/ref-addexception_viewaction.htm"/>
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context> 	 		
 	<context  id="step_into_selection_action_context" >
-		<description>This command steps into the selected method on the current line of execution. Method selection is determined by the selected text or cursor location in the Java editor.</description>
-		<topic label="Step Into Selection" href="reference/menus/run/ref-step_into_selection.htm"/>
-		<topic label="Stepping" href="tasks/task-stepping.htm" /> 
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令将进入当前执行行的选定方法。方法选择由Java编辑器中选定的文本或光标位置确定。</description>
+		<topic label="步入选择" href="reference/menus/run/ref-step_into_selection.htm"/>
+		<topic label="步进" href="tasks/task-stepping.htm" /> 
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context> 	
 	<context  id="run_to_line_action_context" >
-		<description>This command resumes execution to the line on which the cursor is located in the Java editor.</description>
-		<topic label="Run To Line" href="reference/menus/run/ref-run_to_line.htm"/>
-		<topic label="Stepping" href="tasks/task-stepping.htm" /> 
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令将继续执行到Java编辑器中光标所在的行。</description>
+		<topic label="跑到线" href="reference/menus/run/ref-run_to_line.htm"/>
+		<topic label="步进" href="tasks/task-stepping.htm" /> 
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>
 	<context  id="force_return_action_context" >
-		<description>This command forces the selected frame to return the value of the selected code snippet without executing any more instructions in the method.</description>
-		<topic label="Force Return" href="reference/views/shared/ref-forcereturn.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令强制所选框架返回所选代码段的值，而不执行该方法中的任何其他指令。</description>
+		<topic label="强制回归" href="reference/views/shared/ref-forcereturn.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>	
 	<context  id="execute_action_context" >
-		<description>This command executes the selected code snippet.</description>
-		<topic label="Execute" href="reference/views/shared/ref-execute.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令执行选定的代码段。</description>
+		<topic label="执行" href="reference/views/shared/ref-execute.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>	
 	<context  id="display_action_context" >
-		<description>This command executes the selected code snippet and displays a textual result.</description>
-		<topic label="Display" href="reference/views/shared/ref-display.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令执行选定的代码段并显示文本结果。</description>
+		<topic label="显示" href="reference/views/shared/ref-display.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>		
 	<context  id="inspect_action_context" >
-		<description>This command executes the selected code snippet and shows the resulting object or primitive in the Expressions view.</description>
-		<topic label="Inspect" href="reference/views/shared/ref-inspect.htm"/>
-		<topic label="Evaluating Expressions" href="tasks/task-evaluating_expressions.htm"/>
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令执行选定的代码段，并在“表达式”视图中显示生成的对象或基元。</description>
+		<topic label="检查" href="reference/views/shared/ref-inspect.htm"/>
+		<topic label="评估表达式" href="tasks/task-evaluating_expressions.htm"/>
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>	
 	<context  id="watch_action_context" >
-		<description>This command creates a watch item for the selected text or variable, and places it in the Expressions view.</description>
-		<topic label="Watch" href="reference/menus/run/ref-addwatch.htm" />
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令为选定的文本或变量创建监视项，并将其放在“表达式”视图中。</description>
+		<topic label="看" href="reference/menus/run/ref-addwatch.htm" />
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>
 	<context  id="add_class_prepare_action_context" >
-		<description>This command allows you to add a class load breakpoint to a selected type.</description>
-		<topic label="Add Class Load Breakpoint" href="reference/menus/run/ref-add_class_load_breakpoint.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm"/>
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
+		<description>此命令允许您将类加载断点添加到所选类型。</description>
+		<topic label="添加类加载断点" href="reference/menus/run/ref-add_class_load_breakpoint.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm"/>
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
 	</context>	
 
 <!--
@@ -591,158 +591,158 @@
 -->
 
 	<context  id="manage_watchpoint_action_context" >
-		<description>This command adds or removes a watchpoint on the selected field.</description>
-		<topic label="Toggle Watchpoint" href="reference/menus/run/ref-toggle_watchpoint.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm"/>
+		<description>此命令在所选字段上添加或删除监视点。</description>
+		<topic label="切换观察点" href="reference/menus/run/ref-toggle_watchpoint.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm"/>
 	</context>  
 	<context  id="manage_method_breakpoint_action_context" >
-		<description>This command adds or removes a method breakpoint on the selected method.</description>
-		<topic label="Toggle Method Breakpoint" href="reference/menus/run/ref-toggle_method_breakpoint.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm"/>
+		<description>此命令在所选方法上添加或删除方法断点。</description>
+		<topic label="切换方法断点" href="reference/menus/run/ref-toggle_method_breakpoint.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm"/>
 	</context>	
 	<context  id="manage_breakpoint_action_context" >
-		<description>This command adds or removes a breakpoint on the current line.</description>
-		<topic label="Toggle Line Breakpoint" href="reference/menus/run/ref-toggle_line_breakpoint.htm" />
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Breakpoints" href="concepts/cbrkpnts.htm"/>
-		<topic label="Adding Breakpoints" href="tasks/task-add_line_breakpoints.htm"/>
+		<description>此命令在当前行上添加或删除断点。</description>
+		<topic label="切换线断点" href="reference/menus/run/ref-toggle_line_breakpoint.htm" />
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="断点" href="concepts/cbrkpnts.htm"/>
+		<topic label="添加断点" href="tasks/task-add_line_breakpoints.htm"/>
 	</context>	
 
 <!--
 	Scrapbook
 -->
 	<context  id="scrapbook_imports_action_context" >
-		<description>This command opens a dialog to configure the imports associated with this snippet editor.</description>
+		<description>此命令将打开一个对话框，以配置与此代码段编辑器关联的导入。</description>
 	</context>
 	<context  id="terminate_scrapbook_vm_action_context" >
-		<description>This command terminates the VM performing evaluations for this snippet editor.</description>
+		<description>此命令终止VM执行此代码段编辑器的评估。</description>
 	</context>	
 
 <!--
 	Shared Action Contexts
 -->
 	<context id="show_qualified_action_context" >
-		<description>This option can be toggled to show or hide qualified names in the view.</description>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm" /> 
-		<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
-		<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm" />
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>可以切换此选项以在视图中显示或隐藏限定名称。</description>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm" /> 
+		<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm"/>
+		<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm" />
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="show_constants_action_context" >
-		<description>This option can be toggled to show or hide constants (static final variables) in the view.</description>
-		<topic label="Show Constants" href="reference/views/shared/ref-showconstants.htm" /> 
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>可以切换此选项以在视图中显示或隐藏常量（静态最终变量）。</description>
+		<topic label="显示常量" href="reference/views/shared/ref-showconstants.htm" /> 
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>   
 	<context  id="show_static_action_context" >
-		<description>This option can be toggled to show or hide static variables in the view.</description>
-		<topic label="Show Static Fields" href="reference/views/shared/ref-showstatic.htm" /> 
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>可以切换此选项以在视图中显示或隐藏静态变量。</description>
+		<topic label="显示静态字段" href="reference/views/shared/ref-showstatic.htm" /> 
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="variable_inspect_action_context" >
-		<description>This command adds the selected object or primitive value to the Expressions view.</description>
-		<topic label="Inspect Variable" href="reference/views/shared/ref-inspectvariable.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令将所选对象或原始值添加到“表达式”视图。</description>
+		<topic label="检查变量" href="reference/views/shared/ref-inspectvariable.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="variable_watch_action_context" >
-		<description>This command creates a Java watch expression based on the name of the selected variable.</description>
-		<topic label="Create Watch Expression" href="references/views/variables/ref-createwatch.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令根据所选变量的名称创建Java监视表达式。</description>
+		<topic label="创建观察表达" href="references/views/variables/ref-createwatch.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="new_detail_formatter_action_context" >
-		<description>This command opens a dialog to define a detail formatter for the class of the selected variable.</description>
-		<topic label="Detail Formatters Preference Page" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令将打开一个对话框，以定义所选变量的类的详细格式化程序。</description>
+		<topic label="详细格式化首选项页面" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="edit_detail_formatter_action_context" >
-		<description>This command opens a dialog to edit an existing detail formatter for the class of the selected variable.</description>
-		<topic label="Detail Formatters Preference Page" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令将打开一个对话框，以编辑所选变量的类的现有详细信息格式器。</description>
+		<topic label="详细格式化首选项页面" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="remove_detail_formatter_action_context" >
-		<description>This command removes the existing detail formatter for the class of the selected variable.</description>
-		<topic label="Detail Formatters Preference Page" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令删除所选变量的类的现有详细格式化程序。</description>
+		<topic label="详细格式化首选项页面" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context  id="edit_variable_preferences" >
-		<topic label="Java Preferences" href="reference/views/shared/ref-preferences.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
-		<description>Opens preference pages to configure settings related to variables in the Java debugger.</description>
+		<topic label="Java首选项" href="reference/views/shared/ref-preferences.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>打开首选项页面以配置与Java调试器中的变量相关的设置。</description>
 	</context>
 	<context  id="instance_count_action_context">
-		<description>Displays the instance count of the currently selected type.</description>
-		<topic label="All Instances" href="reference/views/shared/ref-allinstances.htm"/>
-		<topic label="All References" href="reference/views/shared/ref-allreferences.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
-		<topic label="Run Menu" href="reference/menus/run/ref-menu-run.htm"/>
+		<description>显示当前所选类型的实例计数。</description>
+		<topic label="所有实例" href="reference/views/shared/ref-allinstances.htm"/>
+		<topic label="所有参考文献" href="reference/views/shared/ref-allreferences.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
+		<topic label="运行菜单" href="reference/menus/run/ref-menu-run.htm"/>
 	</context> 
 	<context  id="all_instances_action_context">
-		<description>Displays all of the instances of the currently selected type.</description>
-		<topic label="All Instances" href="reference/views/shared/ref-allinstances.htm"/>
-		<topic label="All References" href="reference/views/shared/ref-allreferences.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
-		<topic label="Run Menu" href="reference/menus/run/ref-menu-run.htm"/>
+		<description>显示当前所选类型的所有实例。</description>
+		<topic label="所有实例" href="reference/views/shared/ref-allinstances.htm"/>
+		<topic label="所有参考文献" href="reference/views/shared/ref-allreferences.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
+		<topic label="运行菜单" href="reference/menus/run/ref-menu-run.htm"/>
 	</context> 	
 	<context  id="all_references_action_context" >
-		<description>Opens a popup displaying all objects referencing the selected object.</description>
-		<topic label="All References" href="reference/views/shared/ref-allreferences.htm"/>
-		<topic label="All Instances" href="reference/views/shared/ref-allinstances.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>打开一个弹出窗口，显示引用所选对象的所有对象。</description>
+		<topic label="所有参考文献" href="reference/views/shared/ref-allreferences.htm"/>
+		<topic label="所有实例" href="reference/views/shared/ref-allinstances.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context> 
 	<context  id="show_references_action_context">
-		<description>Toggles the display of references in the view. When turned on, each Java object that supports references will have a new child item with the name "'[variable name]' referenced from:". This new variable contains a list of all Java objects that refer to the parent object.</description>
-		<topic label="Show References" href="reference/views/shared/ref-showreferences.htm" /> 
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>切换视图中引用的显示。启用后，每个支持引用的Java对象都将有一个名为“'[variable name]'的新子项，引用自：”。此新变量包含引用父对象的所有Java对象的列表。</description>
+		<topic label="显示参考文献" href="reference/views/shared/ref-showreferences.htm" /> 
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context> 
 	<context id="show_null_entries_action_context" >
-		<description>This option can be toggled to show or hide null array entries in the view.</description>
-		<topic label="Show Null Array Entries" href="reference/views/shared/ref-shownull.htm" /> 
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>可以切换此选项以在视图中显示或隐藏空数组条目。</description>
+		<topic label="显示空数组条目" href="reference/views/shared/ref-shownull.htm" /> 
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm"/>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
 	<context id="instance_filters_action_context" >
-		<description>This command opens a dialog that allows you to filter breakpoints to specific Java object instances.</description>
-		<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm"/>
-		<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm"/>
+		<description>此命令将打开一个对话框，允许您将断点过滤到特定的Java对象实例。</description>
+		<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm"/>
+		<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm"/>
 	</context>
  <context id="local_java_application_type_context">
-    <description>This configuration type allows you to launch a local Java application</description>
-    <topic href="tasks/task-launching_java_program.htm" label="Launching a Java Program"/>
-    <topic href="tasks/tasks-java-local-configuration.htm" label="Java Application Launch Configuration"/>
-    <topic href="concepts/cdebugger.htm" label="Debugger Concepts"/>
-    <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+    <description>此配置类型允许您启动本地Java应用程序</description>
+    <topic href="tasks/task-launching_java_program.htm" label="启动Java程序"/>
+    <topic href="tasks/tasks-java-local-configuration.htm" label="Java应用程序启动配置"/>
+    <topic href="concepts/cdebugger.htm" label="调试器概念"/>
+    <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
  </context>
  <context id="java_applet_type_context">
-    <description>This configuration type allows you to launch Java Applets</description>
-    <topic href="concepts/cdebugger.htm" label="Debugger Concepts"/>
-    <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+    <description>此配置类型允许您启动Java Applet</description>
+    <topic href="concepts/cdebugger.htm" label="调试器概念"/>
+    <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
  </context>
  <context id="remote_java_application_type_context">
-    <description>This configuration type allows you to connect to a remote Java application and debug it</description>
-    <topic href="tasks/task-launching_java_program.htm" label="Launching a Java Program"/>
-    <topic href="concepts/cdebugger.htm" label="Debugger Concepts"/>
-    <topic href="tasks/task-running_and_debugging.htm" label="Running and Debugging"/>
+    <description>此配置类型允许您连接到远程Java应用程序并对其进行调试</description>
+    <topic href="tasks/task-launching_java_program.htm" label="启动Java程序"/>
+    <topic href="concepts/cdebugger.htm" label="调试器概念"/>
+    <topic href="tasks/task-running_and_debugging.htm" label="运行和调试"/>
  </context>
 	
 <!--

@@ -1,1455 +1,1455 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <contexts>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Introduction to the AUT agent" href="content/html/userManual/tasks/ch03s02s01.html"/>
+    <description>问题视图</description>
+    <topic label="AUT代理简介" href="content/html/userManual/tasks/ch03s02s01.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Connecting to the AUT Agent" href="content/html/userManual/tasks/ch03s02s03.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="连接到AUT代理" href="content/html/userManual/tasks/ch03s02s03.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Connecting to the AUT Agent" href="content/html/userManual/tasks/ch03s02s03.html"/>
+    <description>问题视图</description>
+    <topic label="连接到AUT代理" href="content/html/userManual/tasks/ch03s02s03.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Help system" href="content/html/userManual/tasks/ch03s03s05.html"/>
+    <description>问题视图</description>
+    <topic label="帮助系统" href="content/html/userManual/tasks/ch03s03s05.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Working with the AUT Agent and client on one machine" href="content/html/userManual/tasks/ch03s03s06.html"/>
+    <description>问题视图</description>
+    <topic label="在一台计算机上使用AUT代理和客户端" href="content/html/userManual/tasks/ch03s03s06.html"/>
   </context>
   <context id="dbLoginContextId">
-    <description>Database Login</description>
-    <topic label="Logging into and switching databases" href="content/html/userManual/tasks/ch03s04.html"/>
+    <description>数据库登录</description>
+    <topic label="登录并切换数据库" href="content/html/userManual/tasks/ch03s04.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Creating a new Project" href="content/html/userManual/tasks/ch03s06s02.html"/>
+    <description>创建项目</description>
+    <topic label="创建一个新项目" href="content/html/userManual/tasks/ch03s06s02.html"/>
   </context>
   <context id="problemViewNoProjectContextId">
-    <description>Project Options Dialog</description>
-    <topic label="Creating a new Project" href="content/html/userManual/tasks/ch03s06s02.html"/>
+    <description>项目选项对话框</description>
+    <topic label="创建一个新项目" href="content/html/userManual/tasks/ch03s06s02.html"/>
   </context>
   <context id="projectSettingsPageContextId">
-    <description>Project Properties</description>
-    <topic label="Editing general Project properties" href="content/html/userManual/tasks/ch03s06s03.html"/>
+    <description>项目属性</description>
+    <topic label="编辑常规项目属性" href="content/html/userManual/tasks/ch03s06s03.html"/>
   </context>
   <context id="autSettingsPageContextId">
-    <description>Adding/editing AUT's</description>
-    <topic label="Editing the AUTs in a Project" href="content/html/userManual/tasks/ch03s06s03.html"/>
+    <description>添加/编辑AUT</description>
+    <topic label="编辑项目中的AUT" href="content/html/userManual/tasks/ch03s06s03.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Duplicating AUT configurations" href="content/html/userManual/tasks/ch03s06s03.html"/>
+    <description>配置AUT</description>
+    <topic label="复制AUT配置" href="content/html/userManual/tasks/ch03s06s03.html"/>
   </context>
   <context id="autSettingsPageContextId">
-    <description>Adding/editing AUT's</description>
-    <topic label="Duplicating AUT configurations" href="content/html/userManual/tasks/ch03s06s03.html"/>
+    <description>添加/编辑AUT</description>
+    <topic label="复制AUT配置" href="content/html/userManual/tasks/ch03s06s03.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Editing the AUT configurations in a Project" href="content/html/userManual/tasks/ch03s06s03.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="编辑项目中的AUT配置" href="content/html/userManual/tasks/ch03s06s03.html"/>
   </context>
   <context id="projectUsedPropertyPageContextId">
-    <description>Used Projects Properties</description>
-    <topic label="Reusing (referencing) whole Projects in a Project" href="content/html/userManual/tasks/ch03s06s04.html"/>
+    <description>二手项目属性</description>
+    <topic label="重用（引用）项目中的整个项目" href="content/html/userManual/tasks/ch03s06s04.html"/>
   </context>
   <context id="databaseMigrationAssistantContextId">
-    <description>Database Migration</description>
-    <topic label="Changing the version of a reused Project" href="content/html/userManual/tasks/ch03s06s04.html"/>
+    <description>数据库迁移</description>
+    <topic label="更改重用项目的版本" href="content/html/userManual/tasks/ch03s06s04.html"/>
   </context>
   <context id="projectUsedPropertyPageContextId">
-    <description>Used Projects Properties</description>
-    <topic label="Changing the version of a reused Project" href="content/html/userManual/tasks/ch03s06s04.html"/>
+    <description>二手项目属性</description>
+    <topic label="更改重用项目的版本" href="content/html/userManual/tasks/ch03s06s04.html"/>
   </context>
   <context id="projectSearchForDeprecatedModulesPageContextId">
-    <description>Searching for deprecated modules</description>
-    <topic label="Searching for deprecated modules" href="content/html/userManual/tasks/ch03s06s04.html"/>
+    <description>搜索已弃用的模块</description>
+    <topic label="搜索已弃用的模块" href="content/html/userManual/tasks/ch03s06s04.html"/>
   </context>
   <context id="openProjectDialogContextId">
-    <description>Opening Projects</description>
-    <topic label="Opening Projects" href="content/html/userManual/tasks/ch03s06s05.html"/>
+    <description>开放项目</description>
+    <topic label="开放项目" href="content/html/userManual/tasks/ch03s06s05.html"/>
   </context>
   <context id="problemViewNoProjectContextId">
-    <description>Project Options Dialog</description>
-    <topic label="Opening Projects" href="content/html/userManual/tasks/ch03s06s05.html"/>
+    <description>项目选项对话框</description>
+    <topic label="开放项目" href="content/html/userManual/tasks/ch03s06s05.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Refreshing Projects" href="content/html/userManual/tasks/ch03s06s06.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="刷新项目" href="content/html/userManual/tasks/ch03s06s06.html"/>
   </context>
   <context id="deleteProjectDialogContextId">
-    <description>Deleting Projects</description>
-    <topic label="Deleting Projects" href="content/html/userManual/tasks/ch03s06s07.html"/>
+    <description>删除项目</description>
+    <topic label="删除项目" href="content/html/userManual/tasks/ch03s06s07.html"/>
   </context>
   <context id="dialogProjectSaveAsContextId">
-    <description>Saving Projects under a different name</description>
-    <topic label="Saving a Project as a new Project" href="content/html/userManual/tasks/ch03s06s08.html"/>
+    <description>以不同的名称保存项目</description>
+    <topic label="将项目另存为新项目" href="content/html/userManual/tasks/ch03s06s08.html"/>
   </context>
   <context id="problemViewNoProjectContextId">
-    <description>Project Options Dialog</description>
-    <topic label="Importing Projects" href="content/html/userManual/tasks/ch03s06s09.html"/>
+    <description>项目选项对话框</description>
+    <topic label="导入项目" href="content/html/userManual/tasks/ch03s06s09.html"/>
   </context>
   <context id="dialogProjectImportRenameContextId">
-    <description>Project Import Rename Dialog</description>
-    <topic label="Importing Projects" href="content/html/userManual/tasks/ch03s06s09.html"/>
+    <description>项目导入重命名对话框</description>
+    <topic label="导入项目" href="content/html/userManual/tasks/ch03s06s09.html"/>
   </context>
   <context id="importProjectDialogContextId">
-    <description>Importing Projects</description>
-    <topic label="Importing Projects" href="content/html/userManual/tasks/ch03s06s09.html"/>
+    <description>导入项目</description>
+    <topic label="导入项目" href="content/html/userManual/tasks/ch03s06s09.html"/>
   </context>
   <context id="openProjectImportAllRequiredProjectsContextId">
-    <description>Importing Dependent Projects</description>
-    <topic label="Importing Projects" href="content/html/userManual/tasks/ch03s06s09.html"/>
+    <description>导入依赖项目</description>
+    <topic label="导入项目" href="content/html/userManual/tasks/ch03s06s09.html"/>
   </context>
   <context id="openProjectDialogContextId">
-    <description>Opening Projects</description>
-    <topic label="Versioning Projects" href="content/html/userManual/tasks/ch03s06s11.html"/>
+    <description>开放项目</description>
+    <topic label="版本控制项目" href="content/html/userManual/tasks/ch03s06s11.html"/>
   </context>
   <context id="dialogProjectCreateNewVersionContextId">
-    <description>Versioning Projects</description>
-    <topic label="Versioning Projects" href="content/html/userManual/tasks/ch03s06s11.html"/>
+    <description>版本控制项目</description>
+    <topic label="版本控制项目" href="content/html/userManual/tasks/ch03s06s11.html"/>
   </context>
   <context id="projectSettingsPageContextId">
-    <description>Project Properties</description>
-    <topic label="Tracking changes in a Project" href="content/html/userManual/tasks/ch03s06s12.html"/>
+    <description>项目属性</description>
+    <topic label="跟踪项目中的更改" href="content/html/userManual/tasks/ch03s06s12.html"/>
   </context>
   <context id="autSettingWizardPagePageContextId">
-    <description>Defining an AUT</description>
-    <topic label="Defining applications under test (AUTs)" href="content/html/userManual/tasks/ch03s07.html"/>
+    <description>定义AUT</description>
+    <topic label="定义测试中的应用程序（AUT）" href="content/html/userManual/tasks/ch03s07.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Defining applications under test (AUTs)" href="content/html/userManual/tasks/ch03s07.html"/>
+    <description>运行AUT视图</description>
+    <topic label="定义测试中的应用程序（AUT）" href="content/html/userManual/tasks/ch03s07.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Configuring AUTs to be started from the ITE" href="content/html/userManual/tasks/ch03s08s01.html"/>
+    <description>配置AUT</description>
+    <topic label="配置要从ITE启动的AUT" href="content/html/userManual/tasks/ch03s08s01.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Basic information required for every AUT configuration" href="content/html/userManual/tasks/ch03s08s02.html"/>
+    <description>配置AUT</description>
+    <topic label="每个AUT配置所需的基本信息" href="content/html/userManual/tasks/ch03s08s02.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Using a working directory in an AUT configuration" href="content/html/userManual/tasks/ch03s08s03.html"/>
+    <description>配置AUT</description>
+    <topic label="在AUT配置中使用工作目录" href="content/html/userManual/tasks/ch03s08s03.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Starting Java AUTs (Swing, SWT/RCP/GEF)" href="content/html/userManual/tasks/ch03s08s04.html"/>
+    <description>配置AUT</description>
+    <topic label="启动Java AUT（Swing，SWT / RCP / GEF）" href="content/html/userManual/tasks/ch03s08s04.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Two options to start Java AUTs" href="content/html/userManual/tasks/ch03s08s04.html"/>
+    <description>配置AUT</description>
+    <topic label="启动Java AUT的两个选项" href="content/html/userManual/tasks/ch03s08s04.html"/>
   </context>
   <context id="autSettingWizardPagePageContextId">
-    <description>Defining an AUT</description>
-    <topic label="Two options to start Java AUTs" href="content/html/userManual/tasks/ch03s08s04.html"/>
+    <description>定义AUT</description>
+    <topic label="启动Java AUT的两个选项" href="content/html/userManual/tasks/ch03s08s04.html"/>
   </context>
   <context id="autSettingWizardPagePageContextId">
-    <description>Defining an AUT</description>
-    <topic label="Starting Java AUTs with the autrun command" href="content/html/userManual/tasks/ch03s08s04.html"/>
+    <description>定义AUT</description>
+    <topic label="使用autrun命令启动Java AUT" href="content/html/userManual/tasks/ch03s08s04.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Starting JavaFX AUTs" href="content/html/userManual/tasks/ch03s08s05.html"/>
+    <description>配置AUT</description>
+    <topic label="启动JavaFX AUT" href="content/html/userManual/tasks/ch03s08s05.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Starting Web AUTs (HTML)" href="content/html/userManual/tasks/ch03s08s06.html"/>
+    <description>配置AUT</description>
+    <topic label="启动Web AUT（HTML）" href="content/html/userManual/tasks/ch03s08s06.html"/>
   </context>
   <context id="dialogRenameContextId">
-    <description>Renaming</description>
-    <topic label="Renaming items in browsers" href="content/html/userManual/tasks/ch03s09s02.html"/>
+    <description>重命名</description>
+    <topic label="在浏览器中重命名项目" href="content/html/userManual/tasks/ch03s09s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Renaming items in browsers" href="content/html/userManual/tasks/ch03s09s02.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在浏览器中重命名项目" href="content/html/userManual/tasks/ch03s09s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Renaming items in browsers" href="content/html/userManual/tasks/ch03s09s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在浏览器中重命名项目" href="content/html/userManual/tasks/ch03s09s02.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Renaming items in browsers" href="content/html/userManual/tasks/ch03s09s02.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="在浏览器中重命名项目" href="content/html/userManual/tasks/ch03s09s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Deleting items from browsers" href="content/html/userManual/tasks/ch03s09s03.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="从浏览器中删除项目" href="content/html/userManual/tasks/ch03s09s03.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Deleting items from browsers" href="content/html/userManual/tasks/ch03s09s03.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="从浏览器中删除项目" href="content/html/userManual/tasks/ch03s09s03.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Deleting items from browsers" href="content/html/userManual/tasks/ch03s09s03.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="从浏览器中删除项目" href="content/html/userManual/tasks/ch03s09s03.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Deleting Test Cases with orphans" href="content/html/userManual/tasks/ch03s09s04.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="用孤儿删除测试用例" href="content/html/userManual/tasks/ch03s09s04.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Working with IDs for Test Cases and Test Suites" href="content/html/userManual/tasks/ch03s09s05.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="使用测试用例和测试套件的ID" href="content/html/userManual/tasks/ch03s09s05.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Working with IDs for Test Cases and Test Suites" href="content/html/userManual/tasks/ch03s09s05.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="使用测试用例和测试套件的ID" href="content/html/userManual/tasks/ch03s09s05.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Opening the Test Case Browser multiple times" href="content/html/userManual/tasks/ch03s09s06.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="多次打开测试用例浏览器" href="content/html/userManual/tasks/ch03s09s06.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Opening the task editor for items in browsers" href="content/html/userManual/tasks/ch03s09s07.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="打开浏览器中项目的任务编辑器" href="content/html/userManual/tasks/ch03s09s07.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Opening the task editor for items in browsers" href="content/html/userManual/tasks/ch03s09s07.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="打开浏览器中项目的任务编辑器" href="content/html/userManual/tasks/ch03s09s07.html"/>
   </context>
   <context id="testCaseOpenExistingContextId">
-    <description>Open Existing Test Case</description>
-    <topic label="Opening items in editors" href="content/html/userManual/tasks/ch03s10s02.html"/>
+    <description>打开现有的测试用例</description>
+    <topic label="在编辑器中打开项目" href="content/html/userManual/tasks/ch03s10s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Opening items in editors" href="content/html/userManual/tasks/ch03s10s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在编辑器中打开项目" href="content/html/userManual/tasks/ch03s10s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Opening items in editors" href="content/html/userManual/tasks/ch03s10s02.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在编辑器中打开项目" href="content/html/userManual/tasks/ch03s10s02.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="testCaseAddExistingContextId">
-    <description>Existing Test Case Dialog</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>现有的测试用例对话框</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Adding items to editors" href="content/html/userManual/tasks/ch03s10s04.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="将项添加到编辑器" href="content/html/userManual/tasks/ch03s10s04.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Deleting items from editors" href="content/html/userManual/tasks/ch03s10s05.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="从编辑器中删除项目" href="content/html/userManual/tasks/ch03s10s05.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Deleting items from editors" href="content/html/userManual/tasks/ch03s10s05.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="从编辑器中删除项目" href="content/html/userManual/tasks/ch03s10s05.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Deleting items from editors" href="content/html/userManual/tasks/ch03s10s05.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="从编辑器中删除项目" href="content/html/userManual/tasks/ch03s10s05.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Renaming items in editors" href="content/html/userManual/tasks/ch03s10s06.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="重命名编辑器中的项目" href="content/html/userManual/tasks/ch03s10s06.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Renaming items in editors" href="content/html/userManual/tasks/ch03s10s06.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="重命名编辑器中的项目" href="content/html/userManual/tasks/ch03s10s06.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Renaming items in editors" href="content/html/userManual/tasks/ch03s10s06.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="重命名编辑器中的项目" href="content/html/userManual/tasks/ch03s10s06.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Adding comments to items in editors" href="content/html/userManual/tasks/ch03s10s07.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="为编辑器中的项添加注释" href="content/html/userManual/tasks/ch03s10s07.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Adding comments to items in editors" href="content/html/userManual/tasks/ch03s10s07.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="为编辑器中的项添加注释" href="content/html/userManual/tasks/ch03s10s07.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Adding comments to items in editors" href="content/html/userManual/tasks/ch03s10s07.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="为编辑器中的项添加注释" href="content/html/userManual/tasks/ch03s10s07.html"/>
   </context>
   <context id="newCommentDialogContextId">
-    <description>Add a comment</description>
-    <topic label="Adding comments to items in editors" href="content/html/userManual/tasks/ch03s10s07.html"/>
+    <description>添加评论</description>
+    <topic label="为编辑器中的项添加注释" href="content/html/userManual/tasks/ch03s10s07.html"/>
   </context>
   <context id="editDescriptionDialogContextId">
-    <description>Description Dialog</description>
-    <topic label="Adding descriptions to items in editors" href="content/html/userManual/tasks/ch03s10s08.html"/>
+    <description>说明对话框</description>
+    <topic label="向编辑器中的项添加说明" href="content/html/userManual/tasks/ch03s10s08.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Adding descriptions to items in editors" href="content/html/userManual/tasks/ch03s10s08.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="向编辑器中的项添加说明" href="content/html/userManual/tasks/ch03s10s08.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Adding descriptions to items in editors" href="content/html/userManual/tasks/ch03s10s08.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="向编辑器中的项添加说明" href="content/html/userManual/tasks/ch03s10s08.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Adding descriptions to items in editors" href="content/html/userManual/tasks/ch03s10s08.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="向编辑器中的项添加说明" href="content/html/userManual/tasks/ch03s10s08.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Adding Task IDs to items in editors" href="content/html/userManual/tasks/ch03s10s09.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="将任务ID添加到编辑器中的项目" href="content/html/userManual/tasks/ch03s10s09.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Adding Task IDs to items in editors" href="content/html/userManual/tasks/ch03s10s09.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="将任务ID添加到编辑器中的项目" href="content/html/userManual/tasks/ch03s10s09.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Adding Task IDs to items in editors" href="content/html/userManual/tasks/ch03s10s09.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="将任务ID添加到编辑器中的项目" href="content/html/userManual/tasks/ch03s10s09.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Commenting out items in editors" href="content/html/userManual/tasks/ch03s10s10.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="在编辑器中注释掉项目" href="content/html/userManual/tasks/ch03s10s10.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Commenting out items in editors" href="content/html/userManual/tasks/ch03s10s10.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="在编辑器中注释掉项目" href="content/html/userManual/tasks/ch03s10s10.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Extracting Test Cases from editors: Refactoring" href="content/html/userManual/tasks/ch03s10s12.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="从编辑器中提取测试用例：重构" href="content/html/userManual/tasks/ch03s10s12.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Extracting Test Cases from editors: Refactoring" href="content/html/userManual/tasks/ch03s10s12.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="从编辑器中提取测试用例：重构" href="content/html/userManual/tasks/ch03s10s12.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Replacing Test Cases in editors: Refactoring" href="content/html/userManual/tasks/ch03s10s13.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="替换编辑器中的测试用例：重构" href="content/html/userManual/tasks/ch03s10s13.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Replacing Test Cases in editors: Refactoring" href="content/html/userManual/tasks/ch03s10s13.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="替换编辑器中的测试用例：重构" href="content/html/userManual/tasks/ch03s10s13.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Saving Test Cases from an editor as a new Test Case" href="content/html/userManual/tasks/ch03s10s14.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="将编辑器中的测试用例保存为新的测试用例" href="content/html/userManual/tasks/ch03s10s14.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Saving Test Cases from an editor as a new Test Case" href="content/html/userManual/tasks/ch03s10s14.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="将编辑器中的测试用例保存为新的测试用例" href="content/html/userManual/tasks/ch03s10s14.html"/>
   </context>
   <context id="assignOMCategoriesToSpec">
-    <description>Assign OM Categories to TC</description>
-    <topic label="Object Mapping Cagegory Association" href="content/html/userManual/tasks/ch03s10s15.html"/>
+    <description>将OM类别分配给TC</description>
+    <topic label="对象映射Cagegory Association" href="content/html/userManual/tasks/ch03s10s15.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Reverting changes in an editor" href="content/html/userManual/tasks/ch03s10s16.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="还原编辑器中的更改" href="content/html/userManual/tasks/ch03s10s16.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Reverting changes in an editor" href="content/html/userManual/tasks/ch03s10s16.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="还原编辑器中的更改" href="content/html/userManual/tasks/ch03s10s16.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Reverting changes in an editor" href="content/html/userManual/tasks/ch03s10s16.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="还原编辑器中的更改" href="content/html/userManual/tasks/ch03s10s16.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Working with categories in the browsers and editors" href="content/html/userManual/tasks/ch03s11.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="使用浏览器和编辑器中的类别" href="content/html/userManual/tasks/ch03s11.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Working with categories in the browsers and editors" href="content/html/userManual/tasks/ch03s11.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="使用浏览器和编辑器中的类别" href="content/html/userManual/tasks/ch03s11.html"/>
   </context>
   <context id="dialogNewCategoryContextId">
-    <description>New Category Dialog</description>
-    <topic label="Working with categories in the browsers and editors" href="content/html/userManual/tasks/ch03s11.html"/>
+    <description>新类别对话框</description>
+    <topic label="使用浏览器和编辑器中的类别" href="content/html/userManual/tasks/ch03s11.html"/>
   </context>
   <context id="newTestDataCategoryContextId">
-    <description>New Category</description>
-    <topic label="Creating a category" href="content/html/userManual/tasks/ch03s11s02.html"/>
+    <description>新类别</description>
+    <topic label="创建一个类别" href="content/html/userManual/tasks/ch03s11s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Creating Test Cases, Test Suites and Test Jobs in an existing category" href="content/html/userManual/tasks/ch03s11s03.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在现有类别中创建测试用例，测试套件和测试作业" href="content/html/userManual/tasks/ch03s11s03.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Creating Test Cases, Test Suites and Test Jobs in an existing category" href="content/html/userManual/tasks/ch03s11s03.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在现有类别中创建测试用例，测试套件和测试作业" href="content/html/userManual/tasks/ch03s11s03.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Adding comments to categories" href="content/html/userManual/tasks/ch03s11s04.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="向类别添加注释" href="content/html/userManual/tasks/ch03s11s04.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Adding comments to categories" href="content/html/userManual/tasks/ch03s11s04.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="向类别添加注释" href="content/html/userManual/tasks/ch03s11s04.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Working with Test Cases" href="content/html/userManual/tasks/ch03s12.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="使用测试用例" href="content/html/userManual/tasks/ch03s12.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Working with Test Cases" href="content/html/userManual/tasks/ch03s12.html"/>
+    <description>问题视图</description>
+    <topic label="使用测试用例" href="content/html/userManual/tasks/ch03s12.html"/>
   </context>
   <context id="testcaseNewContextId">
-    <description>New Test Case Dialog</description>
-    <topic label="Creating Test Cases" href="content/html/userManual/tasks/ch03s12s02.html"/>
+    <description>新测试用例对话框</description>
+    <topic label="创建测试用例" href="content/html/userManual/tasks/ch03s12s02.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Creating Test Cases" href="content/html/userManual/tasks/ch03s12s02.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="创建测试用例" href="content/html/userManual/tasks/ch03s12s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Creating Test Cases" href="content/html/userManual/tasks/ch03s12s02.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="创建测试用例" href="content/html/userManual/tasks/ch03s12s02.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Creating tests from the library of pre-defined Test Cases" href="content/html/userManual/tasks/ch03s12s03.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="从预定义的测试用例库创建测试" href="content/html/userManual/tasks/ch03s12s03.html"/>
   </context>
   <context id="testCaseAddExistingContextId">
-    <description>Existing Test Case Dialog</description>
-    <topic label="Creating tests from the library of pre-defined Test Cases" href="content/html/userManual/tasks/ch03s12s03.html"/>
+    <description>现有的测试用例对话框</description>
+    <topic label="从预定义的测试用例库创建测试" href="content/html/userManual/tasks/ch03s12s03.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Creating tests from the library of pre-defined Test Cases" href="content/html/userManual/tasks/ch03s12s03.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="从预定义的测试用例库创建测试" href="content/html/userManual/tasks/ch03s12s03.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Opening existing Test Cases" href="content/html/userManual/tasks/ch03s12s04.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="打开现有的测试用例" href="content/html/userManual/tasks/ch03s12s04.html"/>
   </context>
   <context id="testCaseOpenExistingContextId">
-    <description>Open Existing Test Case</description>
-    <topic label="Opening existing Test Cases" href="content/html/userManual/tasks/ch03s12s04.html"/>
+    <description>打开现有的测试用例</description>
+    <topic label="打开现有的测试用例" href="content/html/userManual/tasks/ch03s12s04.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Editing Test Cases" href="content/html/userManual/tasks/ch03s12s05.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="编辑测试用例" href="content/html/userManual/tasks/ch03s12s05.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Editing Test Cases" href="content/html/userManual/tasks/ch03s12s05.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="编辑测试用例" href="content/html/userManual/tasks/ch03s12s05.html"/>
   </context>
   <context id="dialogTestcaseAddNewContextId">
-    <description>Add New Test Case Dialog</description>
-    <topic label="Adding and inserting new Test Cases to a Test Case" href="content/html/userManual/tasks/ch03s12s06.html"/>
+    <description>添加新的测试用例对话框</description>
+    <topic label="添加新测试用例并将其插入测试用例" href="content/html/userManual/tasks/ch03s12s06.html"/>
   </context>
   <context id="dialogTestcaseInsertNewContextId">
-    <description>Insert New Test Case Dialog</description>
-    <topic label="Adding and inserting new Test Cases to a Test Case" href="content/html/userManual/tasks/ch03s12s06.html"/>
+    <description>插入新的测试用例对话框</description>
+    <topic label="添加新测试用例并将其插入测试用例" href="content/html/userManual/tasks/ch03s12s06.html"/>
   </context>
   <context id="testCaseMoveExternalContextId">
-    <description>Move Test Cases to an External Project</description>
-    <topic label="Moving Test Cases to external Projects" href="content/html/userManual/tasks/ch03s12s07.html"/>
+    <description>将测试用例移动到外部项目</description>
+    <topic label="将测试用例移动到外部项目" href="content/html/userManual/tasks/ch03s12s07.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Moving Test Cases to external Projects" href="content/html/userManual/tasks/ch03s12s07.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="将测试用例移动到外部项目" href="content/html/userManual/tasks/ch03s12s07.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Replacing a specific Test Case at places where it has been reused" href="content/html/userManual/tasks/ch03s12s08.html"/>
+    <description>搜索结果视图</description>
+    <topic label="在已重用的位置替换特定的测试用例" href="content/html/userManual/tasks/ch03s12s08.html"/>
   </context>
   <context id="searchRefactorReplaceExecutionTestCaseWizardContextId">
-    <description>Replace Test Case</description>
-    <topic label="Replacing a specific Test Case at places where it has been reused" href="content/html/userManual/tasks/ch03s12s08.html"/>
+    <description>替换测试用例</description>
+    <topic label="在已重用的位置替换特定的测试用例" href="content/html/userManual/tasks/ch03s12s08.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Data types and entering data for Test Cases" href="content/html/userManual/tasks/ch03s14s01.html"/>
+    <description>属性视图</description>
+    <topic label="测试用例的数据类型和输入数据" href="content/html/userManual/tasks/ch03s14s01.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Data types and entering data for Test Cases" href="content/html/userManual/tasks/ch03s14s01.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="测试用例的数据类型和输入数据" href="content/html/userManual/tasks/ch03s14s01.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Data types and entering data for Test Cases" href="content/html/userManual/tasks/ch03s14s01.html"/>
+    <description>数据集视图</description>
+    <topic label="测试用例的数据类型和输入数据" href="content/html/userManual/tasks/ch03s14s01.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Data types and entering data for Test Cases" href="content/html/userManual/tasks/ch03s14s01.html"/>
+    <description>中央测试数据</description>
+    <topic label="测试用例的数据类型和输入数据" href="content/html/userManual/tasks/ch03s14s01.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Entering concrete values as data in Test Cases" href="content/html/userManual/tasks/ch03s14s02.html"/>
+    <description>属性视图</description>
+    <topic label="在测试用例中输入具体值作为数据" href="content/html/userManual/tasks/ch03s14s02.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using references for data in Test Cases" href="content/html/userManual/tasks/ch03s14s03.html"/>
+    <description>属性视图</description>
+    <topic label="使用测试用例中的数据引用" href="content/html/userManual/tasks/ch03s14s03.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Using references for data in Test Cases" href="content/html/userManual/tasks/ch03s14s03.html"/>
+    <description>数据集视图</description>
+    <topic label="使用测试用例中的数据引用" href="content/html/userManual/tasks/ch03s14s03.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using the edit parameters dialog to add, edit and delete references" href="content/html/userManual/tasks/ch03s14s04.html"/>
+    <description>属性视图</description>
+    <topic label="使用编辑参数对话框添加，编辑和删除引用" href="content/html/userManual/tasks/ch03s14s04.html"/>
   </context>
   <context id="editParametersDialogContextId">
-    <description>Editing Parameters</description>
-    <topic label="Using the edit parameters dialog to add, edit and delete references" href="content/html/userManual/tasks/ch03s14s04.html"/>
+    <description>编辑参数</description>
+    <topic label="使用编辑参数对话框添加，编辑和删除引用" href="content/html/userManual/tasks/ch03s14s04.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Using the edit parameters dialog to add, edit and delete references" href="content/html/userManual/tasks/ch03s14s04.html"/>
+    <description>中央测试数据</description>
+    <topic label="使用编辑参数对话框添加，编辑和删除引用" href="content/html/userManual/tasks/ch03s14s04.html"/>
   </context>
   <context id="editParameterValuesSetsDialogContextId">
-    <description>Editing Parameter value sets</description>
-    <topic label="Add and edit ValueSets for Parameters" href="content/html/userManual/tasks/ch03s14s04.html"/>
+    <description>编辑参数值集</description>
+    <topic label="添加和编辑参数的ValueSet" href="content/html/userManual/tasks/ch03s14s04.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Using variables as data for Test Cases" href="content/html/userManual/tasks/ch03s14s05.html"/>
+    <description>数据集视图</description>
+    <topic label="使用变量作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s05.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using variables as data for Test Cases" href="content/html/userManual/tasks/ch03s14s05.html"/>
+    <description>属性视图</description>
+    <topic label="使用变量作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s05.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Using variables as data for Test Cases" href="content/html/userManual/tasks/ch03s14s05.html"/>
+    <description>中央测试数据</description>
+    <topic label="使用变量作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s05.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Using functions as data for Test Cases" href="content/html/userManual/tasks/ch03s14s06.html"/>
+    <description>数据集视图</description>
+    <topic label="使用函数作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s06.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using functions as data for Test Cases" href="content/html/userManual/tasks/ch03s14s06.html"/>
+    <description>属性视图</description>
+    <topic label="使用函数作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s06.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Using functions as data for Test Cases" href="content/html/userManual/tasks/ch03s14s06.html"/>
+    <description>中央测试数据</description>
+    <topic label="使用函数作为测试用例的数据" href="content/html/userManual/tasks/ch03s14s06.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Concatenating (combining) parameters" href="content/html/userManual/tasks/ch03s14s07.html"/>
+    <description>属性视图</description>
+    <topic label="连接（组合）参数" href="content/html/userManual/tasks/ch03s14s07.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Concatenating (combining) parameters" href="content/html/userManual/tasks/ch03s14s07.html"/>
+    <description>数据集视图</description>
+    <topic label="连接（组合）参数" href="content/html/userManual/tasks/ch03s14s07.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Viewing and changing data sources for Test Cases" href="content/html/userManual/tasks/ch03s14s08.html"/>
+    <description>属性视图</description>
+    <topic label="查看和更改测试用例的数据源" href="content/html/userManual/tasks/ch03s14s08.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Changing the data source for a Test Case" href="content/html/userManual/tasks/ch03s14s08.html"/>
+    <description>属性视图</description>
+    <topic label="更改测试用例的数据源" href="content/html/userManual/tasks/ch03s14s08.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using central data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>属性视图</description>
+    <topic label="使用中央数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Using central data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="使用中央数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Creating and editing central test data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="创建和编辑中央测试数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="newTestDataCubeNameContextId">
-    <description>New Central Data Set</description>
-    <topic label="Creating and editing central test data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>新的中央数据集</description>
+    <topic label="创建和编辑中央测试数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Deleting central test data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="删除中央测试数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Adding and modifying parameters for central test data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="添加和修改中央测试数据集的参数" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Entering data for central test data sets" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="输入中央测试数据集的数据" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Reusing central test data sets in Test Cases" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="在测试用例中重用中央测试数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Reusing central test data sets in Test Cases" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>属性视图</description>
+    <topic label="在测试用例中重用中央测试数据集" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Importing Excel files as central test data" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="将Excel文件导入为中央测试数据" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Importing Excel files as central test data" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>属性视图</description>
+    <topic label="将Excel文件导入为中央测试数据" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="searchRefactorChangeCtdsColumnUsageWizardPagePageContextId">
-    <description>Changing Central Test Data Columns</description>
-    <topic label="Changing the column used in a central test data set for multiple Test Cases" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>更改中央测试数据列</description>
+    <topic label="更改多个测试用例的中央测试数据集中使用的列" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Changing the column used in a central test data set for multiple Test Cases" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>中央测试数据</description>
+    <topic label="更改多个测试用例的中央测试数据集中使用的列" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Changing the column used in a central test data set for multiple Test Cases" href="content/html/userManual/tasks/ch03s14s09.html"/>
+    <description>搜索结果视图</description>
+    <topic label="更改多个测试用例的中央测试数据集中使用的列" href="content/html/userManual/tasks/ch03s14s09.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using an Excel file as an external data source" href="content/html/userManual/tasks/ch03s14s10.html"/>
+    <description>属性视图</description>
+    <topic label="使用Excel文件作为外部数据源" href="content/html/userManual/tasks/ch03s14s10.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Using the Data Sets View to enter data loops" href="content/html/userManual/tasks/ch03s14s11.html"/>
+    <description>数据集视图</description>
+    <topic label="使用数据集视图输入数据循环" href="content/html/userManual/tasks/ch03s14s11.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Using the Data Sets View to enter data loops" href="content/html/userManual/tasks/ch03s14s11.html"/>
+    <description>中央测试数据</description>
+    <topic label="使用数据集视图输入数据循环" href="content/html/userManual/tasks/ch03s14s11.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Special parameters: empty strings, the escape character, and skipping test steps" href="content/html/userManual/tasks/ch03s14s12.html"/>
+    <description>属性视图</description>
+    <topic label="特殊参数：空字符串，转义字符和跳过测试步骤" href="content/html/userManual/tasks/ch03s14s12.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Special parameters: empty strings, the escape character, and skipping test steps" href="content/html/userManual/tasks/ch03s14s12.html"/>
+    <description>中央测试数据</description>
+    <topic label="特殊参数：空字符串，转义字符和跳过测试步骤" href="content/html/userManual/tasks/ch03s14s12.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Overwriting data for Test Cases and Test Suites" href="content/html/userManual/tasks/ch03s14s13.html"/>
+    <description>属性视图</description>
+    <topic label="覆盖测试用例和测试套件的数据" href="content/html/userManual/tasks/ch03s14s13.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Overwriting data for Test Cases and Test Suites" href="content/html/userManual/tasks/ch03s14s13.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="覆盖测试用例和测试套件的数据" href="content/html/userManual/tasks/ch03s14s13.html"/>
   </context>
   <context id="guidancerExecTestCaseEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Overwriting data for Test Cases and Test Suites" href="content/html/userManual/tasks/ch03s14s13.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="覆盖测试用例和测试套件的数据" href="content/html/userManual/tasks/ch03s14s13.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Creating new component names" href="content/html/userManual/tasks/ch03s15s02.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="创建新的组件名称" href="content/html/userManual/tasks/ch03s15s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Creating new component names" href="content/html/userManual/tasks/ch03s15s02.html"/>
+    <description>对象映射</description>
+    <topic label="创建新的组件名称" href="content/html/userManual/tasks/ch03s15s02.html"/>
   </context>
   <context id="newComponentNameContextId">
-    <description>New Component Name Dialog</description>
-    <topic label="Creating new component names" href="content/html/userManual/tasks/ch03s15s02.html"/>
+    <description>新组件名称对话框</description>
+    <topic label="创建新的组件名称" href="content/html/userManual/tasks/ch03s15s02.html"/>
   </context>
   <context id="compNameViewContextId">
-    <description>Component Names View</description>
-    <topic label="Entering and reassigning component names in the Component Names View" href="content/html/userManual/tasks/ch03s15s03.html"/>
+    <description>组件名称视图</description>
+    <topic label="在“组件名称”视图中输入和重新分配组件名称" href="content/html/userManual/tasks/ch03s15s03.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Renaming component names" href="content/html/userManual/tasks/ch03s15s04.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="重命名组件名称" href="content/html/userManual/tasks/ch03s15s04.html"/>
   </context>
   <context id="renameComponentNameContextId">
-    <description>Rename Component Name Dialog</description>
-    <topic label="Renaming component names" href="content/html/userManual/tasks/ch03s15s04.html"/>
+    <description>重命名组件名称对话框</description>
+    <topic label="重命名组件名称" href="content/html/userManual/tasks/ch03s15s04.html"/>
   </context>
   <context id="compNameViewContextId">
-    <description>Component Names View</description>
-    <topic label="Propagating component names" href="content/html/userManual/tasks/ch03s15s05.html"/>
+    <description>组件名称视图</description>
+    <topic label="传播组件名称" href="content/html/userManual/tasks/ch03s15s05.html"/>
   </context>
   <context id="compNameViewContextId">
-    <description>Component Names View</description>
-    <topic label="No component type exists message in Component Names View" href="content/html/userManual/tasks/ch03s15s06.html"/>
+    <description>组件名称视图</description>
+    <topic label="组件名称视图中没有组件类型存在消息" href="content/html/userManual/tasks/ch03s15s06.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Merging component names" href="content/html/userManual/tasks/ch03s15s07.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="合并组件名称" href="content/html/userManual/tasks/ch03s15s07.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Merging component names" href="content/html/userManual/tasks/ch03s15s07.html"/>
+    <description>对象映射</description>
+    <topic label="合并组件名称" href="content/html/userManual/tasks/ch03s15s07.html"/>
   </context>
   <context id="mergeComponentNameContextId">
-    <description>Merge Component Name Dialog</description>
-    <topic label="Merging component names" href="content/html/userManual/tasks/ch03s15s07.html"/>
+    <description>合并组件名称对话框</description>
+    <topic label="合并组件名称" href="content/html/userManual/tasks/ch03s15s07.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Deleting unused component names" href="content/html/userManual/tasks/ch03s15s08.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="删除未使用的组件名称" href="content/html/userManual/tasks/ch03s15s08.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Understanding the component hierarchy" href="content/html/userManual/tasks/ch03s15s09.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="了解组件层次结构" href="content/html/userManual/tasks/ch03s15s09.html"/>
   </context>
   <context id="compNameViewContextId">
-    <description>Component Names View</description>
-    <topic label="Understanding the component hierarchy" href="content/html/userManual/tasks/ch03s15s09.html"/>
+    <description>组件名称视图</description>
+    <topic label="了解组件层次结构" href="content/html/userManual/tasks/ch03s15s09.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Understanding the component hierarchy" href="content/html/userManual/tasks/ch03s15s09.html"/>
+    <description>对象映射</description>
+    <topic label="了解组件层次结构" href="content/html/userManual/tasks/ch03s15s09.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Creating a Test Suite" href="content/html/userManual/tasks/ch03s16s01.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="创建测试套件" href="content/html/userManual/tasks/ch03s16s01.html"/>
   </context>
   <context id="dialogTestsuiteNewContextId">
-    <description>New Test Suite Dialog</description>
-    <topic label="Creating a Test Suite" href="content/html/userManual/tasks/ch03s16s01.html"/>
+    <description>新测试套件对话框</description>
+    <topic label="创建测试套件" href="content/html/userManual/tasks/ch03s16s01.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Configuring Test Suites in the Properties View" href="content/html/userManual/tasks/ch03s16s02.html"/>
+    <description>属性视图</description>
+    <topic label="在“属性”视图中配置测试套件" href="content/html/userManual/tasks/ch03s16s02.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Configuring Test Suites in the Properties View" href="content/html/userManual/tasks/ch03s16s02.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="在“属性”视图中配置测试套件" href="content/html/userManual/tasks/ch03s16s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Configuring Test Suites in the Properties View" href="content/html/userManual/tasks/ch03s16s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在“属性”视图中配置测试套件" href="content/html/userManual/tasks/ch03s16s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Combining Test Suites into a Test Job" href="content/html/userManual/tasks/ch03s17s01.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="将测试套件组合成测试工作" href="content/html/userManual/tasks/ch03s17s01.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Testing different AUTs in one test run" href="content/html/userManual/tasks/ch03s17s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在一次测试运行中测试不同的AUT" href="content/html/userManual/tasks/ch03s17s02.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Testing different AUTs in one test run" href="content/html/userManual/tasks/ch03s17s02.html"/>
+    <description>运行AUT视图</description>
+    <topic label="在一次测试运行中测试不同的AUT" href="content/html/userManual/tasks/ch03s17s02.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Testing different AUTs in one test run" href="content/html/userManual/tasks/ch03s17s02.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="在一次测试运行中测试不同的AUT" href="content/html/userManual/tasks/ch03s17s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Creating a new Test Job" href="content/html/userManual/tasks/ch03s17s03.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="创建一个新的测试作业" href="content/html/userManual/tasks/ch03s17s03.html"/>
   </context>
   <context id="dialogTestJobNewContextId">
-    <description>New Test Job</description>
-    <topic label="Creating a new Test Job" href="content/html/userManual/tasks/ch03s17s03.html"/>
+    <description>新的测试工作</description>
+    <topic label="创建一个新的测试作业" href="content/html/userManual/tasks/ch03s17s03.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Specifying which AUT to test in a Test Job" href="content/html/userManual/tasks/ch03s17s04.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="指定要在测试作业中测试的AUT" href="content/html/userManual/tasks/ch03s17s04.html"/>
   </context>
   <context id="guidancerTestJobEditorContextId">
-    <description>Test Job Editor</description>
-    <topic label="Specifying which AUT to test in a Test Job" href="content/html/userManual/tasks/ch03s17s04.html"/>
+    <description>测试工作编辑器</description>
+    <topic label="指定要在测试作业中测试的AUT" href="content/html/userManual/tasks/ch03s17s04.html"/>
   </context>
   <context id="capContextId">
-    <description>Test Steps</description>
-    <topic label="Information on Test Steps" href="content/html/userManual/tasks/ch03s18.html"/>
+    <description>测试步骤</description>
+    <topic label="有关测试步骤的信息" href="content/html/userManual/tasks/ch03s18.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Creating manual tests" href="content/html/userManual/tasks/ch03s19s01.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="创建手动测试" href="content/html/userManual/tasks/ch03s19s01.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Executing and analyzing manual tests" href="content/html/userManual/tasks/ch03s19s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="执行和分析手动测试" href="content/html/userManual/tasks/ch03s19s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Object mapping" href="content/html/userManual/tasks/ch03s20s01.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射" href="content/html/userManual/tasks/ch03s20s01.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Opening the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="打开对象映射编辑器" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="The Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射编辑器" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Working with categories in the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>对象映射</description>
+    <topic label="在对象映射编辑器中使用类别" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="dialogOMCategoryNewContextId">
-    <description>New Object Mapping Category Dialog</description>
-    <topic label="Working with categories in the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>新对象映射类别对话框</description>
+    <topic label="在对象映射编辑器中使用类别" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="The configuration view in the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射编辑器中的配置视图" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Refreshing the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>对象映射</description>
+    <topic label="刷新对象映射编辑器" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Finding components in the AUT via the Object Mapping Editor: highlight in AUT" href="content/html/userManual/tasks/ch03s20s02.html"/>
+    <description>对象映射</description>
+    <topic label="通过对象映射编辑器在AUT中查找组件：在AUT中突出显示" href="content/html/userManual/tasks/ch03s20s02.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Deleting from the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s03.html"/>
+    <description>对象映射</description>
+    <topic label="从对象映射编辑器中删除" href="content/html/userManual/tasks/ch03s20s03.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Removing unused component names from the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s03.html"/>
+    <description>对象映射</description>
+    <topic label="从Object Mapping Editor中删除未使用的组件名称" href="content/html/userManual/tasks/ch03s20s03.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Collecting components (technical names) from the AUT" href="content/html/userManual/tasks/ch03s20s04.html"/>
+    <description>对象映射</description>
+    <topic label="从AUT收集组件（技术名称）" href="content/html/userManual/tasks/ch03s20s04.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Understanding the colored dots when collecting component names in the Object Mapping Editor" href="content/html/userManual/tasks/ch03s20s04.html"/>
+    <description>对象映射</description>
+    <topic label="在对象映射编辑器中收集组件名称时了解彩色点" href="content/html/userManual/tasks/ch03s20s04.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Mapping (assigning) collected technical names to component names" href="content/html/userManual/tasks/ch03s20s05.html"/>
+    <description>对象映射</description>
+    <topic label="将收集的技术名称映射（分配）到组件名称" href="content/html/userManual/tasks/ch03s20s05.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Object mapping and AUT changes" href="content/html/userManual/tasks/ch03s20s06.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射和AUT更改" href="content/html/userManual/tasks/ch03s20s06.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Component specific Profile" href="content/html/userManual/tasks/ch03s20s07.html"/>
+    <description>对象映射</description>
+    <topic label="组件特定配置文件" href="content/html/userManual/tasks/ch03s20s07.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Viewing properties for a component in the Object Mapping Mode" href="content/html/userManual/tasks/ch03s20s08.html"/>
+    <description>对象映射</description>
+    <topic label="在对象映射模式下查看组件的属性" href="content/html/userManual/tasks/ch03s20s08.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Prerequisites for test execution" href="content/html/userManual/tasks/ch03s21s01.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="测试执行的先决条件" href="content/html/userManual/tasks/ch03s21s01.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Prerequisites for test execution" href="content/html/userManual/tasks/ch03s21s01.html"/>
+    <description>运行AUT视图</description>
+    <topic label="测试执行的先决条件" href="content/html/userManual/tasks/ch03s21s01.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Starting the AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="启动AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Starting the AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
+    <description>问题视图</description>
+    <topic label="启动AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Starting the AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
+    <description>运行AUT视图</description>
+    <topic label="启动AUT" href="content/html/userManual/tasks/ch03s21s02.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Starting, stopping and pausing Test Suites and Test Jobs" href="content/html/userManual/tasks/ch03s21s03.html"/>
+    <description>运行AUT视图</description>
+    <topic label="启动，停止和暂停测试套件和测试作业" href="content/html/userManual/tasks/ch03s21s03.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Starting, stopping and pausing Test Suites and Test Jobs" href="content/html/userManual/tasks/ch03s21s03.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="启动，停止和暂停测试套件和测试作业" href="content/html/userManual/tasks/ch03s21s03.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Interactive test analysis" href="content/html/userManual/tasks/ch03s21s04.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="交互式测试分析" href="content/html/userManual/tasks/ch03s21s04.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Interactive test analysis" href="content/html/userManual/tasks/ch03s21s04.html"/>
+    <description>运行AUT视图</description>
+    <topic label="交互式测试分析" href="content/html/userManual/tasks/ch03s21s04.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="Interactive test analysis" href="content/html/userManual/tasks/ch03s21s04.html"/>
+    <description>测试结果视图</description>
+    <topic label="交互式测试分析" href="content/html/userManual/tasks/ch03s21s04.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Altering the speed of test execution" href="content/html/userManual/tasks/ch03s21s05.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="改变测试执行的速度" href="content/html/userManual/tasks/ch03s21s05.html"/>
   </context>
   <context id="runningAutsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Altering the speed of test execution" href="content/html/userManual/tasks/ch03s21s05.html"/>
+    <description>运行AUT视图</description>
+    <topic label="改变测试执行的速度" href="content/html/userManual/tasks/ch03s21s05.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="The Test Result View" href="content/html/userManual/tasks/ch03s22s01.html"/>
+    <description>测试结果视图</description>
+    <topic label="测试结果视图" href="content/html/userManual/tasks/ch03s22s01.html"/>
   </context>
   <context id="prefPageTestResultContextId">
-    <description>Test Result Preferences</description>
-    <topic label="XML/JUnit/HTML and monitoring reports" href="content/html/userManual/tasks/ch03s22s02.html"/>
+    <description>测试结果首选项</description>
+    <topic label="XML / JUnit / HTML和监控报告" href="content/html/userManual/tasks/ch03s22s02.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="Working with the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果视图</description>
+    <topic label="使用测试结果摘要视图" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="prefPageTestResultContextId">
-    <description>Test Result Preferences</description>
-    <topic label="Working with the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果首选项</description>
+    <topic label="使用测试结果摘要视图" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Working with the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="使用测试结果摘要视图" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Re-opening the test result view for a test run" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="重新打开测试运行的测试结果视图" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Filtering and sorting in the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="在“测试结果摘要视图”中过滤和排序" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Changing the amount of result summaries shown in the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="更改“测试结果摘要视图”中显示的结果摘要数量" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Changing the relevance of a test run" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="更改测试运行的相关性" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Refreshing the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="刷新测试结果摘要视图" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Deleting test runs from the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="从“测试结果摘要视图”中删除测试运行" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="Exporting test results from the Test Result Summary View as HTML and XML reports" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果视图</description>
+    <topic label="将测试结果摘要视图中的测试结果导出为HTML和XML报告" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Exporting test results from the Test Result Summary View as HTML and XML reports" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="将测试结果摘要视图中的测试结果导出为HTML和XML报告" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="Entering comments for test runs in the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果视图</description>
+    <topic label="在“测试结果摘要视图”中输入测试运行的注释" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Entering comments for test runs in the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="在“测试结果摘要视图”中输入测试运行的注释" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryAddCommentContextId">
-    <description>Add Comment Dialog</description>
-    <topic label="Entering comments for test runs in the Test Result Summary View" href="content/html/userManual/tasks/ch03s22s03.html"/>
+    <description>添加评论对话框</description>
+    <topic label="在“测试结果摘要视图”中输入测试运行的注释" href="content/html/userManual/tasks/ch03s22s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Generating BIRT reports" href="content/html/userManual/tasks/ch03s23s01.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="生成BIRT报告" href="content/html/userManual/tasks/ch03s23s01.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Writing your own BIRT reports" href="content/html/userManual/tasks/ch03s23s02.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="编写自己的BIRT报告" href="content/html/userManual/tasks/ch03s23s02.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="Creating tasks in external repositories from test result reports" href="content/html/userManual/tasks/ch03s24s04.html"/>
+    <description>测试结果视图</description>
+    <topic label="从测试结果报告在外部存储库中创建任务" href="content/html/userManual/tasks/ch03s24s04.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Automatically reporting to external repositories after test runs" href="content/html/userManual/tasks/ch03s24s05.html"/>
+    <description>属性视图</description>
+    <topic label="测试运行后自动向外部存储库报告" href="content/html/userManual/tasks/ch03s24s05.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Using the test executor for testing from the command line" href="content/html/userManual/tasks/ch03s25.html"/>
+    <description>问题视图</description>
+    <topic label="使用测试执行程序从命令行进行测试" href="content/html/userManual/tasks/ch03s25.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Using the dbtool client to import, delete and export from the command line" href="content/html/userManual/tasks/ch03s26.html"/>
+    <description>问题视图</description>
+    <topic label="使用dbtool客户端从命令行导入，删除和导出" href="content/html/userManual/tasks/ch03s26.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Dealing with errors in tests: Event Handlers" href="content/html/userManual/tasks/ch03s27.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="处理测试中的错误：事件处理程序" href="content/html/userManual/tasks/ch03s27.html"/>
   </context>
   <context id="eventHandlerAddContextId">
-    <description>Event Handlers</description>
-    <topic label="Dealing with errors in tests: Event Handlers" href="content/html/userManual/tasks/ch03s27.html"/>
+    <description>事件处理程序</description>
+    <topic label="处理测试中的错误：事件处理程序" href="content/html/userManual/tasks/ch03s27.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Dealing with errors in tests: Event Handlers" href="content/html/userManual/tasks/ch03s27.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="处理测试中的错误：事件处理程序" href="content/html/userManual/tasks/ch03s27.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Adding Event Handlers to a Test Case" href="content/html/userManual/tasks/ch03s27s02.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="将事件处理程序添加到测试用例" href="content/html/userManual/tasks/ch03s27s02.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Working with code coverage with Java tests" href="content/html/userManual/tasks/ch03s28.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="使用Java测试处理代码覆盖" href="content/html/userManual/tasks/ch03s28.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Working with code coverage with Java tests" href="content/html/userManual/tasks/ch03s28.html"/>
+    <description>配置AUT</description>
+    <topic label="使用Java测试处理代码覆盖" href="content/html/userManual/tasks/ch03s28.html"/>
   </context>
   <context id="org.eclipse.ui.resource_view_context">
-    <description>Navigator View</description>
-    <topic label="Working with code coverage with Java tests" href="content/html/userManual/tasks/ch03s28.html"/>
+    <description>导航器视图</description>
+    <topic label="使用Java测试处理代码覆盖" href="content/html/userManual/tasks/ch03s28.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Configuring code coverage for an AUT" href="content/html/userManual/tasks/ch03s28s02.html"/>
+    <description>配置AUT</description>
+    <topic label="配置AUT的代码覆盖率" href="content/html/userManual/tasks/ch03s28s02.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Resetting and accumulating code coverage" href="content/html/userManual/tasks/ch03s28s03.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="重置和累积代码覆盖率" href="content/html/userManual/tasks/ch03s28s03.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Viewing the code coverage for a test run" href="content/html/userManual/tasks/ch03s28s04.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="查看测试运行的代码覆盖率" href="content/html/userManual/tasks/ch03s28s04.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Troubleshooting code coverage" href="content/html/userManual/tasks/ch03s28s05.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="排除代码覆盖率" href="content/html/userManual/tasks/ch03s28s05.html"/>
   </context>
   <context id="prefPageBasicContextId">
-    <description>Test Preferences</description>
-    <topic label="Test preferences" href="content/html/userManual/tasks/ch03s29s02.html"/>
+    <description>测试偏好</description>
+    <topic label="测试偏好" href="content/html/userManual/tasks/ch03s29s02.html"/>
   </context>
   <context id="prefPageServerContextId">
-    <description>AUT Agent Preferences</description>
-    <topic label="AUT Agent preferences" href="content/html/userManual/tasks/ch03s29s03.html"/>
+    <description>AUT代理首选项</description>
+    <topic label="AUT代理首选项" href="content/html/userManual/tasks/ch03s29s03.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="AUT Agent preferences" href="content/html/userManual/tasks/ch03s29s03.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="AUT代理首选项" href="content/html/userManual/tasks/ch03s29s03.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="AUT Agent preferences" href="content/html/userManual/tasks/ch03s29s03.html"/>
+    <description>配置AUT</description>
+    <topic label="AUT代理首选项" href="content/html/userManual/tasks/ch03s29s03.html"/>
   </context>
   <context id="prefPageEmbeddedAgentContextId">
-    <description>Embedded AUT Preferences</description>
-    <topic label="Embedded AUT Agent preferences" href="content/html/userManual/tasks/ch03s29s04.html"/>
+    <description>嵌入式AUT首选项</description>
+    <topic label="嵌入式AUT Agent首选项" href="content/html/userManual/tasks/ch03s29s04.html"/>
   </context>
   <context id="databaseConnectionConfigurationDialogContextId">
-    <description>Database connection preferences</description>
-    <topic label="Database preferences" href="content/html/userManual/tasks/ch03s29s05.html"/>
+    <description>数据库连接首选项</description>
+    <topic label="数据库偏好" href="content/html/userManual/tasks/ch03s29s05.html"/>
   </context>
   <context id="editorPrefPageContextId">
-    <description>Editor Preferences</description>
-    <topic label="Editor preferences" href="content/html/userManual/tasks/ch03s29s06.html"/>
+    <description>编辑器偏好</description>
+    <topic label="编辑首选项" href="content/html/userManual/tasks/ch03s29s06.html"/>
   </context>
   <context id="editorPrefPageContextId">
-    <description>Browser Preferences</description>
-    <topic label="Browser preferences" href="content/html/userManual/tasks/ch03s29s07.html"/>
+    <description>浏览器偏好</description>
+    <topic label="浏览器偏好" href="content/html/userManual/tasks/ch03s29s07.html"/>
   </context>
   <context id="prefPageObjectMapContextId">
-    <description>Object Mapping Preferences</description>
-    <topic label="Object mapping preferences" href="content/html/userManual/tasks/ch03s29s08.html"/>
+    <description>对象映射首选项</description>
+    <topic label="对象映射首选项" href="content/html/userManual/tasks/ch03s29s08.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Object mapping preferences" href="content/html/userManual/tasks/ch03s29s08.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射首选项" href="content/html/userManual/tasks/ch03s29s08.html"/>
   </context>
   <context id="prefPageObserveJavaContextId">
-    <description>Observation Mode Preferences</description>
-    <topic label="Observation mode preferences" href="content/html/userManual/tasks/ch03s29s09.html"/>
+    <description>观察模式偏好</description>
+    <topic label="观察模式偏好" href="content/html/userManual/tasks/ch03s29s09.html"/>
   </context>
   <context id="prefPageTestResultContextId">
-    <description>Test Result Preferences</description>
-    <topic label="Test result preferences" href="content/html/userManual/tasks/ch03s29s10.html"/>
+    <description>测试结果首选项</description>
+    <topic label="测试结果首选项" href="content/html/userManual/tasks/ch03s29s10.html"/>
   </context>
   <context id="testResultSummaryViewContextId">
-    <description>Test Result Summary View</description>
-    <topic label="Test result preferences" href="content/html/userManual/tasks/ch03s29s10.html"/>
+    <description>测试结果摘要视图</description>
+    <topic label="测试结果首选项" href="content/html/userManual/tasks/ch03s29s10.html"/>
   </context>
   <context id="databaseConnectionConfigurationDialogContextId">
-    <description>Database connection preferences</description>
-    <topic label="Importing and exporting database preferences" href="content/html/userManual/tasks/ch03s29s11.html"/>
+    <description>数据库连接首选项</description>
+    <topic label="导入和导出数据库首选项" href="content/html/userManual/tasks/ch03s29s11.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for and opening the original specification of a Test Case or Test Suite" href="content/html/userManual/tasks/ch03s30s01.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="搜索并打开测试用例或测试套件的原始规范" href="content/html/userManual/tasks/ch03s30s01.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Searching for and opening the original specification of a Test Case or Test Suite" href="content/html/userManual/tasks/ch03s30s01.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="搜索并打开测试用例或测试套件的原始规范" href="content/html/userManual/tasks/ch03s30s01.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for and opening the original specification of a Test Case or Test Suite" href="content/html/userManual/tasks/ch03s30s01.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="搜索并打开测试用例或测试套件的原始规范" href="content/html/userManual/tasks/ch03s30s01.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Searching for and opening the original specification of a Test Case or Test Suite" href="content/html/userManual/tasks/ch03s30s01.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="搜索并打开测试用例或测试套件的原始规范" href="content/html/userManual/tasks/ch03s30s01.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Searching for places where a Test Case or Test Suite has been used" href="content/html/userManual/tasks/ch03s30s02.html"/>
+    <description>搜索结果视图</description>
+    <topic label="搜索已使用测试用例或测试套件的位置" href="content/html/userManual/tasks/ch03s30s02.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for places where a Test Case or Test Suite has been used" href="content/html/userManual/tasks/ch03s30s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="搜索已使用测试用例或测试套件的位置" href="content/html/userManual/tasks/ch03s30s02.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Searching for places where a Test Case or Test Suite has been used" href="content/html/userManual/tasks/ch03s30s02.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="搜索已使用测试用例或测试套件的位置" href="content/html/userManual/tasks/ch03s30s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for places where a Test Case or Test Suite has been used" href="content/html/userManual/tasks/ch03s30s02.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="搜索已使用测试用例或测试套件的位置" href="content/html/userManual/tasks/ch03s30s02.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Searching for places where a Test Case or Test Suite has been used" href="content/html/userManual/tasks/ch03s30s02.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="搜索已使用测试用例或测试套件的位置" href="content/html/userManual/tasks/ch03s30s02.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Searching for places where a component name has been used" href="content/html/userManual/tasks/ch03s30s03.html"/>
+    <description>搜索结果视图</description>
+    <topic label="搜索已使用组件名称的位置" href="content/html/userManual/tasks/ch03s30s03.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Searching for places where a component name has been used" href="content/html/userManual/tasks/ch03s30s03.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="搜索已使用组件名称的位置" href="content/html/userManual/tasks/ch03s30s03.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Searching for places where a component name has been used" href="content/html/userManual/tasks/ch03s30s03.html"/>
+    <description>对象映射</description>
+    <topic label="搜索已使用组件名称的位置" href="content/html/userManual/tasks/ch03s30s03.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Searching for places where a central test data set has been used" href="content/html/userManual/tasks/ch03s30s04.html"/>
+    <description>搜索结果视图</description>
+    <topic label="搜索已使用中央测试数据集的位置" href="content/html/userManual/tasks/ch03s30s04.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Searching for places where a central test data set has been used" href="content/html/userManual/tasks/ch03s30s04.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="搜索已使用中央测试数据集的位置" href="content/html/userManual/tasks/ch03s30s04.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for keywords throughout the Project" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在整个项目中搜索关键字" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for keywords throughout the Project" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在整个项目中搜索关键字" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="com.bredexsw.guidancer.doc.keywordSearchPageContextId">
-    <description>Keyword Search</description>
-    <topic label="Searching for keywords throughout the Project" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>关键词搜索</description>
+    <topic label="在整个项目中搜索关键字" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for test data" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="搜索测试数据" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for test data" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="搜索测试数据" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="com.bredexsw.guidancer.doc.testDataSearchPageContextId">
-    <description>Test Data Search</description>
-    <topic label="Searching for test data" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试数据搜索</description>
+    <topic label="搜索测试数据" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for files in the workspace" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在工作区中搜索文件" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for files in the workspace" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在工作区中搜索文件" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="com.bredexsw.guidancer.doc.keywordSearchPageContextId">
-    <description>Keyword Search</description>
-    <topic label="Limiting the search to the selected node" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>关键词搜索</description>
+    <topic label="将搜索限制为所选节点" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="com.bredexsw.guidancer.doc.testDataSearchPageContextId">
-    <description>Test Data Search</description>
-    <topic label="Limiting the search to the selected node" href="content/html/userManual/tasks/ch03s30s05.html"/>
+    <description>测试数据搜索</description>
+    <topic label="将搜索限制为所选节点" href="content/html/userManual/tasks/ch03s30s05.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Searching for tasks in ALM repositories" href="content/html/userManual/tasks/ch03s30s06.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在ALM存储库中搜索任务" href="content/html/userManual/tasks/ch03s30s06.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Searching for tasks in ALM repositories" href="content/html/userManual/tasks/ch03s30s06.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在ALM存储库中搜索任务" href="content/html/userManual/tasks/ch03s30s06.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="Using the search result view" href="content/html/userManual/tasks/ch03s30s07.html"/>
+    <description>搜索结果视图</description>
+    <topic label="使用搜索结果视图" href="content/html/userManual/tasks/ch03s30s07.html"/>
   </context>
   <context id="findDialogContextId">
-    <description>Find Dialog</description>
-    <topic label="Searching for items in editors and browsers" href="content/html/userManual/tasks/ch03s30s08.html"/>
+    <description>查找对话框</description>
+    <topic label="在编辑器和浏览器中搜索项目" href="content/html/userManual/tasks/ch03s30s08.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Using filters in the ITE" href="content/html/userManual/tasks/ch03s30s09.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="在ITE中使用过滤器" href="content/html/userManual/tasks/ch03s30s09.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Using filters in the ITE" href="content/html/userManual/tasks/ch03s30s09.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="在ITE中使用过滤器" href="content/html/userManual/tasks/ch03s30s09.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Using filters in the ITE" href="content/html/userManual/tasks/ch03s30s09.html"/>
+    <description>对象映射</description>
+    <topic label="在ITE中使用过滤器" href="content/html/userManual/tasks/ch03s30s09.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="Using filters in the ITE" href="content/html/userManual/tasks/ch03s30s09.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="在ITE中使用过滤器" href="content/html/userManual/tasks/ch03s30s09.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Observing Test Cases" href="content/html/userManual/tasks/ch03s31.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="观察测试用例" href="content/html/userManual/tasks/ch03s31.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="Observing Test Cases" href="content/html/userManual/tasks/ch03s31.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="观察测试用例" href="content/html/userManual/tasks/ch03s31.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="The Problems View" href="content/html/userManual/tasks/ch03s32s01.html"/>
+    <description>问题视图</description>
+    <topic label="问题观点" href="content/html/userManual/tasks/ch03s32s01.html"/>
   </context>
   <context id="testStylePropertyPageContextId">
     <description>Teststyle</description>
-    <topic label="Activating Teststyle for a Project" href="content/html/userManual/tasks/ch03s33s02.html"/>
+    <topic label="激活项目的Teststyle" href="content/html/userManual/tasks/ch03s33s02.html"/>
   </context>
   <context id="testStylePropertyPageContextId">
     <description>Teststyle</description>
-    <topic label="Configuring Teststyle for a Project" href="content/html/userManual/tasks/ch03s33s03.html"/>
+    <topic label="为项目配置Teststyle" href="content/html/userManual/tasks/ch03s33s03.html"/>
   </context>
   <context id="testStylePropertyPageEditAttributeContextId">
     <description>Teststyle</description>
-    <topic label="Configuring the attributes for guidelines" href="content/html/userManual/tasks/ch03s33s03.html"/>
+    <topic label="配置指南的属性" href="content/html/userManual/tasks/ch03s33s03.html"/>
   </context>
   <context id="testStylePropertyPageEditContextContextId">
     <description>Teststyle</description>
-    <topic label="Configuring the contexts for guidelines" href="content/html/userManual/tasks/ch03s33s03.html"/>
+    <topic label="配置指南的上下文" href="content/html/userManual/tasks/ch03s33s03.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Working with the Problems View to view and fix Teststyle problems" href="content/html/userManual/tasks/ch03s33s04.html"/>
+    <description>问题视图</description>
+    <topic label="使用问题视图查看和修复Teststyle问题" href="content/html/userManual/tasks/ch03s33s04.html"/>
   </context>
   <context id="testStylePropertyPageContextId">
     <description>Teststyle</description>
-    <topic label="Working with the Problems View to view and fix Teststyle problems" href="content/html/userManual/tasks/ch03s33s04.html"/>
+    <topic label="使用问题视图查看和修复Teststyle问题" href="content/html/userManual/tasks/ch03s33s04.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Adapting the user interface" href="content/html/userManual/tasks/ch03s34.html"/>
+    <description>问题视图</description>
+    <topic label="调整用户界面" href="content/html/userManual/tasks/ch03s34.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Troubleshooting" href="content/html/userManual/tasks/ch03s36.html"/>
+    <description>问题视图</description>
+    <topic label="故障排除" href="content/html/userManual/tasks/ch03s36.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Troubleshooting" href="content/html/userManual/tasks/ch03s36.html"/>
+    <description>对象映射</description>
+    <topic label="故障排除" href="content/html/userManual/tasks/ch03s36.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Troubleshooting" href="content/html/userManual/tasks/ch03s36.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="故障排除" href="content/html/userManual/tasks/ch03s36.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Troubleshooting" href="content/html/userManual/tasks/ch03s36.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="故障排除" href="content/html/userManual/tasks/ch03s36.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Creating a support information package" href="content/html/userManual/tasks/ch03s36s10.html"/>
+    <description>问题视图</description>
+    <topic label="创建支持信息包" href="content/html/userManual/tasks/ch03s36s10.html"/>
   </context>
   <context id="supportRequestDialogContextId">
-    <description>Support Information Package</description>
-    <topic label="Creating a support information package" href="content/html/userManual/tasks/ch03s36s10.html"/>
+    <description>支持信息包</description>
+    <topic label="创建支持信息包" href="content/html/userManual/tasks/ch03s36s10.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Special characters" href="content/html/userManual/tasks/ch03s37.html"/>
+    <description>属性视图</description>
+    <topic label="特殊字符" href="content/html/userManual/tasks/ch03s37.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="Special characters" href="content/html/userManual/tasks/ch03s37.html"/>
+    <description>数据集视图</description>
+    <topic label="特殊字符" href="content/html/userManual/tasks/ch03s37.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="Using relative paths in AUT configurations and as test data" href="content/html/userManual/tasks/ch03s39.html"/>
+    <description>属性视图</description>
+    <topic label="使用AUT配置中的相对路径和测试数据" href="content/html/userManual/tasks/ch03s39.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Using relative paths in AUT configurations and as test data" href="content/html/userManual/tasks/ch03s39.html"/>
+    <description>配置AUT</description>
+    <topic label="使用AUT配置中的相对路径和测试数据" href="content/html/userManual/tasks/ch03s39.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>AUT Configuration Settings</description>
-    <topic label="Using relative paths in AUT configurations and as test data" href="content/html/userManual/tasks/ch03s39.html"/>
+    <description>AUT配置设置</description>
+    <topic label="使用AUT配置中的相对路径和测试数据" href="content/html/userManual/tasks/ch03s39.html"/>
   </context>
   <context id="testExecViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="Stopping the AUT" href="content/html/userManual/tasks/ch03s41s01.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="停止AUT" href="content/html/userManual/tasks/ch03s41s01.html"/>
   </context>
   <context id="runningAUTsViewContextId">
-    <description>Running AUTs View</description>
-    <topic label="Stopping the AUT" href="content/html/userManual/tasks/ch03s41s01.html"/>
+    <description>运行AUT视图</description>
+    <topic label="停止AUT" href="content/html/userManual/tasks/ch03s41s01.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Disconnecting from the AUT Agent" href="content/html/userManual/tasks/ch03s41s02.html"/>
+    <description>问题视图</description>
+    <topic label="断开与AUT代理的连接" href="content/html/userManual/tasks/ch03s41s02.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Closing the ITE and stopping the AUT Agent" href="content/html/userManual/tasks/ch03s41s03.html"/>
+    <description>问题视图</description>
+    <topic label="关闭ITE并停止AUT代理" href="content/html/userManual/tasks/ch03s41s03.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="Stopping the AUT Agent" href="content/html/userManual/tasks/ch03s41s04.html"/>
+    <description>问题视图</description>
+    <topic label="停止AUT代理" href="content/html/userManual/tasks/ch03s41s04.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Testing Swing AUTs" href="content/html/userManual/toolkit/ch04s02.html"/>
+    <description>创建项目</description>
+    <topic label="测试Swing AUT" href="content/html/userManual/toolkit/ch04s02.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Testing Swing AUTs" href="content/html/userManual/toolkit/ch04s02.html"/>
+    <description>配置AUT</description>
+    <topic label="测试Swing AUT" href="content/html/userManual/toolkit/ch04s02.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Testing Swing AUTs" href="content/html/userManual/toolkit/ch04s02.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="测试Swing AUT" href="content/html/userManual/toolkit/ch04s02.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Testing RCP AUTs" href="content/html/userManual/toolkit/ch04s03.html"/>
+    <description>创建项目</description>
+    <topic label="测试RCP AUT" href="content/html/userManual/toolkit/ch04s03.html"/>
   </context>
   <context id="autSettingWizardPagePageContextId">
-    <description>Defining an AUT</description>
-    <topic label="Testing RCP AUTs" href="content/html/userManual/toolkit/ch04s03.html"/>
+    <description>定义AUT</description>
+    <topic label="测试RCP AUT" href="content/html/userManual/toolkit/ch04s03.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Testing RCP AUTs" href="content/html/userManual/toolkit/ch04s03.html"/>
+    <description>配置AUT</description>
+    <topic label="测试RCP AUT" href="content/html/userManual/toolkit/ch04s03.html"/>
   </context>
   <context id="supportRCPAUTStartDelayContextId">
-    <description>Starting RCP AUTs</description>
-    <topic label="Testing RCP AUTs" href="content/html/userManual/toolkit/ch04s03.html"/>
+    <description>启动RCP AUT</description>
+    <topic label="测试RCP AUT" href="content/html/userManual/toolkit/ch04s03.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Testing RCP AUTs" href="content/html/userManual/toolkit/ch04s03.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="测试RCP AUT" href="content/html/userManual/toolkit/ch04s03.html"/>
   </context>
   <context id="autSettingWizardPagePageContextId">
-    <description>Defining an AUT</description>
-    <topic label="Component name generation in RCP" href="content/html/userManual/toolkit/ch04s03s06.html"/>
+    <description>定义AUT</description>
+    <topic label="RCP中的组件名称生成" href="content/html/userManual/toolkit/ch04s03s06.html"/>
   </context>
   <context id="autWizardPageGenerateNamesPageContextId">
-    <description>Name Generation in RCP</description>
-    <topic label="Component name generation in RCP" href="content/html/userManual/toolkit/ch04s03s06.html"/>
+    <description>RCP中的名称生成</description>
+    <topic label="RCP中的组件名称生成" href="content/html/userManual/toolkit/ch04s03s06.html"/>
   </context>
   <context id="autSettingsPageContextId">
-    <description>Adding/editing AUT's</description>
-    <topic label="Component name generation in RCP" href="content/html/userManual/toolkit/ch04s03s06.html"/>
+    <description>添加/编辑AUT</description>
+    <topic label="RCP中的组件名称生成" href="content/html/userManual/toolkit/ch04s03s06.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Testing GEF AUTs" href="content/html/userManual/toolkit/ch04s04.html"/>
+    <description>创建项目</description>
+    <topic label="测试GEF AUT" href="content/html/userManual/toolkit/ch04s04.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Testing GEF AUTs" href="content/html/userManual/toolkit/ch04s04.html"/>
+    <description>配置AUT</description>
+    <topic label="测试GEF AUT" href="content/html/userManual/toolkit/ch04s04.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Testing GEF AUTs" href="content/html/userManual/toolkit/ch04s04.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="测试GEF AUT" href="content/html/userManual/toolkit/ch04s04.html"/>
   </context>
   <context id="inspectorViewContextId">
-    <description>GEF Inspector View</description>
-    <topic label="Testing GEF components" href="content/html/userManual/toolkit/ch04s04s02.html"/>
+    <description>GEF检查员视图</description>
+    <topic label="测试GEF组件" href="content/html/userManual/toolkit/ch04s04s02.html"/>
   </context>
   <context id="inspectorViewContextId">
-    <description>GEF Inspector View</description>
-    <topic label="Using the GEF inspector" href="content/html/userManual/toolkit/ch04s04s03.html"/>
+    <description>GEF检查员视图</description>
+    <topic label="使用GEF检查员" href="content/html/userManual/toolkit/ch04s04s03.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Testing JavaFX AUTs" href="content/html/userManual/toolkit/ch04s05.html"/>
+    <description>创建项目</description>
+    <topic label="测试JavaFX AUT" href="content/html/userManual/toolkit/ch04s05.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Testing JavaFX AUTs" href="content/html/userManual/toolkit/ch04s05.html"/>
+    <description>配置AUT</description>
+    <topic label="测试JavaFX AUT" href="content/html/userManual/toolkit/ch04s05.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Testing JavaFX AUTs" href="content/html/userManual/toolkit/ch04s05.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="测试JavaFX AUT" href="content/html/userManual/toolkit/ch04s05.html"/>
   </context>
   <context id="projectWizardContextId">
-    <description>Creating a Project</description>
-    <topic label="Testing HTML AUTs" href="content/html/userManual/toolkit/ch04s06.html"/>
+    <description>创建项目</description>
+    <topic label="测试HTML AUT" href="content/html/userManual/toolkit/ch04s06.html"/>
   </context>
   <context id="autConfigSettingWizardPagePageContextId">
-    <description>Configuring an AUT</description>
-    <topic label="Testing HTML AUTs" href="content/html/userManual/toolkit/ch04s06.html"/>
+    <description>配置AUT</description>
+    <topic label="测试HTML AUT" href="content/html/userManual/toolkit/ch04s06.html"/>
   </context>
   <context id="autConfigPropDialogContextId">
-    <description>Adding/editing AUT configurations</description>
-    <topic label="Testing HTML AUTs" href="content/html/userManual/toolkit/ch04s06.html"/>
+    <description>添加/编辑AUT配置</description>
+    <topic label="测试HTML AUT" href="content/html/userManual/toolkit/ch04s06.html"/>
   </context>
   <context id="testExecutionViewContextId">
-    <description>Test Suite Browser</description>
-    <topic label="The Test Suite Browser" href="content/html/userManual/userInterface/ch05s03s02.html"/>
+    <description>测试套件浏览器</description>
+    <topic label="测试套件浏览器" href="content/html/userManual/userInterface/ch05s03s02.html"/>
   </context>
   <context id="testSpecificationViewContextId">
-    <description>Test Case Browser</description>
-    <topic label="The Test Case Browser" href="content/html/userManual/userInterface/ch05s03s03.html"/>
+    <description>测试用例浏览器</description>
+    <topic label="测试用例浏览器" href="content/html/userManual/userInterface/ch05s03s03.html"/>
   </context>
   <context id="guidancerComponentNameBrowserContextId">
-    <description>Component Name Browser</description>
-    <topic label="The Component Names Browser" href="content/html/userManual/userInterface/ch05s03s04.html"/>
+    <description>组件名称浏览器</description>
+    <topic label="组件名称浏览器" href="content/html/userManual/userInterface/ch05s03s04.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Test Case Editor" href="content/html/userManual/userInterface/ch05s04s02.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="测试用例编辑器" href="content/html/userManual/userInterface/ch05s04s02.html"/>
   </context>
   <context id="testSuiteEditorContextId">
-    <description>Test Suite Editor</description>
-    <topic label="Test Suite Editor" href="content/html/userManual/userInterface/ch05s04s03.html"/>
+    <description>测试套件编辑器</description>
+    <topic label="测试套件编辑器" href="content/html/userManual/userInterface/ch05s04s03.html"/>
   </context>
   <context id="objectMapEditorContextId">
-    <description>Object Mapping</description>
-    <topic label="Object Mapping Editor" href="content/html/userManual/userInterface/ch05s04s04.html"/>
+    <description>对象映射</description>
+    <topic label="对象映射编辑器" href="content/html/userManual/userInterface/ch05s04s04.html"/>
   </context>
   <context id="guidancerCentralTestDataEditorContextId">
-    <description>Central Test Data</description>
-    <topic label="Central Test Data Editor" href="content/html/userManual/userInterface/ch05s04s05.html"/>
+    <description>中央测试数据</description>
+    <topic label="中央测试数据编辑器" href="content/html/userManual/userInterface/ch05s04s05.html"/>
   </context>
   <context id="guidancerPropertiesViewContextId">
-    <description>Properties View</description>
-    <topic label="The Properties View" href="content/html/userManual/userInterface/ch05s05s02.html"/>
+    <description>属性视图</description>
+    <topic label="属性视图" href="content/html/userManual/userInterface/ch05s05s02.html"/>
   </context>
   <context id="guidancerDataSetViewContextId">
-    <description>Data Sets View</description>
-    <topic label="The Data Sets View" href="content/html/userManual/userInterface/ch05s05s03.html"/>
+    <description>数据集视图</description>
+    <topic label="数据集视图" href="content/html/userManual/userInterface/ch05s05s03.html"/>
   </context>
   <context id="compNameViewContextId">
-    <description>Component Names</description>
-    <topic label="The Component Names View" href="content/html/userManual/userInterface/ch05s05s04.html"/>
+    <description>组件名称</description>
+    <topic label="组件名称视图" href="content/html/userManual/userInterface/ch05s05s04.html"/>
   </context>
   <context id="testResultViewContextId">
-    <description>Test Results View</description>
-    <topic label="The Test Result View" href="content/html/userManual/userInterface/ch05s05s05.html"/>
+    <description>测试结果视图</description>
+    <topic label="测试结果视图" href="content/html/userManual/userInterface/ch05s05s05.html"/>
   </context>
   <context id="problemViewContextId">
-    <description>Problem View</description>
-    <topic label="The Problem View" href="content/html/userManual/userInterface/ch05s05s06.html"/>
+    <description>问题视图</description>
+    <topic label="问题视图" href="content/html/userManual/userInterface/ch05s05s06.html"/>
   </context>
   <context id="searchResultViewContextId">
-    <description>Search Result View</description>
-    <topic label="The search result view" href="content/html/userManual/userInterface/ch05s05s07.html"/>
+    <description>搜索结果视图</description>
+    <topic label="搜索结果视图" href="content/html/userManual/userInterface/ch05s05s07.html"/>
   </context>
   <context id="editDescriptionDialogContextId">
-    <description>The Description View</description>
-    <topic label="The Description View" href="content/html/userManual/userInterface/ch05s05s08.html"/>
+    <description>描述视图</description>
+    <topic label="描述视图" href="content/html/userManual/userInterface/ch05s05s08.html"/>
   </context>
   <context id="org.eclipse.ui.resource_view_context">
-    <description>Navigator View</description>
-    <topic label="The Navigator View" href="content/html/userManual/userInterface/ch05s05s09.html"/>
+    <description>导航器视图</description>
+    <topic label="导航器视图" href="content/html/userManual/userInterface/ch05s05s09.html"/>
   </context>
   <context id="eventHandlerAddContextId">
-    <description>Event Handlers</description>
-    <topic label="Event Handlers" href="content/html/userManual/concepts/ch06s12.html"/>
+    <description>事件处理程序</description>
+    <topic label="事件处理程序" href="content/html/userManual/concepts/ch06s12.html"/>
   </context>
   <context id="guidancerSpecTestCaseEditorContextId">
-    <description>Test Case Editor</description>
-    <topic label="Event Handlers" href="content/html/userManual/concepts/ch06s12.html"/>
+    <description>测试用例编辑器</description>
+    <topic label="事件处理程序" href="content/html/userManual/concepts/ch06s12.html"/>
   </context>
 </contexts>

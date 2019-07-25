@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="Perf User Guide">
-	<topic href="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="Perf User Guide">
-		<topic href="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="Overview"></topic>
-		<topic href="Linux_Tools_Project/PERF/User_Guide/Installing.html" label="Installing"></topic>
-		<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html" label="Launching a Profile">
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html#One-click_launch" label="One-click launch"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html#Launching_a_Customized_Profile" label="Launching a Customized Profile"></topic>
+<toc topic="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="Perf用户指南">
+	<topic href="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="Perf用户指南">
+		<topic href="Linux_Tools_Project/PERF/User_Guide/User-Guide.html" label="概观"></topic>
+		<topic href="Linux_Tools_Project/PERF/User_Guide/Installing.html" label="安装"></topic>
+		<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html" label="启动个人资料">
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html#One-click_launch" label="一键启动"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html#Launching_a_Customized_Profile" label="启动自定义配置文件"></topic>
 		</topic>
-		<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html" label="Profiling Configuration">
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Remote_Profiling" label="Remote Profiling"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Perf_Options_tab" label="Perf Options tab"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Perf_Events_tab" label="Perf Events tab"></topic>
+		<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html" label="分析配置">
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Remote_Profiling" label="远程分析"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Perf_Options_tab" label="Perf选项选项卡"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html#Perf_Events_tab" label="Perf Events选项卡"></topic>
 		</topic>
 		<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html" label="Perf Views">
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Perf_Tree_View" label="Perf Tree View"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Source_Disassembly_View" label="Source Disassembly View"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Stat_View" label="Stat View"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Perf_Tree_View" label="Perf树视图"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Source_Disassembly_View" label="源反汇编视图"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Perf-Views.html#Stat_View" label="统计视图"></topic>
 		</topic>
-		<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html" label="Sessions">
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Saving_a_Session" label="Saving a Session"></topic>
-			<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Comparing_Sessions" label="Comparing Sessions">
-				<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Manual_Comparison" label="Manual Comparison"></topic>
-				<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Automatic_comparison" label="Automatic comparison"></topic>
+		<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html" label="会议">
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Saving_a_Session" label="保存会话"></topic>
+			<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Comparing_Sessions" label="比较会话">
+				<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Manual_Comparison" label="手动比较"></topic>
+				<topic href="Linux_Tools_Project/PERF/User_Guide/Sessions.html#Automatic_comparison" label="自动比较"></topic>
 			</topic>
 		</topic>
-		<topic href="Linux_Tools_Project/PERF/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="Linux_Tools_Project/PERF/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

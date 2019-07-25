@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
-<toc label="Reference" link_to="toc.xml#reference">
-	<topic label="API Reference">
+<toc label="参考" link_to="toc.xml#reference">
+	<topic label="API参考">
 		<topic label="org.eclipse.datatools" href="html/reference/api/org/eclipse/datatools/"/>
 		
 		<topic label="org.eclipse.datatools.connectivity" href="html/reference/api/org/eclipse/datatools/connectivity/package-summary.html"/>
@@ -207,7 +207,7 @@
 		<topic label="org.eclipse.datatools.modelbase.sql.tables.provider" href="html/reference/api/org/eclipse/datatools/modelbase/sql/tables/provider/package-summary.html"/>
 		<topic label="org.eclipse.datatools.modelbase.sql.tables.util" href="html/reference/api/org/eclipse/datatools/modelbase/sql/tables/util/package-summary.html"/>
 		<topic label="org.eclipse.datatools.modelbase.sql.xml.query" href="html/reference/api/org/eclipse/datatools/modelbase/sql/xml/query/package-summary.html"/>
-		<topic label="org.eclipse.datatools.modelbase.sql.xml.query/util" href="html/reference/api/org/eclipse/datatools/modelbase/sql/xml/query/util/package-summary.html"/>
+		<topic label="org.eclipse.datatools.modelbase.sql.xml.query / UTIL" href="html/reference/api/org/eclipse/datatools/modelbase/sql/xml/query/util/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.common.ui.actions" href="html/reference/api/org/eclipse/datatools/sqltools/common/ui/actions/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.common.ui.dialog" href="html/reference/api/org/eclipse/datatools/sqltools/common/ui/dialog/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.common.ui.helpsystem" href="html/reference/api/org/eclipse/datatools/sqltools/common/ui/helpsystem/package-summary.html"/>
@@ -218,7 +218,7 @@
 		<topic label="org.eclipse.datatools.sqltools.common.ui.util" href="html/reference/api/org/eclipse/datatools/sqltools/common/ui/util/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.data.internal.core" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.data.internal.core.common" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/common/package-summary.html"/>
-		<topic label="org.eclipse.datatools.sqltools.data.internal.core.common/data" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/common/data/package-summary.html"/>
+		<topic label="org.eclipse.datatools.sqltools.data.internal.core.common /数据" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/common/data/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.data.internal.core.editor" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/editor/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.data.internal.core.extract" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/extract/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.data.internal.core.load" href="html/reference/api/org/eclipse/datatools/sqltools/data/internal/core/load/package-summary.html"/>
@@ -370,7 +370,7 @@
 		<topic label="org.eclipse.datatools.sqltools.tabledataeditor.actions" href="html/reference/api/org/eclipse/datatools/sqltools/tabledataeditor/actions/package-summary.html"/>
 		<topic label="org.eclipse.datatools.sqltools.tabledataeditor.actions.providers" href="html/reference/api/org/eclipse/datatools/sqltools/tabledataeditor/actions/providers/package-summary.html"/>
 	</topic>
-	<topic label="Extension Points Reference">
+	<topic label="扩展点参考">
   <topic label="org.eclipse.datatools.connectivity.cipherProvider" href="html/reference/extension-points/org_eclipse_datatools_connectivity_cipherProvider.html">
   </topic>		
   <topic label="org.eclipse.datatools.connectivity.connectionProfile" href="html/reference/extension-points/org_eclipse_datatools_connectivity_connectionProfile.html">

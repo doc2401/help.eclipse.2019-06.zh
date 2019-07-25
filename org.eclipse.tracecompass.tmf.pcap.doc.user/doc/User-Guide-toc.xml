@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="doc/User-Guide.html" label="Pcap Network Tracing User Guide">
-	<topic href="doc/User-Guide.html" label="Pcap Support Within Trace Compass">
-		<topic href="doc/User-Guide.html#Supported_Protocols" label="Supported Protocols"></topic>
-		<topic href="doc/User-Guide.html#Network_Tracing_Perspective" label="Network Tracing Perspective"></topic>
-		<topic href="doc/User-Guide.html#Filtering_On_Subfield" label="Filtering On Subfield"></topic>
-		<topic href="doc/User-Guide.html#Stream_List_View" label="Stream List View"></topic>
-		<topic href="doc/User-Guide.html#Limitations" label="Limitations"></topic>
-		<topic href="doc/User-Guide.html#References" label="References"></topic>
+<toc topic="doc/User-Guide.html" label="Pcap网络跟踪用户指南">
+	<topic href="doc/User-Guide.html" label="Trace Compass中的Pcap支持">
+		<topic href="doc/User-Guide.html#Supported_Protocols" label="支持的协议"></topic>
+		<topic href="doc/User-Guide.html#Network_Tracing_Perspective" label="网络追踪视角"></topic>
+		<topic href="doc/User-Guide.html#Filtering_On_Subfield" label="在子字段上过滤"></topic>
+		<topic href="doc/User-Guide.html#Stream_List_View" label="流列表视图"></topic>
+		<topic href="doc/User-Guide.html#Limitations" label="限制"></topic>
+		<topic href="doc/User-Guide.html#References" label="参考"></topic>
 	</topic>
 	<anchor id="additions"/>
 </toc>

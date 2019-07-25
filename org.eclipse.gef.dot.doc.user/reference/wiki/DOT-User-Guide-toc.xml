@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="reference/wiki/DOT-User-Guide.html" label="GEF DOT User Guide">
-	<topic href="reference/wiki/DOT-User-Guide.html" label="Introduction"></topic>
-	<topic href="reference/wiki/DOT-User-Guide.html#dot-editor" label="DOT Editor"></topic>
-	<topic href="reference/wiki/DOT-User-Guide.html#dot-graph-view" label="DOT Graph View"></topic>
+<toc topic="reference/wiki/DOT-User-Guide.html" label="GEF DOT用户指南">
+	<topic href="reference/wiki/DOT-User-Guide.html" label="介绍"></topic>
+	<topic href="reference/wiki/DOT-User-Guide.html#dot-editor" label="DOT编辑器"></topic>
+	<topic href="reference/wiki/DOT-User-Guide.html#dot-graph-view" label="DOT图表视图"></topic>
 	<anchor id="additions"/>
 </toc>

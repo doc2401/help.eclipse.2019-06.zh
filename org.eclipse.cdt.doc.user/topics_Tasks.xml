@@ -2,100 +2,100 @@
 <?NLS TYPE="org.eclipse.help.toc"?>
 <!-- Defines topics that will be inserted under the C/C++ Development User Guide menu-->
 
-     <toc label="Tasks">
-		<topic label="Creating a project" href="tasks/cdt_t_proj_new.htm"/>
-		<topic label="Creating a project via a project template" href="tasks/cdt_t_proj_new_with_template.htm"/>
-		<topic label="Work with C or C++ project files" href="tasks/cdt_o_proj_files.htm">
-			<topic label="Display file members in the C/C++ Projects view" href="tasks/cdt_t_show_proj_files.htm"/>
-			<topic label="Converting a C or C++ nature for a project" href="tasks/cdt_t_conv_proj.htm"/>
-			<topic label="Create a C/C++ file" href="tasks/cdt_t_new_cpp.htm"/>
-			<topic label="Create a makefile" href="tasks/cdt_t_new_make.htm"/>
-			<topic label="Hide files of a given type" href="tasks/cdt_t_prvw_hide_files.htm"/>
-			<topic label="Converting CDT 1.x Projects" href="tasks/cdt_t_convert_cdt_proj.htm"/>
-			<topic label="Converting CDT 2.x Managed Make Projects" href="tasks/cdt_t_convert_mbs20_proj.htm"/>
-			<topic label="Adding Convert to a C/C++ Make Project to the New menu" href="tasks/cdt_t_add_custom_persp.htm"/>
+     <toc label="任务">
+		<topic label="创建一个项目" href="tasks/cdt_t_proj_new.htm"/>
+		<topic label="通过项目模板创建项目" href="tasks/cdt_t_proj_new_with_template.htm"/>
+		<topic label="使用C或C ++项目文件" href="tasks/cdt_o_proj_files.htm">
+			<topic label="在C / C ++ Projects视图中显示文件成员" href="tasks/cdt_t_show_proj_files.htm"/>
+			<topic label="转换项目的C或C ++性质" href="tasks/cdt_t_conv_proj.htm"/>
+			<topic label="创建一个C / C ++文件" href="tasks/cdt_t_new_cpp.htm"/>
+			<topic label="创建一个makefile" href="tasks/cdt_t_new_make.htm"/>
+			<topic label="隐藏给定类型的文件" href="tasks/cdt_t_prvw_hide_files.htm"/>
+			<topic label="转换CDT 1.x项目" href="tasks/cdt_t_convert_cdt_proj.htm"/>
+			<topic label="转换CDT 2.x托管制作项目" href="tasks/cdt_t_convert_mbs20_proj.htm"/>
+			<topic label="将转换添加到C / C ++使项目进入新菜单" href="tasks/cdt_t_add_custom_persp.htm"/>
 		</topic>
-		<topic label="Write code" href="tasks/cdt_o_write_code.htm">
-			<topic label="Customize the C/C++ editor" href="tasks/cdt_t_cust_cpp_editor.htm"/>
-			<topic label="Comment out code" href="tasks/cdt_t_comment_out.htm"/>
-			<topic label="Working with Content Assist" href="tasks/cdt_o_con_assist.htm">
-				<topic label="Using Content Assist" href="tasks/cdt_t_contentassist.htm"/>
-				<topic label="Creating and editing templates" href="tasks/cdt_t_add_codetemp.htm"/>
-				<topic label="Importing and exporting templates" href="tasks/cdt_t_imp_code_temp.htm"/>
+		<topic label="写代码" href="tasks/cdt_o_write_code.htm">
+			<topic label="自定义C / C ++编辑器" href="tasks/cdt_t_cust_cpp_editor.htm"/>
+			<topic label="注释掉代码" href="tasks/cdt_t_comment_out.htm"/>
+			<topic label="使用内容辅助" href="tasks/cdt_o_con_assist.htm">
+				<topic label="使用内容辅助" href="tasks/cdt_t_contentassist.htm"/>
+				<topic label="创建和编辑模板" href="tasks/cdt_t_add_codetemp.htm"/>
+				<topic label="导入和导出模板" href="tasks/cdt_t_imp_code_temp.htm"/>
 			</topic>
-			<topic label="Shift lines of code to the left or right" href="tasks/cdt_t_shift_code.htm"/>
-			<topic label="Navigate to C/C++ declarations by name" href="tasks/cdt_t_open_declarations.htm"/>
-			<topic href="tasks/cdt_t_refactoring.htm" label="Refactoring">
-      <topic href="tasks/cdt_t_rename.htm" label="Rename">
+			<topic label="将代码行移到左侧或右侧" href="tasks/cdt_t_shift_code.htm"/>
+			<topic label="按名称导航到C / C ++声明" href="tasks/cdt_t_open_declarations.htm"/>
+			<topic href="tasks/cdt_t_refactoring.htm" label="重构">
+      <topic href="tasks/cdt_t_rename.htm" label="改名">
       </topic>
-      <topic href="tasks/cdt_t_toggle.htm" label="Toggle Function Definition">
+      <topic href="tasks/cdt_t_toggle.htm" label="切换功能定义">
       </topic>
    </topic>
 		</topic>
-		<topic label="Building projects" href="tasks/cdt_o_build_task.htm">
-			<topic label="Renaming a project" href="tasks/cdt_t_proj_rename.htm"/>
-			<topic label="Defining Project Build settings" href="tasks/cdt_t_proj_build_set.htm"/>
-   <topic href="tasks/cdt_t_add_build_var.htm" label="Adding and Editing Build Variables">
+		<topic label="建设项目" href="tasks/cdt_o_build_task.htm">
+			<topic label="重命名项目" href="tasks/cdt_t_proj_rename.htm"/>
+			<topic label="定义项目构建设置" href="tasks/cdt_t_proj_build_set.htm"/>
+   <topic href="tasks/cdt_t_add_build_var.htm" label="添加和编辑构建变量">
    </topic>
-			<topic label="Tuning Error Parsers" href="tasks/cdt_t_proj_error_parser.htm"/>
-			<topic label="Selecting a binary parser" href="tasks/cdt_t_proj_parser.htm"/>
-			<topic label="Adding Include paths and symbols" href="tasks/cdt_t_proj_paths.htm"/>
-			<topic label="Selecting a project type" href="tasks/cdt_t_proj_platf.htm"/>
-			<topic label="Building Manually" href="tasks/cdt_t_manualbuild.htm"/>
-			<topic label="Removing Build Automatically" href="tasks/cdt_t_autobuild.htm"/>
-			<topic label="Autosaving on a build" href="tasks/cdt_t_autosave.htm"/>
-			<topic label="Creating a make target" href="tasks/cdt_t_addmaketarget.htm"/>
-   <topic href="tasks/cdt_t_proj_referenced_configs.htm" label="Creating Project References">
+			<topic label="调整错误分析器" href="tasks/cdt_t_proj_error_parser.htm"/>
+			<topic label="选择二进制解析器" href="tasks/cdt_t_proj_parser.htm"/>
+			<topic label="添加包含路径和符号" href="tasks/cdt_t_proj_paths.htm"/>
+			<topic label="选择项目类型" href="tasks/cdt_t_proj_platf.htm"/>
+			<topic label="手动构建" href="tasks/cdt_t_manualbuild.htm"/>
+			<topic label="自动删除构建" href="tasks/cdt_t_autobuild.htm"/>
+			<topic label="在构建上自动保存" href="tasks/cdt_t_autosave.htm"/>
+			<topic label="创建一个make目标" href="tasks/cdt_t_addmaketarget.htm"/>
+   <topic href="tasks/cdt_t_proj_referenced_configs.htm" label="创建项目参考">
    </topic>
-			<topic label="Customizing the Console view" href="tasks/cdt_t_cbuild_pref.htm"/>
-			<topic label="Tracking down compilation errors" href="tasks/cdt_o_builderrors.htm">
-				<topic label="Jumping to errors" href="tasks/cdt_t_jumperror.htm"/>
-				<topic label="Filtering the Problems view" href="tasks/cdt_t_filtererror.htm"/>
+			<topic label="自定义控制台视图" href="tasks/cdt_t_cbuild_pref.htm"/>
+			<topic label="追踪编译错误" href="tasks/cdt_o_builderrors.htm">
+				<topic label="跳到错误" href="tasks/cdt_t_jumperror.htm"/>
+				<topic label="过滤“问题”视图" href="tasks/cdt_t_filtererror.htm"/>
 			</topic>
 		</topic>
-		<topic label="Running and debugging projects" href="tasks/cdt_o_run.htm">
-			<topic label="Creating or editing a run/debug configuration" href="tasks/cdt_o_run_config.htm">
-				<topic label="Selecting a run or debug configuration" href="tasks/cdt_t_run_config.htm"/>
-				<topic label="Creating a run or debug configuration" href="tasks/cdt_t_new_run_config.htm"/>
-				<topic label="Selecting an application to run or debug" href="tasks/cdt_t_run_main.htm"/>
-				<topic label="Specifying execution arguments" href="tasks/cdt_t_run_arg.htm"/>
-				<topic label="Setting environment variables" href="tasks/cdt_t_run_env.htm"/>
-				<topic label="Defining debug settings" href="tasks/cdt_t_run_dbg.htm"/>
-				<topic label="Specifying the location of source files" href="tasks/cdt_t_run_source.htm"/>
-				<topic label="Specifying the location of the run configuration" href="tasks/cdt_t_run_com.htm"/>
+		<topic label="运行和调试项目" href="tasks/cdt_o_run.htm">
+			<topic label="创建或编辑运行/调试配置" href="tasks/cdt_o_run_config.htm">
+				<topic label="选择运行或调试配置" href="tasks/cdt_t_run_config.htm"/>
+				<topic label="创建运行或调试配置" href="tasks/cdt_t_new_run_config.htm"/>
+				<topic label="选择要运行或调试的应用程序" href="tasks/cdt_t_run_main.htm"/>
+				<topic label="指定执行参数" href="tasks/cdt_t_run_arg.htm"/>
+				<topic label="设置环境变量" href="tasks/cdt_t_run_env.htm"/>
+				<topic label="定义调试设置" href="tasks/cdt_t_run_dbg.htm"/>
+				<topic label="指定源文件的位置" href="tasks/cdt_t_run_source.htm"/>
+				<topic label="指定运行配置的位置" href="tasks/cdt_t_run_com.htm"/>
 			</topic>
 			
-			<topic label="Debugging" href="tasks/cdt_o_debug.htm">
-				<topic label="Debugging a program" href="tasks/cdt_t_debug_prog.htm"/>
-				<topic label="Debugging an existing executable" href="tasks/cdt_t_debug_exes.htm"/>
+			<topic label="调试" href="tasks/cdt_o_debug.htm">
+				<topic label="调试程序" href="tasks/cdt_t_debug_prog.htm"/>
+				<topic label="调试现有的可执行文件" href="tasks/cdt_t_debug_exes.htm"/>
 				
-				<topic label="Using breakpoints, watchpoints, and breakpoint actions" href="tasks/cdt_o_brkpnts_watch.htm">
-					<topic label="Adding breakpoints" href="tasks/cdt_t_add_brkpnts.htm"/>
-					<topic label="Adding watchpoints" href="tasks/cdt_t_add_watch.htm"/>
-					<topic label="Adding breakpoint actions" href="tasks/cdt_t_add_brk_action.htm"/>
-					<topic label="Removing breakpoints and watchpoints" href="tasks/cdt_t_rem_wtch_brk.htm"/>
-					<topic label="Enabling or disable breakpoints and watchpoints" href="tasks/cdt_t_endis_able_brk_wtch.htm"/>
-					<topic label="Attaching or removing breakpoint actions" href="tasks/cdt_t_addrmv_brk_action.htm"/>
+				<topic label="使用断点，观察点和断点操作" href="tasks/cdt_o_brkpnts_watch.htm">
+					<topic label="添加断点" href="tasks/cdt_t_add_brkpnts.htm"/>
+					<topic label="添加观察点" href="tasks/cdt_t_add_watch.htm"/>
+					<topic label="添加断点操作" href="tasks/cdt_t_add_brk_action.htm"/>
+					<topic label="删除断点和观察点" href="tasks/cdt_t_rem_wtch_brk.htm"/>
+					<topic label="启用或禁用断点和观察点" href="tasks/cdt_t_endis_able_brk_wtch.htm"/>
+					<topic label="附加或删除断点操作" href="tasks/cdt_t_addrmv_brk_action.htm"/>
 				</topic>
 				
-				<topic label="Controlling debug execution" href="tasks/cdt_t_controldebug.htm"/>
-				<topic label="Stepping into assembler functions" href="tasks/cdt_t_disassembly.htm"/>
-				<topic label="Working with variables" href="tasks/cdt_t_variables.htm"/>
-				<topic label="Adding expressions" href="tasks/cdt_t_expressions.htm"/>
-				<topic label="Working with registers" href="tasks/cdt_t_registers.htm"/>
-				<topic label="Working with memory" href="tasks/cdt_t_memory.htm"/>
+				<topic label="控制调试执行" href="tasks/cdt_t_controldebug.htm"/>
+				<topic label="步入汇编程序功能" href="tasks/cdt_t_disassembly.htm"/>
+				<topic label="使用变量" href="tasks/cdt_t_variables.htm"/>
+				<topic label="添加表达式" href="tasks/cdt_t_expressions.htm"/>
+				<topic label="使用寄存器" href="tasks/cdt_t_registers.htm"/>
+				<topic label="使用记忆" href="tasks/cdt_t_memory.htm"/>
 			</topic>
 		</topic>
 		
-		<topic label="Searching the CDT" href="tasks/cdt_t_search.htm">
-			<topic label="Selection Searching for C/C++ elements" href="tasks/cdt_t_sel_search.htm"/>
-			<topic label="Setting Source Folders" href="tasks/cdt_t_set_src_fold.htm"/>
+		<topic label="搜索CDT" href="tasks/cdt_t_search.htm">
+			<topic label="选择搜索C / C ++元素" href="tasks/cdt_t_sel_search.htm"/>
+			<topic label="设置源文件夹" href="tasks/cdt_t_set_src_fold.htm"/>
 		</topic>
 		
-		<topic label="Include paths and macros for C/C++ indexer" href="tasks/cdt_t_sd.htm"/>
+		<topic label="包含C / C ++索引器的路径和宏" href="tasks/cdt_t_sd.htm"/>
 
-		<topic label="Using the Formatter Application" href="tasks/cdt_t_format_app.htm">
-			<topic label="Running the Formatter Application" href="tasks/cdt_t_format_app_run.htm"/>
-			<topic label="Generating a Config File for the Formatter Application" href="tasks/cdt_t_format_app_gen_config.htm"/>
+		<topic label="使用Formatter应用程序" href="tasks/cdt_t_format_app.htm">
+			<topic label="运行Formatter应用程序" href="tasks/cdt_t_format_app_run.htm"/>
+			<topic label="为Formatter应用程序生成配置文件" href="tasks/cdt_t_format_app_gen_config.htm"/>
 		</topic>
 </toc>

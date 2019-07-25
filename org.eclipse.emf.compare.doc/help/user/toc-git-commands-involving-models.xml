@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="help/user/git-commands-involving-models.html#Git_commands_involving_models" label="Git commands involving models">
-	<topic href="help/user/git-commands-involving-models.html#Add_new_Git_commands_in_your_system" label="Add new Git commands in your system"></topic>
-	<topic href="help/user/git-commands-involving-models.html#Create_a_setup_file" label="Create a setup file">
-		<topic href="help/user/git-commands-involving-models.html#Installation" label="Installation"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Basic_usage" label="Basic usage"></topic>
+<toc topic="help/user/git-commands-involving-models.html#Git_commands_involving_models" label="涉及模型的Git命令">
+	<topic href="help/user/git-commands-involving-models.html#Add_new_Git_commands_in_your_system" label="在系统中添加新的Git命令"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Create_a_setup_file" label="创建一个安装文件">
+		<topic href="help/user/git-commands-involving-models.html#Installation" label="安装"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Basic_usage" label="基本用法"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_diff_command_with_models_:_git_logicaldiff" label="Git diff command with models : git logicaldiff">
-		<topic href="help/user/git-commands-involving-models.html#Others_options_available" label="Others options available"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_diff_command_with_models_:_git_logicaldiff" label="带模型的Git diff命令：git logicaldiff">
+		<topic href="help/user/git-commands-involving-models.html#Others_options_available" label="其他选择"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_merge_command_with_models_:_git_logicalmerge" label="Git merge command with models : git logicalmerge">
-		<topic href="help/user/git-commands-involving-models.html#Others_options_available_2" label="Others options available"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_merge_command_with_models_:_git_logicalmerge" label="Git merge命令与模型：git logicalmerge">
+		<topic href="help/user/git-commands-involving-models.html#Others_options_available_2" label="其他选择"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_mergetool_command_with_models_:_git_logicalmergetool" label="Git mergetool command with models : git logicalmergetool"></topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_cherry-pick_with_models_:_git_logicalcherry-pick" label="Git cherry-pick with models : git logicalcherry-pick">
-		<topic href="help/user/git-commands-involving-models.html#Conflicts" label="Conflicts">
-			<topic href="help/user/git-commands-involving-models.html#Resolve_a_conflict" label="Resolve a conflict"></topic>
-			<topic href="help/user/git-commands-involving-models.html#Continue" label="Continue"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_mergetool_command_with_models_:_git_logicalmergetool" label="Git mergetool命令与模型：git logicalmergetool"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_cherry-pick_with_models_:_git_logicalcherry-pick" label="Git樱桃挑选模特：git logicalcherry-pick">
+		<topic href="help/user/git-commands-involving-models.html#Conflicts" label="冲突">
+			<topic href="help/user/git-commands-involving-models.html#Resolve_a_conflict" label="解决冲突"></topic>
+			<topic href="help/user/git-commands-involving-models.html#Continue" label="继续"></topic>
 		</topic>
-		<topic href="help/user/git-commands-involving-models.html#Abort" label="Abort"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Quit" label="Quit"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Others_options_available_3" label="Others options available"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Abort" label="退出"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Quit" label="放弃"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Others_options_available_3" label="其他选择"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_rebase_with_models_:_git_logicalrebase" label="Git rebase with models : git logicalrebase">
-		<topic href="help/user/git-commands-involving-models.html#Conflicts_2" label="Conflicts">
-			<topic href="help/user/git-commands-involving-models.html#Resolve_a_conflict_2" label="Resolve a conflict"></topic>
-			<topic href="help/user/git-commands-involving-models.html#Continue_2" label="Continue"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_rebase_with_models_:_git_logicalrebase" label="使用模型git rebase：git logicalrebase">
+		<topic href="help/user/git-commands-involving-models.html#Conflicts_2" label="冲突">
+			<topic href="help/user/git-commands-involving-models.html#Resolve_a_conflict_2" label="解决冲突"></topic>
+			<topic href="help/user/git-commands-involving-models.html#Continue_2" label="继续"></topic>
 		</topic>
-		<topic href="help/user/git-commands-involving-models.html#Abort_2" label="Abort"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Skip" label="Skip"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Others_options_available_4" label="Others options available"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Abort_2" label="退出"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Skip" label="跳跃"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Others_options_available_4" label="其他选择"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Git_pull_with_models_:_git_logicalpull" label="Git pull with models : git logicalpull">
-		<topic href="help/user/git-commands-involving-models.html#Others_options_available_5" label="Others options available"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Git_pull_with_models_:_git_logicalpull" label="Git pull with models：git logicalpull">
+		<topic href="help/user/git-commands-involving-models.html#Others_options_available_5" label="其他选择"></topic>
 	</topic>
-	<topic href="help/user/git-commands-involving-models.html#Known_bugs_.26_limitations" label="Known bugs &amp; limitations">
-		<topic href="help/user/git-commands-involving-models.html#First_use" label="First use"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Merge_tool" label="Merge tool"></topic>
-		<topic href="help/user/git-commands-involving-models.html#Cherry-pick_empty_commit" label="Cherry-pick empty commit"></topic>
+	<topic href="help/user/git-commands-involving-models.html#Known_bugs_.26_limitations" label="已知的错误＆amp;限制">
+		<topic href="help/user/git-commands-involving-models.html#First_use" label="首次使用"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Merge_tool" label="合并工具"></topic>
+		<topic href="help/user/git-commands-involving-models.html#Cherry-pick_empty_commit" label="樱桃挑选空提交"></topic>
 	</topic>
 </toc>

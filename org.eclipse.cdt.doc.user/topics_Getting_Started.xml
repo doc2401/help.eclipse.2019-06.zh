@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
-<toc label="Getting Started">
-          <topic label="Preparing the Workbench" href="getting_started/cdt_w_prepare_workbench.htm"/>
-          <topic label="Creating a simple application" href="getting_started/cdt_w_basic.htm"/>
-          <topic label="Creating a Makefile project" href="getting_started/cdt_w_newproj.htm"/>
-          <topic label="Importing an existing project" href="getting_started/cdt_w_import.htm"/>
-          <topic href="getting_started/cdt_w_newcpp.htm" label="Creating a C++ file"/>
-          <topic href="getting_started/cdt_w_newmake.htm" label="Creating a makefile"/>
-          <topic label="Building a project" href="getting_started/cdt_w_build.htm"/>
-          <topic label="Debugging projects" href="getting_started/cdt_w_debug.htm"/>
-          <topic label="Importing C/C++ source files into Eclipse" href="getting_started/cdt_w_existing_code.htm"/>
-          <!--topic label="Updating the CDT" href="getting_started/cdt_w_install_cdt.htm"/-->
+<toc label="入门">
+          <topic label="准备工作台" href="getting_started/cdt_w_prepare_workbench.htm"/>
+          <topic label="创建一个简单的应用程" href="getting_started/cdt_w_basic.htm"/>
+          <topic label="创建一个Makefile项目" href="getting_started/cdt_w_newproj.htm"/>
+          <topic label="导入现有项目" href="getting_started/cdt_w_import.htm"/>
+          <topic href="getting_started/cdt_w_newcpp.htm" label="创建C ++文件"/>
+          <topic href="getting_started/cdt_w_newmake.htm" label="创建一个makefile"/>
+          <topic label="建立一个项目" href="getting_started/cdt_w_build.htm"/>
+          <topic label="调试项目" href="getting_started/cdt_w_debug.htm"/>
+          <topic label="将C / C ++源文件导入Eclipse" href="getting_started/cdt_w_existing_code.htm"/>
+          <!--topic label="更新CDT" href="getting_started/cdt_w_install_cdt.htm"/-->
 </toc>

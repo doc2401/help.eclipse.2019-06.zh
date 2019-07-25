@@ -5,23 +5,23 @@
     <!-- Dialogs -->
 
     <context id="advanced_factory_path_options_dialog_context">
-        <description>Configure factory path options that do not normally need to be changed.</description>
-        <topic label="Advanced factory path options dialog" href="reference/ref-apt-factoryPathOptions.htm"/>
+        <description>配置通常不需要更改的工厂路径选项。</description>
+        <topic label="高级工厂路径选项对话框" href="reference/ref-apt-factoryPathOptions.htm"/>
     </context>
     <context id="processor_option_input_dialog_context">
-        <description>Configure an annotation processor option.</description>
-        <topic label="Processor option input dialog" href="reference/ref-apt-processorOptionsInput.htm"/>
+        <description>配置注释处理器选项。</description>
+        <topic label="处理器选项输入对话框" href="reference/ref-apt-processorOptionsInput.htm"/>
     </context>
     
     <!-- Preference pages -->
 
     <context id="apt_configuration_preference_page_context">
-        <description>Configure general Java annotation processing settings.</description>
-        <topic label="Java annotation processing preferences" href="reference/ref-apt-config.htm"/>
+        <description>配置常规Java注释处理设置。</description>
+        <topic label="Java注释处理首选项" href="reference/ref-apt-config.htm"/>
     </context>
     <context id="factory_path_preference_page_context">
-        <description>Configure the factory path for Java annotation processing.</description>
-        <topic label="Java annotation processing factory path preferences" href="reference/ref-apt-factoryPath.htm"/>
+        <description>配置Java注释处理的工厂路径。</description>
+        <topic label="Java注释处理工厂路径首选项" href="reference/ref-apt-factoryPath.htm"/>
     </context>
     
 </contexts>

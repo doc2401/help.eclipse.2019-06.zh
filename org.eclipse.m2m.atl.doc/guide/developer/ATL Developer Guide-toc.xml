@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="guide/developer/ATL Developer Guide.html" label="ATL Developer Guide">
-	<topic href="guide/developer/ATL Developer Guide.html" label="ATL Source Code">
-		<topic href="guide/developer/ATL Developer Guide.html#Plug-ins_organization" label="Plug-ins organization"></topic>
-		<topic href="guide/developer/ATL Developer Guide.html#External_dependencies" label="External dependencies"></topic>
-		<topic href="guide/developer/ATL Developer Guide.html#Install_ATL_from_CVS" label="Install ATL from CVS">
-			<topic href="guide/developer/ATL Developer Guide.html#Import_team_project_set" label="Import team project set">
-				<topic href="guide/developer/ATL Developer Guide.html#ANTLR_installation" label="ANTLR installation"></topic>
-				<topic href="guide/developer/ATL Developer Guide.html#MDR_installation_.28Regular_VM_only.29" label="MDR installation (Regular VM only)"></topic>
-				<topic href="guide/developer/ATL Developer Guide.html#Testing" label="Testing"></topic>
+<toc topic="guide/developer/ATL Developer Guide.html" label="ATL开发人员指南">
+	<topic href="guide/developer/ATL Developer Guide.html" label="ATL源代码">
+		<topic href="guide/developer/ATL Developer Guide.html#Plug-ins_organization" label="插件组织"></topic>
+		<topic href="guide/developer/ATL Developer Guide.html#External_dependencies" label="外部依赖"></topic>
+		<topic href="guide/developer/ATL Developer Guide.html#Install_ATL_from_CVS" label="从CVS安装ATL">
+			<topic href="guide/developer/ATL Developer Guide.html#Import_team_project_set" label="导入团队项目集">
+				<topic href="guide/developer/ATL Developer Guide.html#ANTLR_installation" label="ANTLR安装"></topic>
+				<topic href="guide/developer/ATL Developer Guide.html#MDR_installation_.28Regular_VM_only.29" label="MDR安装（仅限常规VM）"></topic>
+				<topic href="guide/developer/ATL Developer Guide.html#Testing" label="测试"></topic>
 			</topic>
 		</topic>
 	</topic>
-	<topic href="guide/developer/ATL-Architecture.html" label="ATL Architecture">
-		<topic href="guide/developer/ATL-Architecture.html#Core" label="Core">
-			<topic href="guide/developer/ATL-Architecture.html#Services" label="Services">
+	<topic href="guide/developer/ATL-Architecture.html" label="ATL架构">
+		<topic href="guide/developer/ATL-Architecture.html#Core" label="核心">
+			<topic href="guide/developer/ATL-Architecture.html#Services" label="服务">
 				<topic href="guide/developer/ATL-Architecture.html#CoreService" label="CoreService"></topic>
 				<topic href="guide/developer/ATL-Architecture.html#LauncherService" label="LauncherService"></topic>
 			</topic>
-			<topic href="guide/developer/ATL-Architecture.html#EMF_interactions" label="EMF interactions"></topic>
-			<topic href="guide/developer/ATL-Architecture.html#Examples_of_use" label="Examples of use"></topic>
+			<topic href="guide/developer/ATL-Architecture.html#EMF_interactions" label="EMF互动"></topic>
+			<topic href="guide/developer/ATL-Architecture.html#Examples_of_use" label="使用示例"></topic>
 		</topic>
-		<topic href="guide/developer/ATL-Architecture.html#ATL_Virtual_Machine" label="ATL Virtual Machine">
-			<topic href="guide/developer/ATL-Architecture.html#Regular_VM" label="Regular VM"></topic>
-			<topic href="guide/developer/ATL-Architecture.html#EMF-specific_VM" label="EMF-specific VM"></topic>
-			<topic href="guide/developer/ATL-Architecture.html#ASM_format" label="ASM format">
-				<topic href="guide/developer/ATL-Architecture.html#Serialization" label="Serialization"></topic>
-				<topic href="guide/developer/ATL-Architecture.html#Instructions" label="Instructions"></topic>
+		<topic href="guide/developer/ATL-Architecture.html#ATL_Virtual_Machine" label="ATL虚拟机">
+			<topic href="guide/developer/ATL-Architecture.html#Regular_VM" label="常规VM"></topic>
+			<topic href="guide/developer/ATL-Architecture.html#EMF-specific_VM" label="EMF特定的VM"></topic>
+			<topic href="guide/developer/ATL-Architecture.html#ASM_format" label="ASM格式">
+				<topic href="guide/developer/ATL-Architecture.html#Serialization" label="序列化"></topic>
+				<topic href="guide/developer/ATL-Architecture.html#Instructions" label="说明"></topic>
 			</topic>
 		</topic>
-		<topic href="guide/developer/ATL-Architecture.html#Parser" label="Parser"></topic>
-		<topic href="guide/developer/ATL-Architecture.html#Compiler" label="Compiler">
-			<topic href="guide/developer/ATL-Architecture.html#ACG_.28ATL_VM_Code_Generator.29" label="ACG (ATL VM Code Generator)"></topic>
+		<topic href="guide/developer/ATL-Architecture.html#Parser" label="分析器"></topic>
+		<topic href="guide/developer/ATL-Architecture.html#Compiler" label="编译器">
+			<topic href="guide/developer/ATL-Architecture.html#ACG_.28ATL_VM_Code_Generator.29" label="ACG（ATL VM代码生成器）"></topic>
 		</topic>
 	</topic>
 	<topic href="guide/developer/ATL-Bugzilla.html" label="ATL Bugzilla"></topic>
-	<topic href="guide/developer/Updating-This-Document.html" label="Updating This Document"></topic>
+	<topic href="guide/developer/Updating-This-Document.html" label="更新本文档"></topic>
 </toc>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Getting Started"> 
-    <topic label="Download" href="http://www.eclipse.org/ecf/downloads.php"/>
-    <topic label="Remote Services Tutorials, Examples, and Documentation" href="http://wiki.eclipse.org/ECF"/>
+<toc label="入门"> 
+    <topic label="下载" href="http://www.eclipse.org/ecf/downloads.php"/>
+    <topic label="远程服务教程，示例和文档" href="http://wiki.eclipse.org/ECF"/>
 </toc>

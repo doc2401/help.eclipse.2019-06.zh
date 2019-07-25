@@ -17,17 +17,17 @@
 		<group label="PHP" id="pdt" style-id="content-group">
 			<link
 				url="http://org.eclipse.ui.intro/showHelpTopic?id=/org.eclipse.php.help/html/getting_started/basic_tutorial/creating_and_uploading_a_project.html"
-				label="Create Projects and Files" id="pdt-tutorial" style-id="content-link">
+				label="创建项目和文件" id="pdt-tutorial" style-id="content-link">
 				<text>Learn how to create PHP projects and files</text>
 			</link>
 			<link
 				url="http://org.eclipse.ui.intro/showHelpTopic?id=/org.eclipse.php.help/html/getting_started/basic_tutorial/working_with_code_assist.html"
-				label="Work with Content Assist" id="pdt-tutorial" style-id="content-link">
+				label="使用内容辅助" id="pdt-tutorial" style-id="content-link">
 				<text>Learn how to use content assist in order to write code quickly, easily, and accurately</text>
 			</link>
 			<link
 				url="http://org.eclipse.ui.intro/showHelpTopic?id=/org.eclipse.php.help/html/getting_started/basic_tutorial/working_with_the_debugger.html"
-				label="Work with the Debugger" id="pdt-tutorial" style-id="content-link">
+				label="使用调试器" id="pdt-tutorial" style-id="content-link">
 				<text>Learn how to debug files and applications both remotely and locally</text>
 			</link>
 		</group>

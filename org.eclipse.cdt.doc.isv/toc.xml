@@ -3,15 +3,15 @@
 <!-- ============================================================================= -->
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
-<toc label="CDT Plug-in Developer Guide">
-	<topic label="Programmer&apos;s Guide" href="guide/index.html">
+<toc label="CDT插件开发人员指南">
+	<topic label="程序员指南" href="guide/index.html">
 		<link toc="topics_Guide.xml" />
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
 		<link toc="topics_Reference.xml" />
 	</topic>
-	<topic label="Examples Guide">
+	<topic label="示例指南">
 		<link toc="topics_Samples.xml" />
 	</topic>
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 </toc>

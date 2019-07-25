@@ -4,17 +4,17 @@
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
 
-<toc label="Tcl/Xotcl Development User Guide">
-    <topic label="Tcl development overview" href="gettingStarted/intro/overview.htm"/>
-	<topic label="Getting Started">
+<toc label="Tcl / Xotcl开发用户指南">
+    <topic label="Tcl开发概述" href="gettingStarted/intro/overview.htm"/>
+	<topic label="入门">
 		<link toc="topics_GettingStarted.xml" />
 	</topic>
 	<anchor id="jdt_getstart" />
-	<topic label="Concepts">
+	<topic label="概念">
 		<link toc="topics_Concepts.xml" />
 	</topic>
 	<anchor id="jdt_concepts" />
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 	<enablement>
 		<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.dltk.tcl.ui"/>
 	</enablement>

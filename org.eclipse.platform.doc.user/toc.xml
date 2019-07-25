@@ -4,28 +4,28 @@
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
 
-<toc label="Workbench User Guide">
-   <topic label="Eclipse platform overview" href="gettingStarted/intro/overview.htm"/> 
-	<topic label="Getting started">
+<toc label="Workbench用户指南">
+   <topic label="Eclipse平台概述" href="gettingStarted/intro/overview.htm"/> 
+	<topic label="入门">
 		<link toc="topics_GettingStarted.xml" />
 	</topic>
-	<topic label="Concepts">
+	<topic label="概念">
 		<link toc="topics_Concepts.xml" />
 	</topic>
-	<topic label="Tasks">
+	<topic label="任务">
 		<link toc="topics_Tasks.xml" />
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
 		<link toc="topics_Reference.xml" />
 	</topic>
-	<topic label="Tips and tricks" href="tips/platform_tips.html">
+	<topic label="技巧和窍门" href="tips/platform_tips.html">
 		<link toc="topics_Tips.xml" />
 	</topic>
-	<topic label="What's new" href="whatsNew/platform_whatsnew.html">
+	<topic label="什么是新的" href="whatsNew/platform_whatsnew.html">
     <link toc="topics_WhatsNew.xml"/>
 		<!--<link toc="topics_WhatsNew.xml" />-->
 	</topic>
-	<topic label="Legal" href="notices.html"/>
+	<topic label="法律" href="notices.html"/>
 	<enablement>
 		<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ui.workbench"/>
 	</enablement>

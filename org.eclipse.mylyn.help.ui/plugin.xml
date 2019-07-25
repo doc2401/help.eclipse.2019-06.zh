@@ -58,8 +58,8 @@
             id="org.eclipse.mylyn.cheatsheet.query"
             name="%cheatsheet.query.name">
          <description>
-            %cheatsheet.query.description
-         </description>
+            ％cheatsheet.query.description
+         </description>
       </cheatsheet>
       <cheatsheet
             category="org.eclipse.mylyn.cheatsheet"
@@ -67,8 +67,8 @@
             id="org.eclipse.mylyn.cheatsheet.taskfocus"
             name="%cheatsheet.taskfocus.name">
          <description>
-            %cheatsheet.taskfocus.description
-         </description>
+            ％cheatsheet.taskfocus.description
+         </description>
       </cheatsheet>
    </extension>
   

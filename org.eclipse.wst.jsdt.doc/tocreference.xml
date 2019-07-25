@@ -11,8 +11,8 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Reference" link_to="toc.xml"> 
-	<topic label="API Reference" href="reference/api/overview-summary.html">
+<toc label="参考" link_to="toc.xml"> 
+	<topic label="API参考" href="reference/api/overview-summary.html">
     <topic href="reference/api/org/eclipse/wst/jsdt/core/package-summary.html" label="org.eclipse.wst.jsdt.core">
     </topic>
     <topic href="reference/api/org/eclipse/wst/jsdt/core/ast/package-summary.html" label="org.eclipse.wst.jsdt.core.ast">
@@ -88,25 +88,25 @@
     <topic href="reference/api/org/eclipse/wst/jsdt/ui/wizards/package-summary.html" label="org.eclipse.wst.jsdt.ui.wizards">
     </topic>
 	</topic>
- <topic label="Debugging">
-	 <topic label="Rhino">
-	    <topic label="Launching">
-	       <topic href="reference/rhino_debug/ref-common-tab.htm" label="Common Tab">
+ <topic label="调试">
+	 <topic label="犀牛">
+	    <topic label="发射">
+	       <topic href="reference/rhino_debug/ref-common-tab.htm" label="常用标签">
 	       </topic>
-	       <topic href="reference/rhino_debug/ref-include-tab.htm" label="Include Tab">
+	       <topic href="reference/rhino_debug/ref-include-tab.htm" label="包含标签">
 	       </topic>
-	       <topic href="reference/rhino_debug/ref-main-tab.htm" label="Main Tab">
+	       <topic href="reference/rhino_debug/ref-main-tab.htm" label="主标签">
 	       </topic>
-	       <topic href="reference/rhino_debug/ref-rhino-launch-shortcut.htm" label="Rhino Launch Shortcut">
+	       <topic href="reference/rhino_debug/ref-rhino-launch-shortcut.htm" label="Rhino启动快捷方式">
 	       </topic>
 	       <topic href="reference/rhino_debug/ref-rhino-tab-group.htm" label="Rhino Tab Group">
 	       </topic>
-	       <topic href="reference/rhino_debug/ref-source-tab.htm" label="Source Tab">
+	       <topic href="reference/rhino_debug/ref-source-tab.htm" label="来源标签">
 	       </topic>
 	    </topic>
 	 </topic>
  </topic>
- <topic href="reference/extension-points/index.html" label="Extension Points Reference">
+ <topic href="reference/extension-points/index.html" label="扩展点参考">
     <topic href="reference/extension-points/org_eclipse_wst_jsdt_core_codeFormatter.html" label="org.eclipse.wst.jsdt.core.codeFormatter">
     </topic>
     <topic href="reference/extension-points/org_eclipse_wst_jsdt_core_inferrenceSupport.html" label="org.eclipse.wst.jsdt.core.inferrenceSupport">
@@ -150,24 +150,24 @@
     <topic href="reference/extension-points/org_eclipse_wst_jsdt_ui_quickFixProcessors.html" label="org.eclipse.wst.jsdt.ui.quickFixProcessors">
     </topic>
  </topic>
- <topic label="Preferences">
-    <topic href="reference/debug/preferences/ref-debug-pref-page.htm" label="Debug">
+ <topic label="喜好">
+    <topic href="reference/debug/preferences/ref-debug-pref-page.htm" label="调试">
     </topic>
-    <topic href="reference/rhino_debug/ref-rhino-pref-page.htm" label="Rhino">
+    <topic href="reference/rhino_debug/ref-rhino-pref-page.htm" label="犀牛">
     </topic>
  </topic>
- <topic label="Editors">
+ <topic label="编者">
  </topic>
- <topic label="Property Pages">
+ <topic label="物业页面">
  </topic>
- <topic label="Menus and Actions">
+ <topic label="菜单和行动">
  </topic>
- <topic label="Views">
+ <topic label="查看">
  </topic>
- <topic label="Wizards and Dialogs">
+ <topic label="向导和对话">
  </topic>
 	<!--
-	<topic label="Extension Points Reference" href="html/extpts_reference/index.html">
+	<topic label="扩展点参考" href="html/extpts_reference/index.html">
 		<link toc="topics_ExtPoint_Reference.xml" />
 	</topic>
 	

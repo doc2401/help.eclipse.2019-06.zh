@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="EclEmma Java Code Coverage" topic="pages/introduction.html">
-  <topic label="User Guide" href="pages/userguide.html">
-    <topic label="Launching in Coverage Mode" href="pages/launching.html"/>
-    <topic label="Using the Coverage View" href="pages/coverageview.html"/>
-    <topic label="Source Code Annotation" href="pages/annotations.html"/>
-    <topic label="Coverage Properties" href="pages/coverageproperties.html"/>
-    <topic label="Decorators" href="pages/decorators.html"/>
-    <topic label="Managing Coverage Sessions" href="pages/sessions.html"/>
-    <topic label="Session Import and Export" href="pages/importexport.html"/>
-    <topic label="Keyboard Usage" href="pages/keyboard.html"/>
-    <topic label="Preferences" href="pages/preferences.html"/>
+<toc label="EclEmma Java代码覆盖率" topic="pages/introduction.html">
+  <topic label="用户指南" href="pages/userguide.html">
+    <topic label="以覆盖模式启动" href="pages/launching.html"/>
+    <topic label="使用覆盖范围视图" href="pages/coverageview.html"/>
+    <topic label="源代码注释" href="pages/annotations.html"/>
+    <topic label="覆盖范围属性" href="pages/coverageproperties.html"/>
+    <topic label="装饰" href="pages/decorators.html"/>
+    <topic label="管理覆盖范围会话" href="pages/sessions.html"/>
+    <topic label="会话导入和导出" href="pages/importexport.html"/>
+    <topic label="键盘用法" href="pages/keyboard.html"/>
+    <topic label="喜好" href="pages/preferences.html"/>
   </topic>
-  <topic label="Frequently Asked Questions" href="pages/faq.html"/>
-  <topic label="Change Log" href="pages/changes.html"/>
-  <topic label="Support and Updates" href="pages/support.html"/>
-  <topic label="Legal" href="pages/legal.html"/>
+  <topic label="经常问的问题" href="pages/faq.html"/>
+  <topic label="更改日志" href="pages/changes.html"/>
+  <topic label="支持和更新" href="pages/support.html"/>
+  <topic label="法律" href="pages/legal.html"/>
 </toc>

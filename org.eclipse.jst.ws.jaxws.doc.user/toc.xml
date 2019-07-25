@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="JAX-WS Tools User Guide" topic="mainpage.html">
-   <topic href="gettingstarted/getting_started.html" label="Getting Started">
-      <topic href="gettingstarted/requirements.html" label="Requirements and Installation"/>
+<toc label="JAX-WS工具用户指南" topic="mainpage.html">
+   <topic href="gettingstarted/getting_started.html" label="入门">
+      <topic href="gettingstarted/requirements.html" label="要求和安装"/>
       <link toc="../org.eclipse.jst.ws.cxf.doc.user/tocgettingstarted.xml"/>
       <anchor id="gettingstarted"/>
    </topic>
-   <topic label="Concepts">
+   <topic label="概念">
       <anchor id="concepts"/>
    </topic>
-   <topic label="Tasks">
+   <topic label="任务">
       <anchor id="tasks"/>
    </topic>
-   <topic label="Reference">
+   <topic label="参考">
       <anchor id="reference"/>
    </topic>
-   <topic href="tips/tips_tricks.html" label="Tips and tricks">
+   <topic href="tips/tips_tricks.html" label="技巧和窍门">
    </topic>
-   <topic href="legal.html" label="Legal">
+   <topic href="legal.html" label="法律">
    </topic>
 </toc>

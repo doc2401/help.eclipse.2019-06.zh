@@ -7,15 +7,15 @@
 <contexts>
 
 <context id ="default_cs_help">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="default_cs_help.htm"
-   	label="&defaultCSHelp;"/>
+   	label="＆defaultCSHelp;"/>
 </context>
 
 <context id ="mi_preference_page_context">
-   <description>Enter a timeout value in milliseconds. </description>
+   <description>输入超时值（以毫秒为单位）。</description>
    <topic href="reference/cdt_u_gdb_mi_pref.htm"
-   	label="&gdbmiPrefs;"/>
+   	label="＆gdbmiPrefs;"/>
 </context>
 
 </contexts>

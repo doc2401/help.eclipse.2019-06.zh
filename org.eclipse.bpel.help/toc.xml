@@ -1,157 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <?NLS TYPE="org.eclipse.help.toc"?>
-  <toc label="BPEL User Guide">
-    <topic href="html/GettingStarted/gettingStarted.html" label="Getting Started">
-        <topic label="Creating and editing a BPEL project" href="html/GettingStarted/CreatingAndEditing/creatingAndEditingBpelProject.html">
-           <topic href="html/GettingStarted/CreatingAndEditing/creatingBpelProject.html" label="Creating a BPEL project">
+  <toc label="BPEL用户指南">
+    <topic href="html/GettingStarted/gettingStarted.html" label="入门">
+        <topic label="创建和编辑BPEL项目" href="html/GettingStarted/CreatingAndEditing/creatingAndEditingBpelProject.html">
+           <topic href="html/GettingStarted/CreatingAndEditing/creatingBpelProject.html" label="创建BPEL项目">
            </topic>
-           <topic href="html/GettingStarted/CreatingAndEditing/creatingBpelProcess.html" label="Creating a BPEL process">
+           <topic href="html/GettingStarted/CreatingAndEditing/creatingBpelProcess.html" label="创建BPEL流程">
            </topic>
-           <topic href="html/GettingStarted/CreatingAndEditing/editingProcessFile.html" label="Editing a BPEL process file">
+           <topic href="html/GettingStarted/CreatingAndEditing/editingProcessFile.html" label="编辑BPEL流程文件">
            </topic>
-           <topic href="html/GettingStarted/CreatingAndEditing/addingServiceToWsdl.html" label="Adding a Service to WSDL file">
+           <topic href="html/GettingStarted/CreatingAndEditing/addingServiceToWsdl.html" label="将服务添加到WSDL文件">
            </topic>
       </topic>
-        <topic href="html/GettingStarted/Deploying/deployingToRuntime.html" label="Deploying a BPEL project to BPEL platforms">
-           <topic label="Deploying a BPEL project to JBoss BPEL Runtime">
-              <topic href="html/GettingStarted/Deploying/creatingDeployXmlFile.html" label="Creating a deploy.xml file">
+        <topic href="html/GettingStarted/Deploying/deployingToRuntime.html" label="将BPEL项目部署到BPEL平台">
+           <topic label="将BPEL项目部署到JBoss BPEL Runtime">
+              <topic href="html/GettingStarted/Deploying/creatingDeployXmlFile.html" label="创建deploy.xml文件">
               </topic>
-              <topic href="html/GettingStarted/Deploying/creatingJbossServer.html" label="Creating JBoss BPEL Server">
+              <topic href="html/GettingStarted/Deploying/creatingJbossServer.html" label="创建JBoss BPEL服务器">
               </topic>
            </topic>
         </topic>
-        <topic href="html/GettingStarted/creatingCorrelationSets.html" label="Creating correlation sets">
+        <topic href="html/GettingStarted/creatingCorrelationSets.html" label="创建相关集">
         </topic>
     </topic>
-    <topic label="Reference">
-       <topic label="Wizards">
-          <topic href="html/Reference/Wizards/newBpelProject.html" label="New BPEL Project">
+    <topic label="参考">
+       <topic label="奇才">
+          <topic href="html/Reference/Wizards/newBpelProject.html" label="新的BPEL项目">
           </topic>
-          <topic href="html/Reference/Wizards/newBpelProcess.html" label="New BPEL Process">
+          <topic href="html/Reference/Wizards/newBpelProcess.html" label="新的BPEL流程">
           </topic>
-          <topic href="html/Reference/Wizards/newDeploymentDescriptor.html" label="New Deplyment Descriptor">
-          </topic>
-       </topic>
-       <topic href="html/Reference/Perspective/bpelPerspective.html" label="Perspective">
-       </topic>
-       <topic label="Views">
-          <topic href="html/Reference/Views/outline.html" label="Outline">
-          </topic>
-          <topic href="html/Reference/Views/palette.html" label="Palette">
-          </topic>
-          <topic href="html/Reference/Views/dashboard.html" label="Dashboard">
+          <topic href="html/Reference/Wizards/newDeploymentDescriptor.html" label="新部署描述">
           </topic>
        </topic>
-       <topic label="Property Sections">
-       		<topic href="html/Reference/UniqueProperties/propertySections.html" label="Process Properties Section">
-	          <topic href="html/Reference/UniqueProperties/descriptionTab.html" label="Description Tab">
+       <topic href="html/Reference/Perspective/bpelPerspective.html" label="透视">
+       </topic>
+       <topic label="查看">
+          <topic href="html/Reference/Views/outline.html" label="大纲">
+          </topic>
+          <topic href="html/Reference/Views/palette.html" label="调色板">
+          </topic>
+          <topic href="html/Reference/Views/dashboard.html" label="仪表板">
+          </topic>
+       </topic>
+       <topic label="财产部门">
+       		<topic href="html/Reference/UniqueProperties/propertySections.html" label="流程属性部分">
+	          <topic href="html/Reference/UniqueProperties/descriptionTab.html" label="说明选项卡">
 	          </topic>
-	          <topic href="html/Reference/UniqueProperties/detailsTab.html" label="Details Tab">
+	          <topic href="html/Reference/UniqueProperties/detailsTab.html" label="细节标签">
 	          </topic>
-	          <topic href="html/Reference/UniqueProperties/importsTab.html" label="Imports Tab">
+	          <topic href="html/Reference/UniqueProperties/importsTab.html" label="导入选项卡">
 	          </topic>
-	          <topic href="html/Reference/UniqueProperties/joinBehaviorTab.html" label="Join Behavior Tab">
+	          <topic href="html/Reference/UniqueProperties/joinBehaviorTab.html" label="加入行为标签">
 	          </topic>
 	       </topic>
-	       <topic href="html/Reference/CommonProperties/commonPropertySections.html" label="Common Property Sections">
-	          <topic href="html/Reference/CommonProperties/correlationTab.html" label="Correlation Tab">
+	       <topic href="html/Reference/CommonProperties/commonPropertySections.html" label="共同财产部分">
+	          <topic href="html/Reference/CommonProperties/correlationTab.html" label="相关选项卡">
 	          </topic>
-	          <topic href="html/Reference/CommonProperties/descriptionTab.html" label="Description Tab">
+	          <topic href="html/Reference/CommonProperties/descriptionTab.html" label="说明选项卡">
 	          </topic>
-	          <topic href="html/Reference/CommonProperties/joinBehaviorTab.html" label="Join Behavior Tab">
+	          <topic href="html/Reference/CommonProperties/joinBehaviorTab.html" label="加入行为标签">
 	          </topic>
-	          <topic href="html/Reference/CommonProperties/messageExchangeTab.html" label="Message Exchange Tab">
+	          <topic href="html/Reference/CommonProperties/messageExchangeTab.html" label="邮件交换选项卡">
 	          </topic>
-	          <topic href="html/Reference/CommonProperties/namespacesTab.html" label="Namespaces Tab">
-	          </topic>
-	       </topic>
-	       <topic href="html/Reference/DetailsTabs/detailsTabs.html" label="Activities Property Sections">
-	          <topic href="html/Reference/DetailsTabs/assign.html" label="Assign">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/compensateScope.html" label="Compensate Scope">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/empty.html" label="Empty">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/forEach.html" label="For Each">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/invoke.html" label="Invoke">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/link.html" label="Link">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/pick.html" label="Pick">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/onMessage.html" label="On Message">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/onAlarm.html" label="On Alarm">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/opaque.html" label="Opaque">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/receive.html" label="Receive">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/reply.html" label="Reply">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/scope.html" label="Scope">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/throw.html" label="Throw">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/validate.html" label="Validate">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/wait.html" label="Wait">
-	          </topic>
-	          <topic href="html/Reference/DetailsTabs/while.html" label="While">
+	          <topic href="html/Reference/CommonProperties/namespacesTab.html" label="命名空间选项卡">
 	          </topic>
 	       </topic>
-	       <topic label="Other Property Sections">
-	          <topic href="html/Reference/DetailsTabs/partnerLinks.html" label="Partner Links">
+	       <topic href="html/Reference/DetailsTabs/detailsTabs.html" label="活动财产部分">
+	          <topic href="html/Reference/DetailsTabs/assign.html" label="分配">
 	          </topic>
-	          <topic href="html/Reference/DetailsTabs/variables.html" label="Variables">
+	          <topic href="html/Reference/DetailsTabs/compensateScope.html" label="补偿范围">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/empty.html" label="空">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/forEach.html" label="每个人">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/invoke.html" label="调用">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/link.html" label="链接">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/pick.html" label="挑">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/onMessage.html" label="在消息上">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/onAlarm.html" label="报警">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/opaque.html" label="不透明">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/receive.html" label="接收">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/reply.html" label="答复">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/scope.html" label="范围">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/throw.html" label="扔">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/validate.html" label="验证">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/wait.html" label="等待">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/while.html" label="而">
+	          </topic>
+	       </topic>
+	       <topic label="其他财产部分">
+	          <topic href="html/Reference/DetailsTabs/partnerLinks.html" label="合作伙伴链接">
+	          </topic>
+	          <topic href="html/Reference/DetailsTabs/variables.html" label="变量">
 	          </topic>
 	       </topic>
        </topic>
-       <topic label="Editors">
-          <topic href="html/Reference/Editors/bpelDesigner.html" label="BPEL Designer">
-             <topic href="html/Reference/Editors/basicActivities.html" label="Basic Activities">
+       <topic label="编者">
+          <topic href="html/Reference/Editors/bpelDesigner.html" label="BPEL设计师">
+             <topic href="html/Reference/Editors/basicActivities.html" label="基本活动">
              </topic>
-             <topic href="html/Reference/Editors/structuredActivities.html" label="Structured Activities">
+             <topic href="html/Reference/Editors/structuredActivities.html" label="结构化活动">
              </topic>
-             <topic href="html/Reference/Editors/faultActivities.html" label="Fault Activities">
+             <topic href="html/Reference/Editors/faultActivities.html" label="故障活动">
              </topic>
-             <topic href="html/Reference/Editors/faultCompensationEtc.html" label="Faults, Compensation, Termination and Event Handlers">
+             <topic href="html/Reference/Editors/faultCompensationEtc.html" label="故障，补偿，终止和事件处理程序">
              </topic>
           </topic>
-          <topic href="html/Reference/Editors/bpelDeploymentEditor.html" label="BPEL Deployment Editor">
+          <topic href="html/Reference/Editors/bpelDeploymentEditor.html" label="BPEL部署编辑器">
           </topic>
        </topic>
-       <topic href="html/Reference/Preferences/preferencePages.html" label="Preference Pages">
-          <topic href="html/Reference/Preferences/editor.html" label="Editor">
+       <topic href="html/Reference/Preferences/preferencePages.html" label="偏好页面">
+          <topic href="html/Reference/Preferences/editor.html" label="编辑">
           </topic>
-          <topic href="html/Reference/Preferences/expressionEditor.html" label="Expression Editor">
+          <topic href="html/Reference/Preferences/expressionEditor.html" label="表达编辑器">
           </topic>
-          <topic href="html/Reference/Preferences/wsilBrowser.html" label="WSIL Browser">
-          </topic>
-       </topic>
-       <topic label="Dialogs">
-          <topic href="html/Reference/Dialogs/xpathExpressionEditor.html" label="XPath Expression Editor">
-          </topic>
-          <topic href="html/Reference/Dialogs/quickPick.html" label="Quick Pick">
-          </topic>
-          <topic href="html/Reference/Dialogs/typeSelection.html" label="Type Selection">
-          </topic>
-          <topic href="html/Reference/Dialogs/selectWsdlProperty.html" label="Select WSDL Property">
-          </topic>
-          <topic href="html/Reference/Dialogs/createWsdlProperty.html" label="Create WSDL Property">
-          </topic>
-          <topic href="html/Reference/Dialogs/createWsdlPropertyAlias.html" label="Create WSDL Property Alias">
-          </topic>
-          <topic href="html/Reference/Dialogs/cheatSheets.html" label="Cheat Sheets">
+          <topic href="html/Reference/Preferences/wsilBrowser.html" label="WSIL浏览器">
           </topic>
        </topic>
-       <topic href="html/Reference/IconsMenus/contextMenus.html" label="Context Menus">
+       <topic label="对话框">
+          <topic href="html/Reference/Dialogs/xpathExpressionEditor.html" label="XPath表达式编辑器">
+          </topic>
+          <topic href="html/Reference/Dialogs/quickPick.html" label="快速选择">
+          </topic>
+          <topic href="html/Reference/Dialogs/typeSelection.html" label="类型选择">
+          </topic>
+          <topic href="html/Reference/Dialogs/selectWsdlProperty.html" label="选择WSDL属性">
+          </topic>
+          <topic href="html/Reference/Dialogs/createWsdlProperty.html" label="创建WSDL属性">
+          </topic>
+          <topic href="html/Reference/Dialogs/createWsdlPropertyAlias.html" label="创建WSDL属性别名">
+          </topic>
+          <topic href="html/Reference/Dialogs/cheatSheets.html" label="备忘单">
+          </topic>
        </topic>
-       <topic href="html/Reference/troubleshooting.html" label="Troubleshooting">
+       <topic href="html/Reference/IconsMenus/contextMenus.html" label="上下文菜单">
+       </topic>
+       <topic href="html/Reference/troubleshooting.html" label="故障排除">
        </topic>
     </topic>
-    <topic label="What's New">
-      <topic label="1.0 New and Noteworthy"/>
+    <topic label="什么是新的">
+      <topic label="1.0新的和值得注意的"/>
     </topic>
   </toc>

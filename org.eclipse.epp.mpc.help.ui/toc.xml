@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="EPP/MPC/User_Guide/User-Guide.html" label="Eclipse Marketplace User Guide">
-	<topic href="EPP/MPC/User_Guide/User-Guide.html#Overview" label="Overview"></topic>
-	<topic href="EPP/MPC/User_Guide/User-Guide.html#Getting_Started" label="Getting Started"></topic>
-	<topic href="EPP/MPC/User_Guide/User-Guide.html#Search" label="Search">
-		<topic href="EPP/MPC/User_Guide/User-Guide.html#Browse_For_More_Solutions" label="Browse For More Solutions"></topic>
+<toc topic="EPP/MPC/User_Guide/User-Guide.html" label="Eclipse Marketplace用户指南">
+	<topic href="EPP/MPC/User_Guide/User-Guide.html#Overview" label="概观"></topic>
+	<topic href="EPP/MPC/User_Guide/User-Guide.html#Getting_Started" label="入门"></topic>
+	<topic href="EPP/MPC/User_Guide/User-Guide.html#Search" label="搜索">
+		<topic href="EPP/MPC/User_Guide/User-Guide.html#Browse_For_More_Solutions" label="浏览更多解决方案"></topic>
 	</topic>
-	<topic href="EPP/MPC/User_Guide/User-Guide.html#Installing_and_Updating_Solutions" label="Installing and Updating Solutions">
-		<topic href="EPP/MPC/User_Guide/User-Guide.html#Resolving_Errors" label="Resolving Errors"></topic>
-		<topic href="EPP/MPC/User_Guide/User-Guide.html#Licenses" label="Licenses"></topic>
-		<topic href="EPP/MPC/User_Guide/User-Guide.html#Completing_Installation" label="Completing Installation"></topic>
+	<topic href="EPP/MPC/User_Guide/User-Guide.html#Installing_and_Updating_Solutions" label="安装和更新解决方案">
+		<topic href="EPP/MPC/User_Guide/User-Guide.html#Resolving_Errors" label="解决错误"></topic>
+		<topic href="EPP/MPC/User_Guide/User-Guide.html#Licenses" label="许可证"></topic>
+		<topic href="EPP/MPC/User_Guide/User-Guide.html#Completing_Installation" label="完成安装"></topic>
 	</topic>
-	<topic href="EPP/MPC/User_Guide/User-Guide.html#Updating_This_Document" label="Updating This Document"></topic>
+	<topic href="EPP/MPC/User_Guide/User-Guide.html#Updating_This_Document" label="更新本文档"></topic>
 </toc>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="ATL Guide">
-   <topic href="guide/concepts/ATL Concepts.html" label="Concepts">
+<toc label="ATL指南">
+   <topic href="guide/concepts/ATL Concepts.html" label="概念">
       <link toc="guide/concepts/ATL Concepts-toc.xml"/>
    </topic>
-   <topic href="guide/user/ATL User Guide.html" label="User Guide">
+   <topic href="guide/user/ATL User Guide.html" label="用户指南">
       <link toc="guide/user/ATL User Guide-toc.xml"/>
    </topic>
-     <topic href="guide/developer/ATL Developer Guide.html" label="Developer Guide">
+     <topic href="guide/developer/ATL Developer Guide.html" label="开发者指南">
       <link toc="guide/developer/ATL Developer Guide-toc.xml"/>
    </topic>
-   <topic href="guide/tutorials/ATL Tutorials.html" label="Tutorials">
+   <topic href="guide/tutorials/ATL Tutorials.html" label="教程">
       <link toc="guide/tutorials/ATL Tutorials-toc.xml"/>
    </topic>
-	<topic label="Online Docs">		
-		<topic label="ATL wiki" href="http://wiki.eclipse.org/index.php/ATL" />
-		<topic label="ATL basic examples" href="http://www.eclipse.org/m2m/atl/basicExamples_Patterns/" />
-		<topic label="ATL use cases" href="http://www.eclipse.org/m2m/atl/usecases/" />
-		<topic label="ATL transformation zoo" href="http://www.eclipse.org/m2m/atl/atlTransformations/" />
+	<topic label="在线文档">		
+		<topic label="ATL维基" href="http://wiki.eclipse.org/index.php/ATL" />
+		<topic label="ATL的基本例子" href="http://www.eclipse.org/m2m/atl/basicExamples_Patterns/" />
+		<topic label="ATL用例" href="http://www.eclipse.org/m2m/atl/usecases/" />
+		<topic label="ATL转型动物园" href="http://www.eclipse.org/m2m/atl/atlTransformations/" />
 	</topic>
  <anchor id="additions"/>
 </toc>

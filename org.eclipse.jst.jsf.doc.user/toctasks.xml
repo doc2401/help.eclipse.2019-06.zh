@@ -14,40 +14,40 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Tasks" link_to="toc.xml#jsf_tasks"> 
-	<topic label="Creating New JSF Projects"  href="html/tasks/create_jsf_app.html" /> 
-	<topic label="Adding JSF Facet to Existing projects" href="html/tasks/add_jsf_facet.html" /> 
-	<topic label="Creating JSF JSP Pages" href="html/tasks/create_jsf_jsp_page.html" /> 
-	<topic label="Creating Managed Beans" href="html/tasks/create_managedbean.html" /> 
-	<topic label="Creating Navigation Rules" href="html/tasks/define_navigations.html" >
-		<topic label="Defining Link Properties" href="html/tasks/define_link_properties.html"></topic>
-		<topic label="Testing Linked Pages" href="html/tasks/test_linked_pages.html"></topic>
+<toc label="任务" link_to="toc.xml#jsf_tasks"> 
+	<topic label="创建新的JSF项目"  href="html/tasks/create_jsf_app.html" /> 
+	<topic label="将JSF Facet添加到现有项目中" href="html/tasks/add_jsf_facet.html" /> 
+	<topic label="创建JSF JSP页面" href="html/tasks/create_jsf_jsp_page.html" /> 
+	<topic label="创建托管豆" href="html/tasks/create_managedbean.html" /> 
+	<topic label="创建导航规则" href="html/tasks/define_navigations.html" >
+		<topic label="定义链接属性" href="html/tasks/define_link_properties.html"></topic>
+		<topic label="测试链接页面" href="html/tasks/test_linked_pages.html"></topic>
 	</topic> 
-	<topic label="Configuring Faces Config File" href="html/tasks/use_facesconfig_editor.html">
-        <topic href="html/tasks/facesconfig_ui/add_component.html" label="Adding a Component"/>
-        <topic href="html/tasks/facesconfig_ui/add_renderkit.html" label="Adding a RenderKit"/>
-        <topic href="html/tasks/facesconfig_ui/add_converter.html" label="Adding a Converter"/>
-        <topic href="html/tasks/facesconfig_ui/add_validator.html" label="Adding a Validator"/>
-        <topic href="html/tasks/facesconfig_ui/add_action_listener.html" label="Adding an Action Listener"/>
-        <topic href="html/tasks/facesconfig_ui/add_default_renderkitid.html" label="Adding a Default RenderKit ID"/>
-        <topic href="html/tasks/facesconfig_ui/add_locale_config.html" label="Adding Locale Configuration"/>
-        <topic href="html/tasks/facesconfig_ui/add_messagebundle.html" label="Adding a Message Bundle"/>
-        <topic href="html/tasks/facesconfig_ui/add_navigation_rule.html" label="Adding a Navigation Handler"/>
-        <topic href="html/tasks/facesconfig_ui/add_property_resolver.html" label="Adding a Property Resolver"/>
-        <topic href="html/tasks/facesconfig_ui/add_state_manager.html" label="Adding a State Manager"/>
-        <topic href="html/tasks/facesconfig_ui/add_variable_resolver.html" label="Adding a Variable Resolver"/>
-        <topic href="html/tasks/facesconfig_ui/add_view_handler.html" label="Adding a View Handler"/>
-        <topic href="html/tasks/facesconfig_ui/add_application_factory.html" label="Adding an Application Factory"/>
-        <topic href="html/tasks/facesconfig_ui/add_facescontext_factory.html" label="Adding a Faces Context Factory"/>
-        <topic href="html/tasks/facesconfig_ui/add_lifecycle_factory.html" label="Adding a Lifecycle Factory"/>
-        <topic href="html/tasks/facesconfig_ui/add_rederkit_factory.html" label="Adding a RenderKit Factory"/>
-        <topic href="html/tasks/facesconfig_ui/add_phase_listener.html" label="Adding a Phase Listener"/>
+	<topic label="配置Faces配置文件" href="html/tasks/use_facesconfig_editor.html">
+        <topic href="html/tasks/facesconfig_ui/add_component.html" label="添加组件"/>
+        <topic href="html/tasks/facesconfig_ui/add_renderkit.html" label="添加RenderKit"/>
+        <topic href="html/tasks/facesconfig_ui/add_converter.html" label="添加转换器"/>
+        <topic href="html/tasks/facesconfig_ui/add_validator.html" label="添加验证器"/>
+        <topic href="html/tasks/facesconfig_ui/add_action_listener.html" label="添加动作侦听器"/>
+        <topic href="html/tasks/facesconfig_ui/add_default_renderkitid.html" label="添加默认RenderKit ID"/>
+        <topic href="html/tasks/facesconfig_ui/add_locale_config.html" label="添加区域设置配置"/>
+        <topic href="html/tasks/facesconfig_ui/add_messagebundle.html" label="添加消息包"/>
+        <topic href="html/tasks/facesconfig_ui/add_navigation_rule.html" label="添加导航处理程序"/>
+        <topic href="html/tasks/facesconfig_ui/add_property_resolver.html" label="添加属性解析器"/>
+        <topic href="html/tasks/facesconfig_ui/add_state_manager.html" label="添加状态管理器"/>
+        <topic href="html/tasks/facesconfig_ui/add_variable_resolver.html" label="添加可变解析器"/>
+        <topic href="html/tasks/facesconfig_ui/add_view_handler.html" label="添加视图处理程序"/>
+        <topic href="html/tasks/facesconfig_ui/add_application_factory.html" label="添加应用程序工厂"/>
+        <topic href="html/tasks/facesconfig_ui/add_facescontext_factory.html" label="添加Faces Context Factory"/>
+        <topic href="html/tasks/facesconfig_ui/add_lifecycle_factory.html" label="添加生命周期工厂"/>
+        <topic href="html/tasks/facesconfig_ui/add_rederkit_factory.html" label="添加RenderKit工厂"/>
+        <topic href="html/tasks/facesconfig_ui/add_phase_listener.html" label="添加阶段侦听器"/>
     </topic>
-	<topic href="html/tasks/jsf_validation.html" label="Validating JSF Applications">
-    <topic href="html/tasks/jsf_elvalidation_prefs.html" label="Changing EL Validation Preferences">
+	<topic href="html/tasks/jsf_validation.html" label="验证JSF应用程序">
+    <topic href="html/tasks/jsf_elvalidation_prefs.html" label="更改EL验证首选项">
     </topic>
  </topic> 
-	<topic label="Executing JSF Pages" href="html/gettingstarted/tutorial/JSFTools_tutorial.html#testpage" />
- <topic href="html/tasks/jsf_library_migration.html" label="Migrating JSF Libraries">
+	<topic label="执行JSF页面" href="html/gettingstarted/tutorial/JSFTools_tutorial.html#testpage" />
+ <topic href="html/tasks/jsf_library_migration.html" label="迁移JSF库">
  </topic> 
 </toc>

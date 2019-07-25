@@ -14,8 +14,8 @@
 
 <project name="org.eclipse.mylyn.wikitext.example" default="all">
     <description>
-            Generate Eclipse help content from the Eclipsepedia wiki
-    </description>
+            从Eclipsepedia wiki生成Eclipse帮助内容
+    </description>
 
     <property name="help.doc.url.base" value="http://wiki.eclipse.org" />
     <property name="imageFolder" value="images" />

@@ -15,49 +15,49 @@
 <cheatsheet title="Create a Web Service from a Java implementation bean using Apache CXF">
    <intro href="/org.eclipse.platform.doc.user/reference/ref-cheatsheets.htm">
       <description>
-         This cheat sheet will demonstrate how to use the Web Services wizard to create a Web service from a Java implementation bean using the Apache CXF runtime and to deploy that service to an Apache Tomcat server and test it using the Web Services Explorer.
-         <br/>
-         <br/>
-If you need help at any step, click the help button in the top right corner (?).
-      </description>
+         此备忘单将演示如何使用Web服务向导使用Apache CXF运行时从Java实现bean创建Web服务，并将该服务部署到Apache Tomcat服务器并使用Web Services Explorer对其进行测试。
+         <BR/>
+         <BR/>
+如果您在任何步骤中需要帮助，请单击右上角的帮助按钮（？）。
+      </description>
    </intro>
    <item
          href="/org.eclipse.jdt.doc.user/gettingStarted/qs-9.htm"
          title="Create or Import a Java implementation bean">
       <description>
-         Create or import a Java bean that will be used as the Web service implementation into the source folder of a Dynamic Web Project that has been enabled for Apache CXF Web services development.
-      </description>
+         创建或导入将用作Web服务实现的Java bean，并将其导入已启用Apache CXF Web服务开发的Dynamic Web Project的源文件夹中。
+      </description>
    </item>
    <item
          dialog="true"
          href="/org.eclipse.jst.ws.cxf.doc.user/tasks/create_bottomup.html"
          title="Create a Web service from a Java implementation bean">
       <description>
-         To create a Web service from a Java implementation bean perform the following steps:
-      </description>
+         要从Java实现bean创建Web服务，请执行以下步骤：
+      </description>
       <subitem
-            label="Select &quot;File -&gt; New -&gt; Other...&quot; from the main menu, expand the &quot;Web Services&quot; category and select &quot;Web Service&quot;. Click &quot;OK&quot; to launch the Web Services wizard or select the &quot;Click to perform&quot; button to do this automatically.">
+            label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.creation.ui.wizard.serverwizard)"/>
       </subitem>
       <subitem
-            label="Select &quot;Bottom up Java bean Web Service&quot; as the &quot;Web service type&quot;.">
+            label="选择“自下而上的Java bean Web服务”作为“Web服务类型”。">
       </subitem>
       <subitem
-            label="Browse to select the Service Implementation.">
+            label="浏览以选择服务实现。">
       </subitem>
       <subitem
-            label="Verify that &quot;Apache CXF 2.x&quot; is selected as the Web service runtime.">
+            label="验证“Apache CXF 2.x”被选为Web服务运行时。">
       </subitem>
       <subitem
-            label="Move the service slider to the &quot;Test service&quot; stage.">
+            label="将服务滑块移动到“测试服务”阶段。">
       </subitem>
       <subitem
-            label="Accept all other default values on this page and click &quot;Next &gt;&quot;.">
+            label="接受此页面上的所有其他默认值，然后点击“下一步＆gt;”。">
       </subitem>
       <subitem
-            label="On the Service Endpoint Interface configuration page select the &quot;Use a Service Endpoint Interface&quot; check box followed by the &quot;Create an SEI&quot; button. Enter a name for the SEI, &quot;Select All&quot; the methods and click &quot;Finish&quot;.">
+            label="在服务端点接口配置页面上，选择“使用服务端点接口”。复选框后跟“创建SEI”复选框。按钮。输入SEI的名称，“全选”方法，然后单击“完成”。">
       </subitem>
    </item>
    <item
@@ -65,14 +65,14 @@ If you need help at any step, click the help button in the top right corner (?).
          skip="true"
          title="Test the Web service with the Web Services Explorer">
       <description>
-         The Web Services Wizard will launch the <b>Web Services Explorer</b> after successfully creating and deploying your Web service to Apache Tomcat.
-<br/>
-<br/>
-To test the Web service select an opertaion in the <b>Web Services Explorer</b>, fill in the required information and click <b>Go</b>.
-<br/>
-<br/>
-The result will be displayed in the <b>Status</b> pane.
-      </description>
+         成功创建Web服务并将其部署到Apache Tomcat后，Web服务向导将启动<b> Web Services Explorer </ b>。
+<BR/>
+<BR/>
+要测试Web服务，请在<b> Web Services Explorer </ b>中选择一个opertaion，填写所需信息，然后单击<b> Go </ b>。
+<BR/>
+<BR/>
+结果将显示在<b>状态</ b>窗格中。
+      </description>
    </item>
   <onCompletion>
      Congratulations!  You just created a JAX-WS Web service!

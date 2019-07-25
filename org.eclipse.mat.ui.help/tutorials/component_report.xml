@@ -19,22 +19,22 @@
  -->
 	<intro href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html">
 		<description>
-			A heap dump contains many objects. But which of those belong to your component?
-			And what conclusions can you draw from them? This is where the <b>Component Report</b> can help.
-			<br/><br/>
-			Press the <b>Help</b> button for more detailed information.
-		</description>
+堆转储包含许多对象。但是哪些属于你的组件？
+你能从中得出什么结论？这是<b>组件报告</ b>可以提供帮助的地方。
+<BR/> <BR/>
+按<b>帮助</ b>按钮获取更多详细信息。
+</description>
 	</intro>
 	<item
        href="/org.eclipse.mat.ui.help/tasks/acquiringheapdump.html"
        skip="true"
        title="Open a Heap Dump">
 		<description>
-			The analysis is based on heap dumps. Consult the help pages on how to acquire a heap dump of
-			your application.
-			<br/><br/>
-			If you do not already have a heap dump, use the link below to open a <b>sample heap dump</b>.
-		</description>
+该分析基于堆转储。请参阅有关如何获取堆转储的帮助页面
+你的申请。
+<BR/> <BR/>
+如果您还没有堆转储，请使用以下链接打开<b>样本堆转储</ b>。
+</description>
 		<action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction"
 				pluginId="org.eclipse.mat.ui"
 				confirm="false"
@@ -44,14 +44,14 @@
 		title="Run the Component Report"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__run">
 		<description>
-			Before starting, one has to decide what constitutes a component.
-			Typically, a component is either a set of classes in a <b>common root package</b> or classes loaded by the same <b>class loader</b>.
-			<br/><br/>
-			To select a set of packages:
-			<br/><br/>
-			Choose <b>Leak Identification -> Component Report</b> from the Query drop-down list in the toolbar.<br/><br/>
-			Provide a <b>class name pattern</b> (for example java.util.*) and hit Finish. 
-		</description>
+在开始之前，必须决定构成组件的内容。
+通常，组件是<b>公共根包</ b>中的一组类或由相同<b>类加载器</ b>加载的类。
+<BR/> <BR/>
+要选择一组包：
+<BR/> <BR/>
+从工具栏的“查询”下拉列表中选择<b>泄漏识别 - >组件报告</ b>。<br/> <br/>
+提供<b>类名模式</ b>（例如java.util。*）并单击Finish。
+</description>
 		<command
 				required="false"
 				serialization="org.eclipse.mat.ui.actions.executeInspection(org.eclipse.mat.ui.actions.executeInspection.commandName=component_report)"/>
@@ -61,60 +61,60 @@
 		title="Getting an Overview"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__overview">
 		<description>
-			&#x00bb; The <b>size</b> of the component relative to the size of the whole heap.<br/>
-			&#x00bb; The <b>Top Consumer</b> section lists the biggest object, classes, class loader and packages.<br/>
-			&#x00bb; The <b>Retained Set</b> is a histogram of all objects kept alive by the component. 
-		</description>
+＆＃x00bb;组件的<b>大小</ b>相对于整个堆的大小
+＆＃x00bb; <b> Top Consumer </ b>部分列出了最大的对象，类，类加载器和包
+＆＃x00bb; <b>保留集</ b>是组件保持活动的所有对象的直方图。
+</description>
 	</item>
 	<item
 		title="Duplicate Strings"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__strings">
 		<description>
-			Duplicate Strings are a prime example for memory waste: multiple char arrays with identical content.
-			<br/><br/>
-			The content of the char arrays typically gives away ideas how to reduce the duplicates.
-		</description>
+重复字符串是内存浪费的主要示例：具有相同内容的多个字符串数组。
+<BR/> <BR/>
+char数组的内容通常会提供如何减少重复的想法。
+</description>
 	</item>
 	<item
 		title="Empty Collections"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__emptycol">
 		<description>
-			Empty collections take up space without storing any data. If only a few collections actually hold data,
-			think about <b>lazy initialization</b>, i.e. create the collection only when needed.
-		</description>
+空集合占用空间而不存储任何数据。如果只有少数集合实际上保存数据，
+考虑<b>延迟初始化</ b>，即仅在需要时创建集合。
+</description>
 	</item>
 	<item
 		title="Collection Fill Ratios"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__colfillratio">
 		<description>
-			Collections are typically created with a default initial capacity. Many collections with low fill ratios
-			indicate that the <b>initial capacity</b> could be <b>reduced</b>. 
-		</description>
+通常使用默认初始容量创建集合。许多具有低填充率的集合
+表明<b>初始容量</ b>可以<b>减少</ b>。
+</description>
 	</item>
 	<item
 		title="Soft Reference Statistics"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__softref">
 		<description>
-			Softly referenced objects require more GC activity (possibly during a stop-the-world phase)
-			and should be used in small doses only. 
-		</description>
+软引用的对象需要更多的GC活动（可能在世界停止阶段）
+并且应该仅以小剂量使用。
+</description>
 	</item>
 	<item
 		title="Finalizer Statistics"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__finalizer">
 		<description>
-			Finalizers come with a lot of drawbacks: For example, they require multiple Garbage Collections to run
-			until the objects are actually freed. Also, the time of the execution is up to the VM which makes
-			Finalizer unpredictable.
-		</description>
+终结器有许多缺点：例如，它们需要运行多个垃圾收集器
+直到对象实际被释放。此外，执行的时间取决于制作的VM
+终结者无法预测。
+</description>
 	</item>
 	<item
 		title="Map Collision Ratios"
 		href="/org.eclipse.mat.ui.help/reference/inspections/component_report.html#ref_inspections_component_report__mapcollision">
 		<description>
-			Maps place the values in different buckets based on the hash code of the keys. High collision ratios
-			can indicate sub-optimal hash codes. This is not a memory problem (a better hash code does not save
-			space) but rather performance problem because of the (usually) linear access inside the buckets. 
-		</description>
+映射根据键的哈希码将值放在不同的桶中。高碰撞率
+可以指示次优哈希码。这不是内存问题（更好的哈希代码不能保存
+因为桶内的（通常）线性访问，而是性能问题。
+</description>
 	</item>
 </cheatsheet>

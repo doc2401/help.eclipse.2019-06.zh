@@ -1,224 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Stand-alone Debugger User Guide">
-   <topic href="concepts/cdt_c_before_you_begin.htm" label="Before You Begin">
+<toc label="独立调试器用户指南">
+   <topic href="concepts/cdt_c_before_you_begin.htm" label="在你开始之前">
    </topic>
-   <topic href="concepts/cdt_c_standalone_intro.htm" label="Introduction"/>
-   <topic label="Getting Started">
-   		<topic label="Starting the debugger" href="tasks/cdt_t_standalone_startup.htm"/>
+   <topic href="concepts/cdt_c_standalone_intro.htm" label="介绍"/>
+   <topic label="入门">
+   		<topic label="启动调试器" href="tasks/cdt_t_standalone_startup.htm"/>
    </topic>
-   <topic label="Concepts">
-   	    <topic label="Debug Perspective" href="concepts/cdt_c_perspectives.htm"/>
-        <topic label="Debug" href="concepts/cdt_o_dbg_concepts.htm">
-                <topic label="BreakPoints" href="concepts/cdt_c_brkpnts.htm"/>
-                <topic label="Debug overview" href="concepts/cdt_c_over_dbg.htm"/>
-                <topic label="Debug information" href="concepts/cdt_c_dbg_info.htm"/>
+   <topic label="概念">
+   	    <topic label="调试透视" href="concepts/cdt_c_perspectives.htm"/>
+        <topic label="调试" href="concepts/cdt_o_dbg_concepts.htm">
+                <topic label="断点" href="concepts/cdt_c_brkpnts.htm"/>
+                <topic label="调试概述" href="concepts/cdt_c_over_dbg.htm"/>
+                <topic label="调试信息" href="concepts/cdt_c_dbg_info.htm"/>
         </topic>
-	<topic label="Views in the C/C++ perspective" href="concepts/cdt_c_views.htm"/> 
-	<topic label="Code aids" href="concepts/cdt_o_code_entry.htm">
-		<topic label="Comments" href="concepts/cdt_c_comments.htm"/>
-		<topic label="Content Assist" href="concepts/cdt_c_content_assist.htm"/>
-		<topic label="Templates" href="concepts/cdt_c_templates.htm"/> 
+	<topic label="C / C ++透视图中的视图" href="concepts/cdt_c_views.htm"/> 
+	<topic label="代码辅助工具" href="concepts/cdt_o_code_entry.htm">
+		<topic label="评论" href="concepts/cdt_c_comments.htm"/>
+		<topic label="内容辅助" href="concepts/cdt_c_content_assist.htm"/>
+		<topic label="模板" href="concepts/cdt_c_templates.htm"/> 
 	</topic>
-	<topic label="Editing C/C++ files" href="concepts/cdt_o_edit.htm"> 
-		<topic label="C/C++ editor" href="concepts/cdt_c_editor.htm"/>
+	<topic label="编辑C / C ++文件" href="concepts/cdt_o_edit.htm"> 
+		<topic label="C / C ++编辑器" href="concepts/cdt_c_editor.htm"/>
 	</topic>
-	<topic label="Navigation aids" href="concepts/cdt_o_nav.htm"> 
-		<topic label="Outline View" href="concepts/cdt_c_outlineview.htm"/> 
-		<topic label="Project File views" href="concepts/cdt_c_proj_file_views.htm"/> 
-		<topic label="C/C++ Search" href="concepts/cdt_c_search.htm"/> 
-		<topic label="Open Declaration" href="concepts/cdt_c_open_declarations.htm"/>
+	<topic label="导航设备" href="concepts/cdt_o_nav.htm"> 
+		<topic label="大纲视图" href="concepts/cdt_c_outlineview.htm"/> 
+		<topic label="项目文件视图" href="concepts/cdt_c_proj_file_views.htm"/> 
+		<topic label="C / C ++搜索" href="concepts/cdt_c_search.htm"/> 
+		<topic label="公开宣言" href="concepts/cdt_c_open_declarations.htm"/>
 	</topic>
    </topic>
-   <topic label="Tasks">
-		<topic label="Using Run/Debug Configurations" href="tasks/cdt_o_run.htm">
-			<topic label="Creating or editing a run/debug configuration" href="tasks/cdt_o_run_config.htm">
-				<topic label="Selecting a run or debug configuration" href="tasks/cdt_t_run_config.htm"/>
-				<topic label="Creating a run or debug configuration" href="tasks/cdt_t_new_run_config.htm"/>
-				<topic label="Selecting an application to run or debug" href="tasks/cdt_t_run_main.htm"/>
-				<topic label="Specifying execution arguments" href="tasks/cdt_t_run_arg.htm"/>
-				<topic label="Setting environment variables" href="tasks/cdt_t_run_env.htm"/>
-				<topic label="Defining debug settings" href="tasks/cdt_t_run_dbg.htm"/>
-				<topic label="Specifying the location of source files" href="tasks/cdt_t_run_source.htm"/>
-				<topic label="Specifying the location of the run configuration" href="tasks/cdt_t_run_com.htm"/>
+   <topic label="任务">
+		<topic label="使用运行/调试配置" href="tasks/cdt_o_run.htm">
+			<topic label="创建或编辑运行/调试配置" href="tasks/cdt_o_run_config.htm">
+				<topic label="选择运行或调试配置" href="tasks/cdt_t_run_config.htm"/>
+				<topic label="创建运行或调试配置" href="tasks/cdt_t_new_run_config.htm"/>
+				<topic label="选择要运行或调试的应用程序" href="tasks/cdt_t_run_main.htm"/>
+				<topic label="指定执行参数" href="tasks/cdt_t_run_arg.htm"/>
+				<topic label="设置环境变量" href="tasks/cdt_t_run_env.htm"/>
+				<topic label="定义调试设置" href="tasks/cdt_t_run_dbg.htm"/>
+				<topic label="指定源文件的位置" href="tasks/cdt_t_run_source.htm"/>
+				<topic label="指定运行配置的位置" href="tasks/cdt_t_run_com.htm"/>
 			</topic>
 			
-			<topic label="Debugging" href="tasks/cdt_o_debug.htm">
-				<topic label="Debugging a program" href="tasks/cdt_t_debug_prog.htm"/>
-				<topic label="Debugging an existing executable" href="tasks/cdt_t_debug_exes.htm"/>
+			<topic label="调试" href="tasks/cdt_o_debug.htm">
+				<topic label="调试程序" href="tasks/cdt_t_debug_prog.htm"/>
+				<topic label="调试现有的可执行文件" href="tasks/cdt_t_debug_exes.htm"/>
 				
-				<topic label="Using breakpoints, watchpoints, and breakpoint actions" href="tasks/cdt_o_brkpnts_watch.htm">
-					<topic label="Adding breakpoints" href="tasks/cdt_t_add_brkpnts.htm"/>
-					<topic label="Adding watchpoints" href="tasks/cdt_t_add_watch.htm"/>
-					<topic label="Adding breakpoint actions" href="tasks/cdt_t_add_brk_action.htm"/>
-					<topic label="Removing breakpoints and watchpoints" href="tasks/cdt_t_rem_wtch_brk.htm"/>
-					<topic label="Enabling or disable breakpoints and watchpoints" href="tasks/cdt_t_endis_able_brk_wtch.htm"/>
-					<topic label="Attaching or removing breakpoint actions" href="tasks/cdt_t_addrmv_brk_action.htm"/>
+				<topic label="使用断点，观察点和断点操作" href="tasks/cdt_o_brkpnts_watch.htm">
+					<topic label="添加断点" href="tasks/cdt_t_add_brkpnts.htm"/>
+					<topic label="添加观察点" href="tasks/cdt_t_add_watch.htm"/>
+					<topic label="添加断点操作" href="tasks/cdt_t_add_brk_action.htm"/>
+					<topic label="删除断点和观察点" href="tasks/cdt_t_rem_wtch_brk.htm"/>
+					<topic label="启用或禁用断点和观察点" href="tasks/cdt_t_endis_able_brk_wtch.htm"/>
+					<topic label="附加或删除断点操作" href="tasks/cdt_t_addrmv_brk_action.htm"/>
 				</topic>
 				
-				<topic label="Controlling debug execution" href="tasks/cdt_t_controldebug.htm"/>
-				<topic label="Stepping into assembler functions" href="tasks/cdt_t_disassembly.htm"/>
-				<topic label="Working with variables" href="tasks/cdt_t_variables.htm"/>
-				<topic label="Adding expressions" href="tasks/cdt_t_expressions.htm"/>
-				<topic label="Working with registers" href="tasks/cdt_t_registers.htm"/>
-				<topic label="Working with memory" href="tasks/cdt_t_memory.htm"/>
+				<topic label="控制调试执行" href="tasks/cdt_t_controldebug.htm"/>
+				<topic label="步入汇编程序功能" href="tasks/cdt_t_disassembly.htm"/>
+				<topic label="使用变量" href="tasks/cdt_t_variables.htm"/>
+				<topic label="添加表达式" href="tasks/cdt_t_expressions.htm"/>
+				<topic label="使用寄存器" href="tasks/cdt_t_registers.htm"/>
+				<topic label="使用记忆" href="tasks/cdt_t_memory.htm"/>
 			</topic>
 		</topic>
 		
-		<topic label="Searching the CDT" href="tasks/cdt_t_search.htm">
-			<topic label="Selection Searching for C/C++ elements" href="tasks/cdt_t_sel_search.htm"/>
-			<topic label="Setting Source Folders" href="tasks/cdt_t_set_src_fold.htm"/>
+		<topic label="搜索CDT" href="tasks/cdt_t_search.htm">
+			<topic label="选择搜索C / C ++元素" href="tasks/cdt_t_sel_search.htm"/>
+			<topic label="设置源文件夹" href="tasks/cdt_t_set_src_fold.htm"/>
 		</topic>
 		
-		<topic label="Include paths and macros for C/C++ indexer" href="tasks/cdt_t_sd.htm"/>
+		<topic label="包含C / C ++索引器的路径和宏" href="tasks/cdt_t_sd.htm"/>
    </topic>
-   <topic label="References">
+   <topic label="参考">
 	<!-- VIEWS AND EDITOR TOPICS -->
-	<topic label="C/C++ Views and Editors" href="reference/cdt_o_views.htm">
-		<topic label="Selecting Views and Editors" href="reference/cdt_u_views.htm"/>
-		<topic label="C/C++ Projects view" href="reference/cdt_u_cproj_view.htm"/>	
-		<topic label="Project Explorer view" href="reference/cdt_u_project_explorer_view.htm"/>
-		<topic label="Outline view" href="reference/cdt_u_outline_view.htm"/>	
-		<topic label="Editor view" href="reference/cdt_u_editor_view.htm"/>
-		<topic label="Executables view" href="reference/cdt_u_view_executables.htm"/>	
-		<topic label="Console view" href="reference/cdt_u_console_view.htm"/>
-		<topic label="Tasks view" href="reference/cdt_u_tasks_view.htm"/>
-		<topic label="Properties view" href="reference/cdt_u_properties_view.htm"/>
-		<topic label="Search view" href="reference/cdt_u_search_view.htm"/>
-		<topic label="Call Hierarchy view" href="reference/cdt_u_call_hierarchy_view.htm"/>
-		<topic label="Type Hierarchy view" href="reference/cdt_u_type_hierarchy_view.htm"/>
-		<topic label="Include Browser view" href="reference/cdt_u_include_browser_view.htm"/>
-		<topic label="C/C++ Icons" href="reference/cdt_u_icons.htm"/>
+	<topic label="C / C ++视图和编辑器" href="reference/cdt_o_views.htm">
+		<topic label="选择视图和编辑器" href="reference/cdt_u_views.htm"/>
+		<topic label="C / C ++项目视图" href="reference/cdt_u_cproj_view.htm"/>	
+		<topic label="Project Explorer视图" href="reference/cdt_u_project_explorer_view.htm"/>
+		<topic label="大纲视图" href="reference/cdt_u_outline_view.htm"/>	
+		<topic label="编辑观点" href="reference/cdt_u_editor_view.htm"/>
+		<topic label="可执行文件视图" href="reference/cdt_u_view_executables.htm"/>	
+		<topic label="控制台视图" href="reference/cdt_u_console_view.htm"/>
+		<topic label="任务视图" href="reference/cdt_u_tasks_view.htm"/>
+		<topic label="属性视图" href="reference/cdt_u_properties_view.htm"/>
+		<topic label="搜索视图" href="reference/cdt_u_search_view.htm"/>
+		<topic label="调用层次结构视图" href="reference/cdt_u_call_hierarchy_view.htm"/>
+		<topic label="键入层次结构视图" href="reference/cdt_u_type_hierarchy_view.htm"/>
+		<topic label="包括浏览器视图" href="reference/cdt_u_include_browser_view.htm"/>
+		<topic label="C / C ++图标" href="reference/cdt_u_icons.htm"/>
 	</topic>
 	
-	<topic label="Debug views" href="reference/cdt_o_dbg_view.htm">
-		<topic label="Registers view" href="reference/cdt_u_registersview.htm"/>
-		<topic label="Memory view" href="reference/cdt_u_memoryview.htm"/>
-		<topic label="Traditional Memory Rendering preferences" href="reference/cdt_u_mem_view_pref.htm"/>
-		<topic label="Disassembly view" href="reference/cdt_u_dissassembly_view.htm"/>
-		<topic label="Modules view" href="reference/cdt_u_modules_view.htm"/>
-		<topic label="Signals view" href="reference/cdt_u_signals_view.htm"/>
-		<topic label="Debug view" href="reference/cdt_u_dbg_view.htm"/>
-		<topic label="Debug preferences" href="reference/cdt_u_dbg_pref.htm"/>
+	<topic label="调试视图" href="reference/cdt_o_dbg_view.htm">
+		<topic label="注册视图" href="reference/cdt_u_registersview.htm"/>
+		<topic label="记忆视图" href="reference/cdt_u_memoryview.htm"/>
+		<topic label="传统的内存渲染首选项" href="reference/cdt_u_mem_view_pref.htm"/>
+		<topic label="反汇编视图" href="reference/cdt_u_dissassembly_view.htm"/>
+		<topic label="模块视图" href="reference/cdt_u_modules_view.htm"/>
+		<topic label="信号视图" href="reference/cdt_u_signals_view.htm"/>
+		<topic label="调试视图" href="reference/cdt_u_dbg_view.htm"/>
+		<topic label="调试首选项" href="reference/cdt_u_dbg_pref.htm"/>
 	</topic>
 
 	<!-- MENUBAR TOPICS -->
-	<topic label="C/C++ Menubar" href="reference/cdt_o_menu.htm">
-		<topic label="File Menu" href="reference/cdt_u_m_file.htm"/>
-		<topic label="Window Menu" href="reference/cdt_u_m_window.htm"/>
-	<!--		<topic label="Help Menu" href="PLUGINS_ROOT/org.eclipse.platform.doc.user/reference/ref-61.htm"/> -->
-		<!-- <topic label="Edit Menu" href="reference/cdt_u_m_edit.htm"/> -->
-		<!-- <topic label="Source Menu" href="reference/cdt_u_m_source.htm"/> -->
-		<topic label="Search Menu" href="reference/cdt_u_m_search.htm"/>
-		<topic label="Run Menu" href="reference/cdt_u_m_run.htm"/>
+	<topic label="C / C ++菜单栏" href="reference/cdt_o_menu.htm">
+		<topic label="文件菜单" href="reference/cdt_u_m_file.htm"/>
+		<topic label="窗口菜单" href="reference/cdt_u_m_window.htm"/>
+	<!--		<topic label="帮助菜单" href="PLUGINS_ROOT/org.eclipse.platform.doc.user/reference/ref-61.htm"/> -->
+		<!-- <topic label="编辑菜单" href="reference/cdt_u_m_edit.htm"/> -->
+		<!-- <topic label="来源菜单" href="reference/cdt_u_m_source.htm"/> -->
+		<topic label="搜索菜单" href="reference/cdt_u_m_search.htm"/>
+		<topic label="运行菜单" href="reference/cdt_u_m_run.htm"/>
 	</topic>
 	
-	<topic label="C/C++ Toolbar" href="reference/cdt_u_toolbar.htm"/>
-	<topic label="C/C++ Open Element" href="reference/cdt_u_open_element.htm"/>
-	<topic label="C/C++ Find and Replace" href="reference/cdt_u_find_replace.htm"/>
+	<topic label="C / C ++工具栏" href="reference/cdt_u_toolbar.htm"/>
+	<topic label="C / C ++开放元素" href="reference/cdt_u_open_element.htm"/>
+	<topic label="C / C ++查找和替换" href="reference/cdt_u_find_replace.htm"/>
 	
 	<!-- PREFERENCE TOPICS -->
-	<topic label="C/C++ Preferences" href="reference/cdt_u_c_pref.htm">
-		<topic label="Appearance" href="reference/cdt_u_appearance_pref.htm"/>
+	<topic label="C / C ++首选项" href="reference/cdt_u_c_pref.htm">
+		<topic label="出现" href="reference/cdt_u_appearance_pref.htm"/>
 		
-		<topic label="Code Style preferences" href="reference/cdt_u_c_code_style_pref.htm">
-			<topic label="Code Templates" href="reference/cdt_u_c_code_templates_pref.htm"/>
+		<topic label="代码样式首选项" href="reference/cdt_u_c_code_style_pref.htm">
+			<topic label="代码模板" href="reference/cdt_u_c_code_templates_pref.htm"/>
 		</topic>
 		
-		<topic label="Debug preferences" href="reference/cdt_u_debug.htm">
-			<topic label="Breakpoint Actions" href="reference/cdt_u_dbg_brkpt_actions.htm"/>
-			<topic label="Source Lookup Path" href="reference/cdt_u_dbg_src.htm"/>
+		<topic label="调试首选项" href="reference/cdt_u_debug.htm">
+			<topic label="断点动作" href="reference/cdt_u_dbg_brkpt_actions.htm"/>
+			<topic label="源查找路径" href="reference/cdt_u_dbg_src.htm"/>
 			<topic label="GDB" href="reference/cdt_u_dsfgdb.htm"/>
 		</topic>
 		
-		<topic label="Editor preferences" href="reference/cdt_u_c_editor_gen.htm">
-			<topic label="Content Assist" href="reference/cdt_u_c_editor_con_assist.htm" >
-				<topic label="Advanced" href="reference/cdt_u_c_editor_con_assist_adv.htm"/>
+		<topic label="编辑首选项" href="reference/cdt_u_c_editor_gen.htm">
+			<topic label="内容辅助" href="reference/cdt_u_c_editor_con_assist.htm" >
+				<topic label="高级" href="reference/cdt_u_c_editor_con_assist_adv.htm"/>
 			</topic>
-			<topic label="Folding" href="reference/cdt_u_c_editor_folding.htm"/>
-			<topic label="Hovers" href="reference/cdt_u_c_editor_hov.htm"/>
+			<topic label="折页" href="reference/cdt_u_c_editor_folding.htm"/>
+			<topic label="悬停" href="reference/cdt_u_c_editor_hov.htm"/>
 			<topic label="Mark Occurrences" href="reference/cdt_u_c_editor_mark_occurrences.htm"/>
-			<topic label="Save Actions" href="reference/cdt_u_c_editor_save_actions.htm"/>
-			<topic label="Scalability" href="reference/cdt_u_c_editor_scalability.htm"/>
-			<topic label="Syntax Coloring" href="reference/cdt_u_c_editor_color.htm"/>
-			<topic label="Templates" href="reference/cdt_u_code_temp.htm"/>
-			<topic label="Typing" href="reference/cdt_u_c_editor_typing.htm"/>
+			<topic label="保存操作" href="reference/cdt_u_c_editor_save_actions.htm"/>
+			<topic label="可扩展性" href="reference/cdt_u_c_editor_scalability.htm"/>
+			<topic label="语法着色" href="reference/cdt_u_c_editor_color.htm"/>
+			<topic label="模板" href="reference/cdt_u_code_temp.htm"/>
+			<topic label="打字" href="reference/cdt_u_c_editor_typing.htm"/>
 		</topic>
 		
-		<topic label="File Types" href="reference/cdt_u_c_file_types.htm"/>
-		<topic label="Indexer" href="reference/cdt_u_indexer_preference.html"/>
-		<topic label="Language Mappings" href="reference/cdt_u_language_mapping_pref.htm"/>
+		<topic label="文件类型" href="reference/cdt_u_c_file_types.htm"/>
+		<topic label="索引" href="reference/cdt_u_indexer_preference.html"/>
+		<topic label="语言映射" href="reference/cdt_u_language_mapping_pref.htm"/>
 		
-		<topic label="Task Tags" href="reference/cdt_u_pref_task_tags.htm"/>
+		<topic label="任务标签" href="reference/cdt_u_pref_task_tags.htm"/>
 	</topic>
 	
 	<!-- PROJECT PROPERTIES TOPICS -->
-	<topic label="C/C++ Properties" href="reference/cdt_u_properties.htm">
-		<topic label="C/C++ Project properties" href="reference/cdt_o_prop_proj.htm">
-			<topic label="Resource page" href="reference/cdt_u_prop_resource.htm"/>
-			<topic label="Common C/C++ Configurations handling">
-				<topic label="Manage Configurations dialog" href="reference/cdt_u_prop_manage_dialog.htm"/>
-				<topic label="Create Configuration dialog" href="reference/cdt_u_prop_manage_newdialog.htm"/>
-				<topic label="Rename Configuration dialog" href="reference/cdt_u_prop_manage_rendialog.htm"/>
+	<topic label="C / C ++属性" href="reference/cdt_u_properties.htm">
+		<topic label="C / C ++项目属性" href="reference/cdt_o_prop_proj.htm">
+			<topic label="资源页面" href="reference/cdt_u_prop_resource.htm"/>
+			<topic label="常见的C / C ++配置处理">
+				<topic label="“管理配置”对话框" href="reference/cdt_u_prop_manage_dialog.htm"/>
+				<topic label="创建配置对话框" href="reference/cdt_u_prop_manage_newdialog.htm"/>
+				<topic label="重命名配置对话框" href="reference/cdt_u_prop_manage_rendialog.htm"/>
 			</topic>  
-			<topic label="C/C++ General" href="reference/cdt_u_prop_general.htm">
-				<topic label="Documentation page  " href="reference/cdt_u_prop_general_doc.htm"/>
-				<topic label="File Types page      " href="reference/cdt_u_prop_general_typ.htm"/>
-				<topic label="Indexer page         " href="reference/cdt_u_prop_general_idx.htm"/>
-				<topic label="Language Mapping page" href="reference/cdt_u_prop_general_lng.htm"/>
-				<topic label="Preprocessor Include Paths, Macros, etc." href="reference/cdt_u_prop_general_scanner_discovery.htm">
-					<topic label="Entries tab" href="reference/cdt_u_prop_general_sd_entries.htm"/>
-					<topic label="Providers tab" href="reference/cdt_u_prop_general_sd_providers.htm"/>
+			<topic label="C / C ++一般" href="reference/cdt_u_prop_general.htm">
+				<topic label="文档页面" href="reference/cdt_u_prop_general_doc.htm"/>
+				<topic label="文件类型页面" href="reference/cdt_u_prop_general_typ.htm"/>
+				<topic label="索引器页面" href="reference/cdt_u_prop_general_idx.htm"/>
+				<topic label="语言映射页面" href="reference/cdt_u_prop_general_lng.htm"/>
+				<topic label="预处理器包括路径，宏等。" href="reference/cdt_u_prop_general_scanner_discovery.htm">
+					<topic label="条目选项卡" href="reference/cdt_u_prop_general_sd_entries.htm"/>
+					<topic label="提供商标签" href="reference/cdt_u_prop_general_sd_providers.htm"/>
 				</topic> 
 			</topic>  
-			<topic label="Project References page" href="reference/cdt_u_prop_ref.htm"/>
-			<topic label="Run/Debug Settings page" href="reference/cdt_u_prop_rundebug.htm"/>
+			<topic label="项目参考页面" href="reference/cdt_u_prop_ref.htm"/>
+			<topic label="运行/调试设置页面" href="reference/cdt_u_prop_rundebug.htm"/>
 		</topic>
 
-		<topic label="C/C++ Folder properies" href="reference/cdt_o_prop_folder.htm">
-			<topic label="Resource page" href="reference/cdt_u_fprop_resource.htm"/>
-			<topic label="C/C++ Build">
-				<topic label="Settings page">
-					<topic label="Tool Settings tab" href="reference/cdt_u_fprop_toolsettings.htm"/>
+		<topic label="C / C ++文件夹属性" href="reference/cdt_o_prop_folder.htm">
+			<topic label="资源页面" href="reference/cdt_u_fprop_resource.htm"/>
+			<topic label="C / C ++ Build">
+				<topic label="设置页面">
+					<topic label="工具设置选项卡" href="reference/cdt_u_fprop_toolsettings.htm"/>
 				</topic>  
-				<topic label="Tool chain editor page" href="reference/cdt_u_prop_build_toolchain.htm"/>
+				<topic label="工具链编辑页面" href="reference/cdt_u_prop_build_toolchain.htm"/>
 			</topic>  
-			<topic label="C/C++ General" href="reference/cdt_u_prop_general.htm">
-				<topic label="Paths and Symbols page">
-					<topic label="Includes tab      " href="reference/cdt_u_prop_general_pns_inc.htm"/>
-					<topic label="Symbols tab       " href="reference/cdt_u_prop_general_pns_sym.htm"/>
-					<topic label="Libraries tab     " href="reference/cdt_u_prop_general_pns_lib.htm"/>
-					<topic label="Libraries path tab" href="reference/cdt_u_prop_general_pns_libpath.htm"/>
-					<topic label="Data Hierarchy tab" href="reference/cdt_u_prop_general_pns_hier.htm"/>
+			<topic label="C / C ++一般" href="reference/cdt_u_prop_general.htm">
+				<topic label="路径和符号页面">
+					<topic label="包含标签" href="reference/cdt_u_prop_general_pns_inc.htm"/>
+					<topic label="符号选项卡" href="reference/cdt_u_prop_general_pns_sym.htm"/>
+					<topic label="库选项卡" href="reference/cdt_u_prop_general_pns_lib.htm"/>
+					<topic label="库路径选项卡" href="reference/cdt_u_prop_general_pns_libpath.htm"/>
+					<topic label="“数据层次结构”选项卡" href="reference/cdt_u_prop_general_pns_hier.htm"/>
 				</topic> 
-				<topic label="Preprocessor Include Paths, Macros, etc." href="reference/cdt_u_prop_general_scanner_discovery.htm"/>
+				<topic label="预处理器包括路径，宏等。" href="reference/cdt_u_prop_general_scanner_discovery.htm"/>
 			</topic>  
-			<topic label="Run/Debug Settings page" href="reference/cdt_u_prop_rundebug.htm"/>
+			<topic label="运行/调试设置页面" href="reference/cdt_u_prop_rundebug.htm"/>
 		</topic>
 
-		<topic label="C/C++ File Properties" href="reference/cdt_o_prop_file.htm">
-			<topic label="Resource page" href="reference/cdt_u_fprop_resource.htm"/>
-			<topic label="C/C++ General" href="reference/cdt_u_prop_general.htm">
-				<topic label="Preprocessor Include Paths, Macros, etc." href="reference/cdt_u_prop_general_scanner_discovery.htm"/>
+		<topic label="C / C ++文件属性" href="reference/cdt_o_prop_file.htm">
+			<topic label="资源页面" href="reference/cdt_u_fprop_resource.htm"/>
+			<topic label="C / C ++一般" href="reference/cdt_u_prop_general.htm">
+				<topic label="预处理器包括路径，宏等。" href="reference/cdt_u_prop_general_scanner_discovery.htm"/>
 			</topic>  
-			<topic label="Run/Debug Settings page" href="reference/cdt_u_prop_rundebug.htm"/>
+			<topic label="运行/调试设置页面" href="reference/cdt_u_prop_rundebug.htm"/>
 		</topic>
 	</topic>
 	
 
 	<!-- RUN AND DEBUG TOPICS -->
-	<topic label="C/C++ Run and Debug" href="reference/cdt_o_run_dbg_pages.htm">
-		<topic label="Main" href="reference/cdt_u_run_dbg_main.htm"/>
-		<topic label="Arguments" href="reference/cdt_u_run_dbg_arg.htm"/>
-		<topic label="Environment" href="reference/cdt_u_run_dbg_env.htm"/>
-		<topic label="Debugger" href="reference/cdt_u_run_dbg_dbg.htm"/>
-		<topic label="Source" href="reference/cdt_u_run_dbg_srce.htm"/>
-		<topic label="Common" href="reference/cdt_u_run_dbg_comm.htm"/>
+	<topic label="C / C ++运行和调试" href="reference/cdt_o_run_dbg_pages.htm">
+		<topic label="主要" href="reference/cdt_u_run_dbg_main.htm"/>
+		<topic label="参数" href="reference/cdt_u_run_dbg_arg.htm"/>
+		<topic label="环境" href="reference/cdt_u_run_dbg_env.htm"/>
+		<topic label="调试器" href="reference/cdt_u_run_dbg_dbg.htm"/>
+		<topic label="资源" href="reference/cdt_u_run_dbg_srce.htm"/>
+		<topic label="共同" href="reference/cdt_u_run_dbg_comm.htm"/>
 	</topic>
 	
-	<topic label="C/C++ search page" href="reference/cdt_u_search.htm"/>
+	<topic label="C / C ++搜索页面" href="reference/cdt_u_search.htm"/>
    </topic>
-   <topic label="Legal" href="notices.html"/>
+   <topic label="法律" href="notices.html"/>
    
 </toc>

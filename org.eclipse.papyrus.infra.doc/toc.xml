@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Papyrus Guide">
-   <topic label="User Guide">
+<toc label="纸莎草指南">
+   <topic label="用户指南">
       <anchor id="PapyrusStarterGuide"/>
       	
-      <topic label="Tasks">
+      <topic label="任务">
          <anchor id="PapyrusTasks"/>  
       </topic>
-      <topic label="Tips and Tricks">
+      <topic label="技巧和窍门">
          <anchor id="PapyrusTipsAndTricks"/>
       </topic>
-      <topic label="Tutorials">
+      <topic label="教程">
          <anchor id="PapyrusUserTutorials"/>
       </topic>
   		
       <anchor id="PapyrusDocUser"/>
    </topic>
  	
-   <topic label="Toolsmith Guide">
+   <topic label="Toolsmith指南">
       <anchor id="PapyrusDocCustom"/>
   	
-      <topic label="Tutorials">
+      <topic label="教程">
          <anchor id="PapyrusCustomTutorials"/>
       </topic>
    </topic>
    
-   <topic href="http://wiki.eclipse.org/Papyrus_Developer_Guide" label="Developer Guide">
+   <topic href="http://wiki.eclipse.org/Papyrus_Developer_Guide" label="开发者指南">
       <anchor id="PapyrusDocDev"/>
    
-      <topic label="Tutorials">
+      <topic label="教程">
          <anchor id="PapryusDevTutorials"/>
       </topic>
    </topic>
    
-   <topic label="Online Help">
+   <topic label="网上帮助">
       <anchor id="PapyrusDocOnline"/>
       
-      <topic href="http://wiki.eclipse.org/Papyrus-FAQ" label="FAQ"/>
+      <topic href="http://wiki.eclipse.org/Papyrus-FAQ" label="常问问题"/>
    </topic>
       
    <anchor id="PapyrusDocMain"/>

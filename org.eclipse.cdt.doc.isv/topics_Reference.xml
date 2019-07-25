@@ -3,8 +3,8 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the references                                              -->
 <!-- ============================================================================= -->
-<toc label="Reference">
-	<topic label="API Reference" href="reference/api/overview-summary.html">
+<toc label="参考">
+	<topic label="API参考" href="reference/api/overview-summary.html">
 		<topic label="org.eclipse.cdt.core.model" href="reference/api/org/eclipse/cdt/core/model/package-summary.html"/>
        	<topic label="org.eclipse.cdt.core.dom.ast" href="reference/api/org/eclipse/cdt/core/dom/ast/package-summary.html"/>
        	<topic label="org.eclipse.cdt.core.dom.ast.c" href="reference/api/org/eclipse/cdt/core/dom/ast/c/package-summary.html"/>
@@ -15,7 +15,7 @@
        	<topic label="org.eclipse.cdt.utils.pty" href="reference/api/org/eclipse/cdt/utils/pty/package-summary.html"/>
        	<topic label="org.eclipse.cdt.utils.spawner" href="reference/api/org/eclipse/cdt/utils/spawner/package-summary.html"/>
 	</topic>
-	<topic label="Extension Points Reference" href="reference/extension-points/index.html">
+	<topic label="扩展点参考" href="reference/extension-points/index.html">
        	<topic label="org.eclipse.cdt.core.CBuildConsole" href="reference/extension-points/org_eclipse_cdt_core_CBuildConsole.html"/>
        	<topic label="org.eclipse.cdt.core.CConfigurationDataProvider" href="reference/extension-points/org_eclipse_cdt_core_CConfigurationDataProvider.html"/>
        	<topic label="org.eclipse.cdt.core.CIndex" href="reference/extension-points/org_eclipse_cdt_core_CIndex.html"/>

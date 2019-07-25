@@ -12,82 +12,82 @@
 <cheatsheet title="Use the Task-Focused UI">
    <intro>
       <description>
-     This cheat sheet introduces the task life-cycle and shows how to use the task-focused user interface.
-<br/>
-You need an existing Java project for this sheet.eet.
-      </description>
+     该备忘单介绍了任务生命周期，并展示了如何使用以任务为中心的用户界面。
+<BR/>
+您需要此sheet.eet的现有Java项目。
+      </description>
    </intro>
    <item title="Open the Task List view" dialog="true" skip="false">
       <description>
-         If the Task List view is not opened, select in the main menu  <b>Window &gt; Show View &gt; Other... &gt; Tasks &gt; Task List</b> or click on the &quot;Click to Perform&quot; link below.
-      </description>
+         如果未打开任务列表视图，请在主菜单中选择<b>窗口＆gt;显示视图＆gt;其他...＆gt;任务＆gt;任务列表</ b>或点击“点击执行”下方链接。
+      </description>
       <command serialization="org.eclipse.ui.views.showView(org.eclipse.ui.views.showView.viewId=org.eclipse.mylyn.tasks.ui.views.tasks)" confirm="true">
       </command>
    </item>
    <item title="Create and activate a task" dialog="true" skip="false">
       <description>
-In the Task List view, click the right mouse button, then select <b>New &gt; Category</b>. Enter <b>Tutorials</b> for the category&apos;s name.
-<br/><br/>
-Then right click on the <b>Tutorials</b> category and select <b>New &gt; Task</b>. In the <b>New Task</b> dialog select <b>Local</b> then click the <b>Finish</b> button.
- Enter <b>Explore Mylyn</b>  for the task&apos;s title and change the priority to <b>High</b> using the drop down to the left of the summary. You can add some notes as well.
-<br/><br/>
-Right click the new task and select <b>Activate</b> to start working on the task.
-      </description>
+在“任务列表”视图中，单击鼠标右键，然后选择<b>新建＆gt;分类</ b>的。输入<b>教程</ b>作为类别的名称。
+<BR/> <BR/>
+然后右键单击<b>教程</ b>类别，然后选择<b>新建＆gt;任务</ b>的。在<b>新任务</ b>对话框中选择<b>本地</ b>，然后单击<b>完成</ b>按钮。
+ 输入<b>探索Mylyn </ b>以获取任务的标题，并使用摘要左侧的下拉菜单将优先级更改为<b>高</ b>。您也可以添加一些注释。
+<BR/> <BR/>
+右键单击新任务，然后选择<b>激活</ b>开始处理该任务。
+      </description>
    </item>
    <item title="Focus on the task" dialog="true" skip="false">
       <description>
-         In the <b>Package Explorer</b> the task-In the <b>Package Explorer</b> the task-focus turns on automatically if you activate a task that has a context.<br/> 
-You can turn on or off this function if you click on the  <b>Focus on  Active Task</b> toggle button in the view&apos;s toolbar.<br/>
-You can use this function in the <b>Outline</b> view too. Turn it on in this view as well.
-      </description>
+         在<b> Package Explorer </ b>任务中 - 在<b> Package Explorer </ b>中，如果激活具有上下文的任务，任务焦点将自动打开。<br/>
+如果单击视图工具栏中的<b>聚焦活动任务</ b>切换按钮，则可以打开或关闭此功能。<br/>
+您也可以在<b> Outline </ b>视图中使用此功能。在此视图中也将其打开。
+      </description>
    </item>
    <item title="Open the file" dialog="true" skip="false">
       <description>
-         Press down the <b>Alt</b> button and click on the <b>left</b> mouse button on the <b>Package Explorer</b> view. Now you can see all of your projects in the view.
-<br/><br/>
-Next <b>Alt+click</b> on an arbitrary project and you can see the files which are in the project.
-<br/><br/>
-With this method, select a class from the project.<br/>
-After the file is opened you can see the class both  in the <b>Package Explorer</b> and in the <b>Outline</b> view.
-      </description>
+         按下<b> Alt </ b>按钮，然后单击<b> Package Explorer </ b>视图上的<b>左</ b>鼠标按钮。现在，您可以在视图中查看所有项目。
+<BR/> <BR/>
+在任意项目上单击<b> Alt +单击</ b>，您可以看到项目中的文件。
+<BR/> <BR/>
+使用此方法，从项目中选择一个类
+打开文件后，您可以在<b> Package Explorer </ b>和<b> Outline </ b>视图中看到该类。
+      </description>
    </item>
    <item title="Add method to focus" dialog="true" skip="false">
       <description>
-         Select a method within the editor will result in this method appearing in other focused views including the <b>Outline</b> and <b>Package Explorer</b> views.
-<br/><br/>
-Next press the Alt button and click on the class in the <b>Outline</b> view.<br/> 
-Now you can see all methods. Methods which are not in the task context appear in <b>gray</b> color. Select another method from the list. After selecting, all methods that are not part of the the active task&apos;s context will no longer be revealed.
-      </description>
+         在编辑器中选择一个方法将导致此方法出现在其他焦点视图中，包括<b>大纲</ b>和<b>包资源管理器</ b>视图。
+<BR/> <BR/>
+接下来按Alt键并单击<b> Outline </ b>视图中的类
+现在你可以看到所有的方法。不在任务上下文中的方法以<b>灰色</ b>颜色显示。从列表中选择另一种方法。在选择之后，将不再显示不属于活动任务的上下文的所有方法。
+      </description>
    </item>
    <item title="Landmark" dialog="true" skip="false">
       <description>
-         If an element&apos;s interest rank is high enough, it becomes a landmark. Landmarks are showed in <b>bold</b> font.
-<br/><br/>
-You can manually promote an element to landmark status by right clicking on the element and selecting <b>Mark as Landmark</b>.
-      </description>
+         如果元素的兴趣等级足够高，则它成为一个里程碑。地标以<b>粗体</ b>字体显示。
+<BR/> <BR/>
+您可以通过右键单击元素并选择<b>标记为地标</ b>，手动将元素提升为地标状态。
+      </description>
    </item>
    <item title="Remove from focus" dialog="true" skip="false">
       <description>
-         Right click on a method which is in focus and select <b>Remove from Focus</b>. The method will disappear from the view. You can get it back again by Alt+clicking and re-selecting the method.
-      </description>
+         右键单击焦点对齐的方法，然后选择<b>从焦点中删除</ b>。该方法将从视图中消失。您可以通过Alt +单击并重新选择方法再次取回它。
+      </description>
    </item>
    <item title="Open another file" dialog="true" skip="false">
       <description>
-         Press down the <b>Alt</b> button and <b>click</b> on the <b>project</b>. Select an arbitrary file from the list with <b>Alt+click</b>. After you open the new file you can see it in the focus and all files will disappear which are not in the focus.
-<br/>
-      </description>
+         按下<b> Alt </ b>按钮，然后<b>单击<b>项目</ b>上的</ b>。使用<b> Alt +单击</ b>从列表中选择任意文件。打开新文件后，您可以在焦点中看到它，并且所有文件都将消失，这些文件不在焦点中。
+<BR/>
+      </description>
    </item>
    <item title="Quick Context View" dialog="true" skip="false">
       <description>
-         Press down <b>Ctrl+Shift+Alt+RightArrow</b> buttons, then you can see all elements which are in the focus.
-      </description>
+         按下<b> Ctrl + Shift + Alt + RightArrow </ b>按钮，然后您可以看到焦点中的所有元素。
+      </description>
    </item>
    <item title="Complete task" dialog="true" skip="false">
       <description>
-         In the Task List view, click on the right mouse button on the <b>Learn task-focus</b> task and select deactivate.
-<br/>
-Click again on the task with the right mouse button and select <b>Mark &gt; Complete</b>. <br/>
-The task&apos;s name will be struck through in the Task List indicating completion.
-      </description>
+         在“任务列表”视图中，单击<b>学习任务焦点</ b>任务上的鼠标右键，然后选择停用。
+<BR/>
+用鼠标右键再次单击该任务，然后选择<b>标记＆gt;完整的</ b>的。 <BR/>
+该任务的名称将在任务列表中显示，表示完成。
+      </description>
    </item>
 </cheatsheet>

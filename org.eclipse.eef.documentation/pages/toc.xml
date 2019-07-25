@@ -10,45 +10,45 @@
        Obeo - Initial API and implementation
 -->
 <toc label="EEF" topic="pages/index.html">
-  <topic href="pages/releasenotes.html" label="Release Notes">
+  <topic href="pages/releasenotes.html" label="发行说明">
   </topic>
-  <topic href="pages/language/overview.html" label="Language">
-     <topic href="pages/language/view.html" label="View">
+  <topic href="pages/language/overview.html" label="语言">
+     <topic href="pages/language/view.html" label="视图">
      </topic>
-     <topic href="pages/language/page.html" label="Page">
+     <topic href="pages/language/page.html" label="页">
      </topic>
-     <topic href="pages/language/group.html" label="Group">
+     <topic href="pages/language/group.html" label="组">
      </topic>
-     <topic href="pages/language/widgets.html" label="Widgets">
-        <topic href="pages/language/widgets/text.html" label="Text">
+     <topic href="pages/language/widgets.html" label="小工具">
+        <topic href="pages/language/widgets/text.html" label="文本">
         </topic>
-        <topic href="pages/language/widgets/checkbox.html" label="Checkbox">
+        <topic href="pages/language/widgets/checkbox.html" label="复选框">
         </topic>
-        <topic href="pages/language/widgets/radio.html" label="Radio">
+        <topic href="pages/language/widgets/radio.html" label="无线电">
         </topic>
-        <topic href="pages/language/widgets/select.html" label="Select">
+        <topic href="pages/language/widgets/select.html" label="选择">
         </topic>
-        <topic href="pages/language/widgets/label.html" label="Label">
+        <topic href="pages/language/widgets/label.html" label="标签">
         </topic>
-        <topic href="pages/language/widgets/list.html" label="List">
+        <topic href="pages/language/widgets/list.html" label="名单">
         </topic>
-        <topic href="pages/language/widgets/hyperlink.html" label="Hyperlink">
+        <topic href="pages/language/widgets/hyperlink.html" label="超链接">
         </topic>
-        <topic href="pages/language/widgets/button.html" label="Button">
+        <topic href="pages/language/widgets/button.html" label="按键">
         </topic>
-        <topic href="pages/language/widgets.html#customwidgets" label="Custom Widgets">
+        <topic href="pages/language/widgets.html#customwidgets" label="自定义小部件">
         </topic>
         <anchor id="eefAdditionalWidgets"/>
      </topic>
-     <topic href="pages/language/container.html" label="Container and Layout">
+     <topic href="pages/language/container.html" label="容器和布局">
      </topic>
-     <topic href="pages/language/dynamicmappings.html" label="Dynamic Mappings">
+     <topic href="pages/language/dynamicmappings.html" label="动态映射">
      </topic>
-     <topic href="pages/language/validation.html" label="Validation">
+     <topic href="pages/language/validation.html" label="验证">
      </topic>
   </topic>
-  <topic href="pages/developerguide/overview.html" label="Developer Guide">
-     <topic href="pages/developerguide/extensionpoints.html" label="Extension Points">
+  <topic href="pages/developerguide/overview.html" label="开发者指南">
+     <topic href="pages/developerguide/extensionpoints.html" label="扩展点">
         <topic href="pages/developerguide/eeflifecyclemanagerprovider.html" label="IEEFLifecycleManagerProvider">
         </topic>
         <topic href="pages/developerguide/eeftabdescriptorprovider.html" label="IEEFTabDescriptorProvider">
@@ -58,6 +58,6 @@
         <anchor id="eefAdditionalExternsionPoints"/>
      </topic>
   </topic>
-  <topic href="pages/glossary.html" label="Glossary">
+  <topic href="pages/glossary.html" label="词汇表">
   </topic>
 </toc>

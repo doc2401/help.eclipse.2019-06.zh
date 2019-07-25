@@ -3,17 +3,17 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the main guide                                              -->
 <!-- ============================================================================= -->
-<toc label="Architectural Overview">
+<toc label="建筑概述">
 	<anchor id="draw2d" />
 	<anchor id="zest" />
-	<topic label="GEF (MVC)" href="guide/guide.html">
-		<topic label="Overview" href="guide/guide.html#Overview"/>
-		<topic label="When and Where to Use GEF" href="guide/guide.html#When"/>
+	<topic label="GEF（MVC）" href="guide/guide.html">
+		<topic label="概观" href="guide/guide.html#Overview"/>
+		<topic label="何时何地使用GEF" href="guide/guide.html#When"/>
 		<topic label="EditParts" href="guide/guide.html#EditParts"/>
-		<topic label="Creating a Graphical View" href="guide/guide.html#GraphicalView"/>
-		<topic label="Editing and EditPolicies" href="guide/guide.html#Editing"/>
-		<topic label="The EditPart Lifecycle" href="guide/guide.html#Lifecycle"/>
-		<topic label="Tools and the Palette" href="guide/guide.html#ToolPalette"/>
-		<topic label="Types of Interactions" href="guide/guide.html#Interactions"/>
+		<topic label="创建图形视图" href="guide/guide.html#GraphicalView"/>
+		<topic label="编辑和编辑政策" href="guide/guide.html#Editing"/>
+		<topic label="EditPart生命周期" href="guide/guide.html#Lifecycle"/>
+		<topic label="工具和调色板" href="guide/guide.html#ToolPalette"/>
+		<topic label="相互作用的类型" href="guide/guide.html#Interactions"/>
 	</topic>
 </toc>

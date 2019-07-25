@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cheatsheet title="Creating a viewpoint specification project">
   <intro>
-    <description>Learn how to create a minimal working viewpoint specification project that can be enriched later.</description>
+    <description>了解如何创建可在以后丰富的最小工作视点规范项目。</description>
   </intro>
   <item title="Create the project" dialog="true" skip="false">
-    <description>First, you need to create a Viewpoint Specification Project.</description>
+    <description>首先，您需要创建一个Viewpoint规范项目。</description>
     
-    <subitem label="Go to the 'Sirius' perspective." />
-    <subitem label="In the 'Model Explorer' view, right-click and select New &gt; Viewpoint Specification Project." />
-    <subitem label="Enter the name of the new project and hit 'Next'. The convention is to use the name of the main domain model&apos;s plug-in, followed by '.design'." />
-    <subitem label="On the next page, enter the name of the Viewpoint Specification Model file, and then 'Finish'." />
+    <subitem label="转到'Sirius'的观点。" />
+    <subitem label="在“模型资源管理器”视图中，右键单击并选择“新建”＆gt;观点规范项目。" />
+    <subitem label="输入新项目的名称，然后单击“下一步”。惯例是使用主域模型的插件的名称，然后是'.design'。" />
+    <subitem label="在下一页上，输入Viewpoint规范模型文件的名称，然后输入“完成”。" />
   </item>
   <item title="Fill the Viewpoint Specification Model" dialog="true" skip="false">
     <description>
-      The project created is a complete Eclipse plug-in project, and contains an empty Viewpoint Specification Model. Refer to the Sirius Specifier Manual to learn of to specify viewpoints and representations. The basic idea is to:
-    </description>
-    <subitem label="Create one or more Viewpoint element inside the VSM." />
-    <subitem label="Inside each Viewpoint, create one or more representation descriptions, for example a diagram description." />
-    <subitem label="Define the structure of your representation, i.e. what elements should be visible and how should they be organized." />
-    <subitem label="Define the style of your representation, i.e. for each kind of element it will show, what shape, color, etc. should it have." />
-    <subitem label="Finally, define the behavior of your representation by associating tools to each kind of element." />
+      创建的项目是一个完整的Eclipse插件项目，包含一个空的Viewpoint规范模型。请参阅Sirius说明书手册以了解如何指定视点和表示。基本思路是：
+    </description>
+    <subitem label="在VSM中创建一个或多个Viewpoint元素。" />
+    <subitem label="在每个视点内，创建一个或多个表示描述，例如图表描述。" />
+    <subitem label="定义表示的结构，即应该看到哪些元素以及如何组织它们。" />
+    <subitem label="定义表示的样式，即它将显示的每种元素，它应具有的形状，颜色等。" />
+    <subitem label="最后，通过将工具与每种元素相关联来定义表示的行为。" />
   </item>
   <item title="Test and refine your representations" dialog="true" skip="false">
     <description>
-      Once you have a basic representation defined, even if it is just a skeleton with no behavior, start to test it and refine the definition. In most cases, it is possible to test your VSMs dynamically, with no need to compile or deploy anything.
-    </description>
-    <subitem label="In the same workspace in which you are defining your VSM, create a Modeling project with a sample domain model." />
-    <subitem label="On the Modeling project, enable the Viewpoint which you are currently specifying." />
-    <subitem label="Create an instance of the representation your are developing." />
-    <subitem label="Keep both the representation and the VSM opened. When you change and save your VSM, the representation will automatically be updated to take the new, improved definition into account." />
-    <subitem label="Continue to develop your representation(s) interactively and interactively until you are satisfied. "/> 
+      一旦定义了基本表示，即使它只是一个没有行为的骨架，也要开始测试并优化定义。在大多数情况下，可以动态测试VSM，无需编译或部署任何内容。
+    </description>
+    <subitem label="在用于定义VSM的同一工作空间中，使用示例域模型创建建模项目。" />
+    <subitem label="在Modeling项目中，启用您当前指定的Viewpoint。" />
+    <subitem label="创建正在开发的表示的实例。" />
+    <subitem label="保持表示和VSM都打开。当您更改并保存VSM时，表示将自动更新以考虑新的改进定义。" />
+    <subitem label="继续以交互方式和交互方式开发您的表示，直到您满意为止。"/> 
   </item>
   <item title="Test your representation in deployed mode" dialog="true" skip="false">
     <description>
-      When you are satisfied with your viewpoints and representations definitions, you can test them in a non-dynamic setting, closer to how your users will experience it.
-    </description>
-    <subitem label="Create a new 'Eclipse Application' launch configuration using the 'Run > Run Configurations...' menu." />
-    <subitem label="Run the launch configuration, and test your viewpoints." />
+      如果对视点和表示定义感到满意，则可以在非动态设置中测试它们，更接近用户的体验方式。
+    </description>
+    <subitem label="使用“运行>运行配置...”菜单创建新的“Eclipse应用程序”启动配置。" />
+    <subitem label="运行启动配置，并测试您的视点。" />
   </item>
   <item title="Deploy your viewpoints" dialog="true" skip="false">
     <description>
-      When development is finished, you can build and deploy your Viewpoint Specification Project like any other Eclipse plug-in. Juste make sure the project's dependencies include everything you need, in particular the domain model plug-ins and the Sirius plug-ins which provide support for the query language(s) you used in your VSM.
-    </description>
+      开发完成后，您可以像任何其他Eclipse插件一样构建和部署Viewpoint规范项目。 Juste确保项目的依赖项包含您需要的所有内容，特别是域模型插件和Sirius插件，它们为您在VSM中使用的查询语言提供支持。
+    </description>
   </item>
 </cheatsheet>

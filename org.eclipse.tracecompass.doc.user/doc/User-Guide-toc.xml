@@ -1,297 +1,297 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="doc/User-Guide.html" label="Trace Compass User Guide">
-	<topic href="doc/User-Guide.html" label="Table of Contents"></topic>
-	<topic href="doc/Overview.html" label="Overview">
-		<topic href="doc/Overview.html#About_Tracing" label="About Tracing"></topic>
-		<topic href="doc/Overview.html#Features" label="Features"></topic>
-		<topic href="doc/Overview.html#LTTng_integration" label="LTTng integration"></topic>
+<toc topic="doc/User-Guide.html" label="Trace Compass用户指南">
+	<topic href="doc/User-Guide.html" label="目录"></topic>
+	<topic href="doc/Overview.html" label="概观">
+		<topic href="doc/Overview.html#About_Tracing" label="关于追踪"></topic>
+		<topic href="doc/Overview.html#Features" label="特征"></topic>
+		<topic href="doc/Overview.html#LTTng_integration" label="LTTng集成"></topic>
 	</topic>
-	<topic href="doc/Installation.html" label="Installation">
+	<topic href="doc/Installation.html" label="安装">
 		<topic href="doc/Installation.html#LTTng_Tracer" label="LTTng Tracer"></topic>
-		<topic href="doc/Installation.html#Trace_Compass_Plug-ins" label="Trace Compass Plug-ins"></topic>
-		<topic href="doc/Installation.html#LTTng_Control_Dependencies" label="LTTng Control Dependencies"></topic>
-		<topic href="doc/Installation.html#Installation_Verification" label="Installation Verification"></topic>
+		<topic href="doc/Installation.html#Trace_Compass_Plug-ins" label="跟踪指南针插件"></topic>
+		<topic href="doc/Installation.html#LTTng_Control_Dependencies" label="LTTng控制依赖关系"></topic>
+		<topic href="doc/Installation.html#Installation_Verification" label="安装验证"></topic>
 	</topic>
-	<topic href="doc/Trace-Compass-Main-Features.html" label="Trace Compass Main Features">
-		<topic href="doc/Trace-Compass-Main-Features.html#Tracing_Perspective" label="Tracing Perspective"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Project_Explorer_View" label="Project Explorer View">
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_Tracing_Project" label="Creating a Tracing Project"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Configuring_a_Project_as_Tracing_Project" label="Configuring a Project as Tracing Project"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Importing_Traces_to_the_Project" label="Importing Traces to the Project">
-				<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Trace" label="Opening a Trace"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Importing" label="Importing"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Drag_and_Drop" label="Drag and Drop"></topic>
+	<topic href="doc/Trace-Compass-Main-Features.html" label="跟踪罗盘主要特点">
+		<topic href="doc/Trace-Compass-Main-Features.html#Tracing_Perspective" label="追踪视角"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Project_Explorer_View" label="Project Explorer视图">
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_Tracing_Project" label="创建跟踪项目"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Configuring_a_Project_as_Tracing_Project" label="将项目配置为跟踪项目"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Importing_Traces_to_the_Project" label="将跟踪导入项目">
+				<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Trace" label="打开跟踪"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Importing" label="输入"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Drag_and_Drop" label="拖放"></topic>
 			</topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Trace_Package_Exporting_and_Importing" label="Trace Package Exporting and Importing">
-				<topic href="doc/Trace-Compass-Main-Features.html#Exporting" label="Exporting"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Importing_2" label="Importing"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Trace_Package_Exporting_and_Importing" label="跟踪包导出和导入">
+				<topic href="doc/Trace-Compass-Main-Features.html#Exporting" label="出口"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Importing_2" label="输入"></topic>
 			</topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Refreshing_of_Trace_and_Trace_Folder" label="Refreshing of Trace and Trace Folder"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Remote_Fetching" label="Remote Fetching">
-				<topic href="doc/Trace-Compass-Main-Features.html#Remote_Profile_elements" label="Remote Profile elements">
-					<topic href="doc/Trace-Compass-Main-Features.html#Profile" label="Profile"></topic>
-					<topic href="doc/Trace-Compass-Main-Features.html#Connection_Node" label="Connection Node"></topic>
-					<topic href="doc/Trace-Compass-Main-Features.html#Trace_Group" label="Trace Group"></topic>
-					<topic href="doc/Trace-Compass-Main-Features.html#Trace" label="Trace"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Refreshing_of_Trace_and_Trace_Folder" label="刷新跟踪和跟踪文件夹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Remote_Fetching" label="远程提取">
+				<topic href="doc/Trace-Compass-Main-Features.html#Remote_Profile_elements" label="远程配置文件元素">
+					<topic href="doc/Trace-Compass-Main-Features.html#Profile" label="轮廓"></topic>
+					<topic href="doc/Trace-Compass-Main-Features.html#Connection_Node" label="连接节点"></topic>
+					<topic href="doc/Trace-Compass-Main-Features.html#Trace_Group" label="跟踪组"></topic>
+					<topic href="doc/Trace-Compass-Main-Features.html#Trace" label="跟踪"></topic>
 				</topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Profile_editing_and_management" label="Profile editing and management"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Selecting_remote_traces" label="Selecting remote traces"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Profile_editing_and_management" label="配置文件编辑和管理"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Selecting_remote_traces" label="选择远程跟踪"></topic>
 			</topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Selecting_a_Trace_Type" label="Selecting a Trace Type"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Trace_Types_Preference_Page" label="Trace Types Preference Page"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Trace_or_Experiment" label="Opening a Trace or Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_an_Experiment" label="Creating an Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Selecting_Traces_for_an_Experiment" label="Selecting Traces for an Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_an_Experiment_from_Selection" label="Creating an Experiment from Selection"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Removing_Traces_from_an_Experiment" label="Removing Traces from an Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_Traces_from_an_Experiment" label="Deleting Traces from an Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Renaming_a_Trace_or_Experiment" label="Renaming a Trace or Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Copying_a_Trace_or_Experiment" label="Copying a Trace or Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_a_Trace_or_Experiment" label="Deleting a Trace or Experiment"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_Supplementary_Files" label="Deleting Supplementary Files"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Displaying_the_trace.27s_time_range" label="Displaying the trace&apos;s time range"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Link_with_Editor" label="Link with Editor"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Exporting_Time_Selection_as_New_Trace" label="Exporting Time Selection as New Trace"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Selecting_a_Trace_Type" label="选择跟踪类型"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Trace_Types_Preference_Page" label="跟踪类型首选项"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Trace_or_Experiment" label="打开追踪或实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_an_Experiment" label="创建实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Selecting_Traces_for_an_Experiment" label="选择实验的痕迹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_an_Experiment_from_Selection" label="从选择创建实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Removing_Traces_from_an_Experiment" label="从实验中删除痕迹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_Traces_from_an_Experiment" label="从实验中删除痕迹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Renaming_a_Trace_or_Experiment" label="重命名跟踪或实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Copying_a_Trace_or_Experiment" label="复制跟踪或实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_a_Trace_or_Experiment" label="删除跟踪或实验"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Deleting_Supplementary_Files" label="删除补充文件"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Displaying_the_trace.27s_time_range" label="显示跟踪的时间范围"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Link_with_Editor" label="与编辑链接"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Exporting_Time_Selection_as_New_Trace" label="将时间选择导出为新跟踪"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Events_Editor" label="Events Editor">
-			<topic href="doc/Trace-Compass-Main-Features.html#Searching_and_Filtering" label="Searching and Filtering">
-				<topic href="doc/Trace-Compass-Main-Features.html#Searching" label="Searching"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Filtering" label="Filtering"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#Bookmarking" label="Bookmarking"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Events_Editor" label="活动编辑">
+			<topic href="doc/Trace-Compass-Main-Features.html#Searching_and_Filtering" label="搜索和过滤">
+				<topic href="doc/Trace-Compass-Main-Features.html#Searching" label="搜索"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Filtering" label="过滤"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#Bookmarking" label="书签"></topic>
 			</topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Copy_to_Clipboard" label="Copy to Clipboard"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Event_Source_Lookup" label="Event Source Lookup">
-				<topic href="doc/Trace-Compass-Main-Features.html#Source_Code" label="Source Code"></topic>
-				<topic href="doc/Trace-Compass-Main-Features.html#EMF_Model" label="EMF Model"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Copy_to_Clipboard" label="复制到剪贴板"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Event_Source_Lookup" label="事件源查找">
+				<topic href="doc/Trace-Compass-Main-Features.html#Source_Code" label="源代码"></topic>
+				<topic href="doc/Trace-Compass-Main-Features.html#EMF_Model" label="EMF模型"></topic>
 			</topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Exporting_To_Text" label="Exporting To Text"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Refreshing_of_Trace" label="Refreshing of Trace"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Collapsing_of_Repetitive_Events" label="Collapsing of Repetitive Events"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Customization" label="Customization"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Exporting_To_Text" label="导出到文本"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Refreshing_of_Trace" label="刷新痕迹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Collapsing_of_Repetitive_Events" label="折叠重复事件"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Customization" label="定制"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Histogram_View" label="Histogram View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Statistics_View" label="Statistics View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Colors_View" label="Colors View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Filters_View" label="Filters View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Time_Chart_View" label="Time Chart View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#State_System_Explorer_View" label="State System Explorer View"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#External_Analyses" label="External Analyses">
-			<topic href="doc/Trace-Compass-Main-Features.html#Running_an_External_Analysis" label="Running an External Analysis"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Report" label="Opening a Report"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_Chart_from_a_Result_Table" label="Creating a Chart from a Result Table"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Showing_or_Hiding_a_Result_Table" label="Showing or Hiding a Result Table"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Adding_and_Removing_a_User-Defined_External_Analysis" label="Adding and Removing a User-Defined External Analysis"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Histogram_View" label="直方图视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Statistics_View" label="统计视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Colors_View" label="颜色视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Filters_View" label="过滤视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Time_Chart_View" label="时间图表视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#State_System_Explorer_View" label="State System Explorer视图"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#External_Analyses" label="外部分析">
+			<topic href="doc/Trace-Compass-Main-Features.html#Running_an_External_Analysis" label="运行外部分析"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_Report" label="打开报告"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_Chart_from_a_Result_Table" label="从结果表创建图表"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Showing_or_Hiding_a_Result_Table" label="显示或隐藏结果表"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Adding_and_Removing_a_User-Defined_External_Analysis" label="添加和删除用户定义的外部分析"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Custom_Parsers" label="Custom Parsers">
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_custom_text_parser" label="Creating a custom text parser"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_custom_XML_parser" label="Creating a custom XML parser"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Managing_custom_parsers" label="Managing custom parsers"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_trace_using_a_custom_parser" label="Opening a trace using a custom parser"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Custom_Parsers" label="自定义解析器">
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_custom_text_parser" label="创建自定义文本解析器"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Creating_a_custom_XML_parser" label="创建自定义XML解析器"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Managing_custom_parsers" label="管理自定义解析器"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Opening_a_trace_using_a_custom_parser" label="使用自定义解析器打开跟踪"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Pin_and_Clone" label="Pin and Clone">
-			<topic href="doc/Trace-Compass-Main-Features.html#Cloning_a_view_to_show_two_different_traces" label="Cloning a view to show two different traces"></topic>
-			<topic href="doc/Trace-Compass-Main-Features.html#Cloning_a_view_to_show_different_window_ranges_of_same_trace" label="Cloning a view to show different window ranges of same trace"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Pin_and_Clone" label="Pin和Clone">
+			<topic href="doc/Trace-Compass-Main-Features.html#Cloning_a_view_to_show_two_different_traces" label="克隆视图以显示两条不同的轨迹"></topic>
+			<topic href="doc/Trace-Compass-Main-Features.html#Cloning_a_view_to_show_different_window_ranges_of_same_trace" label="克隆视图以显示相同跟踪的不同窗口范围"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Time_Synchronization_of_Views" label="Time Synchronization of Views"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Automatic_Time_Axis_Alignment" label="Automatic Time Axis Alignment"></topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Searching_in_Time_Graph_Views" label="Searching in Time Graph Views">
-			<topic href="doc/Trace-Compass-Main-Features.html#Filtering_Time_Events_in_Time_Graph_Views" label="Filtering Time Events in Time Graph Views"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Time_Synchronization_of_Views" label="视图的时间同步"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Automatic_Time_Axis_Alignment" label="自动时间轴对齐"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Searching_in_Time_Graph_Views" label="在时间图表视图中搜索">
+			<topic href="doc/Trace-Compass-Main-Features.html#Filtering_Time_Events_in_Time_Graph_Views" label="在时间图视图中过滤时间事件"></topic>
 		</topic>
-		<topic href="doc/Trace-Compass-Main-Features.html#Configurable_Marker_Sets" label="Configurable Marker Sets">
-			<topic href="doc/Trace-Compass-Main-Features.html#Marker_Set_Configuration_XML_Format" label="Marker Set Configuration XML Format"></topic>
+		<topic href="doc/Trace-Compass-Main-Features.html#Configurable_Marker_Sets" label="可配置的标记集">
+			<topic href="doc/Trace-Compass-Main-Features.html#Marker_Set_Configuration_XML_Format" label="标记集配置XML格式"></topic>
 		</topic>
 	</topic>
 	<topic href="doc/LTTng-Tracer-Control.html" label="LTTng Tracer Control">
-		<topic href="doc/LTTng-Tracer-Control.html#Control_View" label="Control View">
-			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_New_Connection_to_a_Remote_Host" label="Creating a New Connection to a Remote Host"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Disconnecting_from_a_Remote_Host" label="Disconnecting from a Remote Host"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Connecting_to_a_Remote_Host" label="Connecting to a Remote Host"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Deleting_to_a_Remote_Host_Connection" label="Deleting to a Remote Host Connection"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Tracing_Session" label="Creating a Tracing Session"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Tracing_Session_With_Advanced_Options" label="Creating a Tracing Session With Advanced Options"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Snapshot_Tracing_Session" label="Creating a Snapshot Tracing Session"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_-_General" label="Enabling Channels - General"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_On_Session_Level" label="Enabling Channels On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Trace_File_Rotation" label="Configuring Trace File Rotation"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Configuring_per_UID_and_per_PID_Buffers_.28UST_only.29" label="Configuring per UID and per PID Buffers (UST only)"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Periodical_Flush_for_metadata_Channel" label="Configuring Periodical Flush for metadata Channel"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_On_Domain_Level" label="Enabling Channels On Domain Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_and_Disabling_Channels" label="Enabling and Disabling Channels"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_-_General" label="Enabling Events - General"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Kernel_Events_On_Session_Level" label="Enabling Kernel Events On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_UST_Events_On_Session_Level" label="Enabling UST Events On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_JUL_Events_On_Session_Level" label="Enabling JUL Events On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_LOG4J_Events_On_Session_Level" label="Enabling LOG4J Events On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Python_Events_On_Session_Level" label="Enabling Python Events On Session Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_On_Domain_Level" label="Enabling Events On Domain Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_On_Channel_Level" label="Enabling Events On Channel Level"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_and_Disabling_Events" label="Enabling and Disabling Events"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Tracepoint_Events_From_Provider" label="Enabling Tracepoint Events From Provider"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Filter_Expression_When_Enabling_Events" label="Configuring Filter Expression When Enabling Events"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_Channels_and_Events_of_a_Domain" label="Adding Contexts to Channels and Events of a Domain"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_All_Events_of_a_Channel" label="Adding Contexts to All Events of a Channel"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_an_Event_of_a_Specific_Channel" label="Adding Contexts to an Event of a Specific Channel"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Start_Tracing" label="Start Tracing"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Recording_a_Snapshot" label="Recording a Snapshot"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Stop_Tracing" label="Stop Tracing"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Destroying_a_Tracing_Session" label="Destroying a Tracing Session"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Refreshing_the_Node_Information" label="Refreshing the Node Information"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Importing_Session_Traces_to_a_Tracing_Project" label="Importing Session Traces to a Tracing Project"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Importing_Network_Traces_to_a_Tracing_Project" label="Importing Network Traces to a Tracing Project"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Saving_Tracing_Sessions" label="Saving Tracing Sessions"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Loading_Tracing_Sessions" label="Loading Tracing Sessions"></topic>
-			<topic href="doc/LTTng-Tracer-Control.html#Managing_Tracing_Session_Profiles" label="Managing Tracing Session Profiles"></topic>
+		<topic href="doc/LTTng-Tracer-Control.html#Control_View" label="控制视图">
+			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_New_Connection_to_a_Remote_Host" label="创建与远程主机的新连接"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Disconnecting_from_a_Remote_Host" label="断开与远程主机的连接"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Connecting_to_a_Remote_Host" label="连接到远程主机"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Deleting_to_a_Remote_Host_Connection" label="删除远程主机连接"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Tracing_Session" label="创建跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Tracing_Session_With_Advanced_Options" label="使用高级选项创建跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Creating_a_Snapshot_Tracing_Session" label="创建快照跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_-_General" label="启用频道 - 常规"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_On_Session_Level" label="在会话级别启用频道"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Trace_File_Rotation" label="配置跟踪文件轮换"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Configuring_per_UID_and_per_PID_Buffers_.28UST_only.29" label="配置每个UID和每个PID缓冲区（仅限UST）"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Periodical_Flush_for_metadata_Channel" label="配置元数据通道的定期刷新"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Channels_On_Domain_Level" label="在域级别启用通道"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_and_Disabling_Channels" label="启用和禁用频道"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_-_General" label="启用事件 - 常规"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Kernel_Events_On_Session_Level" label="在会话级别启用内核事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_UST_Events_On_Session_Level" label="在会话级别启用UST事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_JUL_Events_On_Session_Level" label="在会话级别启用JUL事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_LOG4J_Events_On_Session_Level" label="在会话级别启用LOG4J事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Python_Events_On_Session_Level" label="在会话级别启用Python事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_On_Domain_Level" label="在域级别启用事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Events_On_Channel_Level" label="在通道级别启用事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_and_Disabling_Events" label="启用和禁用事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Enabling_Tracepoint_Events_From_Provider" label="从提供程序启用跟踪点事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Configuring_Filter_Expression_When_Enabling_Events" label="启用事件时配置筛选表达式"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_Channels_and_Events_of_a_Domain" label="将上下文添加到域的通道和事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_All_Events_of_a_Channel" label="将上下文添加到频道的所有事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Adding_Contexts_to_an_Event_of_a_Specific_Channel" label="将上下文添加到特定频道的事件"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Start_Tracing" label="开始跟踪"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Recording_a_Snapshot" label="录制快照"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Stop_Tracing" label="停止追踪"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Destroying_a_Tracing_Session" label="销毁跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Refreshing_the_Node_Information" label="刷新节点信息"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Importing_Session_Traces_to_a_Tracing_Project" label="将会话跟踪导入跟踪项目"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Importing_Network_Traces_to_a_Tracing_Project" label="将网络跟踪导入跟踪项目"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Saving_Tracing_Sessions" label="保存跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Loading_Tracing_Sessions" label="加载跟踪会话"></topic>
+			<topic href="doc/LTTng-Tracer-Control.html#Managing_Tracing_Session_Profiles" label="管理跟踪会话配置文件"></topic>
 		</topic>
-		<topic href="doc/LTTng-Tracer-Control.html#Properties_View" label="Properties View"></topic>
-		<topic href="doc/LTTng-Tracer-Control.html#LTTng_Tracer_Control_Preferences" label="LTTng Tracer Control Preferences"></topic>
+		<topic href="doc/LTTng-Tracer-Control.html#Properties_View" label="属性视图"></topic>
+		<topic href="doc/LTTng-Tracer-Control.html#LTTng_Tracer_Control_Preferences" label="LTTng Tracer控件首选项"></topic>
 	</topic>
-	<topic href="doc/LTTng-Kernel-Analysis.html" label="LTTng Kernel Analysis">
-		<topic href="doc/LTTng-Kernel-Analysis.html#OS_Tracing_Overview_Perspective" label="OS Tracing Overview Perspective"></topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_Kernel_Perspective" label="LTTng Kernel Perspective"></topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Control_Flow_View" label="Control Flow View">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Process_tree_and_information" label="Process tree and information"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Control_flow" label="Control flow">
-				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_mouse" label="Using the mouse"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_keyboard" label="Using the keyboard"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Incomplete_regions" label="Incomplete regions"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Zoom_region" label="Zoom region"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips" label="Tooltips"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Dynamics_Filters" label="Dynamics Filters">
-					<topic href="doc/LTTng-Kernel-Analysis.html#Show_Active_Threads_Only" label="Show Active Threads Only"></topic>
+	<topic href="doc/LTTng-Kernel-Analysis.html" label="LTTng内核分析">
+		<topic href="doc/LTTng-Kernel-Analysis.html#OS_Tracing_Overview_Perspective" label="操作系统跟踪概述视角"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_Kernel_Perspective" label="LTTng内核视角"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Control_Flow_View" label="控制流视图">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Process_tree_and_information" label="处理树和信息"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Control_flow" label="控制流">
+				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_mouse" label="用鼠标"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_keyboard" label="使用键盘"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Incomplete_regions" label="不完整的地区"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Zoom_region" label="缩放区域"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips" label="提示"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Dynamics_Filters" label="动态过滤器">
+					<topic href="doc/LTTng-Kernel-Analysis.html#Show_Active_Threads_Only" label="仅显示活动主题"></topic>
 				</topic>
 			</topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar" label="Toolbar"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Marker_Axis" label="Marker Axis"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar" label="工具栏"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Marker_Axis" label="标记轴"></topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Resources_View" label="Resources View">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Follow_CPU" label="Follow CPU"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Follow_thread" label="Follow thread"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Navigation" label="Navigation"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Incomplete_regions_2" label="Incomplete regions"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_2" label="Toolbar"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Marker_Axis_2" label="Marker Axis"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Resources_View" label="资源视图">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Follow_CPU" label="关注CPU"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Follow_thread" label="跟随线程"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Navigation" label="导航"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Incomplete_regions_2" label="不完整的地区"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_2" label="工具栏"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Marker_Axis_2" label="标记轴"></topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_CPU_Usage_View" label="LTTng CPU Usage View">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Process_Information" label="Process Information"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#CPU_Usage_Chart" label="CPU Usage Chart">
-				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips_2" label="Tooltips"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_mouse_2" label="Using the mouse"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_keyboard_2" label="Using the keyboard"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_3" label="Toolbar"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu" label="View Menu"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#CPU_Filtering" label="CPU Filtering"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_CPU_Usage_View" label="LTTng CPU使用率视图">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Process_Information" label="处理信息"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#CPU_Usage_Chart" label="CPU使用率图表">
+				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips_2" label="提示"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_mouse_2" label="用鼠标"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Using_the_keyboard_2" label="使用键盘"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_3" label="工具栏"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu" label="查看菜单"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#CPU_Filtering" label="CPU过滤"></topic>
 			</topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Kernel_Memory_Usage_View" label="Kernel Memory Usage View">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Process_Information_2" label="Process Information"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_2" label="Navigation"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_4" label="Toolbar"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu_2" label="View Menu"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Relative_Kernel_Memory_Chart" label="Relative Kernel Memory Chart">
-				<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_3" label="Navigation"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips_3" label="Tooltips"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Kernel_Memory_Usage_View" label="内核内存使用情况视图">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Process_Information_2" label="处理信息"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_2" label="导航"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_4" label="工具栏"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu_2" label="查看菜单"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Relative_Kernel_Memory_Chart" label="相对内核内存图">
+				<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_3" label="导航"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Tooltips_3" label="提示"></topic>
 			</topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Process_Wait_Analysis" label="Process Wait Analysis">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Prerequisites" label="Prerequisites"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Running_the_analysis" label="Running the analysis"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Process_Wait_Analysis" label="流程等待分析">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Prerequisites" label="先决条件"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Running_the_analysis" label="运行分析"></topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Input.2FOutput_Analysis" label="Input/Output Analysis">
-			<topic href="doc/LTTng-Kernel-Analysis.html#Get_the_trace" label="Get the trace"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Input.2FOutput_Views" label="Input/Output Views">
-				<topic href="doc/LTTng-Kernel-Analysis.html#Disk_I.2FO_Activity_View" label="Disk I/O Activity View"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_4" label="Navigation"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_5" label="Toolbar"></topic>
-				<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu_3" label="View Menu"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Input.2FOutput_Analysis" label="输入/输出分析">
+			<topic href="doc/LTTng-Kernel-Analysis.html#Get_the_trace" label="得到踪迹"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Input.2FOutput_Views" label="输入/输出视图">
+				<topic href="doc/LTTng-Kernel-Analysis.html#Disk_I.2FO_Activity_View" label="磁盘I / O活动视图"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Navigation_4" label="导航"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#Toolbar_5" label="工具栏"></topic>
+				<topic href="doc/LTTng-Kernel-Analysis.html#View_Menu_3" label="查看菜单"></topic>
 			</topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#System_Call_Latency_Analysis" label="System Call Latency Analysis"></topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Futex_Contention_Latency_Analysis" label="Futex Contention Latency Analysis">
+		<topic href="doc/LTTng-Kernel-Analysis.html#System_Call_Latency_Analysis" label="系统调用延迟分析"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Futex_Contention_Latency_Analysis" label="Futex争用延迟分析">
 			<topic href="doc/LTTng-Kernel-Analysis.html#Uaddr_vs_Waiter" label="Uaddr vs Waiter"></topic>
-			<topic href="doc/LTTng-Kernel-Analysis.html#Scenarios" label="Scenarios"></topic>
+			<topic href="doc/LTTng-Kernel-Analysis.html#Scenarios" label="方案"></topic>
 		</topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#Latency_analysis_for_IRQ_handlers" label="Latency analysis for IRQ handlers"></topic>
-		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_Kernel_Events_Editor" label="LTTng Kernel Events Editor"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#Latency_analysis_for_IRQ_handlers" label="IRQ处理程序的延迟分析"></topic>
+		<topic href="doc/LTTng-Kernel-Analysis.html#LTTng_Kernel_Events_Editor" label="LTTng内核事件编辑器"></topic>
 	</topic>
-	<topic href="doc/LTTng-UST-Analyses.html" label="LTTng-UST Analyses">
-		<topic href="doc/LTTng-UST-Analyses.html#Call_Stack_View" label="Call Stack View">
-			<topic href="doc/LTTng-UST-Analyses.html#Using_the_Callstack_View_with_LTTng-UST_traces" label="Using the Callstack View with LTTng-UST traces"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29" label="Importing a binary or function name mapping file (for LTTng-UST &lt;2.8 traces)"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Navigation_5" label="Navigation"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Marker_Axis_3" label="Marker Axis"></topic>
+	<topic href="doc/LTTng-UST-Analyses.html" label="LTTng-UST分析">
+		<topic href="doc/LTTng-UST-Analyses.html#Call_Stack_View" label="调用堆栈视图">
+			<topic href="doc/LTTng-UST-Analyses.html#Using_the_Callstack_View_with_LTTng-UST_traces" label="使用带有LTTng-UST跟踪的Callstack视图"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29" label="导入二进制或函数名称映射文件（对于LTTng-UST＆lt; 2.8跟踪）"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Navigation_5" label="导航"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Marker_Axis_3" label="标记轴"></topic>
 		</topic>
-		<topic href="doc/LTTng-UST-Analyses.html#Flame_Graph_View" label="Flame Graph View">
-			<topic href="doc/LTTng-UST-Analyses.html#How_to_use_a_Flame_Graph" label="How to use a Flame Graph"></topic>
+		<topic href="doc/LTTng-UST-Analyses.html#Flame_Graph_View" label="火焰图视图">
+			<topic href="doc/LTTng-UST-Analyses.html#How_to_use_a_Flame_Graph" label="如何使用Flame Graph"></topic>
 		</topic>
-		<topic href="doc/LTTng-UST-Analyses.html#Function_Duration_Statistics" label="Function Duration Statistics">
-			<topic href="doc/LTTng-UST-Analyses.html#Using_the_mouse_3" label="Using the mouse"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Using_the_keyboard_3" label="Using the keyboard"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Toolbar_6" label="Toolbar"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29_2" label="Importing a binary or function name mapping file (for LTTng-UST &lt;2.8 traces)"></topic>
+		<topic href="doc/LTTng-UST-Analyses.html#Function_Duration_Statistics" label="功能持续时间统计">
+			<topic href="doc/LTTng-UST-Analyses.html#Using_the_mouse_3" label="用鼠标"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Using_the_keyboard_3" label="使用键盘"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Toolbar_6" label="工具栏"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29_2" label="导入二进制或函数名称映射文件（对于LTTng-UST＆lt; 2.8跟踪）"></topic>
 		</topic>
-		<topic href="doc/LTTng-UST-Analyses.html#Function_Duration_Density" label="Function Duration Density"></topic>
-		<topic href="doc/LTTng-UST-Analyses.html#Memory_Usage" label="Memory Usage">
-			<topic href="doc/LTTng-UST-Analyses.html#Navigation_6" label="Navigation"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Toolbar_7" label="Toolbar"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#View_Menu_4" label="View Menu"></topic>
+		<topic href="doc/LTTng-UST-Analyses.html#Function_Duration_Density" label="功能持续时间密度"></topic>
+		<topic href="doc/LTTng-UST-Analyses.html#Memory_Usage" label="内存使用情况">
+			<topic href="doc/LTTng-UST-Analyses.html#Navigation_6" label="导航"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Toolbar_7" label="工具栏"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#View_Menu_4" label="查看菜单"></topic>
 		</topic>
-		<topic href="doc/LTTng-UST-Analyses.html#Source_Lookup_.28for_LTTng-UST_2.8.2B.29" label="Source Lookup (for LTTng-UST 2.8+)">
-			<topic href="doc/LTTng-UST-Analyses.html#Binary_file_location_configuration" label="Binary file location configuration"></topic>
-		</topic>
-	</topic>
-	<topic href="doc/Trace-synchronization.html" label="Trace synchronization">
-		<topic href="doc/Trace-synchronization.html#Obtain_synchronizable_traces" label="Obtain synchronizable traces">
-			<topic href="doc/Trace-synchronization.html#Use_LTTng-modules_2.9.2B" label="Use LTTng-modules 2.9+"></topic>
-			<topic href="doc/Trace-synchronization.html#LTTng-module_network_tracepoint_with_complete_data" label="LTTng-module network tracepoint with complete data"></topic>
-			<topic href="doc/Trace-synchronization.html#LTTng-modules_addons_kernel_module_with_dynamic_tracepoints" label="LTTng-modules addons kernel module with dynamic tracepoints"></topic>
-		</topic>
-		<topic href="doc/Trace-synchronization.html#Synchronize_traces_in_Trace_Compass" label="Synchronize traces in Trace Compass"></topic>
-	</topic>
-	<topic href="doc/Time-offsetting.html" label="Time offsetting">
-		<topic href="doc/Time-offsetting.html#Basic_mode" label="Basic mode"></topic>
-		<topic href="doc/Time-offsetting.html#Advanced_mode" label="Advanced mode"></topic>
-		<topic href="doc/Time-offsetting.html#Clearing_time_offset" label="Clearing time offset"></topic>
-	</topic>
-	<topic href="doc/Timestamp-formatting.html" label="Timestamp formatting"></topic>
-	<topic href="doc/Data-driven-analysis.html" label="Data driven analysis">
-		<topic href="doc/Data-driven-analysis.html#Managing_XML_files_containing_analyses" label="Managing XML files containing analyses"></topic>
-		<topic href="doc/Data-driven-analysis.html#Defining_XML_components" label="Defining XML components"></topic>
-		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_state_provider" label="Defining an XML state provider">
-			<topic href="doc/Data-driven-analysis.html#Definitions_and_example" label="Definitions and example"></topic>
-			<topic href="doc/Data-driven-analysis.html#Determining_the_state_system_structure" label="Determining the state system structure"></topic>
-			<topic href="doc/Data-driven-analysis.html#Writing_the_XML_state_provider" label="Writing the XML state provider"></topic>
-			<topic href="doc/Data-driven-analysis.html#Debugging_the_XML_state_provider" label="Debugging the XML state provider"></topic>
-		</topic>
-		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_pattern_provider" label="Defining an XML pattern provider">
-			<topic href="doc/Data-driven-analysis.html#The_state_system_structure" label="The state system structure"></topic>
-			<topic href="doc/Data-driven-analysis.html#Writing_the_XML_pattern_provider" label="Writing the XML pattern provider"></topic>
-			<topic href="doc/Data-driven-analysis.html#Representing_the_scenarios" label="Representing the scenarios"></topic>
-		</topic>
-		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_time_graph_view" label="Defining an XML time graph view">
-			<topic href="doc/Data-driven-analysis.html#Using_the_keyboard_4" label="Using the keyboard"></topic>
-		</topic>
-		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_XY_chart" label="Defining an XML XY chart"></topic>
-	</topic>
-	<topic href="doc/Latency-Analyses.html" label="Latency Analyses"></topic>
-	<topic href="doc/Counters-Analysis.html" label="Counters Analysis">
-		<topic href="doc/Counters-Analysis.html#Creating_an_LTTng_trace_with_performance_counters" label="Creating an LTTng trace with performance counters"></topic>
-		<topic href="doc/Counters-Analysis.html#Counters_View" label="Counters View">
-			<topic href="doc/Counters-Analysis.html#Navigation_7" label="Navigation"></topic>
-			<topic href="doc/Counters-Analysis.html#Toolbar_8" label="Toolbar"></topic>
-			<topic href="doc/Counters-Analysis.html#View_Menu_5" label="View Menu"></topic>
+		<topic href="doc/LTTng-UST-Analyses.html#Source_Lookup_.28for_LTTng-UST_2.8.2B.29" label="源查找（适用于LTTng-UST 2.8+）">
+			<topic href="doc/LTTng-UST-Analyses.html#Binary_file_location_configuration" label="二进制文件位置配置"></topic>
 		</topic>
 	</topic>
-	<topic href="doc/Java-Logging.html" label="Java Logging">
-		<topic href="doc/Java-Logging.html#Enable_JUL_Logging" label="Enable JUL Logging"></topic>
-		<topic href="doc/Java-Logging.html#Configuring_JUL_logging" label="Configuring JUL logging"></topic>
-		<topic href="doc/Java-Logging.html#LTTng_JUL_log_handler" label="LTTng JUL log handler"></topic>
+	<topic href="doc/Trace-synchronization.html" label="跟踪同步">
+		<topic href="doc/Trace-synchronization.html#Obtain_synchronizable_traces" label="获得可同步的跟踪">
+			<topic href="doc/Trace-synchronization.html#Use_LTTng-modules_2.9.2B" label="使用LTTng模块2.9+"></topic>
+			<topic href="doc/Trace-synchronization.html#LTTng-module_network_tracepoint_with_complete_data" label="具有完整数据的LTTng模块网络跟踪点"></topic>
+			<topic href="doc/Trace-synchronization.html#LTTng-modules_addons_kernel_module_with_dynamic_tracepoints" label="LTTng-modules使用动态跟踪点添加内核模块"></topic>
+		</topic>
+		<topic href="doc/Trace-synchronization.html#Synchronize_traces_in_Trace_Compass" label="在Trace Compass中同步跟踪"></topic>
 	</topic>
-	<topic href="doc/Limitations.html" label="Limitations"></topic>
-	<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html" label="How to use LTTng to diagnose problems">
-		<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html#Random_stutters" label="Random stutters"></topic>
-		<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html#Slow_I.2FO" label="Slow I/O"></topic>
+	<topic href="doc/Time-offsetting.html" label="时间抵消">
+		<topic href="doc/Time-offsetting.html#Basic_mode" label="基本模式"></topic>
+		<topic href="doc/Time-offsetting.html#Advanced_mode" label="高级模式"></topic>
+		<topic href="doc/Time-offsetting.html#Clearing_time_offset" label="清除时间偏移"></topic>
 	</topic>
-	<topic href="doc/Trace-Compass-Incubator.html" label="Trace Compass Incubator"></topic>
-	<topic href="doc/References.html" label="References"></topic>
+	<topic href="doc/Timestamp-formatting.html" label="时间戳格式化"></topic>
+	<topic href="doc/Data-driven-analysis.html" label="数据驱动分析">
+		<topic href="doc/Data-driven-analysis.html#Managing_XML_files_containing_analyses" label="管理包含分析的XML文件"></topic>
+		<topic href="doc/Data-driven-analysis.html#Defining_XML_components" label="定义XML组件"></topic>
+		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_state_provider" label="定义XML状态提供程序">
+			<topic href="doc/Data-driven-analysis.html#Definitions_and_example" label="定义和例子"></topic>
+			<topic href="doc/Data-driven-analysis.html#Determining_the_state_system_structure" label="确定国家体制结构"></topic>
+			<topic href="doc/Data-driven-analysis.html#Writing_the_XML_state_provider" label="编写XML状态提供程序"></topic>
+			<topic href="doc/Data-driven-analysis.html#Debugging_the_XML_state_provider" label="调试XML状态提供程序"></topic>
+		</topic>
+		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_pattern_provider" label="定义XML模式提供程序">
+			<topic href="doc/Data-driven-analysis.html#The_state_system_structure" label="国家体制结构"></topic>
+			<topic href="doc/Data-driven-analysis.html#Writing_the_XML_pattern_provider" label="编写XML模式提供程序"></topic>
+			<topic href="doc/Data-driven-analysis.html#Representing_the_scenarios" label="代表场景"></topic>
+		</topic>
+		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_time_graph_view" label="定义XML时间图视图">
+			<topic href="doc/Data-driven-analysis.html#Using_the_keyboard_4" label="使用键盘"></topic>
+		</topic>
+		<topic href="doc/Data-driven-analysis.html#Defining_an_XML_XY_chart" label="定义XML XY图表"></topic>
+	</topic>
+	<topic href="doc/Latency-Analyses.html" label="延迟分析"></topic>
+	<topic href="doc/Counters-Analysis.html" label="计数器分析">
+		<topic href="doc/Counters-Analysis.html#Creating_an_LTTng_trace_with_performance_counters" label="使用性能计数器创建LTTng跟踪"></topic>
+		<topic href="doc/Counters-Analysis.html#Counters_View" label="计数器视图">
+			<topic href="doc/Counters-Analysis.html#Navigation_7" label="导航"></topic>
+			<topic href="doc/Counters-Analysis.html#Toolbar_8" label="工具栏"></topic>
+			<topic href="doc/Counters-Analysis.html#View_Menu_5" label="查看菜单"></topic>
+		</topic>
+	</topic>
+	<topic href="doc/Java-Logging.html" label="Java日志记录">
+		<topic href="doc/Java-Logging.html#Enable_JUL_Logging" label="启用JUL日志记录"></topic>
+		<topic href="doc/Java-Logging.html#Configuring_JUL_logging" label="配置JUL日志记录"></topic>
+		<topic href="doc/Java-Logging.html#LTTng_JUL_log_handler" label="LTTng JUL日志处理程序"></topic>
+	</topic>
+	<topic href="doc/Limitations.html" label="限制"></topic>
+	<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html" label="如何使用LTTng来诊断问题">
+		<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html#Random_stutters" label="随机口吃"></topic>
+		<topic href="doc/How-to-use-LTTng-to-diagnose-problems.html#Slow_I.2FO" label="慢I / O."></topic>
+	</topic>
+	<topic href="doc/Trace-Compass-Incubator.html" label="跟踪指南针孵化器"></topic>
+	<topic href="doc/References.html" label="参考"></topic>
 	<anchor id="additions"/>
 </toc>

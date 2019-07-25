@@ -16,18 +16,18 @@
 <!-- ============================================================================= -->
 <!-- Define the top level topics                                                   -->
 <!-- ============================================================================= -->
-<toc label="Web Tools Platform User Guide"
+<toc label="Web工具平台用户指南"
 	topic="topics/overview.html">
 
-	<topic label="Creating Web applications">
+	<topic label="创建Web应用程序">
 		<link
 			toc="../org.eclipse.wst.webtools.doc.user/webtools_toc.xml" />
 	</topic>
-	<topic label="Creating Java EE and enterprise applications">
+	<topic label="创建Java EE和企业应用程序">
 		<link toc="../org.eclipse.jst.j2ee.doc.user/jst_j2ee_toc.xml" />
 		<link toc="../org.eclipse.jst.ejb.doc.user/ejb_toc.xml" />
 	</topic>
-	<topic label="Editing markup language files"
+	<topic label="编辑标记语言文件"
 		href="../org.eclipse.wst.sse.doc.user/topics/csrcedt004.html">
 		<link toc="../org.eclipse.wst.sse.doc.user/sse_toc.xml" />
 		<link
@@ -38,15 +38,15 @@
 			toc="../org.eclipse.wst.xsdeditor.doc.user/XSDeditormap_toc.xml" />
 	</topic>
 	<!-- <link toc="../org.eclipse.wst.xml.doc.user/xml_toc.xml"/>-->
-	<topic label="Developing Web service applications">
+	<topic label="开发Web服务应用程序">
 		<link toc="../org.eclipse.jst.ws.doc.user/webservice_toc.xml" />
 	</topic>
-	<topic label="Using the server tools">
+	<topic label="使用服务器工具">
   		<link toc="../org.eclipse.wst.server.ui.doc.user/wtp_main_toc.xml" />
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
   		<link toc="reference_toc.xml" />
 	</topic>
-	<topic label="Limitations and Known Issues" href="topics/limitations.html" />
-	<topic label="Legal" href="notices.html" />
+	<topic label="限制和已知问题" href="topics/limitations.html" />
+	<topic label="法律" href="notices.html" />
 </toc>

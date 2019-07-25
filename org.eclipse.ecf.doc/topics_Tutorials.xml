@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Tutorials" link_to="toc.xml#tutorials"> 
-    <topic label="See ECF Wiki page for latest tutorials" href="https://wiki.eclipse.org/Eclipse_Communication_Framework_Project#Tutorials"/>
+<toc label="教程" link_to="toc.xml#tutorials"> 
+    <topic label="有关最新教程，请参阅ECF Wiki页面" href="https://wiki.eclipse.org/Eclipse_Communication_Framework_Project#Tutorials"/>
 </toc>

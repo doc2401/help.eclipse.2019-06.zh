@@ -11,8 +11,8 @@
          Thales Corporate Services S.A.S - initial API and implementation
  -->
 
-<toc label="Getting Started" link_to="toc.xml#gettingstarted">
-   <topic href="html/gettingStarted/installation/installation.html" label="Installation and First Steps">
-   </topic><topic href="html/gettingStarted/nutshell_examples/nutshell_examples.html" label="Examples">
+<toc label="入门" link_to="toc.xml#gettingstarted">
+   <topic href="html/gettingStarted/installation/installation.html" label="安装和第一步">
+   </topic><topic href="html/gettingStarted/nutshell_examples/nutshell_examples.html" label="例子">
       </topic>
 </toc>

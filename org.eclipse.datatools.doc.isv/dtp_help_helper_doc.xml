@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
-	<toc label="Data Tools Platform Help-Helper Documentation"
+	<toc label="数据工具平台帮助文档"
      topic="projects/dtp/dtp/en/source/c_overview_of_dtp_help_helper_plugin.html">
-   <topic label="Overview of DTP Help-Helper Plug-in"
+   <topic label="DTP帮助 - 帮助程序插件概述"
           href="projects/dtp/dtp/en/source/c_overview_of_dtp_help_helper_plugin.html"/>
-   <topic label="Introduction to Context-Sensitive Help"
+   <topic label="上下文相关帮助简介"
           href="projects/dtp/dtp/en/source/c_introduction_to_csh.html">
-      <topic label="Static vs. Dynamic Help Contexts"
+      <topic label="静态与动态帮助上下文"
              href="projects/dtp/dtp/en/source/c_static_vs_dynamic_help_contexts.html"/>
-      <topic label="Dynamic Context-Sensitive Help"
+      <topic label="动态上下文敏感帮助"
              href="projects/dtp/dtp/en/source/c_dynamic_csh.html"/>
-      <topic label="Help Context Abstraction"
+      <topic label="帮助上下文抽象"
              href="projects/dtp/dtp/en/source/c_help_context_abstraction.html"/>
    </topic>
-   <topic label="DTP Help-Helper"
+   <topic label="DTP帮助 - 助手"
           href="projects/dtp/dtp/en/source/c_dtp_help_helper.html">
-      <topic label="Help Keys" href="projects/dtp/dtp/en/source/c_help_keys.html"/>
-      <topic label="Context Provider Delegate"
+      <topic label="帮助键" href="projects/dtp/dtp/en/source/c_help_keys.html"/>
+      <topic label="Context Provider委托"
              href="projects/dtp/dtp/en/source/c_context_provider_delegate.html"/>
    </topic>
-   <topic label="Context-Sensitive Help UI Implementation"
+   <topic label="上下文相关的帮助UI实现"
           href="projects/dtp/dtp/en/source/c_csh_ui_implementation.html">
-      <topic label="View Implementation Example"
+      <topic label="查看实施示例"
              href="projects/dtp/dtp/en/source/c_view_implementation_example.html"/>
-      <topic label="Dialog Implementation Example"
+      <topic label="对话实现示例"
              href="projects/dtp/dtp/en/source/c_dialog_implementation_example.html"/>
-      <topic label="helpKey Constants Interface Class"
+      <topic label="helpKey常量接口类"
              href="projects/dtp/dtp/en/source/c_helpkey_constants_interface_class.html"/>
    </topic>
-   <topic label="helpKey Properties Files"
+   <topic label="helpKey属性文件"
           href="projects/dtp/dtp/en/source/c_helpkey_properties_files.html">
-      <topic label="helpKey Properties File Names"
+      <topic label="helpKey属性文件名"
              href="projects/dtp/dtp/en/source/c_helpkey_properties_file_names.html"/>
    </topic>
-   <topic label="Context-Sensitive Help UA Plug-ins"
+   <topic label="上下文相关帮助UA插件"
           href="projects/dtp/dtp/en/source/c_csh_ua_plugins.html">
-      <topic label="Eclipse Context XML Files Extension"
+      <topic label="Eclipse Context XML文件扩展"
              href="projects/dtp/dtp/en/source/c_eclipse_context_xml_files_extension.html"/>
-      <topic label="helpKey Properties Files Extension"
+      <topic label="helpKey属性文件扩展名"
              href="projects/dtp/dtp/en/source/c_helpkey_properties_files_extension.html"/>
-      <topic label="Context-Sensitive Help Plug-in IDs"
+      <topic label="上下文相关帮助插件ID"
              href="projects/dtp/dtp/en/source/c_csh_plugin_ids.html"/>
    </topic>
-   <topic label="Team Responsibilities and Collaboration"
+   <topic label="团队责任和协作"
           href="projects/dtp/dtp/en/source/c_team_responsibilities_and_collaboration.html">
-      <topic label="Development Team Responsibilities"
+      <topic label="开发团队的责任"
              href="projects/dtp/dtp/en/source/c_development_team_responsibilities.html"/>
-      <topic label="Documentation Team Responsibilities"
+      <topic label="文档团队职责"
              href="projects/dtp/dtp/en/source/c_documentation_team_responsibilities.html"/>
    </topic>
-   <topic label="Documentation Team Workflow"
+   <topic label="文档团队工作流程"
           href="projects/dtp/dtp/en/source/c_documentation_team_workflow.html">
-      <topic label="Help Context IDs"
+      <topic label="帮助上下文ID"
              href="projects/dtp/dtp/en/source/c_help_context_ids.html"/>
-      <topic label="Help Search Expressions"
+      <topic label="帮助搜索表达式"
              href="projects/dtp/dtp/en/source/c_help_search_expressions.html"/>
-      <topic label="Context-Sensitive Help Plug-ins with DITA"
+      <topic label="使用DITA的上下文相关帮助插件"
              href="projects/dtp/dtp/en/source/c_csh_plugins_with_dita.html">
-         <topic label="UI Plug-ins Associated with Help Contexts"
+         <topic label="UI插件与帮助上下文相关联"
                 href="projects/dtp/dtp/en/source/c_ui_plugins_associated_with_help_contexts.html"/>
-         <topic label="Related Topics Associated with Help Contexts"
+         <topic label="相关主题与帮助上下文关联"
                 href="projects/dtp/dtp/en/source/c_related_topics_associated_with_help_contexts.html"/>
-         <topic label="Context-Specific Help Content"
+         <topic label="特定于上下文的帮助内容"
                 href="projects/dtp/dtp/en/source/c_context_specific_help_content.html"/>
       </topic>
    </topic>
-   <topic label="Test Dynamic Context-Sensitive Help"
+   <topic label="测试动态上下文相关帮助"
           href="projects/dtp/dtp/en/source/c_test_dynamic_context-sensitive_help.html">
-      <topic label="Test Objectives"
+      <topic label="测试目标"
              href="projects/dtp/dtp/en/source/c_test_objectives.html"/>
-      <topic label="Test Procedures"
+      <topic label="测试程序"
              href="projects/dtp/dtp/en/source/c_test_procedures.html"/>
-      <topic label="Plug-in Spy" href="projects/dtp/dtp/en/source/c_plugin_spy.html"/>
-      <topic label="Debug Mode" href="projects/dtp/dtp/en/source/c_debug_mode.html"/>
+      <topic label="插件间谍" href="projects/dtp/dtp/en/source/c_plugin_spy.html"/>
+      <topic label="调试模式" href="projects/dtp/dtp/en/source/c_debug_mode.html"/>
    </topic>
 </toc>

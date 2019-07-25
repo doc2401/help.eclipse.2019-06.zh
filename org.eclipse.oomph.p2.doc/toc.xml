@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Oomph P2 Management Documentation" topic="html/Overview.html">
-  <topic label="Overview" href="html/Overview.html" />
-  <topic label="Reference" href="html/reference/index.html">
-    <topic label="API Reference" href="javadoc/overview-summary.html">
-      <topic label="Oomph P2 Management" href="javadoc/org/eclipse/oomph/p2/package-summary.html" icon="plugin">
+<toc label="Oomph P2管理文档" topic="html/Overview.html">
+  <topic label="概观" href="html/Overview.html" />
+  <topic label="参考" href="html/reference/index.html">
+    <topic label="API参考" href="javadoc/overview-summary.html">
+      <topic label="Oomph P2管理" href="javadoc/org/eclipse/oomph/p2/package-summary.html" icon="plugin">
         <topic label="org.eclipse.oomph.p2" href="javadoc/org/eclipse/oomph/p2/package-summary.html" icon="package" />
         <topic label="org.eclipse.oomph.p2.impl" href="javadoc/org/eclipse/oomph/p2/impl/package-summary.html" icon="package" />
         <topic label="org.eclipse.oomph.p2.util" href="javadoc/org/eclipse/oomph/p2/util/package-summary.html" icon="package" />
       </topic>
-      <topic label="Oomph P2 Management Core" href="javadoc/org/eclipse/oomph/p2/core/package-summary.html" icon="plugin">
+      <topic label="Oomph P2管理核心" href="javadoc/org/eclipse/oomph/p2/core/package-summary.html" icon="plugin">
         <topic label="org.eclipse.oomph.p2.core" href="javadoc/org/eclipse/oomph/p2/core/package-summary.html" icon="package" />
       </topic>
     </topic>
-    <topic label="Extension Point Reference" href="html/reference/schema/index.html">
-      <topic label="Oomph P2 Management UI" href="schemadoc/org_eclipse_oomph_p2_ui_profileTypes.html" icon="plugin">
+    <topic label="扩展点参考" href="html/reference/schema/index.html">
+      <topic label="Oomph P2管理UI" href="schemadoc/org_eclipse_oomph_p2_ui_profileTypes.html" icon="plugin">
         <topic label="profileTypes" href="schemadoc/org_eclipse_oomph_p2_ui_profileTypes.html" icon="extpoint" />
       </topic>
     </topic>
   </topic>
-  <topic label="Online Docs" href="html/online/index.html">
-    <topic label="Homepage" href="http://www.eclipse.org/oomph" icon="external" />
-    <topic label="Wiki" href="http://wiki.eclipse.org/Eclipse_Installer" icon="external" />
+  <topic label="在线文档" href="html/online/index.html">
+    <topic label="主页" href="http://www.eclipse.org/oomph" icon="external" />
+    <topic label="维基" href="http://wiki.eclipse.org/Eclipse_Installer" icon="external" />
   </topic>
-  <topic label="Legal" href="about.html" />
+  <topic label="法律" href="about.html" />
 </toc>

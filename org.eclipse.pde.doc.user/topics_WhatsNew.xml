@@ -14,8 +14,8 @@
 <!-- ================================ -->
 <!-- Define topics for the What's New -->
 <!-- ================================ -->
-<toc label="What's new">
-	<topic href="whatsNew/pde_whatsnew.html#dialogs-wizards-views" label="Dialogs, Wizards and Views"/>
-	<topic href="whatsNew/pde_whatsnew.html#editors"              label="Editors"                  />
-	<topic href="whatsNew/pde_whatsnew.html#APITools"              label="API Tools"                  />
+<toc label="什么是新的">
+	<topic href="whatsNew/pde_whatsnew.html#dialogs-wizards-views" label="对话框，向导和视图"/>
+	<topic href="whatsNew/pde_whatsnew.html#editors"              label="编者"                  />
+	<topic href="whatsNew/pde_whatsnew.html#APITools"              label="API工具"                  />
 </toc>

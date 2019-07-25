@@ -14,8 +14,8 @@
 
 <project name="org.eclipse.linuxtools.gprof.docs" default="all">
     <description>
-            Generate Eclipse help content from the Eclipsepedia wiki
-    </description>
+            从Eclipsepedia wiki生成Eclipse帮助内容
+    </description>
 
     <property name="gprof.help.doc.url.base" value="http://wiki.eclipse.org"/>
     <property name="gprof.wiki.url.base" value="${gprof.help.doc.url.base}/Linux_Tools_Project/GProf"/>

@@ -11,24 +11,24 @@
          Thales Corporate Services S.A.S - initial API and implementation
  -->
 
-<toc label="Factory Component Portfolio" link_to="toc.xml#factoryComponents"> 
-	<topic label="Core">
+<toc label="工厂组件组合" link_to="toc.xml#factoryComponents"> 
+	<topic label="核心">
 		<anchor id="core"/>
 	</topic>
-	<topic label="Utilities">
+	<topic label="公用事业">
 		<anchor id="utilities"/>
 	</topic>
-	<topic label="Users">
+	<topic label="用户">
 		<anchor id="users"/>
 	</topic>
- <topic href="http://wiki.eclipse.org/EGF/Portfolio/EMF" label="Enhancement of the EMF Generation">
-    <topic href="http://blanglois.blogspot.com/2010/12/enhancement-of-emf-generation-part-one.html" label="Enhancement of the EMF Generation - Rationale - Part 1">
+ <topic href="http://wiki.eclipse.org/EGF/Portfolio/EMF" label="增强EMF生成">
+    <topic href="http://blanglois.blogspot.com/2010/12/enhancement-of-emf-generation-part-one.html" label="增强EMF生成 - 理由 - 第1部分">
     </topic>
-    <topic href="http://blanglois.blogspot.com/2010/12/enhancement-of-emf-generation-part-two.html" label="Enhancement of the EMF Generation - Rationale - Part 2">
+    <topic href="http://blanglois.blogspot.com/2010/12/enhancement-of-emf-generation-part-two.html" label="增强EMF生成 - 理由 - 第2部分">
     </topic>
-    <topic href="http://wiki.eclipse.org/images/b/b7/EGF_Tutorial_-_EMF_Generation_Patterns_v0.1.0.pdf" label="Enhancement of the EMF Generation - Tutorial">
+    <topic href="http://wiki.eclipse.org/images/b/b7/EGF_Tutorial_-_EMF_Generation_Patterns_v0.1.0.pdf" label="增强EMF生成 - 教程">
     </topic>
  </topic>
- <topic href="http://wiki.eclipse.org/EGF/Portfolio/Build" label="Build EGF Portfolio">
+ <topic href="http://wiki.eclipse.org/EGF/Portfolio/Build" label="建立EGF组合">
  </topic>
 </toc>

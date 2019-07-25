@@ -12,6 +12,6 @@
 
 <contexts>
    <context id="Context">
-      <topic label="Topic"/>
+      <topic label="话题"/>
    </context>
 </contexts>

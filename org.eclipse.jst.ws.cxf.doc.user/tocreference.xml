@@ -14,14 +14,14 @@
         Shane Clarke - initial API and implementation
  -->
 
-<toc label="Reference" link_to="toc.xml#reference"> 
-	<topic label="Preferences" href="reference/preferences.html">
+<toc label="参考" link_to="toc.xml#reference"> 
+	<topic label="喜好" href="reference/preferences.html">
         <topic label="Java2WS" href="reference/java2ws_tab.html"/>
-        <topic label="WSDL2Java" href="reference/wsdl2java_tab.html"/>
+        <topic label="WSDL2Java的" href="reference/wsdl2java_tab.html"/>
         <topic label="JAX-WS" href="reference/jaxws_tab.html"/>
-        <topic label="Endpoint Config" href="reference/endpoint_config_tab.html"/>
-        <topic label="Server and runtime" href="reference/server_runtime.html"/>
+        <topic label="端点配置" href="reference/endpoint_config_tab.html"/>
+        <topic label="服务器和运行时" href="reference/server_runtime.html"/>
     </topic>
-    <topic href="reference/cxf_facet.html" label="CXF Project Facet">
+    <topic href="reference/cxf_facet.html" label="CXF项目方面">
  </topic>
 </toc>

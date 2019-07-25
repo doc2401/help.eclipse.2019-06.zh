@@ -14,290 +14,290 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the references                                              -->
 <!-- ============================================================================= -->
-<toc label="Reference">
-   <topic label="API Tools">
-	   <topic label="API Tools Ant Tasks">
-	      <topic href="reference/api-tooling/ant-tasks/analysis-ant-task.htm" label="Analysis Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/analysis-reportconversion-ant-task.htm" label="Analysis Report Conversion Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apifreeze-ant-task.htm" label="API Freeze Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apifreeze-reportconversion-ant-task.htm" label="API Freeze Report Conversion Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/deprecation-ant-task.htm" label="API Deprecation Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/deprecation-reportconversion-ant-task.htm" label="API Deprecation Report Conversion Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API Use Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task.htm" label="API Use Report Conversion Task (Producer)"/>
-	      <topic href="reference/api-tooling/ant-tasks/apiconsumeruse-reportconversion-ant-task.htm" label="API Use Report Conversion Task (Consumer)"/>
-	      <topic href="reference/api-tooling/ant-tasks/apimigration-ant-task.htm" label="API Use Migration Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apimigration-reportconversion-ant-task.htm" label="API Use Migration Report Conversion Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/filegeneration-ant-task.htm" label="File Generation Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/compare-ant-task.htm" label="Compare Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apiusescan-problems-ant-task.htm" label="API Use Scan Problems Ant Task"/>
-	      <topic href="reference/api-tooling/ant-tasks/apiusescan-problems-reportconversion-ant-task.htm" label="API Use Scan Problems Report Conversion Ant Task"/>
+<toc label="参考">
+   <topic label="API工具">
+	   <topic label="API工具Ant任务">
+	      <topic href="reference/api-tooling/ant-tasks/analysis-ant-task.htm" label="分析Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/analysis-reportconversion-ant-task.htm" label="分析报告转换Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apifreeze-ant-task.htm" label="API冻结Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apifreeze-reportconversion-ant-task.htm" label="API冻结报告转换Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/deprecation-ant-task.htm" label="API弃用Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/deprecation-reportconversion-ant-task.htm" label="API弃用报告转换Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apiuse-ant-task.htm" label="API使用Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task.htm" label="API使用报告转换任务（生产者）"/>
+	      <topic href="reference/api-tooling/ant-tasks/apiconsumeruse-reportconversion-ant-task.htm" label="API使用报告转换任务（消费者）"/>
+	      <topic href="reference/api-tooling/ant-tasks/apimigration-ant-task.htm" label="API使用迁移Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apimigration-reportconversion-ant-task.htm" label="API使用迁移报告转换任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/filegeneration-ant-task.htm" label="文件生成Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/compare-ant-task.htm" label="比较Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apiusescan-problems-ant-task.htm" label="API使用扫描问题Ant任务"/>
+	      <topic href="reference/api-tooling/ant-tasks/apiusescan-problems-reportconversion-ant-task.htm" label="API使用扫描问题报告转换Ant任务"/>
 	   </topic>
-	   <topic label="API Tools Command Line Applications">
-	     <topic href="reference/api-tooling/applications/analysis-application.htm" label="API Analysis application"/>
+	   <topic label="API工具命令行应用程序">
+	     <topic href="reference/api-tooling/applications/analysis-application.htm" label="API分析应用程序"/>
 	   </topic>
-	    <topic href="reference/api-tooling/api_evolution.htm" label="API Evolution">
+	    <topic href="reference/api-tooling/api_evolution.htm" label="API演变">
 	 	</topic>
-	    <topic href="reference/api-tooling/api_javadoc_tags.htm" label="Defining API Restrictions">
+	    <topic href="reference/api-tooling/api_javadoc_tags.htm" label="定义API限制">
 	 	</topic>
 	 	<topic href="reference/api-tooling/api_since_tags.htm" label="Javadoc @since Tag Management">
 	 	</topic>	
    </topic>
-   <topic label="Build Configuration">
-		<topic label="Builder Configuration properties" href="reference/pde_builder_config.htm" />
-  		<topic label="Feature and Plug-in Build configuration" href="reference/pde_feature_generating_build.htm"/>
+   <topic label="构建配置">
+		<topic label="构建器配置属性" href="reference/pde_builder_config.htm" />
+  		<topic label="功能和插件构建配置" href="reference/pde_feature_generating_build.htm"/>
    </topic>
- <topic label="Editors">
-	<topic label="Plug-in Manifest Editor" href="guide/tools/editors/manifest_editor/editor.htm">
-		<topic label="Plug-in Overview" href="guide/tools/editors/manifest_editor/overview.htm"/>
-		<topic label="Plug-in Dependencies" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
-		<topic label="Plug-in Runtime" href="guide/tools/editors/manifest_editor/runtime.htm">
-			<topic label="Access Rules" href="guide/tools/editors/manifest_editor/access_rules.htm"/>
+ <topic label="编者">
+	<topic label="插件清单编辑器" href="guide/tools/editors/manifest_editor/editor.htm">
+		<topic label="插件概述" href="guide/tools/editors/manifest_editor/overview.htm"/>
+		<topic label="插件依赖项" href="guide/tools/editors/manifest_editor/dependencies.htm"/>
+		<topic label="插件运行时" href="guide/tools/editors/manifest_editor/runtime.htm">
+			<topic label="访问规则" href="guide/tools/editors/manifest_editor/access_rules.htm"/>
 		</topic>
-		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="Plug-in Extensions">
-     <topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="New Extension Wizard">
+		<topic href="guide/tools/editors/manifest_editor/extensions.htm" label="插件扩展">
+     <topic href="guide/tools/editors/manifest_editor/new_extension_wizard.htm" label="新的扩展向导">
      </topic>
   </topic>
-		<topic label="Plug-in Extension Points" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
-		<topic label="Plug-in Build" href="guide/tools/editors/manifest_editor/build.htm"/>
+		<topic label="插件扩展点" href="guide/tools/editors/manifest_editor/extension_points.htm"/>
+		<topic label="插件构建" href="guide/tools/editors/manifest_editor/build.htm"/>
 	</topic>
-	<topic label="Feature Manifest Editor" href="guide/tools/editors/feature_editor/feature_editor.htm">
-		<topic label="Feature Overview" href="guide/tools/editors/feature_editor/overview.htm"/>
-		<topic label="Feature Information" href="guide/tools/editors/feature_editor/information.htm"/>
-		<topic label="Included Plug-ins" href="guide/tools/editors/feature_editor/plugins.htm"/>
-		<topic label="Included Features" href="guide/tools/editors/feature_editor/included_features.htm"/>
-		<topic label="Feature Dependencies" href="guide/tools/editors/feature_editor/dependencies.htm"/>
-		<topic label="Feature Installation" href="guide/tools/editors/feature_editor/installation.htm"/>
+	<topic label="功能清单编辑器" href="guide/tools/editors/feature_editor/feature_editor.htm">
+		<topic label="功能概述" href="guide/tools/editors/feature_editor/overview.htm"/>
+		<topic label="功能信息" href="guide/tools/editors/feature_editor/information.htm"/>
+		<topic label="包含的插件" href="guide/tools/editors/feature_editor/plugins.htm"/>
+		<topic label="包含的功能" href="guide/tools/editors/feature_editor/included_features.htm"/>
+		<topic label="特征依赖性" href="guide/tools/editors/feature_editor/dependencies.htm"/>
+		<topic label="功能安装" href="guide/tools/editors/feature_editor/installation.htm"/>
 	</topic>
-	<topic label="Site Manifest Editor" href="guide/tools/editors/site_editor/site_editor.htm">
-		<topic label="Site Map" href="guide/tools/editors/site_editor/site_map.htm"/>
-		<topic label="Site Information" href="guide/tools/editors/site_editor/archives.htm"/>
+	<topic label="网站清单编辑器" href="guide/tools/editors/site_editor/site_editor.htm">
+		<topic label="网站地图" href="guide/tools/editors/site_editor/site_map.htm"/>
+		<topic label="网站信息" href="guide/tools/editors/site_editor/archives.htm"/>
 	</topic>
 	
 	<!-- Extension Point Schema Editor-->
 	
-	<topic label="Extension Point Schema Editor" href="guide/tools/editors/schema_editor/editor.htm">
-		<topic label="Schema Overview Page" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
-		<topic label="Schema Definition Page" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
+	<topic label="扩展点架构编辑器" href="guide/tools/editors/schema_editor/editor.htm">
+		<topic label="架构概述页面" href="guide/tools/editors/schema_editor/page_schema_overview.htm"/>
+		<topic label="架构定义页面" href="guide/tools/editors/schema_editor/page_schema_definition.htm"/>
 	</topic>
 	
-	<topic label="Product Configuration Editor" href="guide/tools/editors/product_editor/editor.htm">
-		<topic label="Product Overview" href="guide/tools/editors/product_editor/overview.htm"/>
-  <topic href="guide/tools/editors/product_editor/contents.htm" label="Product Content">
+	<topic label="产品配置编辑器" href="guide/tools/editors/product_editor/editor.htm">
+		<topic label="产品概述" href="guide/tools/editors/product_editor/overview.htm"/>
+  <topic href="guide/tools/editors/product_editor/contents.htm" label="产品内容">
   </topic>
-		<topic label="Product Configuration" href="guide/tools/editors/product_editor/configuration.htm"/>
-		<topic label="Product Launching" href="guide/tools/editors/product_editor/launching.htm"/>
-		<topic label="Product Splash" href="guide/tools/editors/product_editor/splash.htm"/>
-		<topic label="Product Branding" href="guide/tools/editors/product_editor/branding.htm"/>
-  <topic href="guide/tools/editors/product_editor/licensing.htm" label="Product Licensing">
+		<topic label="产品配置" href="guide/tools/editors/product_editor/configuration.htm"/>
+		<topic label="产品发布" href="guide/tools/editors/product_editor/launching.htm"/>
+		<topic label="产品飞溅" href="guide/tools/editors/product_editor/splash.htm"/>
+		<topic label="产品品牌" href="guide/tools/editors/product_editor/branding.htm"/>
+  <topic href="guide/tools/editors/product_editor/licensing.htm" label="产品许可">
   </topic>
 	</topic>
-	<topic label="Target Definition Editor" href="guide/tools/editors/target_editor/target_editor.htm">
-		<topic label="Target Definition" href="guide/tools/editors/target_editor/definition_page.htm"/>
-		<topic label="Target Content" href="guide/tools/editors/target_editor/content_page.htm"/>
-		<topic label="Target Environment" href="guide/tools/editors/target_editor/environment_page.htm"/>
+	<topic label="目标定义编辑器" href="guide/tools/editors/target_editor/target_editor.htm">
+		<topic label="目标定义" href="guide/tools/editors/target_editor/definition_page.htm"/>
+		<topic label="目标内容" href="guide/tools/editors/target_editor/content_page.htm"/>
+		<topic label="目标环境" href="guide/tools/editors/target_editor/environment_page.htm"/>
 	</topic>
 	
 	<!-- Simple Cheat Sheet Editor-->
 	
-	<topic label="Simple Cheat Sheet Editor" href="guide/tools/editors/simple_cs_editor/editor.htm">
-		<topic label="Simple Cheat Sheet Page" href="guide/tools/editors/simple_cs_editor/page_cheat-sheet.htm">
-			<topic label="Content Section" href="guide/tools/editors/simple_cs_editor/section_content.htm"/>
-			<topic label="Title Section" href="guide/tools/editors/simple_cs_editor/section_title.htm"/>
-			<topic label="Introduction Section" href="guide/tools/editors/simple_cs_editor/section_introduction.htm"/>
-			<topic label="Step Section" href="guide/tools/editors/simple_cs_editor/section_step.htm"/>
-			<topic label="Sub-Step Section" href="guide/tools/editors/simple_cs_editor/section_sub-step.htm"/>
-			<topic label="Command Section" href="guide/tools/editors/simple_cs_editor/section_command.htm">
-				<topic label="Command Composer Dialog" href="guide/tools/editors/simple_cs_editor/dialog_command-composer.htm">
-					<topic label="Commands Section" href="guide/tools/editors/simple_cs_editor/section_commands.htm"/>
-					<topic label="Command Details" href="guide/tools/editors/simple_cs_editor/section_command-details.htm"/>
+	<topic label="简单的备忘单编辑器" href="guide/tools/editors/simple_cs_editor/editor.htm">
+		<topic label="简单的备忘单" href="guide/tools/editors/simple_cs_editor/page_cheat-sheet.htm">
+			<topic label="内容部分" href="guide/tools/editors/simple_cs_editor/section_content.htm"/>
+			<topic label="标题部分" href="guide/tools/editors/simple_cs_editor/section_title.htm"/>
+			<topic label="介绍部分" href="guide/tools/editors/simple_cs_editor/section_introduction.htm"/>
+			<topic label="步骤部分" href="guide/tools/editors/simple_cs_editor/section_step.htm"/>
+			<topic label="子步骤部分" href="guide/tools/editors/simple_cs_editor/section_sub-step.htm"/>
+			<topic label="指挥科" href="guide/tools/editors/simple_cs_editor/section_command.htm">
+				<topic label="Command Composer对话框" href="guide/tools/editors/simple_cs_editor/dialog_command-composer.htm">
+					<topic label="命令部分" href="guide/tools/editors/simple_cs_editor/section_commands.htm"/>
+					<topic label="命令细节" href="guide/tools/editors/simple_cs_editor/section_command-details.htm"/>
 				</topic>
 			</topic>
-			<topic label="Help Section" href="guide/tools/editors/simple_cs_editor/section_help.htm"/>
+			<topic label="帮助科" href="guide/tools/editors/simple_cs_editor/section_help.htm"/>
 		</topic>
-		<topic label="Register Cheat Sheet Wizard" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm"/>
+		<topic label="注册备忘单向导" href="guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet.htm"/>
 	</topic>
 
 	<!-- Composite Cheat Sheet Editor-->
 
-	<topic label="Composite Cheat Sheet Editor" href="guide/tools/editors/composite_cs_editor/editor.htm">
-		<topic label="Composite Cheat Sheet Page" href="guide/tools/editors/composite_cs_editor/page_cheat-sheet.htm"/>
+	<topic label="复合作弊表编辑器" href="guide/tools/editors/composite_cs_editor/editor.htm">
+		<topic label="复合备忘单" href="guide/tools/editors/composite_cs_editor/page_cheat-sheet.htm"/>
 	</topic>
 
 	<!-- Table of Contents Editor -->
 
-	<topic label="Table of Contents Editor" href="guide/tools/editors/toc_editor/editor.htm">
-		<topic label="Table of Contents Page" href="guide/tools/editors/toc_editor/page_toc.htm"/>
+	<topic label="目录编辑器" href="guide/tools/editors/toc_editor/editor.htm">
+		<topic label="目录页面" href="guide/tools/editors/toc_editor/page_toc.htm"/>
     </topic>
-  <topic href="guide/tools/editors/ctx_help_editor/ctx_help_editor.htm" label="Context Help Editor">
+  <topic href="guide/tools/editors/ctx_help_editor/ctx_help_editor.htm" label="上下文帮助编辑器">
   </topic>
-  <topic href="guide/tools/editors/category_editor/definition_page.htm" label="Category Definition Editor">
+  <topic href="guide/tools/editors/category_editor/definition_page.htm" label="类别定义编辑器">
   </topic>
 </topic>
-<topic label="Launchers">
+<topic label="发射器">
 	<topic label="Eclipse Application Launcher" href="guide/tools/launchers/eclipse_application_launcher.htm">
-		<topic label="Main Tab" href="guide/tools/launchers/eclipse_main.htm"/>
-		<topic label="Arguments Tab" href="guide/tools/launchers/arguments.htm"/>
-		<topic label="Plug-ins Tab" href="guide/tools/launchers/plugins.htm"/>
-		<topic label="Configuration Tab" href="guide/tools/launchers/configuration.htm"/>
-		<topic label="Tracing Tab" href="guide/tools/launchers/tracing.htm"/>
-		<topic label="Environment Tab" href="guide/tools/launchers/environment.htm"/>
-		<topic label="Common Tab" href="guide/tools/launchers/common.htm"/>
-  <topic href="guide/tools/launchers/prototype.htm" label="Prototype Tab">
+		<topic label="主标签" href="guide/tools/launchers/eclipse_main.htm"/>
+		<topic label="参数选项卡" href="guide/tools/launchers/arguments.htm"/>
+		<topic label="插件选项卡" href="guide/tools/launchers/plugins.htm"/>
+		<topic label="配置选项卡" href="guide/tools/launchers/configuration.htm"/>
+		<topic label="跟踪选项卡" href="guide/tools/launchers/tracing.htm"/>
+		<topic label="环境标签" href="guide/tools/launchers/environment.htm"/>
+		<topic label="常用标签" href="guide/tools/launchers/common.htm"/>
+  <topic href="guide/tools/launchers/prototype.htm" label="原型标签">
   </topic>
 	</topic>
-	<topic label="OSGi Framework Launcher" href="guide/tools/launchers/equinox_launcher.htm">
-		<topic label="Bundles Tab" href="guide/tools/launchers/equinox_plugins.htm"/>
-		<topic label="Arguments Tab" href="guide/tools/launchers/equinox_args.htm"/>
-		<topic label="Settings Tab" href="guide/tools/launchers/equinox_settings.htm"/>
-		<topic label="Tracing Tab" href="guide/tools/launchers/tracing.htm"/>
-		<topic label="Environment Tab" href="guide/tools/launchers/environment.htm"/>
-		<topic label="Common Tab" href="guide/tools/launchers/common.htm"/>
+	<topic label="OSGi框架启动器" href="guide/tools/launchers/equinox_launcher.htm">
+		<topic label="捆绑标签" href="guide/tools/launchers/equinox_plugins.htm"/>
+		<topic label="参数选项卡" href="guide/tools/launchers/equinox_args.htm"/>
+		<topic label="设置标签" href="guide/tools/launchers/equinox_settings.htm"/>
+		<topic label="跟踪选项卡" href="guide/tools/launchers/tracing.htm"/>
+		<topic label="环境标签" href="guide/tools/launchers/environment.htm"/>
+		<topic label="常用标签" href="guide/tools/launchers/common.htm"/>
 	</topic>
-	<topic label="JUnit Plug-in Test Launcher" href="guide/tools/launchers/junit_launcher.htm">
-		<topic label="Test Tab" href="guide/tools/launchers/junit_test.htm"/>
-		<topic label="Main Tab" href="guide/tools/launchers/junit_main.htm"/>
-		<topic label="Arguments Tab" href="guide/tools/launchers/arguments.htm"/>
-		<topic label="Plug-ins Tab" href="guide/tools/launchers/plugins.htm"/>
-		<topic label="Configuration Tab" href="guide/tools/launchers/configuration.htm"/>
-		<topic label="Tracing Tab" href="guide/tools/launchers/tracing.htm"/>
-		<topic label="Environment Tab" href="guide/tools/launchers/environment.htm"/>
-		<topic label="Common Tab" href="guide/tools/launchers/common.htm"/>
+	<topic label="JUnit插件测试启动器" href="guide/tools/launchers/junit_launcher.htm">
+		<topic label="测试标签" href="guide/tools/launchers/junit_test.htm"/>
+		<topic label="主标签" href="guide/tools/launchers/junit_main.htm"/>
+		<topic label="参数选项卡" href="guide/tools/launchers/arguments.htm"/>
+		<topic label="插件选项卡" href="guide/tools/launchers/plugins.htm"/>
+		<topic label="配置选项卡" href="guide/tools/launchers/configuration.htm"/>
+		<topic label="跟踪选项卡" href="guide/tools/launchers/tracing.htm"/>
+		<topic label="环境标签" href="guide/tools/launchers/environment.htm"/>
+		<topic label="常用标签" href="guide/tools/launchers/common.htm"/>
 	</topic>
 </topic>
- <topic label="Menus and Actions">
-    <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API Tools Setup">
+ <topic label="菜单和行动">
+    <topic href="reference/api-tooling/actions/ref-apitooling-setup-action.htm" label="API工具设置">
     </topic>
-    <topic href="reference/api-tooling/actions/ref-compare-action.htm" label="Compare with API baseline">
+    <topic href="reference/api-tooling/actions/ref-compare-action.htm" label="与API基线比较">
     </topic>
  </topic>
- <topic href="guide/tools/preference_pages/preferences.htm" label="Preferences">
-    <topic label="Plug-in Development" href="guide/tools/preference_pages/plug_in_development.htm"/>
-    <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API Baselines">
+ <topic href="guide/tools/preference_pages/preferences.htm" label="喜好">
+    <topic label="插件开发" href="guide/tools/preference_pages/plug_in_development.htm"/>
+    <topic href="reference/api-tooling/preferences/ref-baselines.htm" label="API基线">
     </topic>
-    <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API Errors and Warnings">
+    <topic href="reference/api-tooling/preferences/ref-errorswarnings.htm" label="API错误和警告">
     </topic>
-	<topic label="Compilers" href="guide/tools/preference_pages/compilers.htm">
-		<topic label="Plug-in Compiler Preferences" href="guide/tools/preference_pages/plugin_compiler.htm"/>
-		<topic label="Extension Point Schema Compiler Preferences" href="guide/tools/preference_pages/schema_compiler.htm"/>
-		<topic label="Feature and Update Site Compiler Preferences" href="guide/tools/preference_pages/feature_compiler.htm"/>
+	<topic label="编译器" href="guide/tools/preference_pages/compilers.htm">
+		<topic label="插件编译器首选项" href="guide/tools/preference_pages/plugin_compiler.htm"/>
+		<topic label="扩展点架构编译器首选项" href="guide/tools/preference_pages/schema_compiler.htm"/>
+		<topic label="功能和更新站点编译器首选项" href="guide/tools/preference_pages/feature_compiler.htm"/>
 	</topic>
-	<topic label="Editors" href="guide/tools/preference_pages/editors.htm"/>
-	<topic label="OSGi Frameworks" href="guide/tools/preference_pages/osgi_frameworks.htm"/>
-	<topic label="Target Platform" href="guide/tools/preference_pages/target_platform.htm">
+	<topic label="编者" href="guide/tools/preference_pages/editors.htm"/>
+	<topic label="OSGi框架" href="guide/tools/preference_pages/osgi_frameworks.htm"/>
+	<topic label="目标平台" href="guide/tools/preference_pages/target_platform.htm">
 	</topic>
-    <topic href="reference/api-tooling/preferences/ref-usescans.htm" label="API Use Scans">
+    <topic href="reference/api-tooling/preferences/ref-usescans.htm" label="API使用扫描">
     </topic>
  </topic>
- <topic label="Property Pages">
-    <topic href="reference/api-tooling/propertypages/ref-errorswarnings-prop.htm" label="API Errors and Warnings">
+ <topic label="物业页面">
+    <topic href="reference/api-tooling/propertypages/ref-errorswarnings-prop.htm" label="API错误和警告">
     </topic>
-    <topic href="reference/api-tooling/propertypages/ref-filters-prop.htm" label="API Problem Filters">
+    <topic href="reference/api-tooling/propertypages/ref-filters-prop.htm" label="API问题过滤器">
     </topic>
-    <topic href="guide/tools/preference_pages/runtime_classpath_properties.htm" label="Runtime Classpath">
+    <topic href="guide/tools/preference_pages/runtime_classpath_properties.htm" label="运行时类路径">
     </topic>
-    <topic href="guide/tools/preference_pages/compilers.htm" label="Plug-in Manifest Compiler">
-    </topic>
- </topic>
- <topic label="Quickfixes">
-    <topic href="reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm" label="Create API Problem Filter">
-    </topic>
-    <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="Missing API Baseline">
-    </topic>
-    <topic href="reference/api-tooling/quickfixes/ref-api-sincetag-qf.htm" label="Since Tags">
-    </topic>
-    <topic href="reference/api-tooling/quickfixes/ref-api-version-qf.htm" label="Version Numbering">
-    </topic>
-    <topic href="reference/api-tooling/quickfixes/ref-api-remove-api-filter-qf.htm" label="Remove Unused API Problem Filters">
+    <topic href="guide/tools/preference_pages/compilers.htm" label="插件清单编译器">
     </topic>
  </topic>
-<topic label="Views" href="guide/tools/views/views.htm">
-	<topic label="Plug-in Dependencies" href="guide/tools/views/plugin_dependencies.htm"/>
-  	<topic label="Plug-in Image Browser" href="guide/tools/views/image_browser_view.htm"/>
-	<topic label="Plug-in Registry" href="guide/tools/views/plugin_registry.htm"/>
-	<topic label="Plug-ins" href="guide/tools/views/plugins.htm"/>
- 	<topic label="Target Platform State" href="guide/tools/views/target_platform_state.htm"/>
+ <topic label="快速修复">
+    <topic href="reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm" label="创建API问题筛选器">
+    </topic>
+    <topic href="reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm" label="缺少API基准">
+    </topic>
+    <topic href="reference/api-tooling/quickfixes/ref-api-sincetag-qf.htm" label="自标签">
+    </topic>
+    <topic href="reference/api-tooling/quickfixes/ref-api-version-qf.htm" label="版本编号">
+    </topic>
+    <topic href="reference/api-tooling/quickfixes/ref-api-remove-api-filter-qf.htm" label="删除未使用的API问题筛选器">
+    </topic>
+ </topic>
+<topic label="查看" href="guide/tools/views/views.htm">
+	<topic label="插件依赖项" href="guide/tools/views/plugin_dependencies.htm"/>
+  	<topic label="插件图像浏览器" href="guide/tools/views/image_browser_view.htm"/>
+	<topic label="插件注册表" href="guide/tools/views/plugin_registry.htm"/>
+	<topic label="插件" href="guide/tools/views/plugins.htm"/>
+ 	<topic label="目标平台国" href="guide/tools/views/target_platform_state.htm"/>
 </topic>
- <topic label="Wizards and Dialogs">
- 	<topic label="New Project Creation Wizards" href="guide/tools/project_wizards/new_project_wizards.htm">
-		<topic label="Plug-in Project" href="guide/tools/project_wizards/new_plugin_project.htm">
-			<topic label="Plug-in Project Structure" href="guide/tools/project_wizards/plugin_structure.htm"/>
-			<topic label="Plug-in Content" href="guide/tools/project_wizards/plugin_content.htm"/>
-			<topic label="Templates" href="guide/tools/project_wizards/plugin_templates.htm"/>
+ <topic label="向导和对话">
+ 	<topic label="新项目创建向导" href="guide/tools/project_wizards/new_project_wizards.htm">
+		<topic label="插件项目" href="guide/tools/project_wizards/new_plugin_project.htm">
+			<topic label="插件项目结构" href="guide/tools/project_wizards/plugin_structure.htm"/>
+			<topic label="插件内容" href="guide/tools/project_wizards/plugin_content.htm"/>
+			<topic label="模板" href="guide/tools/project_wizards/plugin_templates.htm"/>
 		</topic>
-		<topic label="Plug-in from existing JAR archives" href="guide/tools/project_wizards/plugin_from_archives.htm"/>
-		<topic label="Fragment Project" href="guide/tools/project_wizards/new_fragment_project.htm">
-			<topic label="Fragment Project Structure" href="guide/tools/project_wizards/fragment_structure.htm"/>
-			<topic label="Fragment Content" href="guide/tools/project_wizards/fragment_content.htm"/>
+		<topic label="来自现有JAR档案的插件" href="guide/tools/project_wizards/plugin_from_archives.htm"/>
+		<topic label="片段项目" href="guide/tools/project_wizards/new_fragment_project.htm">
+			<topic label="片段项目结构" href="guide/tools/project_wizards/fragment_structure.htm"/>
+			<topic label="片段内容" href="guide/tools/project_wizards/fragment_content.htm"/>
 		</topic>
-		<topic label="Feature Project" href="guide/tools/project_wizards/new_feature_project.htm"/>
-		<topic label="Feature Patch" href="guide/tools/project_wizards/new_feature_patch.htm"/>
-		<topic label="Update Site Project" href="guide/tools/project_wizards/new_update_site_project.htm"/>
+		<topic label="特色项目" href="guide/tools/project_wizards/new_feature_project.htm"/>
+		<topic label="功能补丁" href="guide/tools/project_wizards/new_feature_patch.htm"/>
+		<topic label="更新站点项目" href="guide/tools/project_wizards/new_update_site_project.htm"/>
 	</topic>
-	<topic label="New File Creation Wizards" href="guide/tools/file_wizards/new_file_wizards.htm">
-  <topic href="guide/tools/file_wizards/new_category.htm" label="Category Definition">
+	<topic label="新文件创建向导" href="guide/tools/file_wizards/new_file_wizards.htm">
+  <topic href="guide/tools/file_wizards/new_category.htm" label="类别定义">
   </topic>
-		<topic label="Extension Point Schema" href="guide/tools/file_wizards/new_schema.htm"/>
-		<topic label="Product Configuration" href="guide/tools/file_wizards/new_product_config.htm"/>
-		<topic label="Target Definition" href="guide/tools/file_wizards/new_target_definition.htm"/>
-		<topic label="Cheat Sheet" href="guide/tools/file_wizards/new_cheat_sheet.htm"/>
-  <topic href="guide/tools/file_wizards/new_ctx_help.htm" label="Context Help">
+		<topic label="扩展点架构" href="guide/tools/file_wizards/new_schema.htm"/>
+		<topic label="产品配置" href="guide/tools/file_wizards/new_product_config.htm"/>
+		<topic label="目标定义" href="guide/tools/file_wizards/new_target_definition.htm"/>
+		<topic label="备忘单" href="guide/tools/file_wizards/new_cheat_sheet.htm"/>
+  <topic href="guide/tools/file_wizards/new_ctx_help.htm" label="上下文帮助">
   </topic>
-		<topic label="Table of Contents" href="guide/tools/file_wizards/new_toc.htm"/>
+		<topic label="目录" href="guide/tools/file_wizards/new_toc.htm"/>
 	</topic>
-	<topic label="Import Wizards" href="guide/tools/import_wizards/import_wizards.htm">
-		<topic label="Plug-in Import" href="guide/tools/import_wizards/import_plugins.htm"/>
-		<topic label="Feature Import" href="guide/tools/import_wizards/import_features.htm"/>
+	<topic label="导入向导" href="guide/tools/import_wizards/import_wizards.htm">
+		<topic label="插件导入" href="guide/tools/import_wizards/import_plugins.htm"/>
+		<topic label="功能导入" href="guide/tools/import_wizards/import_features.htm"/>
 	</topic>
-	<topic label="Export Wizards" href="guide/tools/export_wizards/export_wizards.htm">
-		<topic label="Plug-in Export" href="guide/tools/export_wizards/export_plugins.htm"/>
-		<topic label="Feature Export" href="guide/tools/export_wizards/export_features.htm"/>
-		<topic label="Product Export" href="guide/tools/export_wizards/export_product.htm"/>
-  <topic href="guide/tools/export_wizards/export_target.htm" label="Target Export">
+	<topic label="出口奇才" href="guide/tools/export_wizards/export_wizards.htm">
+		<topic label="插件导出" href="guide/tools/export_wizards/export_plugins.htm"/>
+		<topic label="功能导出" href="guide/tools/export_wizards/export_features.htm"/>
+		<topic label="产品出口" href="guide/tools/export_wizards/export_product.htm"/>
+  <topic href="guide/tools/export_wizards/export_target.htm" label="目标出口">
   </topic>
 	</topic>
-	<topic label="Task Wizards" href="guide/tools/pde_actions/task_wizards.htm">
-		<topic label="Converting Java Projects to Plug-in Projects" href="guide/tools/pde_actions/convert_projects.htm" />
-		<topic label="Externalizing Strings" href="guide/tools/pde_actions/externalize_strings.htm" />
-		<topic label="Organizing Manifest Files" href="guide/tools/pde_actions/organize_manifests.htm" />
-		<topic label="Updating Classpaths" href="guide/tools/pde_actions/update_classpaths.htm" />
+	<topic label="任务向导" href="guide/tools/pde_actions/task_wizards.htm">
+		<topic label="将Java项目转换为插件项目" href="guide/tools/pde_actions/convert_projects.htm" />
+		<topic label="外化字符串" href="guide/tools/pde_actions/externalize_strings.htm" />
+		<topic label="组织清单文件" href="guide/tools/pde_actions/organize_manifests.htm" />
+		<topic label="更新类路径" href="guide/tools/pde_actions/update_classpaths.htm" />
 	</topic>
-    <topic label="API Tools">
-	    <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API Tools Setup Wizard">
+    <topic label="API工具">
+	    <topic href="reference/api-tooling/wizards/ref-api-setup-wizard.htm" label="API工具安装向导">
 	    </topic>
-	    <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API Baseline Wizard">
+	    <topic href="reference/api-tooling/wizards/ref-api-baseline-wizard.htm" label="API基线向导">
 	    </topic>
-	    <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API Compare Wizard">
+	    <topic href="reference/api-tooling/wizards/ref-api-compare-wizard.htm" label="API比较向导">
 	    </topic>
-     <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API Use Reports">
+     <topic href="reference/api-tooling/wizards/ref-api-use-dialog.htm" label="API使用报告">
      </topic>
-     <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API Use Patterns Wizard">
+     <topic href="reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm" label="API使用模式向导">
      </topic>
     </topic>
-    <topic label="Target Wizards">
-       <topic href="guide/tools/target_shared/new_target_wizard.htm" label="New Target Wizard">
+    <topic label="目标巫师">
+       <topic href="guide/tools/target_shared/new_target_wizard.htm" label="新目标向导">
        </topic>
-       <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="Edit Target Wizard">
-       		<topic href="guide/tools/target_shared/edit_target_locations_tab.htm" label="Locations Tab">
+       <topic href="guide/tools/target_shared/edit_target_wizard.htm" label="编辑目标向导">
+       		<topic href="guide/tools/target_shared/edit_target_locations_tab.htm" label="位置选项卡">
        		</topic>
-        	<topic href="guide/tools/target_shared/edit_target_content_tab.htm" label="Content Tab">
+        	<topic href="guide/tools/target_shared/edit_target_content_tab.htm" label="内容标签">
 	       </topic>
-	        <topic href="guide/tools/target_shared/edit_target_environment_tab.htm" label="Environment Tab">
+	        <topic href="guide/tools/target_shared/edit_target_environment_tab.htm" label="环境标签">
 	       </topic>
-	        <topic href="guide/tools/target_shared/edit_target_arguments_tab.htm" label="Arguments Tab">
-            <topic href="guide/tools/target_shared/import_arguments_dialog.htm" label="Import Arguments Dialog">
+	        <topic href="guide/tools/target_shared/edit_target_arguments_tab.htm" label="参数选项卡">
+            <topic href="guide/tools/target_shared/import_arguments_dialog.htm" label="导入参数对话框">
             </topic>
 	       </topic>
-	        <topic href="guide/tools/target_shared/edit_target_implicit_tab.htm" label="Implicit Dependencies Tab">
-            <topic href="guide/tools/target_shared/implicit_plugin_selection_dialog.htm" label="Implicit Dependencies Selection Dialog">
+	        <topic href="guide/tools/target_shared/edit_target_implicit_tab.htm" label="隐式依赖选项卡">
+            <topic href="guide/tools/target_shared/implicit_plugin_selection_dialog.htm" label="隐式依赖关系选择对话框">
             </topic>
 	       </topic>
 	       </topic>
-	       <topic href="guide/tools/target_shared/move_target_wizard.htm" label="Move Target Wizard">
+	       <topic href="guide/tools/target_shared/move_target_wizard.htm" label="移动目标向导">
 	       </topic>
     </topic>
  </topic>
- <topic href="reference/api/overview-summary.html" label="API Reference">
+ <topic href="reference/api/overview-summary.html" label="API参考">
    <topic href="reference/api/org/eclipse/pde/api/tools/annotations/package-summary.html" label="org.eclipse.pde.api.tools.annotations">
    </topic>
    <topic href="reference/api/org/eclipse/pde/build/package-summary.html" label="org.eclipse.pde.build">
@@ -314,7 +314,7 @@
    </topic>
    <topic href="reference/api/org/eclipse/pde/launching/package-summary.html" label="org.eclipse.pde.launching">
    </topic>
-   <topic href="reference/api/org/eclipse/pde/ui/package-summary.html" label="org.eclipse.pde.ui">
+   <topic href="reference/api/org/eclipse/pde/ui/package-summary.html" label="与org.eclipse.pde.ui">
    </topic>
    <topic href="reference/api/org/eclipse/pde/ui/launcher/package-summary.html" label="org.eclipse.pde.ui.launcher">
    </topic>
@@ -323,7 +323,7 @@
    <topic href="reference/api/org/eclipse/pde/ui/templates/package-summary.html" label="org.eclipse.pde.ui.templates">
    </topic>
  </topic>
-	<topic label="Extension Points Reference" href="reference/extension-points/index.html">
+	<topic label="扩展点参考" href="reference/extension-points/index.html">
     <topic href="reference/extension-points/org_eclipse_ui_trace_traceComponents.html" label="org.eclipse.ui.trace.traceComponents">
     </topic>
     <topic href="reference/extension-points/org_eclipse_pde_build_fetchFactories.html" label="org.eclipse.pde.build.fetchFactories">
@@ -357,8 +357,8 @@
     <topic href="reference/extension-points/org_eclipse_pde_ui_templates.html" label="org.eclipse.pde.ui.templates">
     </topic>
 	</topic>
-	<topic label="Other Reference Information" href="reference/misc/index.html">
-    <topic href="reference/misc/overview-pde.html" label="PDE Plug-ins Map">
+	<topic label="其他参考信息" href="reference/misc/index.html">
+    <topic href="reference/misc/overview-pde.html" label="PDE插件地图">
     </topic>
 	</topic>
 </toc>

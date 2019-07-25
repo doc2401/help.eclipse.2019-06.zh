@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="Fortran Development User Guide">
-   <topic label="Contents" href="html/toc.html"/>
-   <topic label="Basic Features">
+<toc label="Fortran开发用户指南">
+   <topic label="内容" href="html/toc.html"/>
+   <topic label="基本功能">
       <anchor id="basic"/>
    </topic>
-   <topic label="Advanced Features">
+   <topic label="高级功能">
       <anchor id="advanced"/>
    </topic>
 </toc>

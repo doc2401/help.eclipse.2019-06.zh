@@ -13,199 +13,199 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Dali Java Persistence Tools User Guide">
-    <topic href="getting_started.htm" label="Getting started">
-      <topic href="getting_started001.htm" label="Requirements and installation" />
-      <topic href="getting_started002.htm" label="Dali quick start">
-        <topic href="getting_started003.htm" label="Creating a new JPA project" />
-        <topic href="getting_started004.htm" label="Creating a Java persistent entity with persistent fields" />
+<toc label="“Dali Java持久性工具用户指南”">
+    <topic href="getting_started.htm" label="入门">
+      <topic href="getting_started001.htm" label="要求和安装" />
+      <topic href="getting_started002.htm" label="达利快速入手">
+        <topic href="getting_started003.htm" label="创建一个新的JPA项目" />
+        <topic href="getting_started004.htm" label="使用持久字段创建Java持久性实体" />
       </topic>
     </topic>
-    <topic href="concepts.htm" label="Concepts">
-      <topic href="concept_persistence.htm" label="Understanding Java persistence" />
-      <topic href="concept_mapping.htm" label="Understanding OR mappings" />
-      <topic href="concepts001.htm" label="Understanding Java Persistence API">
-        <topic href="concepts002.htm" label="The persistence.xml file" />
-        <topic href="concepts003.htm" label="The orm.xml file" />
+    <topic href="concepts.htm" label="概念">
+      <topic href="concept_persistence.htm" label="了解Java持久性" />
+      <topic href="concept_mapping.htm" label="了解OR映射" />
+      <topic href="concepts001.htm" label="了解Java Persistence API">
+        <topic href="concepts002.htm" label="persistence.xml文件" />
+        <topic href="concepts003.htm" label="orm.xml文件" />
       </topic>
-      <topic href="concepts004.htm" label="Understanding Java Architecture for XML Binding" />
+      <topic href="concepts004.htm" label="了解XML绑定的Java体系结构" />
     </topic>
-    <topic href="tasks.htm" label="Tasks">
-      <topic href="task_create_new_project.htm" label="Creating a new JPA project" />
-      <topic href="tasks001.htm" label="Creating a new JAXB project" />
-      <topic href="tasks002.htm" label="Creating Database Web Services from Builder XML" />
-      <topic href="tasks003.htm" label="Converting a Java project to a JPA project" />
-      <topic href="task_create_jpa_entity.htm" label="Creating a JPA entity" />
-      <topic href="task_add_persistence.htm" label="Adding persistence to a class">
-        <topic href="tasks004.htm" label="Entity" />
-        <topic href="tasks005.htm" label="Embeddable" />
-        <topic href="tasks006.htm" label="Mapped superclass" />
+    <topic href="tasks.htm" label="任务">
+      <topic href="task_create_new_project.htm" label="创建一个新的JPA项目" />
+      <topic href="tasks001.htm" label="创建一个新的JAXB项目" />
+      <topic href="tasks002.htm" label="从Builder XML创建数据库Web服务" />
+      <topic href="tasks003.htm" label="将Java项目转换为JPA项目" />
+      <topic href="task_create_jpa_entity.htm" label="创建JPA实体" />
+      <topic href="task_add_persistence.htm" label="为类添加持久性">
+        <topic href="tasks004.htm" label="实体" />
+        <topic href="tasks005.htm" label="嵌入式" />
+        <topic href="tasks006.htm" label="映射的超类" />
       </topic>
-      <topic href="tasks007.htm" label="Adding virtual attributes" />
-      <topic href="task_manage_persistence.htm" label="Managing the persistence.xml file" />
-      <topic href="task_manage_persistence001.htm" label="Synchronizing classes" />
-      <topic href="task_manage_orm.htm" label="Managing the orm.xml file">
-        <topic href="tasks008.htm" label="Creating an orm.xml file" />
-        <topic href="tasks009.htm" label="Working with orm.xml file" />
+      <topic href="tasks007.htm" label="添加虚拟属性" />
+      <topic href="task_manage_persistence.htm" label="管理persistence.xml文件" />
+      <topic href="task_manage_persistence001.htm" label="同步类" />
+      <topic href="task_manage_orm.htm" label="管理orm.xml文件">
+        <topic href="tasks008.htm" label="创建orm.xml文件" />
+        <topic href="tasks009.htm" label="使用orm.xml文件" />
       </topic>
-      <topic href="task_additonal_tables.htm" label="Specifying additional tables" />
-      <topic href="task_inheritance.htm" label="Specifying entity inheritance" />
-      <topic href="tasks010.htm" label="Creating queries" />
-      <topic href="task_mapping.htm" label="Mapping an entity">
-        <topic href="tasks011.htm" label="Basic mapping" />
-        <topic href="tasks012.htm" label="Element collection mapping" />
-        <topic href="tasks013.htm" label="Embedded mapping" />
-        <topic href="tasks014.htm" label="Embedded ID mapping" />
-        <topic href="tasks015.htm" label="ID mapping" />
-        <topic href="tasks016.htm" label="Many-to-many mapping" />
-        <topic href="tasks017.htm" label="Many-to-one mapping" />
-        <topic href="tasks018.htm" label="One-to-many mapping" />
-        <topic href="tasks019.htm" label="One-to-one mapping" />
-        <topic href="tasks020.htm" label="Transient mapping" />
-        <topic href="tasks021.htm" label="Version mapping" />
+      <topic href="task_additonal_tables.htm" label="指定其他表" />
+      <topic href="task_inheritance.htm" label="指定实体继承" />
+      <topic href="tasks010.htm" label="创建查询" />
+      <topic href="task_mapping.htm" label="映射实体">
+        <topic href="tasks011.htm" label="基本映射" />
+        <topic href="tasks012.htm" label="元素集合映射" />
+        <topic href="tasks013.htm" label="嵌入式映射" />
+        <topic href="tasks014.htm" label="嵌入式ID映射" />
+        <topic href="tasks015.htm" label="ID映射" />
+        <topic href="tasks016.htm" label="多对多映射" />
+        <topic href="tasks017.htm" label="多对一映射" />
+        <topic href="tasks018.htm" label="一对多映射" />
+        <topic href="tasks019.htm" label="一对一映射" />
+        <topic href="tasks020.htm" label="瞬态映射" />
+        <topic href="tasks021.htm" label="版本映射" />
       </topic>
-      <topic href="tasks022.htm" label="Generating entities from tables" />
-      <topic href="tasks023.htm" label="Generating tables from entities" />
-      <topic href="tasks024.htm" label="Generating dynamic entities from tables" />
-      <topic href="tasks025.htm" label="Modifying persistent project properties" />
-      <topic href="tasks026.htm" label="Converting JPA metadata to XML" />
-      <topic href="tasks027.htm" label="Validating mappings and reporting problems">
-        <topic href="tasks028.htm" label="Error messages" />
-        <topic href="tasks029.htm" label="Warning messages" />
+      <topic href="tasks022.htm" label="从表生成实体" />
+      <topic href="tasks023.htm" label="从实体生成表" />
+      <topic href="tasks024.htm" label="从表生成动态实体" />
+      <topic href="tasks025.htm" label="修改持久项目属性" />
+      <topic href="tasks026.htm" label="将JPA元数据转换为XML" />
+      <topic href="tasks027.htm" label="验证映射和报告问题">
+        <topic href="tasks028.htm" label="错误消息" />
+        <topic href="tasks029.htm" label="警告信息" />
       </topic>
     </topic>
-    <topic label="Reference">
-      <topic label="Wizards">
-        <topic href="ref_create_custom_entities_wizard.htm" label="Generate Entities from Tables wizard">
-          <topic href="ref_selectTables.htm" label="Select Tables" />
-          <topic href="ref_tableAssociations.htm" label="Table Associations" />
-          <topic href="ref_customizeDefaultEntityGeneration.htm" label="Customize Default Entity Generation" />
-          <topic href="ref_customizIndividualEntities.htm" label="Customize Individual Entities" />
+    <topic label="参考">
+      <topic label="奇才">
+        <topic href="ref_create_custom_entities_wizard.htm" label="从表向导生成实体">
+          <topic href="ref_selectTables.htm" label="选择表格" />
+          <topic href="ref_tableAssociations.htm" label="表关联" />
+          <topic href="ref_customizeDefaultEntityGeneration.htm" label="自定义默认实体生成" />
+          <topic href="ref_customizIndividualEntities.htm" label="自定义单个实体" />
         </topic>
-        <topic href="reference002.htm" label="Generate Dynamic Entities from Tables wizard">
-          <topic href="reference003.htm" label="Select Tables" />
-          <topic href="reference004.htm" label="Table Associations" />
-          <topic href="reference005.htm" label="Customize Default Entity Generation" />
-          <topic href="reference006.htm" label="Customize Individual Entities" />
+        <topic href="reference002.htm" label="从表向导生成动态实体">
+          <topic href="reference003.htm" label="选择表格" />
+          <topic href="reference004.htm" label="表关联" />
+          <topic href="reference005.htm" label="自定义默认实体生成" />
+          <topic href="reference006.htm" label="自定义单个实体" />
         </topic>
-        <topic href="ref_create_jpa_entity_wizard.htm" label="Create JPA Entity wizard">
-          <topic href="ref_EntityClassPage.htm" label="Entity Class page" />
-          <topic href="ref_EntityPropertiesPage.htm" label="Entity Properties page" />
+        <topic href="ref_create_jpa_entity_wizard.htm" label="创建JPA实体向导">
+          <topic href="ref_EntityClassPage.htm" label="实体类页面" />
+          <topic href="ref_EntityPropertiesPage.htm" label="实体属性页面" />
         </topic>
-        <topic href="reference007.htm" label="Create ORM Mapping File wizard">
-          <topic href="reference008.htm" label="Mapping File Location" />
-          <topic href="reference009.htm" label="Mapping File Options" />
+        <topic href="reference007.htm" label="创建ORM映射文件向导">
+          <topic href="reference008.htm" label="映射文件位置" />
+          <topic href="reference009.htm" label="映射文件选项" />
         </topic>
-        <topic href="ref_new_jpa_project_wizard.htm" label="Create New JPA Project wizard">
-          <topic href="ref_new_jpa_project.htm" label="New JPA Project page" />
-          <topic href="ref_java_page.htm" label="Java Page" />
-          <topic href="ref_jpa_facet.htm" label="JPA Facet page" />
+        <topic href="ref_new_jpa_project_wizard.htm" label="创建新的JPA项目向导">
+          <topic href="ref_new_jpa_project.htm" label="新JPA项目页面" />
+          <topic href="ref_java_page.htm" label="Java页面" />
+          <topic href="ref_jpa_facet.htm" label="JPA Facet页面" />
         </topic>
-        <topic href="reference010.htm" label="Create New JAXB Project wizard">
-          <topic href="reference011.htm" label="New JAXB Project page" />
-          <topic href="reference012.htm" label="Java Page" />
-          <topic href="reference013.htm" label="JAXB Facet page" />
+        <topic href="reference010.htm" label="创建新的JAXB项目向导">
+          <topic href="reference011.htm" label="新的JAXB项目页面" />
+          <topic href="reference012.htm" label="Java页面" />
+          <topic href="reference013.htm" label="JAXB Facet页面" />
         </topic>
-        <topic href="reference014.htm" label="New Database Web services from Builder XML wizard">
-          <topic href="reference015.htm" label="Web Dynamic page" />
-          <topic href="reference016.htm" label="Select Builder XML File page" />
-          <topic href="reference017.htm" label="Driver Files page" />
+        <topic href="reference014.htm" label="Builder XML向导中的新数据库Web服务">
+          <topic href="reference015.htm" label="Web动态页面" />
+          <topic href="reference016.htm" label="选择Builder XML File页面" />
+          <topic href="reference017.htm" label="Driver Files页面" />
         </topic>
-        <topic href="reference018.htm" label="Generate Tables from Entities wizard">
-          <topic href="reference019.htm" label="Schema Generation" />
+        <topic href="reference018.htm" label="从实体向导生成表">
+          <topic href="reference019.htm" label="模式生成" />
         </topic>
-        <topic href="ref_create_new_association_wizard.htm" label="Create New Association wizard">
-          <topic href="ref_association_table.htm" label="Association Tables" />
-          <topic href="ref_join_columns.htm" label="Join Columns" />
-          <topic href="ref_association_cardinality.htm" label="Association Cardinality" />
-        </topic>
-      </topic>
-      <topic label="Property pages">
-        <topic href="ref_persistence_prop_view.htm" label="JPA Details view (for entities)">
-          <topic href="reference021.htm" label="Entity" />
-          <topic href="reference022.htm" label="Embeddable" />
-          <topic href="reference023.htm" label="Mapped Superclass" />
-          <topic href="reference024.htm" label="Caching" />
-          <topic href="reference025.htm" label="Queries" />
-          <topic href="reference026.htm" label="Inheritance" />
-          <topic href="reference027.htm" label="Attribute Overrides" />
-          <topic href="reference028.htm" label="Multitenancy" />
-          <topic href="reference029.htm" label="Primary Key Generation" />
-          <topic href="reference030.htm" label="Secondary tables" />
-          <topic href="reference031.htm" label="Converters" />
-          <topic href="reference032.htm" label="Advanced" />
-        </topic>
-        <topic href="ref_persistence_map_view.htm" label="JPA Details view (for attributes)">
-          <topic href="reference033.htm" label="Basic Mapping" />
-          <topic href="reference034.htm" label="Element Collection Mapping" />
-          <topic href="reference035.htm" label="Embedded Mapping" />
-          <topic href="reference036.htm" label="Embedded ID Mapping" />
-          <topic href="reference037.htm" label="ID Mapping" />
-          <topic href="reference038.htm" label="Many-to-Many Mapping" />
-          <topic href="reference039.htm" label="Many-to-One Mapping" />
-          <topic href="reference040.htm" label="One-to-Many Mapping" />
-          <topic href="reference041.htm" label="One-to-One Mapping" />
-          <topic href="reference042.htm" label="Version Mapping" />
-          <topic href="reference043.htm" label="Type information" />
-          <topic href="reference044.htm" label="Value" />
-          <topic href="reference045.htm" label="Converters" />
-          <topic href="reference046.htm" label="Ordering" />
-          <topic href="reference047.htm" label="Joining Strategy" />
-          <topic href="reference048.htm" label="Derived Identity" />
-          <topic href="ref_primary_key.htm" label="Primary Key Generation information" />
-        </topic>
-        <topic href="ref_details_orm.htm" label="JPA Details view (for orm.xml)">
-          <topic href="reference049.htm" label="Entity Mappings" />
-          <topic href="reference050.htm" label="Persistence Unit" />
-          <topic href="reference051.htm" label="Generators" />
-          <topic href="reference052.htm" label="Queries" />
-          <topic href="reference053.htm" label="Converters" />
-        </topic>
-        <topic href="ref_persistence_outline.htm" label="JPA Structure view" />
-        <topic href="ref_persistence_xmll_editor.htm" label="persistence.xml Editor">
-          <topic href="ref_persistence_general.htm" label="General" />
-          <topic href="reference054.htm" label="Connection" />
-          <topic href="reference055.htm" label="Customization" />
-          <topic href="reference056.htm" label="Caching" />
-          <topic href="reference057.htm" label="Logging" />
-          <topic href="reference058.htm" label="Options" />
-          <topic href="reference059.htm" label="Schema Generation" />
-          <topic href="reference060.htm" label="Properties" />
-          <topic href="reference061.htm" label="Source" />
+        <topic href="ref_create_new_association_wizard.htm" label="创建新关联向导">
+          <topic href="ref_association_table.htm" label="关联表" />
+          <topic href="ref_join_columns.htm" label="加入专栏" />
+          <topic href="ref_association_cardinality.htm" label="协会基数" />
         </topic>
       </topic>
-      <topic label="Preferences">
-        <topic href="reference063.htm" label="Java Persistence Preferences page - JPA" />
-        <topic href="reference064.htm" label="Java Persistence Preferences page - Errors/Warnings" />
-        <topic href="ref_project_properties.htm" label="Project Properties page - JPA" />
-        <topic href="reference065.htm" label="Project Properties page - EclipseLink" />
-        <topic href="reference066.htm" label="Project Properties page - Entity Generation" />
-        <topic href="reference067.htm" label="Project Properties page - Errors/Warnings" />
-        <topic href="reference068.htm" label="Project Properties page - JAXB Options" />
-        <topic href="reference069.htm" label="Project Properties page - Schemas" />
+      <topic label="属性页面">
+        <topic href="ref_persistence_prop_view.htm" label="JPA详细信息视图（适用于实体）">
+          <topic href="reference021.htm" label="实体" />
+          <topic href="reference022.htm" label="嵌入式" />
+          <topic href="reference023.htm" label="映射超类" />
+          <topic href="reference024.htm" label="高速缓存" />
+          <topic href="reference025.htm" label="查询" />
+          <topic href="reference026.htm" label="遗产" />
+          <topic href="reference027.htm" label="属性覆盖" />
+          <topic href="reference028.htm" label="多租户" />
+          <topic href="reference029.htm" label="主键生成" />
+          <topic href="reference030.htm" label="次要表" />
+          <topic href="reference031.htm" label="转换器" />
+          <topic href="reference032.htm" label="高级" />
+        </topic>
+        <topic href="ref_persistence_map_view.htm" label="JPA详细信息视图（用于属性）">
+          <topic href="reference033.htm" label="基本映射" />
+          <topic href="reference034.htm" label="元素集合映射" />
+          <topic href="reference035.htm" label="嵌入式映射" />
+          <topic href="reference036.htm" label="嵌入式ID映射" />
+          <topic href="reference037.htm" label="ID映射" />
+          <topic href="reference038.htm" label="多对多映射" />
+          <topic href="reference039.htm" label="多对一映射" />
+          <topic href="reference040.htm" label="一对多映射" />
+          <topic href="reference041.htm" label="一对一映射" />
+          <topic href="reference042.htm" label="版本映射" />
+          <topic href="reference043.htm" label="输入信息" />
+          <topic href="reference044.htm" label="值" />
+          <topic href="reference045.htm" label="转换器" />
+          <topic href="reference046.htm" label="订购" />
+          <topic href="reference047.htm" label="加入战略" />
+          <topic href="reference048.htm" label="派生身份" />
+          <topic href="ref_primary_key.htm" label="主键生成信息" />
+        </topic>
+        <topic href="ref_details_orm.htm" label="JPA详细信息视图（用于orm.xml）">
+          <topic href="reference049.htm" label="实体映射" />
+          <topic href="reference050.htm" label="持久单位" />
+          <topic href="reference051.htm" label="发电机" />
+          <topic href="reference052.htm" label="查询" />
+          <topic href="reference053.htm" label="转换器" />
+        </topic>
+        <topic href="ref_persistence_outline.htm" label="JPA结构视图" />
+        <topic href="ref_persistence_xmll_editor.htm" label="persistence.xml编辑器">
+          <topic href="ref_persistence_general.htm" label="一般" />
+          <topic href="reference054.htm" label="连接" />
+          <topic href="reference055.htm" label="定制" />
+          <topic href="reference056.htm" label="高速缓存" />
+          <topic href="reference057.htm" label="记录" />
+          <topic href="reference058.htm" label="选项" />
+          <topic href="reference059.htm" label="模式生成" />
+          <topic href="reference060.htm" label="属性" />
+          <topic href="reference061.htm" label="资源" />
+        </topic>
       </topic>
-      <topic label="Dialogs">
-        <topic href="reference071.htm" label="Edit Join Columns dialog" />
-        <topic href="reference072.htm" label="Add Join Column dialog" />
-        <topic href="ref_select_cascade_dialog.htm" label="Select Cascade dialog" />
-        <topic href="ref_eclipselink_mapping_file.htm" label="New EclipseLink Mapping File dialog" />
-        <topic href="ref_add_converter.htm" label="Add Converter dialog" />
-        <topic href="reference073.htm" label="Mapping Type Selection dialog" />
-        <topic href="reference074.htm" label="JPA Metadata Conversion dialog" />
-        <topic href="reference075.htm" label="Make Persistent dialog" />
-        <topic href="reference076.htm" label="Add Query dialog" />
-        <topic href="reference077.htm" label="Add Primary Key Join Column dialog" />
-        <topic href="reference078.htm" label="Add Schema Location dialog" />
-        <topic href="reference079.htm" label="Select Schema Location dialog" />
-        <topic href="reference080.htm" label="Add Virtual Attribute dialog" />
+      <topic label="喜好">
+        <topic href="reference063.htm" label="Java持久性首选项页面 -  JPA" />
+        <topic href="reference064.htm" label="Java持久性首选项页面 - 错误/警告" />
+        <topic href="ref_project_properties.htm" label="项目属性页面 -  JPA" />
+        <topic href="reference065.htm" label="项目属性页面 -  EclipseLink" />
+        <topic href="reference066.htm" label="项目属性页面 - 实体生成" />
+        <topic href="reference067.htm" label="项目属性页面 - 错误/警告" />
+        <topic href="reference068.htm" label="“项目属性”页面 -  JAXB选项" />
+        <topic href="reference069.htm" label="项目属性页面 - 架构" />
       </topic>
-      <topic href="ref_persistence_perspective.htm" label="JPA Development perspective" />
-      <topic label="Icons and buttons">
-        <topic href="reference082.htm" label="Icons" />
-        <topic href="reference083.htm" label="Buttons" />
+      <topic label="对话框">
+        <topic href="reference071.htm" label="编辑加入列对话框" />
+        <topic href="reference072.htm" label="添加加入列对话框" />
+        <topic href="ref_select_cascade_dialog.htm" label="选择级联对话框" />
+        <topic href="ref_eclipselink_mapping_file.htm" label="新的EclipseLink映射文件对话框" />
+        <topic href="ref_add_converter.htm" label="添加转换器对话框" />
+        <topic href="reference073.htm" label="映射类型选择对话框" />
+        <topic href="reference074.htm" label="JPA元数据转换对话框" />
+        <topic href="reference075.htm" label="Make Persistent对话框" />
+        <topic href="reference076.htm" label="添加查询对话框" />
+        <topic href="reference077.htm" label="添加主键连接列对话框" />
+        <topic href="reference078.htm" label="添加架构位置对话框" />
+        <topic href="reference079.htm" label="选择“架构位置”对话框" />
+        <topic href="reference080.htm" label="添加虚拟属性对话框" />
       </topic>
-      <topic href="reference084.htm" label="Dali developer documentation" />
+      <topic href="ref_persistence_perspective.htm" label="JPA发展前景" />
+      <topic label="图标和按钮">
+        <topic href="reference082.htm" label="图标" />
+        <topic href="reference083.htm" label="纽扣" />
+      </topic>
+      <topic href="reference084.htm" label="达利开发者文档" />
     </topic>
-    <topic href="tips_and_tricks.htm" label="Tips and tricks" />
-    <topic href="legal.htm" label=" Legal" />
+    <topic href="tips_and_tricks.htm" label="技巧和窍门" />
+    <topic href="legal.htm" label=" 法律" />
 </toc>

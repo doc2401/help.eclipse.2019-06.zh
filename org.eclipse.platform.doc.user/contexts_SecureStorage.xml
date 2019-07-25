@@ -3,18 +3,18 @@
 <contexts>
 	
  	<context id="sec_storage_preferences_context" >
-      <description>This page allows you to change secure storage preferences.</description>
-      <topic label="Secure storage preference page" href="reference/ref-securestorage-prefs.htm"/>
+      <description>此页面允许您更改安全存储首选项。</description>
+      <topic label="安全存储首选项页面" href="reference/ref-securestorage-prefs.htm"/>
    	</context>
    	
  	<context id="challenge_response_dialog" >
-      <description>This dialog sets up recovery of the secure storage password.</description>
-      <topic label="Password recovery" href="reference/ref-securestorage-recovery.htm"/>
+      <description>此对话框设置恢复安全存储密码。</description>
+      <topic label="找回密码" href="reference/ref-securestorage-recovery.htm"/>
    	</context>
    	
  	<context id="password_recovery_dialog" >
-      <description>This dialog attempts to recover secure storage password.</description>
-      <topic label="Password recovery" href="reference/ref-securestorage-recovery.htm"/>
+      <description>此对话框尝试恢复安全存储密码。</description>
+      <topic label="找回密码" href="reference/ref-securestorage-recovery.htm"/>
    	</context>
  
 </contexts>

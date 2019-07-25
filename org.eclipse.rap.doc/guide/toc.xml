@@ -1,102 +1,102 @@
-<toc label="RAP Developer Guide">
+<toc label="RAP开发人员指南">
 
-  <topic label="Introduction" href="guide/intro.html" />
+  <topic label="介绍" href="guide/intro.html" />
 
-  <topic label="Getting Started">
+  <topic label="入门">
     <topic
-        label="Setting up the Eclipse IDE"
+        label="设置Eclipse IDE"
         href="guide/articles/setup-ide.html"/>
     <topic
-        label="Installing a RAP Target"
+        label="安装RAP目标"
         href="guide/articles/target-install.html"/>
     <topic
-        label="Creating a Hello World with RAP"
+        label="使用RAP创建Hello World"
         href="guide/articles/hello-world.html"/>
     <topic
-        label="Launching RAP Applications from the IDE"
+        label="从IDE启动RAP应用程序"
         href="guide/articles/launcher.html"/>
     <topic
-        label="RAP Examples"
+        label="RAP示例"
         href="guide/articles/examples.html"/>
   </topic>
   <topic label="RAP Widget Toolkit">
     <topic
-        label="Differences between RWT and SWT"
+        label="RWT和SWT之间的差异"
         href="guide/articles/rwt.html">
     </topic>
-    <topic href="guide/articles/client.html" label="The RAP Client">
+    <topic href="guide/articles/client.html" label="RAP客户端">
     </topic>
     <topic
-        label="Key and Mouse Event Handling"
+        label="键和鼠标事件处理"
         href="guide/articles/key-and-mouse-events.html">
     </topic>
-    <topic href="guide/articles/tree-table.html" label="Tree, Table and the Nebula Grid">
+    <topic href="guide/articles/tree-table.html" label="树，表和星云网格">
     </topic>
-    <topic href="guide/articles/markup.html" label="Fonts and Markup in RAP">
+    <topic href="guide/articles/markup.html" label="RAP中的字体和标记">
     </topic>
-    <topic href="guide/articles/web-embedding.html" label="Embedding Web Components">
+    <topic href="guide/articles/web-embedding.html" label="嵌入Web组件">
     </topic>
-    <topic href="guide/articles/navigation.html" label="Browser Navigation and History">
+    <topic href="guide/articles/navigation.html" label="浏览器导航和历史">
     </topic>
-    <topic href="guide/articles/file-upload.html" label="File Upload">
+    <topic href="guide/articles/file-upload.html" label="上传文件">
     </topic>
     <topic
-        label="RWT Theming"
+        label="RWT主题"
         href="guide/articles/theming.html"/>
     <topic
-        label="Custom Widgets"
+        label="自定义小部件"
         href="guide/articles/custom-widget.html"/>
-    <topic href="guide/articles/scripting.html" label="Scripting"/>
-    <topic href="guide/articles/resources.html" label="Static Resources and Downloads">
+    <topic href="guide/articles/scripting.html" label="脚本"/>
+    <topic href="guide/articles/resources.html" label="静态资源和下载">
     </topic>
   </topic>
-  <topic label="Scopes and Threads in RAP">
+  <topic label="RAP中的范围和主题">
     <topic
-        label="Scopes in RAP"
+        label="RAP中的范围"
         href="guide/articles/scopes.html">
     </topic>
     <topic
-        label="Singletons and Static Fields"
+        label="单身人士和静态领域"
         href="guide/articles/singletons.html">
     </topic>
-    <topic href="guide/articles/data-stores.html" label="Storing Data">
+    <topic href="guide/articles/data-stores.html" label="存储数据">
     </topic>
     <topic
-        label="Threads in RAP"
+        label="RAP中的线程"
         href="guide/articles/threads.html"/>
-    <topic href="guide/articles/server-push.html" label="Server Push">
+    <topic href="guide/articles/server-push.html" label="服务器推送">
     </topic>
   </topic>
-  <topic label="Building Applications">
+  <topic label="建筑应用">
     <topic
-        label="Choosing an Application Setup"
+        label="选择应用程序设置"
         href="guide/articles/application-setup.html"/>
     <topic
-        label="Application Configuration"
+        label="应用配置"
         href="guide/articles/application-configuration.html">
     </topic>
     <topic
-        label="Branding"
+        label="品牌"
         href="guide/articles/branding.html"/>
     <topic
         label="RWT Standalone"
         href="guide/articles/rwt-standalone.html"/>
     <topic
-        label="WAR Deployment"
+        label="WAR部署"
         href="guide/articles/deployment.html"/>
     <topic
-        label="Look and Feel"
+        label="外观和感觉"
         href="guide/articles/look-and-feel.html"/>
     <topic
-        label="Internationalization"
+        label="国际化"
         href="guide/articles/internationalization.html"/>
     <topic
-        label="Related Technologies"
+        label="相关技术"
         href="guide/articles/related-technologies.html"/>
   </topic>
 
-  <topic label="Reference">
-    <topic label="API Reference"
+  <topic label="参考">
+    <topic label="API参考"
         href="guide/reference/api/overview-summary.html">
       <topic label="org.eclipse.rap.json"
           href="guide/reference/api/org/eclipse/rap/json/package-summary.html"/>
@@ -144,7 +144,7 @@
           href="guide/reference/api/org/eclipse/swt/graphics/package-summary.html"/>
       <topic label="org.eclipse.swt.layout"
           href="guide/reference/api/org/eclipse/swt/layout/package-summary.html"/>
-      <topic label="org.eclipse.swt.widgets"
+      <topic label="是org.eclipse.swt.widgets"
           href="guide/reference/api/org/eclipse/swt/widgets/package-summary.html"/>
       <topic label="org.eclipse.nebula.widgets.grid"
           href="guide/reference/api/org/eclipse/nebula/widgets/grid/package-summary.html"/>
@@ -152,7 +152,7 @@
           href="guide/reference/api/org/eclipse/nebula/jface/gridviewer/package-summary.html"/>
     </topic>
 
-    <topic label="RAP Extension Points Reference"
+    <topic label="RAP扩展点参考"
         href="guide/reference/extension-points/index.html">
       <topic label="org.eclipse.rap.ui.branding"
           href="guide/reference/extension-points/org_eclipse_rap_ui_branding.html"/>
@@ -176,45 +176,45 @@
           href="guide/reference/extension-points/org_eclipse_rap_ui_themes.html"/>
     </topic>
 
-    <topic label="RAP Theming Reference">
+    <topic label="RAP主题参考">
       <link toc="guide/reference/theming/toc.xml" />
     </topic>
-    <topic href="guide/reference/jsdoc/index.html" label="RAP WebClient API Reference">
+    <topic href="guide/reference/jsdoc/index.html" label="RAP WebClient API参考">
        <topic href="guide/reference/jsdoc/symbols/$.html" label="$">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/rap.html" label="rap">
+       <topic href="guide/reference/jsdoc/symbols/rap.html" label="敲击">
        </topic>
        <topic href="guide/reference/jsdoc/symbols/SWT.html" label="SWT">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Button.html" label="Button">
+       <topic href="guide/reference/jsdoc/symbols/Button.html" label="按键">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Canvas.html" label="Canvas">
+       <topic href="guide/reference/jsdoc/symbols/Canvas.html" label="帆布">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Combo.html" label="Combo">
+       <topic href="guide/reference/jsdoc/symbols/Combo.html" label="二合一">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Composite.html" label="Composite">
+       <topic href="guide/reference/jsdoc/symbols/Composite.html" label="综合">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Control.html" label="Control">
+       <topic href="guide/reference/jsdoc/symbols/Control.html" label="控制">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Event.html" label="Event">
+       <topic href="guide/reference/jsdoc/symbols/Event.html" label="事件">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Label.html" label="Label">
+       <topic href="guide/reference/jsdoc/symbols/Label.html" label="标签">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/ProgressBar.html" label="ProgressBar">
+       <topic href="guide/reference/jsdoc/symbols/ProgressBar.html" label="进度条">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/RemoteObject.html" label="RemoteObject">
+       <topic href="guide/reference/jsdoc/symbols/RemoteObject.html" label="RemoteObject的">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Scale.html" label="Scale">
+       <topic href="guide/reference/jsdoc/symbols/Scale.html" label="规模">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Spinner.html" label="Spinner">
+       <topic href="guide/reference/jsdoc/symbols/Spinner.html" label="微调">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Text.html" label="Text">
+       <topic href="guide/reference/jsdoc/symbols/Text.html" label="文本">
        </topic>
-       <topic href="guide/reference/jsdoc/symbols/Widget.html" label="Widget">
+       <topic href="guide/reference/jsdoc/symbols/Widget.html" label="窗口小部件">
        </topic>
     </topic>
   </topic>
 
-  <topic label="Legal" href="guide/legal.html" />
+  <topic label="法律" href="guide/legal.html" />
 
 </toc>

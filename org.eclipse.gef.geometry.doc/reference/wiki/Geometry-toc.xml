@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="reference/wiki/Geometry.html" label="GEF Geometry Developer Documentation">
-	<topic href="reference/wiki/Geometry.html" label="Introduction"></topic>
-	<topic href="reference/wiki/Geometry.html#geometry" label="Geometry">
-		<topic href="reference/wiki/Geometry.html#planar" label="Planar">
-			<topic href="reference/wiki/Geometry.html#igeometry-icurve-ishape-imultishape" label="IGeometry, ICurve, IShape, IMultiShape"></topic>
-			<topic href="reference/wiki/Geometry.html#irotatable-iscalable-itranslatable" label="IRotatable, IScalable, ITranslatable"></topic>
-			<topic href="reference/wiki/Geometry.html#abstractgeometry-abstractrectanglebasedgeometry-abstractarcbasedgeometry-abstractpointlistbasedgeometry-abstractmultishape" label="AbstractGeometry, AbstractRectangleBasedGeometry, AbstractArcBasedGeometry, AbstractPointListBasedGeometry, AbstractMultiShape"></topic>
-			<topic href="reference/wiki/Geometry.html#point" label="Point"></topic>
-			<topic href="reference/wiki/Geometry.html#dimension" label="Dimension"></topic>
-			<topic href="reference/wiki/Geometry.html#line" label="Line"></topic>
-			<topic href="reference/wiki/Geometry.html#rectangle" label="Rectangle"></topic>
-			<topic href="reference/wiki/Geometry.html#polyline" label="Polyline"></topic>
-			<topic href="reference/wiki/Geometry.html#polygon" label="Polygon"></topic>
-			<topic href="reference/wiki/Geometry.html#ellipse" label="Ellipse"></topic>
-			<topic href="reference/wiki/Geometry.html#arc" label="Arc"></topic>
-			<topic href="reference/wiki/Geometry.html#pie" label="Pie"></topic>
+<toc topic="reference/wiki/Geometry.html" label="GEF几何开发人员文档">
+	<topic href="reference/wiki/Geometry.html" label="介绍"></topic>
+	<topic href="reference/wiki/Geometry.html#geometry" label="几何">
+		<topic href="reference/wiki/Geometry.html#planar" label="平面">
+			<topic href="reference/wiki/Geometry.html#igeometry-icurve-ishape-imultishape" label="IGeometry，ICurve，IShape，IMultiShape"></topic>
+			<topic href="reference/wiki/Geometry.html#irotatable-iscalable-itranslatable" label="可交换，可IScalable，可翻译"></topic>
+			<topic href="reference/wiki/Geometry.html#abstractgeometry-abstractrectanglebasedgeometry-abstractarcbasedgeometry-abstractpointlistbasedgeometry-abstractmultishape" label="AbstractGeometry，AbstractRectangleBasedGeometry，AbstractArcBasedGeometry，AbstractPointListBasedGeometry，AbstractMultiShape"></topic>
+			<topic href="reference/wiki/Geometry.html#point" label="点"></topic>
+			<topic href="reference/wiki/Geometry.html#dimension" label="尺寸"></topic>
+			<topic href="reference/wiki/Geometry.html#line" label="线"></topic>
+			<topic href="reference/wiki/Geometry.html#rectangle" label="长方形"></topic>
+			<topic href="reference/wiki/Geometry.html#polyline" label="折线"></topic>
+			<topic href="reference/wiki/Geometry.html#polygon" label="多边形"></topic>
+			<topic href="reference/wiki/Geometry.html#ellipse" label="椭圆"></topic>
+			<topic href="reference/wiki/Geometry.html#arc" label="弧"></topic>
+			<topic href="reference/wiki/Geometry.html#pie" label="馅饼"></topic>
 			<topic href="reference/wiki/Geometry.html#roundedrectangle" label="RoundedRectangle"></topic>
-			<topic href="reference/wiki/Geometry.html#beziercurve" label="BezierCurve"></topic>
+			<topic href="reference/wiki/Geometry.html#beziercurve" label="贝兹曲线"></topic>
 			<topic href="reference/wiki/Geometry.html#quadraticcurve" label="QuadraticCurve"></topic>
 			<topic href="reference/wiki/Geometry.html#cubiccurve" label="CubicCurve"></topic>
 			<topic href="reference/wiki/Geometry.html#polybezier" label="PolyBezier"></topic>
 			<topic href="reference/wiki/Geometry.html#curvedpolygon" label="CurvedPolygon"></topic>
-			<topic href="reference/wiki/Geometry.html#region" label="Region"></topic>
-			<topic href="reference/wiki/Geometry.html#ring" label="Ring"></topic>
-			<topic href="reference/wiki/Geometry.html#path" label="Path"></topic>
+			<topic href="reference/wiki/Geometry.html#region" label="区域"></topic>
+			<topic href="reference/wiki/Geometry.html#ring" label="环"></topic>
+			<topic href="reference/wiki/Geometry.html#path" label="路径"></topic>
 		</topic>
-		<topic href="reference/wiki/Geometry.html#euclidean" label="Euclidean">
-			<topic href="reference/wiki/Geometry.html#angle" label="Angle"></topic>
-			<topic href="reference/wiki/Geometry.html#vector" label="Vector"></topic>
-			<topic href="reference/wiki/Geometry.html#straight" label="Straight"></topic>
+		<topic href="reference/wiki/Geometry.html#euclidean" label="欧几里德">
+			<topic href="reference/wiki/Geometry.html#angle" label="角度"></topic>
+			<topic href="reference/wiki/Geometry.html#vector" label="向量"></topic>
+			<topic href="reference/wiki/Geometry.html#straight" label="直行"></topic>
 		</topic>
-		<topic href="reference/wiki/Geometry.html#projective" label="Projective">
-			<topic href="reference/wiki/Geometry.html#vector3d" label="Vector3D"></topic>
+		<topic href="reference/wiki/Geometry.html#projective" label="投影">
+			<topic href="reference/wiki/Geometry.html#vector3d" label="的Vector3D"></topic>
 			<topic href="reference/wiki/Geometry.html#straight3d" label="Straight3D"></topic>
 		</topic>
 		<topic href="reference/wiki/Geometry.html#a-name-convertawt-a-convert-awt" label="Convert.AWT">

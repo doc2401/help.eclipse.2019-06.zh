@@ -14,13 +14,13 @@
 					style="css/overview.css" alt-style="css/overview.properties" path="overview/@">
 	<group id="content-group" style-id="content-group">
 	  <!--
-	  <link label="Mylyn"
+	  <link label="Mylyn的"
 			url="http://org.eclipse.ui.intro/showHelpTopic?id=/org.eclipse.mylyn.help.ui/doc/overview.html"
 			id="mylyn-overview" style-id="content-link">
 		<text>Learn more about how Mylyn will help you focus on tasks</text>
 	  </link>
 	  -->
-	  <link label="Connect to your task and ALM tools"
+	  <link label="连接到您的任务和ALM工具"
 			url="http://org.eclipse.ui.intro/runAction?pluginId=org.eclipse.mylyn.help.ui&amp;class=org.eclipse.mylyn.internal.tasks.ui.actions.WelcomeIntroAction&amp;id=org.eclipse.mylyn.doc.legend.show.action"
 			id="mylyn-overview" style-id="content-link">
 		<text>Open the Mylyn Task List and add a repository</text>
@@ -28,12 +28,12 @@
 	  <!-- 		
 	  <group id="links">	
 		<link
-	       label="Open Task List"
+	       label="打开任务列表"
 	       url="http://org.eclipse.ui.intro/runAction?pluginId=org.eclipse.mylyn.help.ui&amp;class=org.eclipse.mylyn.internal.tasks.ui.actions.WelcomeIntroAction&amp;id=org.eclipse.mylyn.doc.legend.show.action"
 	       id="opentasklist"
 	       style-id="action-link"/>
 	    <link
-	       label="Connect to Task Repository"
+	       label="连接到任务存储库"
 	       url="http://org.eclipse.ui.intro/runAction?pluginId=org.eclipse.mylyn.help.ui&amp;class=org.eclipse.mylyn.internal.tasks.ui.actions.ShowTasksUiLegendAction&amp;id=org.eclipse.mylyn.doc.legend.show.action"
 	       id="connectrepository"
 	       />

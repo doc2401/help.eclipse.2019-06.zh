@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
 
-<toc label="BPMN2 Modeler Table of Contents" topic="html/toc.html">
-   <topic href="html/INTRODUCTION.htm" label="Introduction">
+<toc label="BPMN2 Modeler目录" topic="html/toc.html">
+   <topic href="html/INTRODUCTION.htm" label="介绍">
    </topic>
-   <topic href="html/ANATOMY OF THE BPMN2 MODELER.htm" label="Anatomy of the BPMN2 Modeler">
+   <topic href="html/ANATOMY OF THE BPMN2 MODELER.htm" label="BPMN2 Modeler的剖析">
    </topic>
-   <topic href="html/BPMN2 NEW FILE WIZARDS.htm" label="BPMN2 New File Wizards">
+   <topic href="html/BPMN2 NEW FILE WIZARDS.htm" label="BPMN2新文件向导">
    </topic>
-   <topic href="html/IMPORTING BPMN2 FILES.htm" label="Importing BPMN2 Files">
+   <topic href="html/IMPORTING BPMN2 FILES.htm" label="导入BPMN2文件">
    </topic>
-   <topic href="html/GRAPHICAL EDITING.htm" label="Graphical Editing">
+   <topic href="html/GRAPHICAL EDITING.htm" label="图形编辑">
    </topic>
-   <topic href="html/PROPERTY VIEW.htm" label="Property View">
+   <topic href="html/PROPERTY VIEW.htm" label="物业视图">
    </topic>
-   <topic href="html/OUTLINE VIEW.htm" label="Outline View">
+   <topic href="html/OUTLINE VIEW.htm" label="大纲视图">
    </topic>
-   <topic href="html/POPUP DIALOGS.htm" label="Popup Dialogs">
+   <topic href="html/POPUP DIALOGS.htm" label="弹出对话框">
    </topic>
-   <topic href="html/USER PREFERENCES.htm" label="User Preferences">
+   <topic href="html/USER PREFERENCES.htm" label="用户首选项">
    </topic>
-   <topic href="html/TARGET RUNTIME EXTENSIONS.htm" label="Target Runtime Extensions">
+   <topic href="html/TARGET RUNTIME EXTENSIONS.htm" label="目标运行时扩展">
    </topic>
-   <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="Appendix - BPMN 2.0 Reference">
+   <topic href="html/APPENDIX_ BPMN 2.0 REFERENCE.htm" label="附录 -  BPMN 2.0参考">
    </topic>
-   <topic href="html/FIGURES AND TABLES.htm" label="Figures and Tables">
+   <topic href="html/FIGURES AND TABLES.htm" label="数字和表格">
    </topic>
 </toc>

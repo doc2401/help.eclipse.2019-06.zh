@@ -2,107 +2,107 @@
 <cheatsheet title="GNU Autotools Project">
    <intro>
       <description>
-         This cheatsheet will introduce the GNU Autotools plugin by importing an existing project that uses Autotools.
-      </description>
+         这个备忘单将通过导入使用Autotools的现有项目来介绍GNU Autotools插件。
+      </description>
    </intro>
    <item title="Check out the test project" dialog="true" skip="false">
       <description>
-      </description>
-      <subitem label="From the main menu, select File -&gt; Import ... -&gt; Projects from CVS." skip="false">
+      </description>
+      <subitem label="从主菜单中，选择文件 - ＆gt;导入...  - ＆gt; CVS的项目。" skip="false">
          <command serialization="org.eclipse.ui.file.import(importWizardId=org.eclipse.team.cvs.ui.newProjectCheckout)" confirm="false">
          </command>
       </subitem>
-      <subitem label="If the following repository does not already exist, create it by selecting &quot;Create a new repository location&quot;, pressing &quot;Next&quot;, and filling in the following information:  Host:  sourceware.org Repository path:  /cvs/eclipse User: &lt;anonymous&gt; Connection type:  pserver" skip="true">
+      <subitem label="如果以下存储库尚不存在，请通过选择“创建新存储库位置”，按“下一步”并填写以下信息来创建它：主机：sourceware.org存储库路径：/ cvs / eclipse用户：＆lt ;匿名＆GT;连接类型：pserver" skip="true">
       </subitem>
-      <subitem label="Press Next to advance to CVS module selection." skip="false">
+      <subitem label="按Next进入CVS模块选择。" skip="false">
       </subitem>
-      <subitem label="Choose &quot;Use an existing module&quot; and open &quot;autotools&quot; and select &quot;sources&quot; in the populated list of projects." skip="false">
+      <subitem label="选择“使用现有模块”并打开“autotools”并选择“来源”在填充的项目列表中。" skip="false">
       </subitem>
-      <subitem label="Press Next." skip="false">
+      <subitem label="按Next。" skip="false">
       </subitem>
-      <subitem label="Ensure &quot;Check out as a project configured using the New Project wizard&quot; is selected." skip="false">
+      <subitem label="确保“签出为使用”新建项目“向导配置的项目”被选中。" skip="false">
       </subitem>
-      <subitem label="Press Finish." skip="false">
+      <subitem label="按完成。" skip="false">
       </subitem>
-      <subitem label="Select C/C++ -&gt; C Project" skip="false">
+      <subitem label="选择C / C ++  - ＆gt; C项目" skip="false">
       </subitem>
       <subitem
-            label="Within the C Project dialog, open the GNU Autotools category in the tree view and select &quot;Empty Project&quot;">
+            label="在C Project对话框中，在树视图中打开GNU Autotools类别，然后选择“Empty Project”。">
       </subitem>
-      <subitem label="Give the project a name.  For this example, choose &quot;sources&quot;." skip="false">
+      <subitem label="为项目命名。对于此示例，请选择“来源”。" skip="false">
       </subitem>
-      <subitem label="Press Next." skip="false">
+      <subitem label="按Next。" skip="false">
       </subitem>
-      <subitem label="Press Finish." skip="false">
+      <subitem label="按完成。" skip="false">
       </subitem>
-      <subitem label="If asked to switch to C/C++ Perspective, select ok and choose to default this behavior" skip="false">
+      <subitem label="如果要求切换到C / C ++ Perspective，请选择ok并选择默认此行为" skip="false">
       </subitem>
    </item>
    <item title="Build Project">
       <description>
-      </description>
+      </description>
       <subitem
-            label="Navigate to the project in the Project Explorer view by selecting the &quot;sources&quot; project you just created.">
+            label="通过选择“来源”按钮导航到Project Explorer视图中的项目。你刚刚创建的项目。">
       </subitem>
       <subitem
-            label="Open the Project pull-down from the main menu">
+            label="从主菜单中打开“项目”下拉菜单">
       </subitem>
       <subitem
-            label="If &quot;Build Automatically&quot; is not checked, select &quot;Build Project&quot;">
+            label="如果“自动构建”未选中，请选择“构建项目”。">
       </subitem>
    </item>
    <item title="View build output" dialog="true" skip="false">
       <description>
-         In the Console view, there is a button entitled &quot;Display Selected Console&quot;.  Its icon depicts a monitor with two lines of text on it.  Pressing this button will drop down to show all available consoles.  At this point, you should have three consoles:  one for configure output (&quot;Configure&quot;), one for build output (&quot;C-Build&quot;), and one for the binary output that you just ran (&quot;&lt;terminated&gt; sources ...&quot;).
-      </description>
-      <subitem label="View configure output by selecting the Configure console in the drop-down list." skip="false">
+         在控制台视图中，有一个标题为“显示所选控制台”的按钮。它的图标描绘了一个带有两行文字的显示器。按此按钮将下拉以显示所有可用的控制台。此时，您应该有三个控制台：一个用于配置输出（“配置”），一个用于构建输出（“C-Build”），另一个用于您刚刚运行的二进制输出（＆lt;＆lt; terminated＆gt; ;来源......“）。
+      </description>
+      <subitem label="通过在下拉列表中选择配置控制台来查看配置输出。" skip="false">
       </subitem>
-      <subitem label="View build output by selecting the &quot;C-Build&quot; console in the drop-down list." skip="false">
+      <subitem label="通过选择“C-Build”来查看构建输出。控制台在下拉列表中。" skip="false">
       </subitem>
    </item>
    <item title="Run the Hello World binary" dialog="true" skip="false">
       <description>
-      </description>
-      <subitem label="Navigate to the project in the Project Explorer view by selecting the &quot;sources&quot; project you just created." skip="false">
+      </description>
+      <subitem label="通过选择“来源”按钮导航到Project Explorer视图中的项目。你刚刚创建的项目。" skip="false">
       </subitem>
-      <subitem label="Open the project by toggling the arrow to the left of the project name if it is not already open." skip="true">
+      <subitem label="如果项目名称尚未打开，则通过切换项目名称左侧的箭头来打开项目。" skip="true">
       </subitem>
-      <subitem label="Expand the &quot;Binaries&quot; virtual folder under the project." skip="false">
+      <subitem label="展开“二进制文件”项目下的虚拟文件夹。" skip="false">
       </subitem>
-      <subitem label="Select the binary itself.  This will be called &quot;a.out&quot; if you followed the example." skip="false">
+      <subitem label="选择二进制文件本身。这将被称为“a.out”。如果你按照这个例子。" skip="false">
       </subitem>
-      <subitem label="Right-click on the binary itself and select &quot;Run As&quot; -&gt; &quot;Local C/C++ Application&quot;." skip="false">
+      <subitem label="右键单击二进制文件本身，然后选择“运行方式”。 - ＆GT; “本地C / C ++应用程序”。" skip="false">
       </subitem>
-      <subitem label="Select &quot;gdb Debugger&quot; (the default) in the &quot;Launch Debug Configuration Selection&quot; dialog." skip="false">
+      <subitem label="选择“gdb Debugger” “启动调试配置选择”中的（默认值）对话。" skip="false">
       </subitem>
-      <subitem label="Press OK." skip="false">
+      <subitem label="按确定。" skip="false">
       </subitem>
    </item>
    <item title="View output" dialog="true" skip="false">
       <description>
-         The output of the program should be displayed in the Console view which should be one of the tabs visible in the bottom of the IDE.  If you made no modifications, it should read &quot;hello world&quot;.
-      </description>
+         程序的输出应显示在Console视图中，该视图应该是IDE底部可见的选项卡之一。如果您没有做任何修改，它应该是“hello world”。
+      </description>
    </item>
    <item title="Modify configure options" dialog="true" skip="false">
       <description>
-      </description>
-      <subitem label="Select the project &quot;sources&quot; if it is not already selected in the Project Explorer." skip="false">
+      </description>
+      <subitem label="选择项目“来源”如果尚未在Project Explorer中选择它。" skip="false">
       </subitem>
-      <subitem label="From the main menu, select Project -&gt; Properties." skip="false">
+      <subitem label="从主菜单中，选择Project  - ＆gt;属性。" skip="false">
       </subitem>
-      <subitem label="Expand &quot;Autotools&quot; and select &quot;Configure Settings&quot;." skip="false">
+      <subitem label="展开“Autotools”并选择“配置设置”。" skip="false">
       </subitem>
-      <subitem label="Under &quot;configure&quot;, select &quot;Advanced&quot;." skip="false">
+      <subitem label="在“配置”下，选择“高级”。" skip="false">
       </subitem>
-      <subitem label="In the &quot;Additional command-line options&quot; text box, enter &quot;--enable-option-x&quot;." skip="false">
+      <subitem label="在“附加命令行选项”中文本框，输入“ -  enable-option-x”。" skip="false">
       </subitem>
-      <subitem label="Press OK." skip="false">
+      <subitem label="按确定。" skip="false">
       </subitem>
    </item>
    <item title="Finished!" dialog="true" skip="false">
       <description>
-         <b>Congratulations!</b>
-You now have a simple GNU autotools project.
-      </description>
+         <B>恭喜！</ b>的
+您现在有一个简单的GNU autotools项目。
+      </description>
    </item>
 </cheatsheet>

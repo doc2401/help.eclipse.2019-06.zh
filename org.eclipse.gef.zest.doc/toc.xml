@@ -9,8 +9,8 @@
     Contributors:
         Alexander Nyßen (itemis AG) - initial API and implementation
  -->
-<toc label="GEF Zest Developer Documentation">
+<toc label="GEF Zest开发人员文档">
    <link toc="reference/wiki/Zest-toc.xml"/>
-   <topic href="reference/api/overview-summary.html" label="API Reference">
+   <topic href="reference/api/overview-summary.html" label="API参考">
 	</topic>
 </toc>

@@ -22,112 +22,112 @@
 <contexts>
 
 <context id ="default_cs_help">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="default_cs_help.htm"
-   	label="&defaultCSHelp;"/>
+   	label="＆defaultCSHelp;"/>
 </context>
 
 <context id ="registers_view_context">
-   <description>The registers view displays the register values of a selected stack frame. </description>
-   <topic href="reference/cdt_u_registersview.htm" label="Registers view"/>
+   <description>寄存器视图显示所选堆栈帧的寄存器值。</description>
+   <topic href="reference/cdt_u_registersview.htm" label="注册视图"/>
 </context>
 
 <context id ="registers_preference_page_context">
-   <description>Change the color in which register values are displayed. </description>
-   <topic href="reference/cdt_u_reg_view_pref.htm" label="Registers preferences"/>
+   <description>更改显示寄存器值的颜色。</description>
+   <topic href="reference/cdt_u_reg_view_pref.htm" label="注册偏好"/>
 </context>
 
 <context id ="MemoryView_context">
-   <description>The memory view displays process memory. </description>
-   <topic href="reference/cdt_u_memoryview.htm" label="Memory view"/>
+   <description>内存视图显示进程内存。</description>
+   <topic href="reference/cdt_u_memoryview.htm" label="记忆视图"/>
 </context>
 
 <context id="variable_view_context">
-   <description>This view displays the variables in your program.</description>
+   <description>此视图显示程序中的变量。</description>
 </context>
 
 <context id="disassembly_view_context">
-   <description>This view displays the disassembly of your program.</description>
-   <topic href="reference/cdt_u_disassembly_view.htm" label="Disassembly view"/>
+   <description>此视图显示程序的反汇编。</description>
+   <topic href="reference/cdt_u_disassembly_view.htm" label="反汇编视图"/>
 </context>
 
 <context id="expression_view_context" >
-   <description>This view shows the results of inspecting an expression or variable.</description>
+   <description>此视图显示检查表达式或变量的结果。</description>
 </context>
 
 <context id="memory_preference_page_context" title="Traditional Memory Rendering">
-   <description>Click below to see help</description>
+   <description>点击下方查看帮助</description>
    <topic href="reference/cdt_u_mem_view_pref.htm"
-   	label="&memoryViewPrefs;"/>
+   	label="＆memoryViewPrefs;"/>
 </context>
 
 <context id ="modules_view_context">
-   <description>Click below to see help</description>
-   <topic href="reference/cdt_u_modules_view.htm" label="Modules view"/>
+   <description>点击下方查看帮助</description>
+   <topic href="reference/cdt_u_modules_view.htm" label="模块视图"/>
 </context>
 
 <context id="signals_view_context" title="Signals">
-   <description>Click below to see help</description>
-   <topic href="reference/cdt_u_signals_view.htm" label="Signals view"/>
+   <description>点击下方查看帮助</description>
+   <topic href="reference/cdt_u_signals_view.htm" label="信号视图"/>
 </context>
 
 <context id ="debug_view_context">
-   <description>Click below to see help.</description>
+   <description>点击下方查看帮助。</description>
    <topic href="reference/cdt_u_dbg_view.htm"
-   	label="&debugView;"/>
+   	label="＆DebugView中;"/>
 </context>
 
 <context id="breakpoint_view_context" title="Breakpoints">
-   <description>The Breakpoints view lists all the breakpoints you have set.</description>
-   <topic href="concepts/cdt_c_brkpnts.htm" label="Breakpoints view (C/C++)"/>
+   <description>“断点”视图列出了您设置的所有断点。</description>
+   <topic href="concepts/cdt_c_brkpnts.htm" label="断点视图（C / C ++）"/>
 </context>
 
 <context id ="c_debug_preference_page_context">
-   <description>View information about your program as you debug. </description>
+   <description>在调试时查看有关程序的信息。</description>
    <topic href="reference/cdt_u_dbg_pref.htm"
-   	label="&debugPrefs;"/>
+   	label="＆debugPrefs;"/>
 </context>
 
 <context id ="source_preference_page_context">
-   <description>Source code locations. </description>
+   <description>源代码位置。</description>
    <topic href="reference/cdt_u_dbg_src.htm"
-   	label="&srcPrefs;"/>
+   	label="＆srcPrefs;"/>
 </context>
 	
 <context id ="import_executable_page_one">
-   <description>Select or search for C/C++ executable files.</description>
+   <description>选择或搜索C / C ++可执行文件。</description>
    <topic href="tasks/cdt_t_debug_exes.htm"
-	   label="&importExe;"/>
+	   label="＆importExe;"/>
 </context>
 
 <context id ="import_executable_page_two">
-   <description>Choose or create a project to hold the executable.</description>
+   <description>选择或创建一个项目来保存可执行文件。</description>
    <topic href="tasks/cdt_t_debug_exes.htm"
-	   label="&chooseProj;"/>
+	   label="＆chooseProj;"/>
 </context>
 
 <!-- Note: context id for console view is defined in org.eclipse.ui.console -->
 <context id ="console_view_context">
-   <description>Click below to see help.</description>
-   <topic href="reference/cdt_u_console_view.htm" label="Console view (C/C++)"/>
+   <description>点击下方查看帮助。</description>
+   <topic href="reference/cdt_u_console_view.htm" label="控制台视图（C / C ++）"/>
 </context>
 
 <context id="executables_View_context" title="Executables (C/C++)">
-   <description>The Executables view provides a dynamic list of executables and their related source files.</description>
-   <topic href="reference/cdt_u_view_executables.htm.htm" label="Executables view (C/C++)"/>
+   <description>“可执行文件”视图提供可执行文件及其相关源文件的动态列表。</description>
+   <topic href="reference/cdt_u_view_executables.htm.htm" label="可执行文件视图（C / C ++）"/>
 </context>
 <context id="breakpoint_actions_page_help" title="Breakpoint Actions">
-   <description>Manage breakpoint actions.</description>
-   <topic href="reference/cdt_u_dbg_brkpt_actions.htm" label="Breakpoint Actions preferences"/>
-   <topic href="tasks/cdt_t_addrmv_brk_action.htm" label="Attaching and Removing Breakpoint Actions"/>
+   <description>管理断点操作。</description>
+   <topic href="reference/cdt_u_dbg_brkpt_actions.htm" label="断点操作首选项"/>
+   <topic href="tasks/cdt_t_addrmv_brk_action.htm" label="附加和删除断点操作"/>
 </context>
 <context id="source_preference_page_context" title="Source Lookup Path">
-   <description>Manage common source paths.</description>
-   <topic href="reference/cdt_u_dbg_src.htm" label="Source Lookup Path"/>
+   <description>管理公共源路径。</description>
+   <topic href="reference/cdt_u_dbg_src.htm" label="源查找路径"/>
 </context>
 <context id="source_path_map_entry_dialog_context" title="Edit Path Mappings">
-   <description>Edit path mapping for source lookup.</description>
-   <topic href="reference/cdt_u_dbg_src_path_mapping.htm" label="Edit Path Mappings"/>
+   <description>编辑源查找的路径映射。</description>
+   <topic href="reference/cdt_u_dbg_src_path_mapping.htm" label="编辑路径映射"/>
 </context>
 
 </contexts>

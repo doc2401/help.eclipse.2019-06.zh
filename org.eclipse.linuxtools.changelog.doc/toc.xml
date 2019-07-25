@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="ChangeLog Editor User Guide">
-	<topic href="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="ChangeLog Editor User Guide">
-		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="Overview"></topic>
-		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Preferences.html" label="ChangeLog Preferences"></topic>
-		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Editor.html" label="ChangeLog Editor"></topic>
-		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html" label="ChangeLog Plug-in Functions">
-			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Insert_ChangeLog" label="Insert ChangeLog"></topic>
-			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Prepare_ChangeLog" label="Prepare ChangeLog"></topic>
-			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Format_ChangeLog" label="Format ChangeLog"></topic>
+<toc topic="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="ChangeLog Editor用户指南">
+	<topic href="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="ChangeLog Editor用户指南">
+		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html" label="概观"></topic>
+		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Preferences.html" label="ChangeLog偏好设置"></topic>
+		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Editor.html" label="ChangeLog编辑器"></topic>
+		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html" label="ChangeLog插件功能">
+			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Insert_ChangeLog" label="插入ChangeLog"></topic>
+			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Prepare_ChangeLog" label="准备ChangeLog"></topic>
+			<topic href="Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functions.html#Format_ChangeLog" label="格式化ChangeLog"></topic>
 		</topic>
-		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="Linux_Tools_Project/ChangeLog/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

@@ -13,6 +13,6 @@
  -->
 <contexts>
    <context id="userGuide" title="Eclipse Marketplace">
-      <topic href="/org.eclipse.epp.mpc.help.ui/EPP/MPC/User_Guide/User-Guide.html" label="Eclipse Marketplace User Guide"/>
+      <topic href="/org.eclipse.epp.mpc.help.ui/EPP/MPC/User_Guide/User-Guide.html" label="Eclipse Marketplace用户指南"/>
    </context>
 </contexts>

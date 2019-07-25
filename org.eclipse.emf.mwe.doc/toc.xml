@@ -1,41 +1,41 @@
-<toc topic="help/index.html" label="Modeling Workflow Engine Reference">
-<topic href="help/index.html#workflow_reference_introduction" label="Introduction"/>
-<topic href="help/workflow_reference_workflow_components.html" label="Workflow components">
-<topic href="help/workflow_reference_workflow_components.html#workflow_reference_workflow" label="Workflow"/>
-<topic href="help/workflow_reference_workflow_components.html#workflow_reference_components_with_IDs" label="Workflow Components with IDs"/>
-<topic href="help/workflow_reference_workflow_components.html#workflow_reference_convenience" label="More convenience"/>
+<toc topic="help/index.html" label="建模工作流引擎参考">
+<topic href="help/index.html#workflow_reference_introduction" label="介绍"/>
+<topic href="help/workflow_reference_workflow_components.html" label="工作流程组件">
+<topic href="help/workflow_reference_workflow_components.html#workflow_reference_workflow" label="工作流程"/>
+<topic href="help/workflow_reference_workflow_components.html#workflow_reference_components_with_IDs" label="具有ID的工作流组件"/>
+<topic href="help/workflow_reference_workflow_components.html#workflow_reference_convenience" label="更方便"/>
 </topic>
-<topic href="help/workflow_reference_included_workflow_components.html" label="Included Workflow Components">
-<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_directorycleaner" label="DirectoryCleaner (org.eclipse.emf.mwe.utils.DirectoryCleaner)"/>
-<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_ifcomponent" label="IfComponent (org.eclipse.emf.mwe.core.container.IfComponent)"/>
-<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_standalonesetup" label="StandaloneSetup (org.eclipse.emf.mwe.utils.StandaloneSetup)"/>
-<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_writer" label="Writer (org.eclipse.emf.mwe.utils.Writer)"/>
+<topic href="help/workflow_reference_included_workflow_components.html" label="包含的工作流程组件">
+<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_directorycleaner" label="DirectoryCleaner（org.eclipse.emf.mwe.utils.DirectoryCleaner）"/>
+<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_ifcomponent" label="IfComponent（org.eclipse.emf.mwe.core.container.IfComponent）"/>
+<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_standalonesetup" label="StandaloneSetup（org.eclipse.emf.mwe.utils.StandaloneSetup）"/>
+<topic href="help/workflow_reference_included_workflow_components.html#workflow_reference_writer" label="作家（org.eclipse.emf.mwe.utils.Writer）"/>
 </topic>
-<topic href="help/workflow_reference_workflow_configuration.html" label="Workflow Configuration">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_properties" label="Properties">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_components" label="Components">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_accessors" label="Accessor methods"/>
+<topic href="help/workflow_reference_workflow_configuration.html" label="工作流程配置">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_properties" label="属性">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_components" label="组件">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_accessors" label="存取方法"/>
 </topic>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_component_creation" label="Component creation"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_references" label="References"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_simple_parameters" label="Simple Parameters">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_converters" label="Converters"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_component_creation" label="组件创建"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_references" label="参考"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_simple_parameters" label="简单的参数">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_converters" label="转换器"/>
 </topic>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_including_other_workflows" label="Including other workflow files (also known as cartridges)"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_inheritall" label="InheritAll Feature"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_including_other_workflows" label="包括其他工作流文件（也称为墨盒）"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_inheritall" label="继承所有功能"/>
 </topic>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_component_implementation" label="Component Implementation and Workflow Execution">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_context" label="The Workflow Context"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_issues" label="Issues"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_controlling_workflow" label="Controlling the Workflow">
-<topic href="help/workflow_reference_workflow_configuration.html#N10284" label="Using Aspect Orientation wih Workflows"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_component_implementation" label="组件实现和工作流程执行">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_context" label="工作流程上下文"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_issues" label="问题"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_controlling_workflow" label="控制工作流程">
+<topic href="help/workflow_reference_workflow_configuration.html#N10284" label="使用面向方向与工作流程"/>
 </topic>
 </topic>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_invoking_a_workflow" label="Invoking a workflow">
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_workflowrunner" label="Starting the WorkflowRunner"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_starting_with_ant" label="Starting with Ant"/>
-<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_starting_from_your_own_code" label="Starting from you own code"/>
-<topic href="help/workflow_reference_workflow_configuration.html#N102C6" label="Starting from Eclipse"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_invoking_a_workflow" label="调用工作流程">
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_workflowrunner" label="启动WorkflowRunner"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_starting_with_ant" label="从Ant开始"/>
+<topic href="help/workflow_reference_workflow_configuration.html#workflow_reference_starting_from_your_own_code" label="从你自己的代码开始"/>
+<topic href="help/workflow_reference_workflow_configuration.html#N102C6" label="从Eclipse开始"/>
 </topic>
 </topic>
 </toc>

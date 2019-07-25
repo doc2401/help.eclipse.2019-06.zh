@@ -11,20 +11,20 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="JavaScript Development Guide">
-	<topic href="started/overview.html" label="JSDT Overview" />
- <topic label="Getting Started">
+<toc label="JavaScript开发指南">
+	<topic href="started/overview.html" label="JSDT概述" />
+ <topic label="入门">
     <link toc="tocgettingstarted.xml"/>
  </topic>
-	<topic label="Concepts">
+	<topic label="概念">
 		<link toc="tocconcepts.xml"/>
 	</topic>
-	<topic label="Tasks">
+	<topic label="任务">
 		<link toc="toctasks.xml"/>
 	</topic>
-	<topic label="Reference">
+	<topic label="参考">
 		<link toc="tocreference.xml" />
 	</topic>
-	<topic label="Legal" href="notices.html">
+	<topic label="法律" href="notices.html">
 	</topic>
 </toc>

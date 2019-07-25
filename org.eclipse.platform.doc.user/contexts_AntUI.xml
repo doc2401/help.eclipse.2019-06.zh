@@ -8,254 +8,254 @@
 	All contexts are grouped by their relation, with all relations grouped alphabetically.
 -->
   <context id="remove_all_action_context">
-    <description>This command removes all buildfiles from the Ant view.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令从Ant视图中删除所有构建文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="search_for_buildfiles_action_context">
-    <description>This command searches for buildfiles and adds them to the Ant view.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令搜索构建文件并将其添加到Ant视图。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="edit_launch_configuration_action_context">
-    <description>This command opens a dialog to edit a launch configuration associated with the selected buildfile.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令将打开一个对话框，以编辑与所选构建文件关联的启动配置。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="run_target_action_context">
-    <description>This command executes the selected target or the default target of the selected buildfile.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令执行所选目标或所选构建文件的默认目标。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="remove_project_action_context">
-    <description>This command removes the selected buildfiles from the Ant view.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令从Ant视图中删除选定的构建文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="refresh_buildfile_action_context">
- 	<description>This command refreshes the selected buildfiles in the Ant view. All buildfiles are refreshed if the Ant view has no selection.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+ 	<description>此命令将刷新Ant视图中的选定构建文件。如果Ant视图没有选择，则刷新所有构建文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="add_buildfile_action_context">
-    <description>This command prompts you to select a buildfile in the workspace to be added to the view.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此命令会提示您在工作空间中选择要添加到视图的构建文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="add_task_dialog_context">
-    <description>This dialog allows you to define an Ant task for Ant builds. You must set the name, location and classfile.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您为Ant构建定义Ant任务。您必须设置名称，位置和类文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="edit_task_dialog_context">
-    <description>This dialog allows you to edit an exisitng Ant task defined for Ant builds.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您编辑为Ant构建定义的exisitng Ant任务。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="add_type_dialog_context">
-    <description>This dialog allows you to define an Ant type for Ant builds. You must set the name, location and classfile.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您为Ant构建定义Ant类型。您必须设置名称，位置和类文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="edit_type_dialog_context">
-    <description>This dialog allows you to edit an existing Ant type defined for Ant builds.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您编辑为Ant构建定义的现有Ant类型。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="add_property_dialog_context">
-    <description>This dialog allows you to define an Ant property used in an Ant build.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您定义Ant构建中使用的Ant属性。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="edit_property_dialog_context">
-    <description>This dialog allows you to edit an existing Ant property.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您编辑现有的Ant属性。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="search_for_buildfiles_dialog_context">
-    <description>This dialog allows you to search for buildfiles within the workspace.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您在工作空间中搜索构建文件。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="target_order_dialog_context">
-    <description>This dialog allows you to specify the order in which the selected Ant targets will be run. This ordering does not override the dependencies specified in your buildfile.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此对话框允许您指定将运行所选Ant目标的顺序。此排序不会覆盖构建文件中指定的依赖项。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_preference_page_context">
-    <description>On this page, you can configure Ant preferences.</description>
-   	<topic label="Preferences - Ant" href="reference/ref-antprefs.htm"/>    
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置Ant首选项。</description>
+   	<topic label="偏好 - 蚂蚁" href="reference/ref-antprefs.htm"/>    
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_runtime_preference_page_context">
-    <description>On this page, you can configure the runtime environment of Ant.</description>
-    <topic label="Preferences - Ant Runtime" href="reference/ref-antruntimeprefs.htm"/>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置Ant的运行时环境。</description>
+    <topic label="首选项 -  Ant运行时" href="reference/ref-antruntimeprefs.htm"/>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_editor_preference_page_context">
-    <description>On this page, you can configure Ant editor preferences.</description>
-    <topic label="Preferences - Ant Editor" href="reference/ref-anteditorprefs.htm"/>
-    <topic label="Ant Editor" href="reference/ref-anteditor.htm"/> 
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
-    <topic label="Accessibility features in textual editors" href="concepts/accessibility/text_editor.htm"/>
+    <description>在此页面上，您可以配置Ant编辑器首选项。</description>
+    <topic label="首选项 -  Ant编辑器" href="reference/ref-anteditorprefs.htm"/>
+    <topic label="Ant编辑器" href="reference/ref-anteditor.htm"/> 
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
+    <topic label="文本编辑器中的辅助功能" href="concepts/accessibility/text_editor.htm"/>
   </context>
   
   <context id="ant_editor_contentassist_preference_page_context">
-     <description>On this page, you can configure Ant editor content assist preferences.</description>
-     <topic href="reference/ref-antcontentassist.htm" label="Content assist - Ant Editor"/>
-     <topic href="reference/ref-anteditor.htm" label="Ant Editor"/>
-     <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
+     <description>在此页面上，您可以配置Ant编辑器内容辅助首选项。</description>
+     <topic href="reference/ref-antcontentassist.htm" label="内容辅助 -  Ant编辑器"/>
+     <topic href="reference/ref-anteditor.htm" label="Ant编辑器"/>
+     <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
   </context>
   
   <context id="ant_editor_formatter_preference_page_context">
-     <description>On this page, you can configure Ant editor formatter preferences.</description>
-     <topic href="reference/ref-antformatter.htm" label="Formatter - Ant Editor"/>
-     <topic href="reference/ref-anteditor.htm" label="Ant Editor"/>
-     <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
+     <description>在此页面上，您可以配置Ant编辑器格式化程序首选项。</description>
+     <topic href="reference/ref-antformatter.htm" label="Formatter  -  Ant编辑器"/>
+     <topic href="reference/ref-anteditor.htm" label="Ant编辑器"/>
+     <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
   </context>
   
   <context id="ant_editor_templates_preference_page_context">
-     <description>On this page, you can configure Ant editor template preferences.</description>
-     <topic href="reference/ref-anttemplates.htm" label="Templates - Ant Editor"/>
-     <topic href="reference/ref-anteditor.htm" label="Ant Editor"/>
-     <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
+     <description>在此页面上，您可以配置Ant编辑器模板首选项。</description>
+     <topic href="reference/ref-anttemplates.htm" label="模板 -  Ant编辑器"/>
+     <topic href="reference/ref-anteditor.htm" label="Ant编辑器"/>
+     <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
   </context>
 
   <context id="ant_types_page_context">
-    <description>On this page, you can add or edit custom Ant types, specified within a Java class file, to be used when running Ant buildfiles.</description>
-    <topic label="Preferences - Ant Runtime" href="reference/ref-antruntimeprefs.htm"/>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以添加或编辑在Java类文件中指定的自定义Ant类型，以便在运行Ant构建文件时使用。</description>
+    <topic label="首选项 -  Ant运行时" href="reference/ref-antruntimeprefs.htm"/>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_classpath_page_context">
-    <description>On this page, you can configure the Ant runtime classpath.</description>
-    <topic label="Preferences - Ant Runtime" href="reference/ref-antruntimeprefs.htm"/>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置Ant运行时类路径。</description>
+    <topic label="首选项 -  Ant运行时" href="reference/ref-antruntimeprefs.htm"/>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_properties_page_context">
-    <description>On this page, you can configure the properties available to Ant.</description>
-    <topic label="Preferences - Ant Runtime" href="reference/ref-antruntimeprefs.htm"/>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以配置Ant可用的属性。</description>
+    <topic label="首选项 -  Ant运行时" href="reference/ref-antruntimeprefs.htm"/>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_tasks_page_context">
-    <description>On this page, you can add or edit custom Ant tasks, specified within a Java class file, to be used when running Ant buildfiles.</description>
-    <topic label="Preferences - Ant Runtime" href="reference/ref-antruntimeprefs.htm"/>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>在此页面上，您可以添加或编辑在Java类文件中指定的自定义Ant任务，以便在运行Ant构建文件时使用。</description>
+    <topic label="首选项 -  Ant运行时" href="reference/ref-antruntimeprefs.htm"/>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_view_context">
-    <description>This view allows you to view your Ant buildfiles in one place and quickly execute a target or the default target of a buildfile.</description>
-    <topic label="Ant View" href="reference/ref-antview.htm"/>
-    <topic label="Ant Editor" href="reference/ref-anteditor.htm"/> 
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此视图允许您在一个位置查看Ant构建文件，并快速执行构建文件的目标或默认目标。</description>
+    <topic label="蚂蚁观" href="reference/ref-antview.htm"/>
+    <topic label="Ant编辑器" href="reference/ref-anteditor.htm"/> 
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
   <context id="ant_editor_context">
-    <description>The Ant editor provides you with Ant buildfile specific text editing support.</description>
-    <topic label="Ant Editor" href="reference/ref-anteditor.htm"/> 
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>Ant编辑器为您提供特定于Ant构建文件的文本编辑支持。</description>
+    <topic label="Ant编辑器" href="reference/ref-anteditor.htm"/> 
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_main_tab_context">
-    <description>This tab allows you to configure the buildfile location and other attributes of this launch configuration.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置此启动配置的构建文件位置和其他属性。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_targets_tab_context">
-    <description>This tab allows you to configure which targets will be executed by this launch configuration.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置此启动配置将执行的目标。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
 
   <context id="ant_properties_tab_context">
-    <description>This tab allows you to configure the properties that will be passed in to Ant when this launch configuration is executed.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置在执行此启动配置时将传递给Ant的属性。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   <context id="ant_build_tab_context">
-     <description>This tab allows you to configure what resources, if any, are built prior to the Ant build file being launched</description>
-     <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-     <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+     <description>此选项卡允许您配置在启动Ant构建文件之前构建的资源（如果有）</description>
+     <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+     <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
   </context>
   <context id="ant_builder_tab_context">
-     <description>This tab allows you to configure when this project builder will be executed.</description>
-     <topic href="gettingStarted/qs-92_project_builders.htm" label="Ant Buildfiles As Project Builders"/>
-     <topic href="gettingStarted/qs-93_project_builder.htm" label="Creating a Project Builder Ant Buildfile"/>
-     <topic href="gettingStarted/qs-93a_project_builder_targets.htm" label="Project Builder Ant Targets"/>
-     <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-     <topic href="concepts/concepts-antsupport.htm" label="External Tools"/>
+     <description>此选项卡允许您配置何时执行此项目构建器。</description>
+     <topic href="gettingStarted/qs-92_project_builders.htm" label="Ant Buildfiles作为项目构建者"/>
+     <topic href="gettingStarted/qs-93_project_builder.htm" label="创建项目构建器Ant构建文件"/>
+     <topic href="gettingStarted/qs-93a_project_builder_targets.htm" label="项目构建器Ant目标"/>
+     <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+     <topic href="concepts/concepts-antsupport.htm" label="外部工具"/>
   </context>
 
   <context id="ant_classpath_tab_context">
-    <description>This tab allows you to configure the runtime classpath that will be used when this launch configuration is executed.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置将在执行此启动配置时使用的运行时类路径。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
   
    <context id="ant_jre_tab_context">
-    <description>This tab allows you to configure the JRE used for the Ant build.  By default Ant runs in a separate Java virtual machine (JVM) from Eclipse. You can specify the build to occur in the same JRE as Eclipse.</description>
-    <topic label="Ant Support" href="concepts/concepts-antsupport.htm"/> 
-    <topic label="External Tools" href="concepts/concepts-exttools.htm"/>
+    <description>此选项卡允许您配置用于Ant构建的JRE。默认情况下，Ant在Eclipse的单独Java虚拟机（JVM）中运行。您可以在与Eclipse相同的JRE中指定构建。</description>
+    <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/> 
+    <topic label="外部工具" href="concepts/concepts-exttools.htm"/>
   </context>
    <context id="ant_refresh_tab_context">
-      <description>This tab allows you to choose which resources are refreshed when a launch configuration is executed.</description>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此选项卡允许您选择在执行启动配置时刷新哪些资源。</description>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
    <context id="ant_environment_tab_context">
-      <description>This tab allows you to create and configure the environment variables that will be passed into the launch configuration when the Ant buildfile is executed</description>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此选项卡允许您创建和配置在执行Ant构建文件时将传递到启动配置的环境变量</description>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
    <context id="ant_common_tab_context">
-      <description>This tab allows you to set if the launch configuration is shared, which favorites menu it will be displayed in, output and encoding options and whether to launch the configuration in the background.</description>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此选项卡允许您设置是否共享启动配置，将显示哪个收藏夹菜单，输出和编码选项以及是否在后台启动配置。</description>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
    <context id="ant_build_options_context">
-      <description>This tab allows you to configure output settings, logging and optional launch settings for the builder</description>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此选项卡允许您为构建器配置输出设置，日志记录和可选的启动设置</description>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
    <context id="ant_type_context">
-      <description>This configuration type allows you to run and debug Ant buildfiles</description>
-      <topic href="concepts/concepts-antexttools.htm" label="Ant and External Tools"/>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此配置类型允许您运行和调试Ant构建文件</description>
+      <topic href="concepts/concepts-antexttools.htm" label="Ant和外部工具"/>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
    <context id="ant_builder_type_context">
-      <description>This configuration type allows you to create an Eclipse project builder that uses an Ant build file</description>
-      <topic href="concepts/concepts-antexttools.htm" label="Ant and External Tools"/>
-      <topic href="concepts/concepts-antsupport.htm" label="Ant Support"/>
-      <topic href="concepts/concepts-exttools.htm" label="External Tools"/>
+      <description>此配置类型允许您创建使用Ant构建文件的Eclipse项目构建器</description>
+      <topic href="concepts/concepts-antexttools.htm" label="Ant和外部工具"/>
+      <topic href="concepts/concepts-antsupport.htm" label="蚂蚁支持"/>
+      <topic href="concepts/concepts-exttools.htm" label="外部工具"/>
    </context>
 </contexts>

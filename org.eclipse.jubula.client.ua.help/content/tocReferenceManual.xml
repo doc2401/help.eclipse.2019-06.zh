@@ -1,351 +1,351 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<toc label="Jubula Reference Manual" topic="content/html/reference/index.html">
-  <topic label="Introduction" href="content/html/reference/introduction/ch01.html"/>
-  <topic label="Toolkits" href="content/html/reference/toolkits/ch02.html">
-    <topic label="Abstract Toolkit" href="content/html/reference/toolkits/ch02s01.html"/>
-    <topic label="Concrete Toolkit" href="content/html/reference/toolkits/ch02s02.html"/>
-    <topic label="GEF Toolkit" href="content/html/reference/toolkits/ch02s03.html"/>
-    <topic label="HTML Toolkit" href="content/html/reference/toolkits/ch02s04.html"/>
-    <topic label="JavaFX Toolkit" href="content/html/reference/toolkits/ch02s05.html"/>
-    <topic label="RCP Toolkit" href="content/html/reference/toolkits/ch02s06.html"/>
+<toc label="Jubula参考手册" topic="content/html/reference/index.html">
+  <topic label="介绍" href="content/html/reference/introduction/ch01.html"/>
+  <topic label="工具包" href="content/html/reference/toolkits/ch02.html">
+    <topic label="抽象工具包" href="content/html/reference/toolkits/ch02s01.html"/>
+    <topic label="具体工具包" href="content/html/reference/toolkits/ch02s02.html"/>
+    <topic label="GEF工具包" href="content/html/reference/toolkits/ch02s03.html"/>
+    <topic label="HTML工具包" href="content/html/reference/toolkits/ch02s04.html"/>
+    <topic label="JavaFX工具包" href="content/html/reference/toolkits/ch02s05.html"/>
+    <topic label="RCP工具包" href="content/html/reference/toolkits/ch02s06.html"/>
     <topic label="Swing Toolkit" href="content/html/reference/toolkits/ch02s07.html"/>
-    <topic label="SWT Toolkit" href="content/html/reference/toolkits/ch02s08.html"/>
+    <topic label="SWT工具包" href="content/html/reference/toolkits/ch02s08.html"/>
   </topic>
-  <topic label="Components" href="content/html/reference/components/ch03.html">
-    <topic label="Abstract toolkit component overview" href="content/html/reference/components/ch03s01.html">
-      <topic label="Abstract toolkit button component" href="content/html/reference/components/ch03s01s01.html"/>
-      <topic label="Abstract toolkit graphics component" href="content/html/reference/components/ch03s01s02.html"/>
-      <topic label="Abstract toolkit text component" href="content/html/reference/components/ch03s01s03.html"/>
-      <topic label="Abstract toolkit text input component" href="content/html/reference/components/ch03s01s04.html"/>
+  <topic label="组件" href="content/html/reference/components/ch03.html">
+    <topic label="抽象工具包组件概述" href="content/html/reference/components/ch03s01.html">
+      <topic label="抽象工具包按钮组件" href="content/html/reference/components/ch03s01s01.html"/>
+      <topic label="抽象工具包图形组件" href="content/html/reference/components/ch03s01s02.html"/>
+      <topic label="抽象工具包文本组件" href="content/html/reference/components/ch03s01s03.html"/>
+      <topic label="抽象工具包文本输入组件" href="content/html/reference/components/ch03s01s04.html"/>
     </topic>
-    <topic label="Concrete toolkit component overview" href="content/html/reference/components/ch03s02.html">
-      <topic label="Concrete toolkit application component" href="content/html/reference/components/ch03s02s01.html"/>
-      <topic label="Concrete toolkit button component" href="content/html/reference/components/ch03s02s02.html"/>
-      <topic label="Concrete toolkit combo component" href="content/html/reference/components/ch03s02s03.html"/>
-      <topic label="Concrete toolkit list component" href="content/html/reference/components/ch03s02s04.html"/>
-      <topic label="Concrete toolkit menu bar component" href="content/html/reference/components/ch03s02s05.html"/>
-      <topic label="Concrete toolkit Operating System component" href="content/html/reference/components/ch03s02s06.html"/>
-      <topic label="Concrete toolkit Reflection component" href="content/html/reference/components/ch03s02s07.html"/>
-      <topic label="Concrete toolkit slider component" href="content/html/reference/components/ch03s02s08.html"/>
-      <topic label="Concrete toolkit tabbed component" href="content/html/reference/components/ch03s02s09.html"/>
-      <topic label="Concrete toolkit table component" href="content/html/reference/components/ch03s02s10.html"/>
-      <topic label="Concrete toolkit text component" href="content/html/reference/components/ch03s02s11.html"/>
-      <topic label="Concrete toolkit text input component" href="content/html/reference/components/ch03s02s12.html"/>
-      <topic label="Concrete toolkit tooltip component" href="content/html/reference/components/ch03s02s13.html"/>
-      <topic label="Concrete toolkit tree component" href="content/html/reference/components/ch03s02s14.html"/>
-      <topic label="Concrete toolkit tree table component" href="content/html/reference/components/ch03s02s15.html"/>
+    <topic label="具体工具包组件概述" href="content/html/reference/components/ch03s02.html">
+      <topic label="具体工具包应用程序组件" href="content/html/reference/components/ch03s02s01.html"/>
+      <topic label="具体工具包按钮组件" href="content/html/reference/components/ch03s02s02.html"/>
+      <topic label="具体工具包组合组件" href="content/html/reference/components/ch03s02s03.html"/>
+      <topic label="具体工具包列表组件" href="content/html/reference/components/ch03s02s04.html"/>
+      <topic label="具体工具包菜单栏组件" href="content/html/reference/components/ch03s02s05.html"/>
+      <topic label="具体工具包操作系统组件" href="content/html/reference/components/ch03s02s06.html"/>
+      <topic label="具体工具包反射组件" href="content/html/reference/components/ch03s02s07.html"/>
+      <topic label="具体工具包滑块组件" href="content/html/reference/components/ch03s02s08.html"/>
+      <topic label="具体工具包选项卡式组件" href="content/html/reference/components/ch03s02s09.html"/>
+      <topic label="具体的工具包表组件" href="content/html/reference/components/ch03s02s10.html"/>
+      <topic label="具体工具包文本组件" href="content/html/reference/components/ch03s02s11.html"/>
+      <topic label="具体工具包文本输入组件" href="content/html/reference/components/ch03s02s12.html"/>
+      <topic label="具体工具包工具提示组件" href="content/html/reference/components/ch03s02s13.html"/>
+      <topic label="具体的工具包树组件" href="content/html/reference/components/ch03s02s14.html"/>
+      <topic label="具体工具包树表组件" href="content/html/reference/components/ch03s02s15.html"/>
     </topic>
-    <topic label="GEF toolkit component overview" href="content/html/reference/components/ch03s03.html">
-      <topic label="GEF toolkit figure canvas" href="content/html/reference/components/ch03s03s01.html"/>
+    <topic label="GEF工具包组件概述" href="content/html/reference/components/ch03s03.html">
+      <topic label="GEF工具包图帆布" href="content/html/reference/components/ch03s03s01.html"/>
     </topic>
-    <topic label="HTML toolkit component overview" href="content/html/reference/components/ch03s04.html">
-      <topic label="HTML toolkit Alert/Prompt/Confirmation dialog" href="content/html/reference/components/ch03s04s01.html"/>
-      <topic label="HTML toolkit anchor" href="content/html/reference/components/ch03s04s02.html"/>
-      <topic label="HTML toolkit browser" href="content/html/reference/components/ch03s04s03.html"/>
-      <topic label="HTML toolkit locator" href="content/html/reference/components/ch03s04s04.html"/>
+    <topic label="HTML工具包组件概述" href="content/html/reference/components/ch03s04.html">
+      <topic label="HTML工具包警报/提示/确认对话框" href="content/html/reference/components/ch03s04s01.html"/>
+      <topic label="HTML工具包锚" href="content/html/reference/components/ch03s04s02.html"/>
+      <topic label="HTML工具包浏览器" href="content/html/reference/components/ch03s04s03.html"/>
+      <topic label="HTML工具包定位器" href="content/html/reference/components/ch03s04s04.html"/>
     </topic>
-    <topic label="SWT toolkit component overview" href="content/html/reference/components/ch03s05.html">
-      <topic label="SWT toolkit tool item" href="content/html/reference/components/ch03s05s01.html"/>
-      <topic label="SWT toolkit tree" href="content/html/reference/components/ch03s05s02.html"/>
-      <topic label="SWT toolkit tree table" href="content/html/reference/components/ch03s05s03.html"/>
+    <topic label="SWT工具包组件概述" href="content/html/reference/components/ch03s05.html">
+      <topic label="SWT工具包工具项" href="content/html/reference/components/ch03s05s01.html"/>
+      <topic label="SWT工具包树" href="content/html/reference/components/ch03s05s02.html"/>
+      <topic label="SWT工具包树表" href="content/html/reference/components/ch03s05s03.html"/>
     </topic>
   </topic>
-  <topic label="Parameters" href="content/html/reference/parameters/ch04.html">
-    <topic label="Action to perform" href="content/html/reference/parameters/ch04s01.html"/>
-    <topic label="Activate Key" href="content/html/reference/parameters/ch04s02.html"/>
-    <topic label="Activation Method" href="content/html/reference/parameters/ch04s03.html"/>
-    <topic label="Anchor Type" href="content/html/reference/parameters/ch04s04.html"/>
-    <topic label="Arguments" href="content/html/reference/parameters/ch04s05.html"/>
-    <topic label="Argument Split Character" href="content/html/reference/parameters/ch04s06.html"/>
-    <topic label="Base Key" href="content/html/reference/parameters/ch04s07.html"/>
-    <topic label="Column" href="content/html/reference/parameters/ch04s08.html"/>
-    <topic label="Column Operator" href="content/html/reference/parameters/ch04s09.html"/>
-    <topic label="Command" href="content/html/reference/parameters/ch04s10.html"/>
-    <topic label="Comparison Method" href="content/html/reference/parameters/ch04s11.html"/>
-    <topic label="Count" href="content/html/reference/parameters/ch04s12.html"/>
-    <topic label="Create Directories" href="content/html/reference/parameters/ch04s13.html"/>
-    <topic label="CSS Path" href="content/html/reference/parameters/ch04s14.html"/>
-    <topic label="Delay" href="content/html/reference/parameters/ch04s15.html"/>
-    <topic label="Delay after closure" href="content/html/reference/parameters/ch04s16.html"/>
-    <topic label="Delay after visibility" href="content/html/reference/parameters/ch04s17.html"/>
-    <topic label="Delay before drop" href="content/html/reference/parameters/ch04s18.html"/>
-    <topic label="Destination" href="content/html/reference/parameters/ch04s19.html"/>
-    <topic label="Direction" href="content/html/reference/parameters/ch04s20.html"/>
-    <topic label="Directory" href="content/html/reference/parameters/ch04s21.html"/>
-    <topic label="Editable" href="content/html/reference/parameters/ch04s22.html"/>
-    <topic label="Enabled" href="content/html/reference/parameters/ch04s23.html"/>
-    <topic label="Encoding" href="content/html/reference/parameters/ch04s24.html"/>
-    <topic label="Environment" href="content/html/reference/parameters/ch04s25.html"/>
-    <topic label="Executable" href="content/html/reference/parameters/ch04s26.html"/>
-    <topic label="Exists" href="content/html/reference/parameters/ch04s27.html"/>
-    <topic label="Expected behavior" href="content/html/reference/parameters/ch04s28.html"/>
-    <topic label="Expected exit code" href="content/html/reference/parameters/ch04s29.html"/>
-    <topic label="Extend selection" href="content/html/reference/parameters/ch04s30.html"/>
-    <topic label="File access" href="content/html/reference/parameters/ch04s31.html"/>
-    <topic label="Fully qualified Class Name" href="content/html/reference/parameters/ch04s32.html"/>
+  <topic label="参数" href="content/html/reference/parameters/ch04.html">
+    <topic label="要采取的行动" href="content/html/reference/parameters/ch04s01.html"/>
+    <topic label="激活密钥" href="content/html/reference/parameters/ch04s02.html"/>
+    <topic label="激活方法" href="content/html/reference/parameters/ch04s03.html"/>
+    <topic label="锚点类型" href="content/html/reference/parameters/ch04s04.html"/>
+    <topic label="参数" href="content/html/reference/parameters/ch04s05.html"/>
+    <topic label="参数分裂字符" href="content/html/reference/parameters/ch04s06.html"/>
+    <topic label="基本密钥" href="content/html/reference/parameters/ch04s07.html"/>
+    <topic label="柱" href="content/html/reference/parameters/ch04s08.html"/>
+    <topic label="列操作员" href="content/html/reference/parameters/ch04s09.html"/>
+    <topic label="命令" href="content/html/reference/parameters/ch04s10.html"/>
+    <topic label="比较方法" href="content/html/reference/parameters/ch04s11.html"/>
+    <topic label="计数" href="content/html/reference/parameters/ch04s12.html"/>
+    <topic label="创建目录" href="content/html/reference/parameters/ch04s13.html"/>
+    <topic label="CSS路径" href="content/html/reference/parameters/ch04s14.html"/>
+    <topic label="延迟" href="content/html/reference/parameters/ch04s15.html"/>
+    <topic label="关闭后延迟" href="content/html/reference/parameters/ch04s16.html"/>
+    <topic label="能见度后延迟" href="content/html/reference/parameters/ch04s17.html"/>
+    <topic label="下降前延迟" href="content/html/reference/parameters/ch04s18.html"/>
+    <topic label="目的地" href="content/html/reference/parameters/ch04s19.html"/>
+    <topic label="方向" href="content/html/reference/parameters/ch04s20.html"/>
+    <topic label="目录" href="content/html/reference/parameters/ch04s21.html"/>
+    <topic label="可编辑" href="content/html/reference/parameters/ch04s22.html"/>
+    <topic label="启用" href="content/html/reference/parameters/ch04s23.html"/>
+    <topic label="编码" href="content/html/reference/parameters/ch04s24.html"/>
+    <topic label="环境" href="content/html/reference/parameters/ch04s25.html"/>
+    <topic label="可执行文件" href="content/html/reference/parameters/ch04s26.html"/>
+    <topic label="存在" href="content/html/reference/parameters/ch04s27.html"/>
+    <topic label="预期的行为" href="content/html/reference/parameters/ch04s28.html"/>
+    <topic label="预期的退出代码" href="content/html/reference/parameters/ch04s29.html"/>
+    <topic label="扩展选择" href="content/html/reference/parameters/ch04s30.html"/>
+    <topic label="文件访问权限" href="content/html/reference/parameters/ch04s31.html"/>
+    <topic label="完全合格的班级名称" href="content/html/reference/parameters/ch04s32.html"/>
     <topic label="HasConnection" href="content/html/reference/parameters/ch04s33.html"/>
-    <topic label="Has focus" href="content/html/reference/parameters/ch04s34.html"/>
-    <topic label="Identifier" href="content/html/reference/parameters/ch04s35.html"/>
-    <topic label="Identifier Type" href="content/html/reference/parameters/ch04s36.html"/>
-    <topic label="Index" href="content/html/reference/parameters/ch04s37.html"/>
+    <topic label="有焦点" href="content/html/reference/parameters/ch04s34.html"/>
+    <topic label="识别码" href="content/html/reference/parameters/ch04s35.html"/>
+    <topic label="标识符类型" href="content/html/reference/parameters/ch04s36.html"/>
+    <topic label="指数" href="content/html/reference/parameters/ch04s37.html"/>
     <topic label="Indexpath" href="content/html/reference/parameters/ch04s38.html"/>
-    <topic label="Insert after pattern" href="content/html/reference/parameters/ch04s39.html"/>
-    <topic label="Key" href="content/html/reference/parameters/ch04s40.html"/>
-    <topic label="Label" href="content/html/reference/parameters/ch04s41.html"/>
-    <topic label="Local" href="content/html/reference/parameters/ch04s42.html"/>
-    <topic label="Locator" href="content/html/reference/parameters/ch04s43.html"/>
-    <topic label="Margin Bottom" href="content/html/reference/parameters/ch04s44.html"/>
-    <topic label="Margin Left" href="content/html/reference/parameters/ch04s45.html"/>
-    <topic label="Margin Right" href="content/html/reference/parameters/ch04s46.html"/>
-    <topic label="Margin Top" href="content/html/reference/parameters/ch04s47.html"/>
-    <topic label="Measure" href="content/html/reference/parameters/ch04s48.html"/>
-    <topic label="Method Arguments" href="content/html/reference/parameters/ch04s49.html"/>
-    <topic label="Method Argument Separator" href="content/html/reference/parameters/ch04s50.html"/>
-    <topic label="Method Name" href="content/html/reference/parameters/ch04s51.html"/>
-    <topic label="Method Signature" href="content/html/reference/parameters/ch04s52.html"/>
-    <topic label="Millisecs" href="content/html/reference/parameters/ch04s53.html"/>
-    <topic label="Modifier Keys" href="content/html/reference/parameters/ch04s54.html"/>
-    <topic label="Mouse Button" href="content/html/reference/parameters/ch04s55.html"/>
-    <topic label="Number of Cells" href="content/html/reference/parameters/ch04s56.html"/>
-    <topic label="Number of Clicks" href="content/html/reference/parameters/ch04s57.html"/>
-    <topic label="Number of Nodes" href="content/html/reference/parameters/ch04s58.html"/>
-    <topic label="Operator" href="content/html/reference/parameters/ch04s59.html"/>
-    <topic label="Position" href="content/html/reference/parameters/ch04s60.html"/>
-    <topic label="Path Type" href="content/html/reference/parameters/ch04s61.html"/>
-    <topic label="Pattern" href="content/html/reference/parameters/ch04s62.html"/>
-    <topic label="Pre-Ascend" href="content/html/reference/parameters/ch04s63.html"/>
-    <topic label="Property Name" href="content/html/reference/parameters/ch04s64.html"/>
-    <topic label="Property Value" href="content/html/reference/parameters/ch04s65.html"/>
-    <topic label="Row" href="content/html/reference/parameters/ch04s66.html"/>
-    <topic label="Row Operator" href="content/html/reference/parameters/ch04s67.html"/>
-    <topic label="Scaling Factor" href="content/html/reference/parameters/ch04s68.html"/>
-    <topic label="Search Type" href="content/html/reference/parameters/ch04s69.html"/>
-    <topic label="Selected" href="content/html/reference/parameters/ch04s70.html"/>
-    <topic label="Source Operator" href="content/html/reference/parameters/ch04s71.html"/>
-    <topic label="Source Text Path" href="content/html/reference/parameters/ch04s72.html"/>
-    <topic label="Start Time Variable Name" href="content/html/reference/parameters/ch04s73.html"/>
-    <topic label="Target Operator" href="content/html/reference/parameters/ch04s74.html"/>
-    <topic label="Target Text Path" href="content/html/reference/parameters/ch04s75.html"/>
-    <topic label="Text" href="content/html/reference/parameters/ch04s76.html"/>
-    <topic label="Text Operator" href="content/html/reference/parameters/ch04s77.html"/>
+    <topic label="插入图案后" href="content/html/reference/parameters/ch04s39.html"/>
+    <topic label="键" href="content/html/reference/parameters/ch04s40.html"/>
+    <topic label="标签" href="content/html/reference/parameters/ch04s41.html"/>
+    <topic label="本地" href="content/html/reference/parameters/ch04s42.html"/>
+    <topic label="定位器" href="content/html/reference/parameters/ch04s43.html"/>
+    <topic label="保证金底部" href="content/html/reference/parameters/ch04s44.html"/>
+    <topic label="保证金左" href="content/html/reference/parameters/ch04s45.html"/>
+    <topic label="保证金权利" href="content/html/reference/parameters/ch04s46.html"/>
+    <topic label="保证金顶部" href="content/html/reference/parameters/ch04s47.html"/>
+    <topic label="测量" href="content/html/reference/parameters/ch04s48.html"/>
+    <topic label="方法参数" href="content/html/reference/parameters/ch04s49.html"/>
+    <topic label="方法参数分隔符" href="content/html/reference/parameters/ch04s50.html"/>
+    <topic label="方法名称" href="content/html/reference/parameters/ch04s51.html"/>
+    <topic label="方法签名" href="content/html/reference/parameters/ch04s52.html"/>
+    <topic label="的毫秒" href="content/html/reference/parameters/ch04s53.html"/>
+    <topic label="修改键" href="content/html/reference/parameters/ch04s54.html"/>
+    <topic label="鼠标按钮" href="content/html/reference/parameters/ch04s55.html"/>
+    <topic label="细胞数量" href="content/html/reference/parameters/ch04s56.html"/>
+    <topic label="点击次数" href="content/html/reference/parameters/ch04s57.html"/>
+    <topic label="节点数" href="content/html/reference/parameters/ch04s58.html"/>
+    <topic label="操作者" href="content/html/reference/parameters/ch04s59.html"/>
+    <topic label="位置" href="content/html/reference/parameters/ch04s60.html"/>
+    <topic label="路径类型" href="content/html/reference/parameters/ch04s61.html"/>
+    <topic label="图案" href="content/html/reference/parameters/ch04s62.html"/>
+    <topic label="预登高" href="content/html/reference/parameters/ch04s63.html"/>
+    <topic label="物业名称" href="content/html/reference/parameters/ch04s64.html"/>
+    <topic label="适当的价值" href="content/html/reference/parameters/ch04s65.html"/>
+    <topic label="行" href="content/html/reference/parameters/ch04s66.html"/>
+    <topic label="行操作员" href="content/html/reference/parameters/ch04s67.html"/>
+    <topic label="比例因子" href="content/html/reference/parameters/ch04s68.html"/>
+    <topic label="搜索类型" href="content/html/reference/parameters/ch04s69.html"/>
+    <topic label="选" href="content/html/reference/parameters/ch04s70.html"/>
+    <topic label="来源运营商" href="content/html/reference/parameters/ch04s71.html"/>
+    <topic label="源文本路径" href="content/html/reference/parameters/ch04s72.html"/>
+    <topic label="开始时间变量名称" href="content/html/reference/parameters/ch04s73.html"/>
+    <topic label="目标运营商" href="content/html/reference/parameters/ch04s74.html"/>
+    <topic label="目标文本路径" href="content/html/reference/parameters/ch04s75.html"/>
+    <topic label="文本" href="content/html/reference/parameters/ch04s76.html"/>
+    <topic label="文字操作员" href="content/html/reference/parameters/ch04s77.html"/>
     <topic label="Textpath" href="content/html/reference/parameters/ch04s78.html"/>
-    <topic label="Textsize" href="content/html/reference/parameters/ch04s79.html"/>
-    <topic label="Timeout in Millisecs" href="content/html/reference/parameters/ch04s80.html"/>
-    <topic label="Time per word" href="content/html/reference/parameters/ch04s81.html"/>
-    <topic label="Timer Name" href="content/html/reference/parameters/ch04s82.html"/>
-    <topic label="Timer Value Variable Name" href="content/html/reference/parameters/ch04s83.html"/>
-    <topic label="Title" href="content/html/reference/parameters/ch04s84.html"/>
-    <topic label="Type" href="content/html/reference/parameters/ch04s85.html"/>
-    <topic label="URL" href="content/html/reference/parameters/ch04s86.html"/>
-    <topic label="Use New Environment" href="content/html/reference/parameters/ch04s87.html"/>
-    <topic label="Value" href="content/html/reference/parameters/ch04s88.html"/>
-    <topic label="Value 1" href="content/html/reference/parameters/ch04s89.html"/>
-    <topic label="Value 2" href="content/html/reference/parameters/ch04s90.html"/>
-    <topic label="Value Operator" href="content/html/reference/parameters/ch04s91.html"/>
-    <topic label="Variable Name" href="content/html/reference/parameters/ch04s92.html"/>
-    <topic label="Window Title" href="content/html/reference/parameters/ch04s93.html"/>
-    <topic label="XPath" href="content/html/reference/parameters/ch04s94.html"/>
-    <topic label="X-Position" href="content/html/reference/parameters/ch04s95.html"/>
-    <topic label="X-Units" href="content/html/reference/parameters/ch04s96.html"/>
-    <topic label="Y-Position" href="content/html/reference/parameters/ch04s97.html"/>
-    <topic label="Y-Units" href="content/html/reference/parameters/ch04s98.html"/>
+    <topic label="字体大小" href="content/html/reference/parameters/ch04s79.html"/>
+    <topic label="Millisecs超时" href="content/html/reference/parameters/ch04s80.html"/>
+    <topic label="每个字的时间" href="content/html/reference/parameters/ch04s81.html"/>
+    <topic label="计时器名称" href="content/html/reference/parameters/ch04s82.html"/>
+    <topic label="定时器值变量名称" href="content/html/reference/parameters/ch04s83.html"/>
+    <topic label="标题" href="content/html/reference/parameters/ch04s84.html"/>
+    <topic label="类型" href="content/html/reference/parameters/ch04s85.html"/>
+    <topic label="网址" href="content/html/reference/parameters/ch04s86.html"/>
+    <topic label="使用新环境" href="content/html/reference/parameters/ch04s87.html"/>
+    <topic label="值" href="content/html/reference/parameters/ch04s88.html"/>
+    <topic label="价值1" href="content/html/reference/parameters/ch04s89.html"/>
+    <topic label="价值2" href="content/html/reference/parameters/ch04s90.html"/>
+    <topic label="价值运营商" href="content/html/reference/parameters/ch04s91.html"/>
+    <topic label="变量名" href="content/html/reference/parameters/ch04s92.html"/>
+    <topic label="窗口标题" href="content/html/reference/parameters/ch04s93.html"/>
+    <topic label="XPath的" href="content/html/reference/parameters/ch04s94.html"/>
+    <topic label="X坐标" href="content/html/reference/parameters/ch04s95.html"/>
+    <topic label="X-单位" href="content/html/reference/parameters/ch04s96.html"/>
+    <topic label="Y坐标" href="content/html/reference/parameters/ch04s97.html"/>
+    <topic label="Y单位" href="content/html/reference/parameters/ch04s98.html"/>
   </topic>
-  <topic label="Actions" href="content/html/reference/actions/ch05.html">
-    <topic label="Actions usable on most applications" href="content/html/reference/actions/ch05s01.html">
-      <topic label="Actions that execute behavior" href="content/html/reference/actions/ch05s01s01.html">
-        <topic label="Activate application" href="content/html/reference/actions/ch05s01s01s01.html"/>
-        <topic label="Click" href="content/html/reference/actions/ch05s01s01s02.html">
-          <topic label="Click (General Components)" href="content/html/reference/actions/ch05s01s01s02s01.html"/>
+  <topic label="操作" href="content/html/reference/actions/ch05.html">
+    <topic label="可用于大多数应用程序的操" href="content/html/reference/actions/ch05s01.html">
+      <topic label="执行行为的动作" href="content/html/reference/actions/ch05s01s01.html">
+        <topic label="激活应用程序" href="content/html/reference/actions/ch05s01s01s01.html"/>
+        <topic label="点击" href="content/html/reference/actions/ch05s01s01s02.html">
+          <topic label="单击（常规组件）" href="content/html/reference/actions/ch05s01s01s02s01.html"/>
         </topic>
-        <topic label="Collapse / Expand Trees" href="content/html/reference/actions/ch05s01s01s03.html"/>
-        <topic label="Copy text to clipboard" href="content/html/reference/actions/ch05s01s01s04.html"/>
-        <topic label="Drag and drop" href="content/html/reference/actions/ch05s01s01s05.html">
-          <topic label="Drag and Drop (General Components)" href="content/html/reference/actions/ch05s01s01s05s01.html"/>
-          <topic label="Drag and Drop in List Components" href="content/html/reference/actions/ch05s01s01s05s02.html"/>
-          <topic label="Drag and Drop in Table Components" href="content/html/reference/actions/ch05s01s01s05s03.html"/>
-          <topic label="Drag and Drop in Tree Components" href="content/html/reference/actions/ch05s01s01s05s04.html"/>
+        <topic label="折叠/展开树木" href="content/html/reference/actions/ch05s01s01s03.html"/>
+        <topic label="将文本复制到剪贴板" href="content/html/reference/actions/ch05s01s01s04.html"/>
+        <topic label="拖放" href="content/html/reference/actions/ch05s01s01s05.html">
+          <topic label="拖放（常规组件）" href="content/html/reference/actions/ch05s01s01s05s01.html"/>
+          <topic label="在列表组件中拖放" href="content/html/reference/actions/ch05s01s01s05s02.html"/>
+          <topic label="拖放表组件" href="content/html/reference/actions/ch05s01s01s05s03.html"/>
+          <topic label="在树组件中拖放" href="content/html/reference/actions/ch05s01s01s05s04.html"/>
         </topic>
-        <topic label="Execute external command (Deprecated)" href="content/html/reference/actions/ch05s01s01s06.html"/>
-        <topic label="Execute external command" href="content/html/reference/actions/ch05s01s01s07.html"/>
-        <topic label="Invoke (External) Method" href="content/html/reference/actions/ch05s01s01s08.html">
-          <topic label="Invoke Method (General Components)" href="content/html/reference/actions/ch05s01s01s08s01.html"/>
-          <topic label="Invoke Method without a Component" href="content/html/reference/actions/ch05s01s01s08s02.html"/>
-          <topic label="Invoke External Method" href="content/html/reference/actions/ch05s01s01s08s03.html"/>
+        <topic label="执行外部命令（已弃用）" href="content/html/reference/actions/ch05s01s01s06.html"/>
+        <topic label="执行外部命令" href="content/html/reference/actions/ch05s01s01s07.html"/>
+        <topic label="调用（外部）方法" href="content/html/reference/actions/ch05s01s01s08.html">
+          <topic label="调用方法（通用组件）" href="content/html/reference/actions/ch05s01s01s08s01.html"/>
+          <topic label="调用没有组件的方法" href="content/html/reference/actions/ch05s01s01s08s02.html"/>
+          <topic label="调用外部方法" href="content/html/reference/actions/ch05s01s01s08s03.html"/>
         </topic>
-        <topic label="Manual test step" href="content/html/reference/actions/ch05s01s01s09.html"/>
-        <topic label="Move in tables and trees" href="content/html/reference/actions/ch05s01s01s10.html">
-          <topic label="Move in Table Components" href="content/html/reference/actions/ch05s01s01s10s01.html"/>
-          <topic label="Move in Tree Components" href="content/html/reference/actions/ch05s01s01s10s02.html"/>
-          <topic label="Move in Tree Tables" href="content/html/reference/actions/ch05s01s01s10s03.html"/>
+        <topic label="手动测试步骤" href="content/html/reference/actions/ch05s01s01s09.html"/>
+        <topic label="移动表格和树木" href="content/html/reference/actions/ch05s01s01s10.html">
+          <topic label="移入表组件" href="content/html/reference/actions/ch05s01s01s10s01.html"/>
+          <topic label="移动树组件" href="content/html/reference/actions/ch05s01s01s10s02.html"/>
+          <topic label="移动树表" href="content/html/reference/actions/ch05s01s01s10s03.html"/>
         </topic>
-        <topic label="Pause test execution" href="content/html/reference/actions/ch05s01s01s11.html"/>
-        <topic label="Select" href="content/html/reference/actions/ch05s01s01s12.html">
-          <topic label="Select Entry in Combo Components" href="content/html/reference/actions/ch05s01s01s12s01.html"/>
-          <topic label="Select in Context Menus" href="content/html/reference/actions/ch05s01s01s12s02.html"/>
-          <topic label="Select Entry in List Components" href="content/html/reference/actions/ch05s01s01s12s03.html"/>
-          <topic label="Select Entry in Menu Bar Components" href="content/html/reference/actions/ch05s01s01s12s04.html"/>
-          <topic label="Select Entry in Tab Components" href="content/html/reference/actions/ch05s01s01s12s05.html"/>
-          <topic label="Select Entry in Table Components" href="content/html/reference/actions/ch05s01s01s12s06.html"/>
-          <topic label="Select in Text Input Components" href="content/html/reference/actions/ch05s01s01s12s07.html"/>
-          <topic label="Select Nodes in Tree Components" href="content/html/reference/actions/ch05s01s01s12s08.html"/>
-          <topic label="Select Entry in Tree Tables" href="content/html/reference/actions/ch05s01s01s12s09.html"/>
+        <topic label="暂停测试执行" href="content/html/reference/actions/ch05s01s01s11.html"/>
+        <topic label="选择" href="content/html/reference/actions/ch05s01s01s12.html">
+          <topic label="在组合组件中选择条目" href="content/html/reference/actions/ch05s01s01s12s01.html"/>
+          <topic label="在上下文菜单中选择" href="content/html/reference/actions/ch05s01s01s12s02.html"/>
+          <topic label="在列表组件中选择条目" href="content/html/reference/actions/ch05s01s01s12s03.html"/>
+          <topic label="在菜单栏组件中选择条目" href="content/html/reference/actions/ch05s01s01s12s04.html"/>
+          <topic label="在选项卡组件中选择条目" href="content/html/reference/actions/ch05s01s01s12s05.html"/>
+          <topic label="在表组件中选择条目" href="content/html/reference/actions/ch05s01s01s12s06.html"/>
+          <topic label="在文本输入组件中选择" href="content/html/reference/actions/ch05s01s01s12s07.html"/>
+          <topic label="在树组件中选择节点" href="content/html/reference/actions/ch05s01s01s12s08.html"/>
+          <topic label="在树表中选择条目" href="content/html/reference/actions/ch05s01s01s12s09.html"/>
         </topic>
-        <topic label="Set Position" href="content/html/reference/actions/ch05s01s01s13.html">
-          <topic label="Set Position (Slider Components)" href="content/html/reference/actions/ch05s01s01s13s01.html"/>
+        <topic label="设置位置" href="content/html/reference/actions/ch05s01s01s13.html">
+          <topic label="设置位置（滑块组件）" href="content/html/reference/actions/ch05s01s01s13s01.html"/>
         </topic>
-        <topic label="Show text" href="content/html/reference/actions/ch05s01s01s14.html"/>
-        <topic label="Stopwatch - Start and Stop Timer" href="content/html/reference/actions/ch05s01s01s15.html"/>
-        <topic label="Take Screenshot" href="content/html/reference/actions/ch05s01s01s16.html"/>
-        <topic label="Toggle Checkbox in Table Components" href="content/html/reference/actions/ch05s01s01s17.html"/>
+        <topic label="显示文字" href="content/html/reference/actions/ch05s01s01s14.html"/>
+        <topic label="秒表 - 启动和停止计时器" href="content/html/reference/actions/ch05s01s01s15.html"/>
+        <topic label="截图" href="content/html/reference/actions/ch05s01s01s16.html"/>
+        <topic label="切换表组件中的复选框" href="content/html/reference/actions/ch05s01s01s17.html"/>
       </topic>
-      <topic label="Actions that send keyboard interaction (key presses, text input)" href="content/html/reference/actions/ch05s01s02.html">
-        <topic label="Enter Text (General Components)" href="content/html/reference/actions/ch05s01s02s01.html"/>
-        <topic label="Enter Text in Table Components" href="content/html/reference/actions/ch05s01s02s02.html"/>
+      <topic label="发送键盘交互的动作（按键，文本输入）" href="content/html/reference/actions/ch05s01s02.html">
+        <topic label="输入文本（常规组件）" href="content/html/reference/actions/ch05s01s02s01.html"/>
+        <topic label="在表组件中输入文本" href="content/html/reference/actions/ch05s01s02s02.html"/>
       </topic>
-      <topic label="Actions for AUT lifecycle (restarting)" href="content/html/reference/actions/ch05s01s03.html">
-        <topic label="Restart" href="content/html/reference/actions/ch05s01s03s01.html"/>
-        <topic label="Prepare for AUT Termination" href="content/html/reference/actions/ch05s01s03s02.html"/>
-        <topic label="Synchronize Termination and Restart of AUT" href="content/html/reference/actions/ch05s01s03s03.html"/>
+      <topic label="AUT生命周期的动作（重启）" href="content/html/reference/actions/ch05s01s03.html">
+        <topic label="重新开始" href="content/html/reference/actions/ch05s01s03s01.html"/>
+        <topic label="准备AUT终止" href="content/html/reference/actions/ch05s01s03s02.html"/>
+        <topic label="同步AUT的终止和重启" href="content/html/reference/actions/ch05s01s03s03.html"/>
       </topic>
-      <topic label="Actions that perform checks" href="content/html/reference/actions/ch05s01s04.html">
-        <topic label="Check Editability" href="content/html/reference/actions/ch05s01s04s01.html">
-          <topic label="Check Editability (General Components)" href="content/html/reference/actions/ch05s01s04s01s01.html"/>
-          <topic label="Check Editability in Table Components" href="content/html/reference/actions/ch05s01s04s01s02.html"/>
-          <topic label="Check Editability in Tree Tables" href="content/html/reference/actions/ch05s01s04s01s03.html"/>
+      <topic label="执行检查的操作" href="content/html/reference/actions/ch05s01s04.html">
+        <topic label="检查可编辑性" href="content/html/reference/actions/ch05s01s04s01.html">
+          <topic label="检查可编辑性（通用组件）" href="content/html/reference/actions/ch05s01s04s01s01.html"/>
+          <topic label="检查表组件中的可编辑性" href="content/html/reference/actions/ch05s01s04s01s02.html"/>
+          <topic label="检查树表中的可编辑性" href="content/html/reference/actions/ch05s01s04s01s03.html"/>
         </topic>
-        <topic label="Check Enablement" href="content/html/reference/actions/ch05s01s04s02.html">
-          <topic label="Check Enablement (General Components)" href="content/html/reference/actions/ch05s01s04s02s01.html"/>
-          <topic label="Check Enablement in Menu Bar Components" href="content/html/reference/actions/ch05s01s04s02s02.html"/>
-          <topic label="Check Enablement in Tab Components" href="content/html/reference/actions/ch05s01s04s02s03.html"/>
+        <topic label="选中启用" href="content/html/reference/actions/ch05s01s04s02.html">
+          <topic label="检查启用（常规组件）" href="content/html/reference/actions/ch05s01s04s02s01.html"/>
+          <topic label="选中菜单栏组件中的启用" href="content/html/reference/actions/ch05s01s04s02s02.html"/>
+          <topic label="选中选项卡组件中的启用" href="content/html/reference/actions/ch05s01s04s02s03.html"/>
         </topic>
-        <topic label="Check Existence" href="content/html/reference/actions/ch05s01s04s03.html">
-          <topic label="Check Existence (General Components)" href="content/html/reference/actions/ch05s01s04s03s01.html"/>
-          <topic label="Check Existence of Window" href="content/html/reference/actions/ch05s01s04s03s02.html"/>
-          <topic label="Check Existence of Entry in Combo Components" href="content/html/reference/actions/ch05s01s04s03s03.html"/>
-          <topic label="Check Existence in List Components" href="content/html/reference/actions/ch05s01s04s03s04.html"/>
-          <topic label="Check Existence in Menu Bar Components" href="content/html/reference/actions/ch05s01s04s03s05.html"/>
-          <topic label="Check Existence in Tab Components" href="content/html/reference/actions/ch05s01s04s03s06.html"/>
-          <topic label="Check Existence in Table Components" href="content/html/reference/actions/ch05s01s04s03s07.html"/>
-          <topic label="Check Existence in Tree Components" href="content/html/reference/actions/ch05s01s04s03s08.html"/>
-          <topic label="Check Existence of Column" href="content/html/reference/actions/ch05s01s04s03s09.html"/>
+        <topic label="检查存在" href="content/html/reference/actions/ch05s01s04s03.html">
+          <topic label="检查存在（通用组件）" href="content/html/reference/actions/ch05s01s04s03s01.html"/>
+          <topic label="检查窗口的存在" href="content/html/reference/actions/ch05s01s04s03s02.html"/>
+          <topic label="检查组合组件中的条目是否存在" href="content/html/reference/actions/ch05s01s04s03s03.html"/>
+          <topic label="检查列表组件中的存在" href="content/html/reference/actions/ch05s01s04s03s04.html"/>
+          <topic label="检查菜单栏组件中的存在" href="content/html/reference/actions/ch05s01s04s03s05.html"/>
+          <topic label="检查选项卡组件中的存在" href="content/html/reference/actions/ch05s01s04s03s06.html"/>
+          <topic label="检查表组件中的存在" href="content/html/reference/actions/ch05s01s04s03s07.html"/>
+          <topic label="检查树组件中的存在性" href="content/html/reference/actions/ch05s01s04s03s08.html"/>
+          <topic label="检查列的存在" href="content/html/reference/actions/ch05s01s04s03s09.html"/>
         </topic>
-        <topic label="Check Focus" href="content/html/reference/actions/ch05s01s04s04.html"/>
-        <topic label="Check Position" href="content/html/reference/actions/ch05s01s04s05.html">
-          <topic label="Check Position (Slider Components)" href="content/html/reference/actions/ch05s01s04s05s01.html"/>
+        <topic label="检查焦点" href="content/html/reference/actions/ch05s01s04s04.html"/>
+        <topic label="检查位置" href="content/html/reference/actions/ch05s01s04s05.html">
+          <topic label="检查位置（滑块组件）" href="content/html/reference/actions/ch05s01s04s05s01.html"/>
         </topic>
-        <topic label="Check Property" href="content/html/reference/actions/ch05s01s04s06.html">
-          <topic label="Check Property (General Components)" href="content/html/reference/actions/ch05s01s04s06s01.html"/>
-          <topic label="Check Property in List Components" href="content/html/reference/actions/ch05s01s04s06s02.html"/>
-          <topic label="Check Property in Table Components" href="content/html/reference/actions/ch05s01s04s06s03.html"/>
-          <topic label="Check Property in Tree Components" href="content/html/reference/actions/ch05s01s04s06s04.html"/>
-          <topic label="Check Property in Tree Table Components" href="content/html/reference/actions/ch05s01s04s06s05.html"/>
+        <topic label="检查财产" href="content/html/reference/actions/ch05s01s04s06.html">
+          <topic label="检查物业（一般组件）" href="content/html/reference/actions/ch05s01s04s06s01.html"/>
+          <topic label="检查列表组件中的属性" href="content/html/reference/actions/ch05s01s04s06s02.html"/>
+          <topic label="检查表组件中的属性" href="content/html/reference/actions/ch05s01s04s06s03.html"/>
+          <topic label="检查树组件中的属性" href="content/html/reference/actions/ch05s01s04s06s04.html"/>
+          <topic label="检查树表组件中的属性" href="content/html/reference/actions/ch05s01s04s06s05.html"/>
         </topic>
-        <topic label="Check Selection" href="content/html/reference/actions/ch05s01s04s07.html">
-          <topic label="Check Selection of Context Menu Entry (General Components)" href="content/html/reference/actions/ch05s01s04s07s01.html"/>
-          <topic label="Check Selection in Button Components" href="content/html/reference/actions/ch05s01s04s07s02.html"/>
-          <topic label="Check Selection in Combo Components" href="content/html/reference/actions/ch05s01s04s07s03.html"/>
-          <topic label="Check Selection in List Components" href="content/html/reference/actions/ch05s01s04s07s04.html"/>
-          <topic label="Check Selection in Menu Bar Components" href="content/html/reference/actions/ch05s01s04s07s05.html"/>
-          <topic label="Check Selection in Tab Components" href="content/html/reference/actions/ch05s01s04s07s06.html"/>
-          <topic label="Check Selection in Table Components" href="content/html/reference/actions/ch05s01s04s07s07.html"/>
-          <topic label="Check Selection by Value(s) - Specify Column" href="content/html/reference/actions/ch05s01s04s07s08.html"/>
+        <topic label="检查选择" href="content/html/reference/actions/ch05s01s04s07.html">
+          <topic label="检查上下文菜单项的选择（常规组件）" href="content/html/reference/actions/ch05s01s04s07s01.html"/>
+          <topic label="检查按钮组件中的选择" href="content/html/reference/actions/ch05s01s04s07s02.html"/>
+          <topic label="检查组合组件中的选择" href="content/html/reference/actions/ch05s01s04s07s03.html"/>
+          <topic label="检查列表组件中的选择" href="content/html/reference/actions/ch05s01s04s07s04.html"/>
+          <topic label="检查菜单栏组件中的选择" href="content/html/reference/actions/ch05s01s04s07s05.html"/>
+          <topic label="选中选项卡组件中的选择" href="content/html/reference/actions/ch05s01s04s07s06.html"/>
+          <topic label="检查表组件中的选择" href="content/html/reference/actions/ch05s01s04s07s07.html"/>
+          <topic label="按值检查选择 - 指定列" href="content/html/reference/actions/ch05s01s04s07s08.html"/>
         </topic>
-        <topic label="Check Text" href="content/html/reference/actions/ch05s01s04s08.html">
-          <topic label="Check Text in Clipboard" href="content/html/reference/actions/ch05s01s04s08s01.html"/>
-          <topic label="Check Text in Components that show Text" href="content/html/reference/actions/ch05s01s04s08s02.html"/>
-          <topic label="Check Text in Tab Components" href="content/html/reference/actions/ch05s01s04s08s03.html"/>
-          <topic label="Check Text in Table Components" href="content/html/reference/actions/ch05s01s04s08s04.html"/>
-          <topic label="Check Text in Tooltip" href="content/html/reference/actions/ch05s01s04s08s05.html"/>
-          <topic label="Check Text in Tree Components" href="content/html/reference/actions/ch05s01s04s08s06.html"/>
-          <topic label="Check Text in Tree Tables" href="content/html/reference/actions/ch05s01s04s08s07.html"/>
-        </topic>
-      </topic>
-      <topic label="Actions for synchronization" href="content/html/reference/actions/ch05s01s05.html">
-        <topic label="Wait" href="content/html/reference/actions/ch05s01s05s01.html"/>
-        <topic label="Wait for Component (General)" href="content/html/reference/actions/ch05s01s05s02.html"/>
-        <topic label="Wait for Component (Menu Bar)" href="content/html/reference/actions/ch05s01s05s03.html"/>
-        <topic label="Wait for Enablement" href="content/html/reference/actions/ch05s01s05s04.html"/>
-        <topic label="Wait for Window" href="content/html/reference/actions/ch05s01s05s05.html"/>
-        <topic label="Wait for Window Activation" href="content/html/reference/actions/ch05s01s05s06.html"/>
-        <topic label="Wait for Window to Close" href="content/html/reference/actions/ch05s01s05s07.html"/>
-      </topic>
-      <topic label="Actions for storing values as variables" href="content/html/reference/actions/ch05s01s06.html">
-        <topic label="Store Property/Value (General Components)" href="content/html/reference/actions/ch05s01s06s01.html"/>
-        <topic label="Store value" href="content/html/reference/actions/ch05s01s06s02.html"/>
-        <topic label="Store value in Testresult Summary" href="content/html/reference/actions/ch05s01s06s03.html"/>
-        <topic label="Store Value in Table Components" href="content/html/reference/actions/ch05s01s06s04.html"/>
-        <topic label="Store Value in Tree Components" href="content/html/reference/actions/ch05s01s06s05.html"/>
-        <topic label="Store Value in Tree Tables" href="content/html/reference/actions/ch05s01s06s06.html"/>
-      </topic>
-      <topic label="Actions for comparing values" href="content/html/reference/actions/ch05s01s07.html">
-        <topic label="Check Numeric Values" href="content/html/reference/actions/ch05s01s07s01.html"/>
-        <topic label="Check String Values" href="content/html/reference/actions/ch05s01s07s02.html"/>
-      </topic>
-      <topic label="Actions for storing values of properties as variables" href="content/html/reference/actions/ch05s01s08.html">
-        <topic label="Store Property in Tables" href="content/html/reference/actions/ch05s01s08s01.html"/>
-        <topic label="Store Property in Trees" href="content/html/reference/actions/ch05s01s08s02.html"/>
-        <topic label="Store Property in Tree Tables" href="content/html/reference/actions/ch05s01s08s03.html"/>
-      </topic>
-    </topic>
-    <topic label="Actions specific to SWT and RCP applications" href="content/html/reference/actions/ch05s02.html">
-      <topic label="Actions that execute behavior - SWT Toolkit" href="content/html/reference/actions/ch05s02s01.html">
-        <topic label="Select" href="content/html/reference/actions/ch05s02s01s01.html">
-          <topic label="Select Menu Entry in Toolbar Items (SWT)" href="content/html/reference/actions/ch05s02s01s01s01.html"/>
-        </topic>
-        <topic label="Toggle checkbox" href="content/html/reference/actions/ch05s02s01s02.html">
-          <topic label="Toggle Checkbox in Trees (SWT)" href="content/html/reference/actions/ch05s02s01s02s01.html"/>
-          <topic label="Toggle Checkbox in Tree Tables (SWT)" href="content/html/reference/actions/ch05s02s01s02s02.html"/>
+        <topic label="检查文字" href="content/html/reference/actions/ch05s01s04s08.html">
+          <topic label="检查剪贴板中的文本" href="content/html/reference/actions/ch05s01s04s08s01.html"/>
+          <topic label="选中显示文本的组件中的文本" href="content/html/reference/actions/ch05s01s04s08s02.html"/>
+          <topic label="选中选项卡组件中的文本" href="content/html/reference/actions/ch05s01s04s08s03.html"/>
+          <topic label="检查表组件中的文本" href="content/html/reference/actions/ch05s01s04s08s04.html"/>
+          <topic label="检查工具提示中的文本" href="content/html/reference/actions/ch05s01s04s08s05.html"/>
+          <topic label="检查树组件中的文本" href="content/html/reference/actions/ch05s01s04s08s06.html"/>
+          <topic label="检查树表中的文本" href="content/html/reference/actions/ch05s01s04s08s07.html"/>
         </topic>
       </topic>
-      <topic label="Actions that perform checks - SWT toolkit" href="content/html/reference/actions/ch05s02s02.html">
-        <topic label="Check Enablement" href="content/html/reference/actions/ch05s02s02s01.html">
-          <topic label="Check Enablement in Toolbar Items (SWT)" href="content/html/reference/actions/ch05s02s02s01s01.html"/>
-        </topic>
-        <topic label="Check Existence" href="content/html/reference/actions/ch05s02s02s02.html">
-          <topic label="Check Existence of entry in Toolbar Items (SWT)" href="content/html/reference/actions/ch05s02s02s02s01.html"/>
-        </topic>
-        <topic label="Check Selection" href="content/html/reference/actions/ch05s02s02s03.html">
-          <topic label="Check Selection in Toolbar Items (SWT)" href="content/html/reference/actions/ch05s02s02s03s01.html"/>
-          <topic label="Check Selection in Trees (SWT)" href="content/html/reference/actions/ch05s02s02s03s02.html"/>
-          <topic label="Check Selection in Tree Tables (SWT)" href="content/html/reference/actions/ch05s02s02s03s03.html"/>
-        </topic>
+      <topic label="同步动作" href="content/html/reference/actions/ch05s01s05.html">
+        <topic label="等待" href="content/html/reference/actions/ch05s01s05s01.html"/>
+        <topic label="等待组件（常规）" href="content/html/reference/actions/ch05s01s05s02.html"/>
+        <topic label="等待组件（菜单栏）" href="content/html/reference/actions/ch05s01s05s03.html"/>
+        <topic label="等待启用" href="content/html/reference/actions/ch05s01s05s04.html"/>
+        <topic label="等待窗口" href="content/html/reference/actions/ch05s01s05s05.html"/>
+        <topic label="等待窗口激活" href="content/html/reference/actions/ch05s01s05s06.html"/>
+        <topic label="等待窗口关闭" href="content/html/reference/actions/ch05s01s05s07.html"/>
       </topic>
-      <topic label="Actions on the GEF figure canvas" href="content/html/reference/actions/ch05s02s03.html">
-        <topic label="Actions that execute behavior - GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s01.html">
-          <topic label="Click in GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s01s01.html"/>
-          <topic label="Drag and Drop in GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s01s02.html"/>
-          <topic label="Select Tool" href="content/html/reference/actions/ch05s02s03s01s03.html"/>
-        </topic>
-        <topic label="Actions that perform checks - GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s02.html">
-          <topic label="Check Existence in GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s02s01.html"/>
-          <topic label="Check Figure Property" href="content/html/reference/actions/ch05s02s03s02s02.html"/>
-          <topic label="Check Anchor Count" href="content/html/reference/actions/ch05s02s03s02s03.html"/>
-          <topic label="Check Anchor has Connection in GEF Figure Canvas" href="content/html/reference/actions/ch05s02s03s02s04.html"/>
-        </topic>
+      <topic label="将值存储为变量的操作" href="content/html/reference/actions/ch05s01s06.html">
+        <topic label="商店物业/价值（一般组件）" href="content/html/reference/actions/ch05s01s06s01.html"/>
+        <topic label="商店价值" href="content/html/reference/actions/ch05s01s06s02.html"/>
+        <topic label="在Testresult Summary中存储值" href="content/html/reference/actions/ch05s01s06s03.html"/>
+        <topic label="将值存储在表组件中" href="content/html/reference/actions/ch05s01s06s04.html"/>
+        <topic label="在树组件中存储值" href="content/html/reference/actions/ch05s01s06s05.html"/>
+        <topic label="在树表中存储值" href="content/html/reference/actions/ch05s01s06s06.html"/>
+      </topic>
+      <topic label="比较值的操作" href="content/html/reference/actions/ch05s01s07.html">
+        <topic label="检查数字值" href="content/html/reference/actions/ch05s01s07s01.html"/>
+        <topic label="检查字符串值" href="content/html/reference/actions/ch05s01s07s02.html"/>
+      </topic>
+      <topic label="将属性值存储为变量的操作" href="content/html/reference/actions/ch05s01s08.html">
+        <topic label="将属性存储在表中" href="content/html/reference/actions/ch05s01s08s01.html"/>
+        <topic label="将属性存储在树中" href="content/html/reference/actions/ch05s01s08s02.html"/>
+        <topic label="将属性存储在树表中" href="content/html/reference/actions/ch05s01s08s03.html"/>
       </topic>
     </topic>
-    <topic label="Actions specific to HTML applications" href="content/html/reference/actions/ch05s03.html">
-      <topic label="Actions that execute behavior - HTML toolkit" href="content/html/reference/actions/ch05s03s01.html">
-        <topic label="Click Locator" href="content/html/reference/actions/ch05s03s01s01.html"/>
-        <topic label="Go Back" href="content/html/reference/actions/ch05s03s01s02.html"/>
-        <topic label="Input Text into Alert/Prompt/Confirmation" href="content/html/reference/actions/ch05s03s01s03.html"/>
-        <topic label="Interact with Alert/Prompt/Confirmation" href="content/html/reference/actions/ch05s03s01s04.html"/>
-        <topic label="Open URL" href="content/html/reference/actions/ch05s03s01s05.html"/>
-        <topic label="Reload page" href="content/html/reference/actions/ch05s03s01s06.html"/>
-        <topic label="Close window" href="content/html/reference/actions/ch05s03s01s07.html"/>
-        <topic label="Select Window with Identifier" href="content/html/reference/actions/ch05s03s01s08.html"/>
-        <topic label="Select Window by Title" href="content/html/reference/actions/ch05s03s01s09.html"/>
+    <topic label="特定于SWT和RCP应用程序的操作" href="content/html/reference/actions/ch05s02.html">
+      <topic label="执行行为的操作 -  SWT Toolkit" href="content/html/reference/actions/ch05s02s01.html">
+        <topic label="选择" href="content/html/reference/actions/ch05s02s01s01.html">
+          <topic label="选择工具栏项目（SWT）中的菜单项" href="content/html/reference/actions/ch05s02s01s01s01.html"/>
+        </topic>
+        <topic label="切换复选框" href="content/html/reference/actions/ch05s02s01s02.html">
+          <topic label="切换树中的复选框（SWT）" href="content/html/reference/actions/ch05s02s01s02s01.html"/>
+          <topic label="切换树表（SWT）中的复选框" href="content/html/reference/actions/ch05s02s01s02s02.html"/>
+        </topic>
       </topic>
-      <topic label="Actions that perform checks - HTML toolkit" href="content/html/reference/actions/ch05s03s02.html">
-        <topic label="Check CSS Path Count" href="content/html/reference/actions/ch05s03s02s01.html"/>
-        <topic label="Check Existence of Alert/Prompt/Confirmation" href="content/html/reference/actions/ch05s03s02s02.html"/>
-        <topic label="Check Text of Alert/Prompt/Confirmation" href="content/html/reference/actions/ch05s03s02s03.html"/>
-        <topic label="Check Text by Locator" href="content/html/reference/actions/ch05s03s02s04.html"/>
-        <topic label="Check URL" href="content/html/reference/actions/ch05s03s02s05.html"/>
-        <topic label="Check XPath Count" href="content/html/reference/actions/ch05s03s02s06.html"/>
+      <topic label="执行检查的操作 -  SWT工具包" href="content/html/reference/actions/ch05s02s02.html">
+        <topic label="选中启用" href="content/html/reference/actions/ch05s02s02s01.html">
+          <topic label="检查工具栏项目（SWT）中的启用" href="content/html/reference/actions/ch05s02s02s01s01.html"/>
+        </topic>
+        <topic label="检查存在" href="content/html/reference/actions/ch05s02s02s02.html">
+          <topic label="检查工具栏项（SWT）中条目的存在" href="content/html/reference/actions/ch05s02s02s02s01.html"/>
+        </topic>
+        <topic label="检查选择" href="content/html/reference/actions/ch05s02s02s03.html">
+          <topic label="检查工具栏项目（SWT）中的选择" href="content/html/reference/actions/ch05s02s02s03s01.html"/>
+          <topic label="检查树中的选择（SWT）" href="content/html/reference/actions/ch05s02s02s03s02.html"/>
+          <topic label="检查树表（SWT）中的选择" href="content/html/reference/actions/ch05s02s02s03s03.html"/>
+        </topic>
       </topic>
-      <topic label="Actions for synchronization - HTML toolkit" href="content/html/reference/actions/ch05s03s03.html">
-        <topic label="Wait for component (based on locator)" href="content/html/reference/actions/ch05s03s03s01.html"/>
+      <topic label="全球环境基金图表画布上的行动" href="content/html/reference/actions/ch05s02s03.html">
+        <topic label="执行行为的动作 -  GEF图画布" href="content/html/reference/actions/ch05s02s03s01.html">
+          <topic label="单击GEF图画布" href="content/html/reference/actions/ch05s02s03s01s01.html"/>
+          <topic label="拖放在GEF图画布中" href="content/html/reference/actions/ch05s02s03s01s02.html"/>
+          <topic label="选择工具" href="content/html/reference/actions/ch05s02s03s01s03.html"/>
+        </topic>
+        <topic label="执行检查的操作 -  GEF图画布" href="content/html/reference/actions/ch05s02s03s02.html">
+          <topic label="检查GEF图画布中的存在性" href="content/html/reference/actions/ch05s02s03s02s01.html"/>
+          <topic label="检查图属性" href="content/html/reference/actions/ch05s02s03s02s02.html"/>
+          <topic label="检查锚点数" href="content/html/reference/actions/ch05s02s03s02s03.html"/>
+          <topic label="Check Anchor在GEF图画布中有连接" href="content/html/reference/actions/ch05s02s03s02s04.html"/>
+        </topic>
+      </topic>
+    </topic>
+    <topic label="特定于HTML应用程序的操作" href="content/html/reference/actions/ch05s03.html">
+      <topic label="执行行为的动作 -  HTML工具包" href="content/html/reference/actions/ch05s03s01.html">
+        <topic label="单击定位器" href="content/html/reference/actions/ch05s03s01s01.html"/>
+        <topic label="回去" href="content/html/reference/actions/ch05s03s01s02.html"/>
+        <topic label="将文本输入警报/提示/确认" href="content/html/reference/actions/ch05s03s01s03.html"/>
+        <topic label="与警报/提示/确认交互" href="content/html/reference/actions/ch05s03s01s04.html"/>
+        <topic label="打开网址" href="content/html/reference/actions/ch05s03s01s05.html"/>
+        <topic label="重新加载页面" href="content/html/reference/actions/ch05s03s01s06.html"/>
+        <topic label="关闭窗口" href="content/html/reference/actions/ch05s03s01s07.html"/>
+        <topic label="选择带标识符的窗口" href="content/html/reference/actions/ch05s03s01s08.html"/>
+        <topic label="按标题选择窗口" href="content/html/reference/actions/ch05s03s01s09.html"/>
+      </topic>
+      <topic label="执行检查的操作 -  HTML工具包" href="content/html/reference/actions/ch05s03s02.html">
+        <topic label="检查CSS路径计数" href="content/html/reference/actions/ch05s03s02s01.html"/>
+        <topic label="检查是否存在警报/提示/确认" href="content/html/reference/actions/ch05s03s02s02.html"/>
+        <topic label="检查警报/提示/确认文本" href="content/html/reference/actions/ch05s03s02s03.html"/>
+        <topic label="按定位器检查文本" href="content/html/reference/actions/ch05s03s02s04.html"/>
+        <topic label="检查网址" href="content/html/reference/actions/ch05s03s02s05.html"/>
+        <topic label="检查XPath计数" href="content/html/reference/actions/ch05s03s02s06.html"/>
+      </topic>
+      <topic label="同步动作 -  HTML工具包" href="content/html/reference/actions/ch05s03s03.html">
+        <topic label="等待组件（基于定位器）" href="content/html/reference/actions/ch05s03s03s01.html"/>
       </topic>
     </topic>
   </topic>

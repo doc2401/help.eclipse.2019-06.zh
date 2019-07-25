@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="help/developer/logical-model.html#Logical_Model" label="Logical Model">
-	<topic href="help/developer/logical-model.html#Eclipse" label="Eclipse">
-		<topic href="help/developer/logical-model.html#What_is_a_logical_model_.3F" label="What is a logical model ?"></topic>
-		<topic href="help/developer/logical-model.html#Eclipse_Team" label="Eclipse Team"></topic>
-		<topic href="help/developer/logical-model.html#Limitations" label="Limitations"></topic>
+<toc topic="help/developer/logical-model.html#Logical_Model" label="逻辑模型">
+	<topic href="help/developer/logical-model.html#Eclipse" label="日食">
+		<topic href="help/developer/logical-model.html#What_is_a_logical_model_.3F" label="什么是逻辑模型？"></topic>
+		<topic href="help/developer/logical-model.html#Eclipse_Team" label="Eclipse团队"></topic>
+		<topic href="help/developer/logical-model.html#Limitations" label="限制"></topic>
 	</topic>
-	<topic href="help/developer/logical-model.html#EMF_Compare" label="EMF Compare">
-		<topic href="help/developer/logical-model.html#Chosen_solution" label="Chosen solution"></topic>
-		<topic href="help/developer/logical-model.html#How_it_works" label="How it works">
-			<topic href="help/developer/logical-model.html#Example" label="Example"></topic>
-			<topic href="help/developer/logical-model.html#Some_numbers" label="Some numbers">
-				<topic href="help/developer/logical-model.html#EMF_Compare_1.3" label="EMF Compare 1.3"></topic>
-				<topic href="help/developer/logical-model.html#EMF_Compare_2.1" label="EMF Compare 2.1"></topic>
+	<topic href="help/developer/logical-model.html#EMF_Compare" label="EMF比较">
+		<topic href="help/developer/logical-model.html#Chosen_solution" label="选择解决方案"></topic>
+		<topic href="help/developer/logical-model.html#How_it_works" label="这个怎么运作">
+			<topic href="help/developer/logical-model.html#Example" label="例"></topic>
+			<topic href="help/developer/logical-model.html#Some_numbers" label="一些数字">
+				<topic href="help/developer/logical-model.html#EMF_Compare_1.3" label="EMF比较1.3"></topic>
+				<topic href="help/developer/logical-model.html#EMF_Compare_2.1" label="EMF比较2.1"></topic>
 			</topic>
 		</topic>
-		<topic href="help/developer/logical-model.html#Limitations_2" label="Limitations"></topic>
-		<topic href="help/developer/logical-model.html#Improvement_Axes" label="Improvement Axes"></topic>
+		<topic href="help/developer/logical-model.html#Limitations_2" label="限制"></topic>
+		<topic href="help/developer/logical-model.html#Improvement_Axes" label="改进轴"></topic>
 	</topic>
 </toc>

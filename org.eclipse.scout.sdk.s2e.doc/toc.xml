@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="html/scout_user_guide.html" label="Eclipse Scout User Guide">
-	<topic href="html/tutorial.html" label="Getting Started">
+<toc topic="html/scout_user_guide.html" label="Eclipse Scout用户指南">
+	<topic href="html/tutorial.html" label="入门">
 		<topic href="html/tutorial_helloworld.html" label="Hello World Tutorial">
-			<topic href="html/tutorial_helloworld.html#create-a-scout-project" label="Create a Scout Project"></topic>
-			<topic href="html/tutorial_helloworld.html#run-the-application" label="Run the Application"></topic>
-			<topic href="html/tutorial_helloworld.html#what-s-next" label="What’s Next?"></topic>
+			<topic href="html/tutorial_helloworld.html#create-a-scout-project" label="创建一个侦察项目"></topic>
+			<topic href="html/tutorial_helloworld.html#run-the-application" label="运行应用程序"></topic>
+			<topic href="html/tutorial_helloworld.html#what-s-next" label="下一步是什么？"></topic>
 		</topic>
-		<topic href="html/tutorial_existingdemo.html" label="Import the Scout Demo Applications">
-			<topic href="html/tutorial_existingdemo.html#install-the-scout-demo-application" label="Install the Scout Demo Application">
-				<topic href="html/tutorial_existingdemo.html#setup-result" label="Setup result"></topic>
+		<topic href="html/tutorial_existingdemo.html" label="导入Scout演示应用程序">
+			<topic href="html/tutorial_existingdemo.html#install-the-scout-demo-application" label="安装Scout演示应用程序">
+				<topic href="html/tutorial_existingdemo.html#setup-result" label="设置结果"></topic>
 			</topic>
-			<topic href="html/tutorial_existingdemo.html#run-the-contacts-demo-application" label="Run the Contacts Demo Application">
-				<topic href="html/tutorial_existingdemo.html#start-the-application-in-the-ide" label="Start the application in the IDE"></topic>
-				<topic href="html/tutorial_existingdemo.html#use-the-contacts-demo-in-a-browser" label="Use the Contacts Demo in a Browser"></topic>
+			<topic href="html/tutorial_existingdemo.html#run-the-contacts-demo-application" label="运行“联系人演示应用程序”">
+				<topic href="html/tutorial_existingdemo.html#start-the-application-in-the-ide" label="在IDE中启动该应用程序"></topic>
+				<topic href="html/tutorial_existingdemo.html#use-the-contacts-demo-in-a-browser" label="在浏览器中使用“联系人演示”"></topic>
 			</topic>
-			<topic href="html/tutorial_existingdemo.html#what-s-next" label="What’s Next?"></topic>
+			<topic href="html/tutorial_existingdemo.html#what-s-next" label="下一步是什么？"></topic>
 		</topic>
 	</topic>
-	<topic href="html/sdk.html" label="Scout Tooling">
-		<topic href="html/sdk.html#effects-on-productivity-and-code-quality" label="Effects on Productivity and Code Quality"></topic>
-		<topic href="html/sdk.html#learn-more" label="Learn More"></topic>
-		<topic href="html/sdk_editor_java.html" label="Additions to the Java Editor">
-			<topic href="html/sdk_editor_java.html#sec-sdk_new_form_field" label="Create new Form Fields"></topic>
-			<topic href="html/sdk_editor_java.html#sec-sdk_new_table_column" label="Create new Table Columns"></topic>
-			<topic href="html/sdk_editor_java.html#create-new-codes" label="Create new Codes"></topic>
-			<topic href="html/sdk_editor_java.html#nls-entry-support" label="NLS-Entry support"></topic>
+	<topic href="html/sdk.html" label="侦察工具">
+		<topic href="html/sdk.html#effects-on-productivity-and-code-quality" label="对生产力和代码质量的影响"></topic>
+		<topic href="html/sdk.html#learn-more" label="学到更多"></topic>
+		<topic href="html/sdk_editor_java.html" label="Java编辑器的新增功能">
+			<topic href="html/sdk_editor_java.html#sec-sdk_new_form_field" label="创建新的表单字段"></topic>
+			<topic href="html/sdk_editor_java.html#sec-sdk_new_table_column" label="创建新的表列"></topic>
+			<topic href="html/sdk_editor_java.html#create-new-codes" label="创建新代码"></topic>
+			<topic href="html/sdk_editor_java.html#nls-entry-support" label="NLS-Entry支持"></topic>
 		</topic>
-		<topic href="html/sdk_editor_nls.html" label="NLS Editor">
-			<topic href="html/sdk_editor_nls.html#accessing-the-nls-editor" label="Accessing the NLS Editor"></topic>
-			<topic href="html/sdk_editor_nls.html#the-nls-editor" label="The NLS Editor"></topic>
-			<topic href="html/sdk_editor_nls.html#action-buttons" label="Action Buttons"></topic>
-			<topic href="html/sdk_editor_nls.html#default-mapping-to-properties-files" label="Default Mapping to Properties Files"></topic>
+		<topic href="html/sdk_editor_nls.html" label="NLS编辑器">
+			<topic href="html/sdk_editor_nls.html#accessing-the-nls-editor" label="访问NLS编辑器"></topic>
+			<topic href="html/sdk_editor_nls.html#the-nls-editor" label="NLS编辑器"></topic>
+			<topic href="html/sdk_editor_nls.html#action-buttons" label="动作按钮"></topic>
+			<topic href="html/sdk_editor_nls.html#default-mapping-to-properties-files" label="默认映射到属性文件"></topic>
 		</topic>
-		<topic href="html/sdk_wizard.html" label="Scout Wizards">
-			<topic href="html/sdk_wizard.html#new-project-wizard" label="New Project Wizard"></topic>
-			<topic href="html/sdk_wizard.html#wizards-for-scout-components" label="Wizards for Scout Components"></topic>
-			<topic href="html/sdk_wizard.html#nls-wizards" label="NLS Wizards"></topic>
-			<topic href="html/sdk_wizard_project.html" label="New Scout Project Wizard">
-				<topic href="html/sdk_wizard_project.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_project.html#created-components" label="Created Components"></topic>
+		<topic href="html/sdk_wizard.html" label="侦察巫师">
+			<topic href="html/sdk_wizard.html#new-project-wizard" label="新项目向导"></topic>
+			<topic href="html/sdk_wizard.html#wizards-for-scout-components" label="Scout组件的向导"></topic>
+			<topic href="html/sdk_wizard.html#nls-wizards" label="NLS巫师"></topic>
+			<topic href="html/sdk_wizard_project.html" label="新侦察项目向导">
+				<topic href="html/sdk_wizard_project.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_project.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_form.html" label="New Form Wizard">
-				<topic href="html/sdk_wizard_form.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_form.html#created-components" label="Created Components"></topic>
+			<topic href="html/sdk_wizard_form.html" label="新表单向导">
+				<topic href="html/sdk_wizard_form.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_form.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_page.html" label="New Page Wizard">
-				<topic href="html/sdk_wizard_page.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_page.html#created-components" label="Created Components"></topic>
+			<topic href="html/sdk_wizard_page.html" label="新页面向导">
+				<topic href="html/sdk_wizard_page.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_page.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_nls-entry.html" label="NLS Entry Wizard"></topic>
-			<topic href="html/sdk_wizard_lookupcall.html" label="New LookupCall Wizard">
-				<topic href="html/sdk_wizard_lookupcall.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_lookupcall.html#created-components" label="Created Components"></topic>
+			<topic href="html/sdk_wizard_nls-entry.html" label="NLS条目向导"></topic>
+			<topic href="html/sdk_wizard_lookupcall.html" label="新的LookupCall向导">
+				<topic href="html/sdk_wizard_lookupcall.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_lookupcall.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_code-type.html" label="New CodeType Wizard">
-				<topic href="html/sdk_wizard_code-type.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_code-type.html#created-components" label="Created Components"></topic>
+			<topic href="html/sdk_wizard_code-type.html" label="新的CodeType向导">
+				<topic href="html/sdk_wizard_code-type.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_code-type.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_permission.html" label="New Permission Wizard">
-				<topic href="html/sdk_wizard_permission.html#wizard-fields-and-default-values" label="Wizard Fields and Default Values"></topic>
-				<topic href="html/sdk_wizard_permission.html#created-components" label="Created Components"></topic>
+			<topic href="html/sdk_wizard_permission.html" label="新的权限向导">
+				<topic href="html/sdk_wizard_permission.html#wizard-fields-and-default-values" label="向导字段和默认值"></topic>
+				<topic href="html/sdk_wizard_permission.html#created-components" label="创建组件"></topic>
 			</topic>
-			<topic href="html/sdk_wizard_language.html" label="Add a Language Wizard"></topic>
+			<topic href="html/sdk_wizard_language.html" label="添加语言向导"></topic>
 		</topic>
 	</topic>
 </toc>

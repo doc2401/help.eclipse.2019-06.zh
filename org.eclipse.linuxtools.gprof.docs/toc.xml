@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<toc topic="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="GProf User Guide">
-	<topic href="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="GProf User Guide">
-		<topic href="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="Overview"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html" label="Installation and Set-Up">
-			<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html#Older_version_Configuration_pre_3.2.0" label="Older version Configuration pre 3.2.0"></topic>
-			<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html#Newer_Version_Configuration_3.2.*_onwards" label="Newer Version Configuration 3.2.* onwards"></topic>
+<toc topic="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="GProf用户指南">
+	<topic href="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="GProf用户指南">
+		<topic href="Linux_Tools_Project/GProf/User_Guide/User-Guide.html" label="概观"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html" label="安装和设置">
+			<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html#Older_version_Configuration_pre_3.2.0" label="旧版本配置3.2.0之前"></topic>
+			<topic href="Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.html#Newer_Version_Configuration_3.2.*_onwards" label="较新版本配置3.2。*以后"></topic>
 		</topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Supported-format.html" label="Supported format"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Opening-gmon-out.html" label="Opening gmon.out"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Profiling-Using-GProf.html" label="Profiling Using GProf"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/GProf-View.html" label="GProf View"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Troubleshooting.html" label="Troubleshooting"></topic>
-		<topic href="Linux_Tools_Project/GProf/User_Guide/Updating-This-Document.html" label="Updating This Document"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Supported-format.html" label="支持的格式"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Opening-gmon-out.html" label="打开gmon.out"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Profiling-Using-GProf.html" label="使用GProf进行性能分析"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/GProf-View.html" label="GProf查看"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Troubleshooting.html" label="故障排除"></topic>
+		<topic href="Linux_Tools_Project/GProf/User_Guide/Updating-This-Document.html" label="更新本文档"></topic>
 	</topic>
 </toc>

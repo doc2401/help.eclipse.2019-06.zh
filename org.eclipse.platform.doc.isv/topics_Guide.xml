@@ -3,485 +3,485 @@
 <!-- ============================================================================= -->
 <!-- Define topics for the main guide                                              -->
 <!-- ============================================================================= -->
-<toc label="Guide">
-	<topic label="Welcome to Eclipse" href="guide/int.htm">
-		<topic label="Who needs a platform?" href="guide/int_who.htm" />
-		<topic label="The challenge" href="guide/int_goal.htm" />
-		<topic label="What is Eclipse?" href="guide/int_eclipse.htm" />
-		<topic label="Go to eclipse.org" href="http://www.eclipse.org" />
+<toc label="指南">
+	<topic label="欢迎来到Eclipse" href="guide/int.htm">
+		<topic label="谁需要一个平台？" href="guide/int_who.htm" />
+		<topic label="挑战" href="guide/int_goal.htm" />
+		<topic label="什么是Eclipse？" href="guide/int_eclipse.htm" />
+		<topic label="转到eclipse.org" href="http://www.eclipse.org" />
 	</topic>
 
-	<topic label="Platform architecture" href="guide/arch.htm">
-		<topic label="Platform SDK roadmap" href="guide/arch_struct.htm" />
+	<topic label="平台架构" href="guide/arch.htm">
+		<topic label="平台SDK路线图" href="guide/arch_struct.htm" />
 	</topic>
 
-	<topic label="Simple plug-in example" href="guide/firstplugin.htm">
-		<topic label="A minimal plug-in" href="guide/firstplugin_minimal.htm" />
-		<topic label="Creating the plug-in project" href="guide/firstplugin_create.htm" />
-		<topic label="The Hello World view" href="guide/firstplugin_view.htm" />
-		<topic label="The Hello World manifests" href="guide/firstplugin_manifest.htm" />
-		<topic label="Running the plug-in" href="guide/firstplugin_run.htm" />
-		<topic label="Beyond the basics" href="guide/firstplugin_btb.htm" />
+	<topic label="简单的插件示例" href="guide/firstplugin.htm">
+		<topic label="一个最小的插件" href="guide/firstplugin_minimal.htm" />
+		<topic label="创建插件项目" href="guide/firstplugin_create.htm" />
+		<topic label="Hello World视图" href="guide/firstplugin_view.htm" />
+		<topic label="Hello World表现出来" href="guide/firstplugin_manifest.htm" />
+		<topic label="运行插件" href="guide/firstplugin_run.htm" />
+		<topic label="超越基础" href="guide/firstplugin_btb.htm" />
 	</topic>
 
-	<topic label="Runtime overview"  href="guide/runtime.htm">
-		<topic label="The runtime plug-in model" href="guide/runtime_model.htm">
-			<topic label="Plug-ins and bundles" href="guide/runtime_model_bundles.htm"/>
-			<topic label="Extension points and the registry" href="guide/runtime_registry.htm"/>
+	<topic label="运行时概述"  href="guide/runtime.htm">
+		<topic label="运行时插件模型" href="guide/runtime_model.htm">
+			<topic label="插件和捆绑包" href="guide/runtime_model_bundles.htm"/>
+			<topic label="扩展点和注册表" href="guide/runtime_registry.htm"/>
 		</topic>
-		<topic label="Runtime components" href="guide/runtime_components.htm"/>
-		<topic label="Runtime preferences" href="guide/runtime_preferences.htm"/>
-		<topic label="Runtime application model" href="guide/runtime_app_model.htm"/>
-		<topic label="Content types" href="guide/runtime_content.htm">
-			<topic label="Using content types" href="guide/runtime_content_using.htm"/>
-			<topic label="Contributing content types" href="guide/runtime_content_contributing.htm"/>		
+		<topic label="运行时组件" href="guide/runtime_components.htm"/>
+		<topic label="运行时首选项" href="guide/runtime_preferences.htm"/>
+		<topic label="运行时应用程序模型" href="guide/runtime_app_model.htm"/>
+		<topic label="内容类型" href="guide/runtime_content.htm">
+			<topic label="使用内容类型" href="guide/runtime_content_using.htm"/>
+			<topic label="贡献内容类型" href="guide/runtime_content_contributing.htm"/>		
 		</topic>
-		<topic label="Concurrency infrastructure" href="guide/runtime_jobs.htm">
-			<topic label="Reporting progress" href="guide/runtime_jobs_progress.htm"/>
-			<topic label="Job scheduling" href="guide/runtime_jobs_scheduling.htm"/>
-			<topic label="Scheduling rules" href="guide/runtime_jobs_rules.htm"/>
-			<topic label="Locks" href="guide/runtime_jobs_locks.htm"/>
+		<topic label="并发基础设施" href="guide/runtime_jobs.htm">
+			<topic label="报告进度" href="guide/runtime_jobs_progress.htm"/>
+			<topic label="工作安排" href="guide/runtime_jobs_scheduling.htm"/>
+			<topic label="调度规则" href="guide/runtime_jobs_rules.htm"/>
+			<topic label="锁" href="guide/runtime_jobs_locks.htm"/>
 		</topic>
-	    <topic label="Network support" href="guide/network.htm">
+	    <topic label="网络支持" href="guide/network.htm">
 	    </topic>
-     <topic label="Security">
-        <topic href="guide/secure_storage.htm" label="Secure storage">
-           <topic href="guide/secure_storage_architecture.htm" label="Secure storage architecture">
+     <topic label="安全">
+        <topic href="guide/secure_storage.htm" label="安全存储">
+           <topic href="guide/secure_storage_architecture.htm" label="安全存储架构">
            </topic>
-           <topic href="guide/secure_storage_dev.htm" label="Developing with secure storage">
+           <topic href="guide/secure_storage_dev.htm" label="开发安全存储">
            </topic>
-           <topic href="guide/secure_storage_providers.htm" label="Creating password providers">
+           <topic href="guide/secure_storage_providers.htm" label="创建密码提供者">
            </topic>
         </topic>
-        <topic href="guide/bundle_security.html" label="Signed bundles and protecting against malicious code">
+        <topic href="guide/bundle_security.html" label="签名捆绑并防范恶意代码">
         </topic>
-        <topic href="guide/login_extensions.html" label="Login based on JAAS">
+        <topic href="guide/login_extensions.html" label="登录基于JAAS">
         </topic>
      </topic>
-     <topic label="Console Shell" href="guide/console_shell.htm">
+     <topic label="控制台外壳" href="guide/console_shell.htm">
      </topic>
-     <topic label="Structured text" href="guide/st_structured_text.htm" >
-		<topic href="guide/st_design.htm" label="Terminology and design">
+     <topic label="结构化文本" href="guide/st_structured_text.htm" >
+		<topic href="guide/st_design.htm" label="术语和设计">
         </topic>
-		<topic href="guide/st_text_types.htm" label="Supported text types">
+		<topic href="guide/st_text_types.htm" label="支持的文本类型">
         </topic>
      </topic>
 	</topic>
 
-	<topic label="Plugging into the workbench"  href="guide/workbench.htm">
-		<topic label="Workbench under the covers" href="guide/workbench_structure.htm" />
-		<topic label="Basic workbench extension points using commands" href="guide/workbench_cmd.htm" >
-			<topic label="org.eclipse.ui.views" href="guide/workbench_basicext_views.htm" />
-			<topic label="org.eclipse.ui.editors" href="guide/workbench_basicext_editors.htm" />
+	<topic label="插入工作台"  href="guide/workbench.htm">
+		<topic label="工作台在幕后" href="guide/workbench_structure.htm" />
+		<topic label="使用命令的基本工作台扩展点" href="guide/workbench_cmd.htm" >
+			<topic label="的org.eclipse.ui.views" href="guide/workbench_basicext_views.htm" />
+			<topic label="org.Eclipse.ui.editors的" href="guide/workbench_basicext_editors.htm" />
 			<topic label="org.eclipse.ui.commands" href="guide/workbench_cmd_commands.htm" />
 			<topic label="org.eclipse.ui.menus" href="guide/workbench_cmd_menus.htm" />
 			<topic label="org.eclipse.ui.handlers" href="guide/workbench_cmd_handlers.htm" />
 			<topic label="org.eclipse.ui.bindings" href="guide/workbench_cmd_bindings.htm" />
-			<topic href="guide/workbench_cmd_expressions.htm" label="Workbench Core Expressions">
+			<topic href="guide/workbench_cmd_expressions.htm" label="Workbench核心表达式">
    </topic>
 		</topic>
-		<topic label="The plug-in class" href="guide/workbench_plugin.htm" />
-		<topic label="Preference pages" href="guide/preferences_prefs.htm">
-			<topic label="Contributing a preference page" href="guide/preferences_prefs_contribute.htm" />
-			<topic label="Implementing a preference page" href="guide/preferences_prefs_implement.htm" />
-			<topic label="Field editors" href="guide/preferences_prefs_fieldeditors.htm" />
+		<topic label="插件类" href="guide/workbench_plugin.htm" />
+		<topic label="首选项页面" href="guide/preferences_prefs.htm">
+			<topic label="贡献偏好页面" href="guide/preferences_prefs_contribute.htm" />
+			<topic label="实现首选项页面" href="guide/preferences_prefs_implement.htm" />
+			<topic label="现场编辑" href="guide/preferences_prefs_fieldeditors.htm" />
 		</topic>
 	</topic>
 
-	<topic label="Dialogs and wizards"  href="guide/dialogs.htm">
-		<topic label="Standard dialogs" href="guide/dialogs_standard.htm" />
-		<topic label="Application dialogs" href="guide/dialogs_applications.htm" />
-		<topic label="Dialog settings" href="guide/dialogs_settings.htm" />
-		<topic label="Wizards" href="guide/dialogs_wizards.htm" />
-		<topic label="Workbench wizard extension points" href="guide/dialogs_wizards_extensions.htm" >
+	<topic label="对话框和向导"  href="guide/dialogs.htm">
+		<topic label="标准对话框" href="guide/dialogs_standard.htm" />
+		<topic label="应用程序对话框" href="guide/dialogs_applications.htm" />
+		<topic label="对话框设置" href="guide/dialogs_settings.htm" />
+		<topic label="奇才" href="guide/dialogs_wizards.htm" />
+		<topic label="Workbench向导扩展点" href="guide/dialogs_wizards_extensions.htm" >
 			<topic label="org.eclipse.ui.newWizards" href="guide/dialogs_wizards_newWizards.htm" />
 			<topic label="org.eclipse.ui.importWizards" href="guide/dialogs_wizards_importWizards.htm" />
 			<topic label="org.eclipse.ui.exportWizards" href="guide/dialogs_wizards_exportWizards.htm" />
 		</topic>
-		<topic label="Wizard dialogs" href="guide/dialogs_wizards_wizarddialogs.htm" />
-		<topic label="Multi-page wizards" href="guide/dialogs_wizards_multipage.htm" />
-		<topic label="Filtered items selection dialog" href="guide/dialogs_FilteredItemsSelectionDialog.htm">
-			<topic label="Creating a custom filtered items selection dialog" href="guide/dialogs_FilteredItemsSelectionDialog_example.htm" />
-			<topic label="Advanced use of the filtered items selection dialog" href="guide/dialogs_FilteredItemsSelectionDialog_example_advanced.htm" />
+		<topic label="向导对话框" href="guide/dialogs_wizards_wizarddialogs.htm" />
+		<topic label="多页向导" href="guide/dialogs_wizards_multipage.htm" />
+		<topic label="过滤的项目选择对话框" href="guide/dialogs_FilteredItemsSelectionDialog.htm">
+			<topic label="创建自定义筛选项目选择对话框" href="guide/dialogs_FilteredItemsSelectionDialog_example.htm" />
+			<topic label="高级使用过滤项目选择对话框" href="guide/dialogs_FilteredItemsSelectionDialog_example_advanced.htm" />
 	    </topic>
 	</topic>
 	
-	<topic label="JFace UI framework" href="guide/jface.htm">
-		<topic label="Viewers" href="guide/jface_viewers.htm" />
-		<topic label="Actions and contributions (Deprecated)" href="guide/jface_actions.htm" />
-		<topic label="User interface resources" href="guide/jface_resources.htm" />
-		<topic label="Long-running operations" href="guide/jface_operations.htm" />
-		<topic label="Field assist" href="guide/jface_fieldassist.htm" />
+	<topic label="JFace UI框架" href="guide/jface.htm">
+		<topic label="观众" href="guide/jface_viewers.htm" />
+		<topic label="行动和贡献（已弃用）" href="guide/jface_actions.htm" />
+		<topic label="用户界面资源" href="guide/jface_resources.htm" />
+		<topic label="长期运营" href="guide/jface_operations.htm" />
+		<topic label="现场协助" href="guide/jface_fieldassist.htm" />
 	</topic>
 
-	<topic label="Standard Widget Toolkit" href="guide/swt.htm">
-		<topic label="Widgets" href="guide/swt_widgets.htm" >
-			<topic label="Controls" href="guide/swt_widgets_controls.htm" />
-			<topic label="Events" href="guide/swt_widgets_events.htm" />
-			<topic label="Custom widgets" href="guide/swt_widgets_custom.htm" />
+	<topic label="标准窗口小部件工具包" href="guide/swt.htm">
+		<topic label="小工具" href="guide/swt_widgets.htm" >
+			<topic label="控制" href="guide/swt_widgets_controls.htm" />
+			<topic label="活动" href="guide/swt_widgets_events.htm" />
+			<topic label="自定义小部件" href="guide/swt_widgets_custom.htm" />
 		</topic>
-		<topic label="Layouts" href="guide/swt_layouts.htm" >
-			<topic label="Custom Layouts" href="guide/swt_layouts_custom.htm" />
+		<topic label="布局" href="guide/swt_layouts.htm" >
+			<topic label="自定义布局" href="guide/swt_layouts_custom.htm" />
 		</topic>
-		<topic label="Threading issues " href="guide/swt_threading.htm" />
-		<topic label="Error handling" href="guide/swt_error.htm" />
-		<topic label="Graphics" href="guide/swt_graphics.htm" />
-		<topic label="Examples" href="guide/swt_examples.htm" />
+		<topic label="线程问题" href="guide/swt_threading.htm" />
+		<topic label="错误处理" href="guide/swt_error.htm" />
+		<topic label="图像" href="guide/swt_graphics.htm" />
+		<topic label="例子" href="guide/swt_examples.htm" />
 	</topic>
 	
-	<topic label="UI Forms" href="guide/forms.htm">
-       <topic label="Controls" href="guide/forms_controls.htm">
- 		   <topic label="Form" href="guide/forms_controls_form.htm"/>
-		   <topic label="Hyperlink" href="guide/forms_controls_link.htm"/>
-		   <topic label="Section" href="guide/forms_controls_section.htm"/>
-		   <topic label="FormText" href="guide/forms_controls_text.htm">
-   		      <topic label="XML Markup" href="guide/forms_controls_text_markup.htm"/>
+	<topic label="UI表单" href="guide/forms.htm">
+       <topic label="控制" href="guide/forms_controls.htm">
+ 		   <topic label="形成" href="guide/forms_controls_form.htm"/>
+		   <topic label="超链接" href="guide/forms_controls_link.htm"/>
+		   <topic label="部分" href="guide/forms_controls_section.htm"/>
+		   <topic label="FORMTEXT" href="guide/forms_controls_text.htm">
+   		      <topic label="XML标记" href="guide/forms_controls_text_markup.htm"/>
    		   </topic>
 	   </topic>
-	   <topic label="Layouts" href="guide/forms_layouts.htm">
+	   <topic label="布局" href="guide/forms_layouts.htm">
 	      <topic label="TableWrapLayout" href="guide/forms_layouts_table.htm"/>
 	      <topic label="ColumnLayout" href="guide/forms_layouts_column.htm"/>
 	   </topic>
-	   <topic label="Advanced Topics">
-	      <topic label="Color and font management" href="guide/forms_colors.htm"/>
-	      <topic label="Managed forms" href="guide/forms_managed.htm"/>
-	      <topic label="Master/Details block" href="guide/forms_master_details.htm"/>
+	   <topic label="高级主题">
+	      <topic label="颜色和字体管理" href="guide/forms_colors.htm"/>
+	      <topic label="管理表格" href="guide/forms_managed.htm"/>
+	      <topic label="主/细节块" href="guide/forms_master_details.htm"/>
 	   </topic>
-	   <topic label="Multi-page form editors" href="guide/forms_editors.htm"/>
+	   <topic label="多页表单编辑器" href="guide/forms_editors.htm"/>
 	</topic>
- <topic href="guide/cnf.htm" label="Common Navigator Framework">
-    <topic href="guide/cnf_config.htm" label="Configuring the Common Navigator">
+ <topic href="guide/cnf.htm" label="通用导航框架">
+    <topic href="guide/cnf_config.htm" label="配置Common Navigator">
     </topic>
-    <topic href="guide/cnf_operation.htm" label="Operational Topics">
+    <topic href="guide/cnf_operation.htm" label="操作主题">
     </topic>
-    <topic href="guide/cnf_steps.htm" label="Step-by-step Instructions">
-       <topic href="guide/cnf_steps_general.htm" label="Creation of Common Navigator View">
+    <topic href="guide/cnf_steps.htm" label="分步说明">
+       <topic href="guide/cnf_steps_general.htm" label="创建通用导航视图">
        </topic>
-       <topic href="guide/cnf_steps_content.htm" label="Content and Action Binding">
+       <topic href="guide/cnf_steps_content.htm" label="内容和动作绑定">
        </topic>
-       <topic href="guide/cnf_steps_rn_migration.htm" label="Migrating from the ResourceNavigator">
+       <topic href="guide/cnf_steps_rn_migration.htm" label="从ResourceNavigator迁移">
        </topic>
     </topic>
-    <topic href="guide/cnf_troubleshooting.htm" label="Troubleshooting">
+    <topic href="guide/cnf_troubleshooting.htm" label="故障排除">
     </topic>
  </topic>
 	
-	<topic label="Resources overview"  href="guide/resInt.htm">
-		<topic label="Resources and the workspace" href="guide/resInt_workspace.htm" />
-		<topic label="Resources and the file system" href="guide/resInt_filesystem.htm" />
-		<topic label="Resource properties" href="guide/resInt_properties.htm" />
-		<topic label="Project-scoped preferences" href="guide/resInt_preferences.htm" />
-		<topic label="File encoding and content types" href="guide/resInt_content.htm" />
-		<topic label="Linked resources" href="guide/resInt_linked.htm" />
-		<topic label="Virtual folders" href="guide/resInt_virtual.htm" />
-		<topic label="Resources filters" href="guide/resInt_filters.htm" />
-		<topic label="Resource markers" href="guide/resAdv_markers.htm" />
-		<topic label="Modifying the workspace" href="guide/resAdv_modify.htm" >
-			<topic label="Batching resource changes" href="guide/resAdv_batching.htm" />
-			<topic label="Tracking resource changes" href="guide/resAdv_events.htm" />
-			<topic label="Concurrency and the workspace" href="guide/resAdv_concurrency.htm" />
+	<topic label="资源概述"  href="guide/resInt.htm">
+		<topic label="资源和工作区" href="guide/resInt_workspace.htm" />
+		<topic label="资源和文件系统" href="guide/resInt_filesystem.htm" />
+		<topic label="资源属性" href="guide/resInt_properties.htm" />
+		<topic label="项目范围的首选项" href="guide/resInt_preferences.htm" />
+		<topic label="文件编码和内容类型" href="guide/resInt_content.htm" />
+		<topic label="链接的资源" href="guide/resInt_linked.htm" />
+		<topic label="虚拟文件夹" href="guide/resInt_virtual.htm" />
+		<topic label="资源过滤器" href="guide/resInt_filters.htm" />
+		<topic label="资源标记" href="guide/resAdv_markers.htm" />
+		<topic label="修改工作区" href="guide/resAdv_modify.htm" >
+			<topic label="批量资源更改" href="guide/resAdv_batching.htm" />
+			<topic label="跟踪资源变化" href="guide/resAdv_events.htm" />
+			<topic label="并发和工作区" href="guide/resAdv_concurrency.htm" />
 		</topic>
 	</topic>
 
-	<topic label="Advanced resource concepts"  href="guide/resAdv.htm">
-		<topic label="Project natures" href="guide/resAdv_natures.htm" />
-		<topic href="guide/resAdv_builders.htm" label="Incremental project builders">
-			<topic href="guide/resAdv_buildconfigs.htm" label="Project Build Configurations" />
+	<topic label="高级资源概念"  href="guide/resAdv.htm">
+		<topic label="项目性质" href="guide/resAdv_natures.htm" />
+		<topic href="guide/resAdv_builders.htm" label="增量项目构建器">
+			<topic href="guide/resAdv_buildconfigs.htm" label="项目构建配置" />
 		</topic>
-		<topic label="Derived resources" href="guide/resAdv_derived.htm" />
-		<topic label="Workspace save participation" href="guide/resAdv_saving.htm" />
-		<topic label="Resource modification hooks" href="guide/resAdv_hooks.htm" />
-		<topic label="Refresh providers" href="guide/resAdv_refresh.htm" />
-		<topic label="Alternate file systems" href="guide/resAdv_efs_intro.htm" >
-			<topic label="Using the file system API" href="guide/resAdv_efs_api.htm" />
-			<topic label="Working with resources in other file systems" href="guide/resAdv_efs_resources.htm" />
-			<topic label="User interface support in other file systems" href="guide/wrkAdv_efs_resources.htm" />
-			<topic label="File system providers" href="guide/resAdv_efs_providers.htm" />
+		<topic label="派生资源" href="guide/resAdv_derived.htm" />
+		<topic label="工作区保存参与" href="guide/resAdv_saving.htm" />
+		<topic label="资源修改挂钩" href="guide/resAdv_hooks.htm" />
+		<topic label="刷新提供商" href="guide/resAdv_refresh.htm" />
+		<topic label="备用文件系统" href="guide/resAdv_efs_intro.htm" >
+			<topic label="使用文件系统API" href="guide/resAdv_efs_api.htm" />
+			<topic label="使用其他文件系统中的资源" href="guide/resAdv_efs_resources.htm" />
+			<topic label="其他文件系统中的用户界面支持" href="guide/wrkAdv_efs_resources.htm" />
+			<topic label="文件系统提供商" href="guide/resAdv_efs_providers.htm" />
 		</topic>
-		<topic label="Dynamic path variables" href="guide/resAdv_variables.htm" />
+		<topic label="动态路径变量" href="guide/resAdv_variables.htm" />
 	</topic>
 
-	<topic label="Advanced workbench concepts" href="guide/wrkAdv.htm">
-		<topic label="Workbench menu contributions" href="guide/workbench_menus.htm" />
-		<topic label="Undoable operations" href="guide/wrkAdv_undo.htm" >
-			<topic label="Undo and the IDE Workbench" href="guide/wrkAdv_undo_ide.htm" />
+	<topic label="高级工作台概念" href="guide/wrkAdv.htm">
+		<topic label="工作台菜单贡献" href="guide/workbench_menus.htm" />
+		<topic label="无法撤消的操作" href="guide/wrkAdv_undo.htm" >
+			<topic label="撤消和IDE Workbench" href="guide/wrkAdv_undo_ide.htm" />
 		</topic>
-		<topic label="Perspectives" href="guide/workbench_perspectives.htm" >
+		<topic label="展望" href="guide/workbench_perspectives.htm" >
 			<topic label="org.eclipse.ui.perspectives" href="guide/workbench_advext_perspectives.htm" />
 			<topic label="org.eclipse.ui.perspectiveExtensions" href="guide/workbench_advext_perspectiveExtension.htm" />
 		</topic>
-		<topic label="Decorators" href="guide/workbench_advext_decorators.htm" />
-		<topic label="Workbench key bindings" href="guide/wrkAdv_keyBindings.htm" >
-			<topic label="Bindings" href="guide/wrkAdv_keyBindings_accelSet.htm" />
-			<topic label="Schemes" href="guide/wrkAdv_keyBindings_accelConfig.htm" />
-			<topic label="Contexts and key bindings" href="guide/wrkAdv_keyBindings_contexts.htm" />
+		<topic label="装饰" href="guide/workbench_advext_decorators.htm" />
+		<topic label="Workbench键绑定" href="guide/wrkAdv_keyBindings.htm" >
+			<topic label="绑定" href="guide/wrkAdv_keyBindings_accelSet.htm" />
+			<topic label="计划" href="guide/wrkAdv_keyBindings_accelConfig.htm" />
+			<topic label="上下文和键绑定" href="guide/wrkAdv_keyBindings_contexts.htm" />
 		</topic>
-		<topic label="Element factories" href="guide/workbench_advext_elementFactories.htm" />
-		<topic label="Accessible user interfaces" href="guide/wrkAdv_accessibility.htm" />
-		<topic label="Honoring single click support" href="guide/wrkAdv_singleclick.htm" />
-		<topic label="Working sets" href="guide/wrkAdv_workingsets.htm" />
-		<topic label="Filtering large user interfaces" href="guide/workbench_scalability.htm" >
-			<topic label="Activities (Not currently in 4.1)" href="guide/workbench_advext_activities.htm" />
-			<topic label="Contexts" href="guide/workbench_advext_contexts.htm" />
+		<topic label="元素工厂" href="guide/workbench_advext_elementFactories.htm" />
+		<topic label="可访问的用户界面" href="guide/wrkAdv_accessibility.htm" />
+		<topic label="尊重单击支持" href="guide/wrkAdv_singleclick.htm" />
+		<topic label="工作集" href="guide/wrkAdv_workingsets.htm" />
+		<topic label="过滤大型用户界面" href="guide/workbench_scalability.htm" >
+			<topic label="活动（目前不在4.1中）" href="guide/workbench_advext_activities.htm" />
+			<topic label="上下文" href="guide/workbench_advext_contexts.htm" />
 		</topic>
-		<topic label="Workbench concurrency support" href="guide/workbench_jobs.htm" />
-		<topic label="Workbench resource support" href="guide/workbench_resources.htm" >
-			<topic label="Contributing a property page" href="guide/preferences_prop_contribute.htm" />
-			<topic label="Implementing a property page" href="guide/preferences_prop_implement.htm" />
-			<topic label="Support for displaying markers" href="guide/wrkAdv_marker_support.htm" />
-			<topic label="Marker help and resolution" href="guide/wrkAdv_markers.htm" >
-				<topic label="Contributing marker help" href="guide/wrkAdv_markerhelp.htm" />
-				<topic label="Contributing marker resolution" href="guide/wrkAdv_markerresolution.htm" />
+		<topic label="Workbench并发支持" href="guide/workbench_jobs.htm" />
+		<topic label="Workbench资源支持" href="guide/workbench_resources.htm" >
+			<topic label="贡献属性页面" href="guide/preferences_prop_contribute.htm" />
+			<topic label="实现属性页面" href="guide/preferences_prop_implement.htm" />
+			<topic label="支持显示标记" href="guide/wrkAdv_marker_support.htm" />
+			<topic label="标记帮助和解决方案" href="guide/wrkAdv_markers.htm" >
+				<topic label="贡献标记帮助" href="guide/wrkAdv_markerhelp.htm" />
+				<topic label="贡献标记分辨率" href="guide/wrkAdv_markerresolution.htm" />
 			</topic>
-			<topic label="Contributing resource filters" href="guide/workbench_advext_resourceFilters.htm" />
-			<topic label="Text file encoding" href="guide/wrkAdv_encoding.htm" />	
+			<topic label="贡献资源过滤器" href="guide/workbench_advext_resourceFilters.htm" />
+			<topic label="文本文件编码" href="guide/wrkAdv_encoding.htm" />	
 		</topic>
-		<topic label="Status handling" href="guide/workbench_statushandling.htm" >
-			<topic label="Defining a status handler" href="guide/workbench_statushandling_defining.htm" />
+		<topic label="状态处理" href="guide/workbench_statushandling.htm" >
+			<topic label="定义状态处理程序" href="guide/workbench_statushandling_defining.htm" />
 		</topic>
-  <topic href="guide/wrkAdv_services.htm" label="Services">
+  <topic href="guide/wrkAdv_services.htm" label="服务">
   </topic>
 	</topic>
 	
-	<topic label="Editors" href="guide/editors.htm">
-		<topic label="Workbench editors" href="guide/editors_workbench.htm" />
-		<topic label="Text editors and platform text" href="guide/editors_jface.htm" />
-		<topic label="Documents and partitions" href="guide/editors_documents.htm" />
-		<topic label="Source viewers and annotations" href="guide/editors_annotations.htm" />
-		<topic label="Configuring a source viewer" href="guide/editors_sourceviewers.htm" />
-		<topic label="Text and ruler hover" href="guide/editors_hover.htm" />
-		<topic label="Syntax coloring" href="guide/editors_highlighting.htm" />
-		<topic label="Content assist" href="guide/editors_contentassist.htm" />
-		<topic label="Registering editor actions" href="guide/editors_actions.htm" />
-		<topic label="Other text editor responsibilities" href="guide/editors_utilities.htm" />
-		<topic label="Content outliners" href="guide/editors_workbench_outliner.htm" />
+	<topic label="编者" href="guide/editors.htm">
+		<topic label="工作台编辑" href="guide/editors_workbench.htm" />
+		<topic label="文本编辑器和平台文本" href="guide/editors_jface.htm" />
+		<topic label="文件和分区" href="guide/editors_documents.htm" />
+		<topic label="源查看器和注释" href="guide/editors_annotations.htm" />
+		<topic label="配置源查看器" href="guide/editors_sourceviewers.htm" />
+		<topic label="文字和标尺悬停" href="guide/editors_hover.htm" />
+		<topic label="语法着色" href="guide/editors_highlighting.htm" />
+		<topic label="内容辅助" href="guide/editors_contentassist.htm" />
+		<topic label="注册编辑器操作" href="guide/editors_actions.htm" />
+		<topic label="其他文本编辑职责" href="guide/editors_utilities.htm" />
+		<topic label="内容大纲" href="guide/editors_workbench_outliner.htm" />
 	</topic>
 	
-	<topic label="Search support" href="guide/search.htm">
-		<topic label="Contributing a search page" href="guide/search_page.htm" />
-		<topic label="Contributing a search result page" href="guide/search_result.htm" />
+	<topic label="搜索支持" href="guide/search.htm">
+		<topic label="贡献搜索页面" href="guide/search_page.htm" />
+		<topic label="贡献搜索结果页面" href="guide/search_result.htm" />
 	</topic>
 	
-	<topic label="Compare support" href="guide/compare.htm">
-		<topic label="Merging multiple files" href="guide/compare_streammerger.htm" />
-		<topic label="Implementing a content viewer" href="guide/compare_contentviewer.htm" />
-		<topic label="Implementing a structure viewer" href="guide/compare_structureviewer.htm" />
-		<topic label="Advanced compare techniques" href="guide/compare_beyond.htm" />
+	<topic label="比较支持" href="guide/compare.htm">
+		<topic label="合并多个文件" href="guide/compare_streammerger.htm" />
+		<topic label="实现内容查看器" href="guide/compare_contentviewer.htm" />
+		<topic label="实现结构查看器" href="guide/compare_structureviewer.htm" />
+		<topic label="高级比较技术" href="guide/compare_beyond.htm" />
 	</topic>
 	
-	<topic label="Team support" href="guide/team.htm">
-		<topic label="Repository providers" href="guide/team_provider_repository.htm" />
-		<topic label="Resource management" href="guide/team_resources.htm" />
-		<topic label="Synchronization Support" href="guide/team_synchronize.htm" >
-			<topic label="Local History Synchronization Example" href="guide/team_synchronize_localhistory_example.htm" />
-			<topic label="Beyond the basics" href="guide/team_synchronize_beyond_basics.htm" />
+	<topic label="团队支持" href="guide/team.htm">
+		<topic label="存储库提供商" href="guide/team_provider_repository.htm" />
+		<topic label="资源管理" href="guide/team_resources.htm" />
+		<topic label="同步支持" href="guide/team_synchronize.htm" >
+			<topic label="本地历史同步示例" href="guide/team_synchronize_localhistory_example.htm" />
+			<topic label="超越基础" href="guide/team_synchronize_beyond_basics.htm" />
 		</topic>
-	    <topic label="Support for Logical Model Integration" href="guide/team_model.htm" >
-			<topic label="Repository Roadmap for Logical Model Integration" href="guide/team_model_repo.htm" />
-			<topic label="Model Roadmap for Logical Model Integration" href="guide/team_model_model.htm" />
+	    <topic label="支持逻辑模型集成" href="guide/team_model.htm" >
+			<topic label="逻辑模型集成的存储库路线图" href="guide/team_model_repo.htm" />
+			<topic label="逻辑模型集成的模型路线图" href="guide/team_model_model.htm" />
 		</topic>
-		<topic label="Rich Team Integration" href="guide/team_howto.htm" >
-			<topic label="Adding team actions" href="guide/team_ui_actions.htm" />
-			<topic label="Team decorators" href="guide/team_ui_decorators.htm" />
-			<topic label="Adding preferences and properties" href="guide/team_ui_prefs.htm" />
-			<topic label="Project sets" href="guide/team_resources_projects.htm" />
-			<topic label="Team and linked resources" href="guide/team_resources_linked.htm" />
-			<topic label="Team private resources" href="guide/team_resources_private.htm" />
-			<topic label="File types" href="guide/team_resources_filetypes.htm" /><topic
-				label="Adding History support" href="guide/team_ui_history.htm">
+		<topic label="丰富的团队整合" href="guide/team_howto.htm" >
+			<topic label="添加团队操作" href="guide/team_ui_actions.htm" />
+			<topic label="团队装饰者" href="guide/team_ui_decorators.htm" />
+			<topic label="添加首选项和属性" href="guide/team_ui_prefs.htm" />
+			<topic label="项目集" href="guide/team_resources_projects.htm" />
+			<topic label="团队和链接的资源" href="guide/team_resources_linked.htm" />
+			<topic label="团队私人资源" href="guide/team_resources_private.htm" />
+			<topic label="文件类型" href="guide/team_resources_filetypes.htm" /><topic
+				label="添加历史支持" href="guide/team_ui_history.htm">
 			</topic>
 		</topic>
 	</topic>
 	
-	<topic label="Program debug and launch support" href="guide/debug.htm">
-		<topic label="Launching a program" href="guide/debug_launch.htm" >
-			<topic label="Adding launchers to the platform" href="guide/debug_launch_adding.htm" >
-				<topic label="Obtaining a program's source code" href="guide/debug_launch_sourcelocators.htm" />
-				<topic label="Comparing launch configurations" href="guide/debug_launch_comparators.htm" />
-				<topic label="Process factories" href="guide/debug_launch_processfactories.htm" />
-				<topic label="Launching Java applications" href="guide/debug_launch_java.htm" />		
+	<topic label="程序调试和启动支持" href="guide/debug.htm">
+		<topic label="启动一个程序" href="guide/debug_launch.htm" >
+			<topic label="将启动器添加到平台" href="guide/debug_launch_adding.htm" >
+				<topic label="获取程序的源代码" href="guide/debug_launch_sourcelocators.htm" />
+				<topic label="比较启动配置" href="guide/debug_launch_comparators.htm" />
+				<topic label="加工工厂" href="guide/debug_launch_processfactories.htm" />
+				<topic label="启动Java应用程序" href="guide/debug_launch_java.htm" />		
 			</topic>
-			<topic label="Handling errors from a launched program" href="guide/debug_launch_status.htm" />		
-			<topic label="Launch configuration dialog" href="guide/debug_launch_ui.htm" />
-			<topic label="Launch configuration type images" href="guide/debug_launch_uiimages.htm" />
-			<topic label="Launch shortcuts" href="guide/debug_launch_uishortcuts.htm" />
-   <topic href="guide/debug_launch_groups.htm" label="Launch groups">
+			<topic label="处理已启动程序的错误" href="guide/debug_launch_status.htm" />		
+			<topic label="启动配置对话框" href="guide/debug_launch_ui.htm" />
+			<topic label="启动配置类型图像" href="guide/debug_launch_uiimages.htm" />
+			<topic label="启动快捷方式" href="guide/debug_launch_uishortcuts.htm" />
+   <topic href="guide/debug_launch_groups.htm" label="启动组">
    </topic>
 		</topic>
-		<topic label="Debugging a program" href="guide/debug_debug.htm" >
-			<topic label="Platform debug model" href="guide/debug_model.htm" />
-			<topic label="Breakpoints" href="guide/debug_breakpoints.htm" />
-			<topic label="Expressions" href="guide/debug_expressions.htm" />
-			<topic label="Debug model presentation" href="guide/debug_presentation.htm" />
-			<topic label="Debug UI utility classes" href="guide/debug_ui.htm" />
+		<topic label="调试程序" href="guide/debug_debug.htm" >
+			<topic label="平台调试模型" href="guide/debug_model.htm" />
+			<topic label="断点" href="guide/debug_breakpoints.htm" />
+			<topic label="表达式" href="guide/debug_expressions.htm" />
+			<topic label="调试模型演示" href="guide/debug_presentation.htm" />
+			<topic label="调试UI实用程序类" href="guide/debug_ui.htm" />
 		</topic>
 	</topic>
 	
-	<topic label="Platform Ant support" href="guide/ant.htm">
-		<topic label="Running Ant buildfiles programmatically" href="guide/ant_running_buildfiles_programmatically.htm" />
-		<topic label="Ant tasks provided by the platform" href="guide/ant_eclipse_tasks.htm" />
-		<topic label="Contributing tasks and types" href="guide/ant_contributing_task.htm" />
-		<topic label="Developing Ant tasks and types within Eclipse" href="guide/ant_developing.htm" />
-		<topic label="Expanding the Ant classpath" href="guide/ant_expanding_classpath.htm" />
+	<topic label="平台Ant支持" href="guide/ant.htm">
+		<topic label="以编程方式运行Ant构建文件" href="guide/ant_running_buildfiles_programmatically.htm" />
+		<topic label="平台提供的Ant任务" href="guide/ant_eclipse_tasks.htm" />
+		<topic label="贡献任务和类型" href="guide/ant_contributing_task.htm" />
+		<topic label="在Eclipse中开发Ant任务和类型" href="guide/ant_developing.htm" />
+		<topic label="扩展Ant类路径" href="guide/ant_expanding_classpath.htm" />
 	</topic>
 	
-	<topic label="User assistance support" href="guide/ua.htm">
-		<topic label="Welcome" href="guide/ua_intro.htm" >
-			<topic href="guide/ua_intro_defining.htm" label="Defining an intro part">
-      <topic href="guide/ua_intro_hello_world.htm" label="Contributing a HelloWorld intro Part">
+	<topic label="用户帮助支持" href="guide/ua.htm">
+		<topic label="欢迎" href="guide/ua_intro.htm" >
+			<topic href="guide/ua_intro_defining.htm" label="定义介绍部分">
+      <topic href="guide/ua_intro_hello_world.htm" label="贡献HelloWorld介绍部分">
       </topic>
    </topic>
-			<topic label="Using the CustomizableIntroPart" href="guide/ua_intro_cust_intro_part.htm" >
-				<topic label="Defining an intro config" href="guide/ua_intro_defining_config.htm" />
-				<topic label="Defining intro content" href="guide/ua_intro_define_content.htm" />
-    <topic href="guide/ua_intro_minimal.htm" label="Defining a minimal intro configuration">
+			<topic label="使用CustomizableIntroPart" href="guide/ua_intro_cust_intro_part.htm" >
+				<topic label="定义一个介绍配置" href="guide/ua_intro_defining_config.htm" />
+				<topic label="定义介绍内容" href="guide/ua_intro_define_content.htm" />
+    <topic href="guide/ua_intro_minimal.htm" label="定义最小的介绍配置">
     </topic>
-				<topic label="Using XHTML as intro content" href="guide/ua_intro_xhtml.htm" />
-				<topic label="Displaying static HTML content in the CustomizableIntroPart" href="guide/ua_intro_cust_static.htm" />
-				<topic label="Extending an intro config" href="guide/ua_intro_extending.htm" >
-					<topic label="Extending the content of an intro config" href="guide/ua_intro_extending_content.htm" />
-					<topic label="Defining intro themes" href="guide/ua_intro_ext_theme.htm" />
-					<topic label="Contributing a standby content part" href="guide/ua_intro_ext_standbypart.htm" />
-					<topic label="Defining a custom IntroURL action" href="guide/ua_intro_ext_custom_url.htm" />
-					<topic label="Intro Content File XML Format" href="reference/extension-points/introContentFileSpec.html" />
-                    <topic href="guide/ua_intro_swt_properties.htm" label="SWT Properties for Intro"></topic>
+				<topic label="使用XHTML作为介绍内容" href="guide/ua_intro_xhtml.htm" />
+				<topic label="在CustomizableIntroPart中显示静态HTML内容" href="guide/ua_intro_cust_static.htm" />
+				<topic label="扩展介绍配置" href="guide/ua_intro_extending.htm" >
+					<topic label="扩展介绍配置的内容" href="guide/ua_intro_extending_content.htm" />
+					<topic label="定义介绍主题" href="guide/ua_intro_ext_theme.htm" />
+					<topic label="贡献备用内容部分" href="guide/ua_intro_ext_standbypart.htm" />
+					<topic label="定义自定义IntroURL操作" href="guide/ua_intro_ext_custom_url.htm" />
+					<topic label="简介内容文件XML格式" href="reference/extension-points/introContentFileSpec.html" />
+                    <topic href="guide/ua_intro_swt_properties.htm" label="介绍的SWT属性"></topic>
 				</topic>
 			</topic>
-   <topic href="guide/ua_intro_universal.htm" label="Universal intro">
-      <topic href="guide/ua_intro_universal_contributing.htm" label="Contributing to universal intro">
+   <topic href="guide/ua_intro_universal.htm" label="通用介绍">
+      <topic href="guide/ua_intro_universal_contributing.htm" label="有助于普遍介绍">
       </topic>
-      <topic href="guide/ua_intro_universal_preference.htm" label="Adding the preference page">
+      <topic href="guide/ua_intro_universal_preference.htm" label="添加首选项页面">
       </topic>
-      <topic href="guide/ua_intro_universal_extending.htm" label="Extending the universal intro">
+      <topic href="guide/ua_intro_universal_extending.htm" label="扩展通用介绍">
       </topic>
-      <topic href="guide/ua_intro_universal_defaults.htm" label="Configuring product defaults">
+      <topic href="guide/ua_intro_universal_defaults.htm" label="配置产品默认值">
       </topic>
-      <topic href="guide/ua_intro_universal_links.htm" label="Managing links">
+      <topic href="guide/ua_intro_universal_links.htm" label="管理链接">
       </topic>
    </topic>
 		</topic>
-		<topic label="Help" href="guide/ua_help.htm">
-			<topic label="Configuration/setup" href="guide/ua_help_setup.htm" >
-				<topic label="Rich Client Platform (RCP) help" href="guide/ua_help_setup_rcp.htm"/>
-				<topic label="Standalone help" href="guide/ua_help_setup_standalone.htm"/>
-				<topic label="Information center" href="guide/ua_help_setup_infocenter.htm"/>
-				<topic label="Help system customization" href="guide/ua_help_setup_preferences.htm">
-					<topic label="Help data XML format" href="guide/ua_help_setup_help_data.htm"/>
-					<topic label="Generated navigation topics" href="guide/ua_help_setup_nav.htm"/>
-     <topic href="guide/ua_help_menu.htm" label="The Help Menu">
+		<topic label="救命" href="guide/ua_help.htm">
+			<topic label="配置/设置" href="guide/ua_help_setup.htm" >
+				<topic label="富客户端平台（RCP）帮助" href="guide/ua_help_setup_rcp.htm"/>
+				<topic label="独立的帮助" href="guide/ua_help_setup_standalone.htm"/>
+				<topic label="信息中心" href="guide/ua_help_setup_infocenter.htm"/>
+				<topic label="帮助系统定制" href="guide/ua_help_setup_preferences.htm">
+					<topic label="帮助数据XML格式" href="guide/ua_help_setup_help_data.htm"/>
+					<topic label="生成的导航主题" href="guide/ua_help_setup_nav.htm"/>
+     <topic href="guide/ua_help_menu.htm" label="帮助菜单">
      </topic>
-               <topic href="guide/ua_help_infocenter_preferences.htm" label="Information center customization">
+               <topic href="guide/ua_help_infocenter_preferences.htm" label="信息中心定制">
                </topic>
-               <topic href="guide/ua_help_setup_about.htm" label="Using about.html to debug information centers">
+               <topic href="guide/ua_help_setup_about.htm" label="使用about.html调试信息中心">
                </topic>
-               <topic href="guide/ua_help_abstract_scope.htm" label="Using AbstractHelpScope to filter an information center">
+               <topic href="guide/ua_help_abstract_scope.htm" label="使用AbstractHelpScope过滤信息中心">
                </topic>
 				</topic>
-				<topic label="Pre-indexing documentation" href="guide/ua_help_setup_preindex.htm"/>
+				<topic label="预索引文档" href="guide/ua_help_setup_preindex.htm"/>
 			</topic>
-			<topic label="Help content" href="guide/ua_help_content.htm" >
-				<topic label="Table of contents (toc) files" href="guide/ua_help_content_toc.htm" />
-				<topic label="Help server and file locations" href="guide/ua_help_content_files.htm" />
-				<topic label="Completing the plug-in manifest" href="guide/ua_help_content_manifest.htm" />
-    <topic href="guide/ua_help_content_criteria.htm" label="Adding criteria to help content">
+			<topic label="帮助内容" href="guide/ua_help_content.htm" >
+				<topic label="目录（toc）文件" href="guide/ua_help_content_toc.htm" />
+				<topic label="帮助服务器和文件位置" href="guide/ua_help_content_files.htm" />
+				<topic label="完成插件清单" href="guide/ua_help_content_manifest.htm" />
+    <topic href="guide/ua_help_content_criteria.htm" label="添加标准以帮助内容">
     </topic>
-				<topic label="Building nested documentation structures" href="guide/ua_help_content_nested.htm" />
-				<topic label="Contributing XHTML help documents" href="guide/ua_help_content_xhtml.htm" />
-				<topic label="Remote Help" href="guide/ua_help_content_remote.htm" />				
-				<topic label="Active help" href="guide/ua_help_content_active.htm" >
-					<topic label="Writing the help action" href="guide/ua_help_content_active_action.htm" />
-					<topic label="Invoking the action from HTML" href="guide/ua_help_content_active_invoke.htm" />
-					<topic label="Tips for debugging active help" href="guide/ua_help_content_active_debug.htm" />
+				<topic label="构建嵌套的文档结构" href="guide/ua_help_content_nested.htm" />
+				<topic label="贡献XHTML帮助文档" href="guide/ua_help_content_xhtml.htm" />
+				<topic label="远程帮助" href="guide/ua_help_content_remote.htm" />				
+				<topic label="积极的帮助" href="guide/ua_help_content_active.htm" >
+					<topic label="编写帮助动作" href="guide/ua_help_content_active_action.htm" />
+					<topic label="从HTML调用操作" href="guide/ua_help_content_active_invoke.htm" />
+					<topic label="调试活动帮助的提示" href="guide/ua_help_content_active_debug.htm" />
 				</topic>
-				<topic label="Embedding commands in help" href="guide/ua_help_content_command.htm" >
-					<topic label="Authoring a command link" href="guide/ua_help_content_command_authoring.htm" />
+				<topic label="在帮助中嵌入命令" href="guide/ua_help_content_command.htm" >
+					<topic label="编写命令链接" href="guide/ua_help_content_command_authoring.htm" />
 				</topic>
-            <topic href="guide/ua_help_content_process.htm" label="Processing Help Content">
+            <topic href="guide/ua_help_content_process.htm" label="处理帮助内容">
             </topic>
-            <topic href="guide/ua_help_content_child_links.htm" label="Adding child links to help topics">
+            <topic href="guide/ua_help_content_child_links.htm" label="添加子链接以帮助主题">
             </topic>
-            <topic href="guide/ua_help_placeholders.htm" label="Help Placeholders">
+            <topic href="guide/ua_help_placeholders.htm" label="帮助占位符">
             </topic>
 			</topic>
-			<topic label="Context-sensitive help" href="guide/ua_help_context.htm" >
-				<topic label="Declaring a context id" href="guide/ua_help_context_id.htm" />
-				<topic label="Describing and packaging context-sensitive help" href="guide/ua_help_context_xml.htm" />
-				<topic label="Dynamic context help" href="guide/ua_help_context_dynamic.htm"/>
+			<topic label="上下文相关的帮助" href="guide/ua_help_context.htm" >
+				<topic label="声明上下文ID" href="guide/ua_help_context_id.htm" />
+				<topic label="描述和打包上下文相关的帮助" href="guide/ua_help_context_xml.htm" />
+				<topic label="动态上下文帮助" href="guide/ua_help_context_dynamic.htm"/>
 				<topic label="Infopops" href="guide/ua_help_context_infopops.htm"/>
 			</topic>
-			<topic label="Help search" href="guide/ua_help_search.htm">
-			   <topic label="Plugging in search engines" href="guide/ua_help_search_types.htm"/>		
+			<topic label="帮助搜索" href="guide/ua_help_search.htm">
+			   <topic label="插入搜索引擎" href="guide/ua_help_search_types.htm"/>		
 			</topic>
-   <topic href="guide/ua_help_war.htm" label="Deploying the information center as a Web Archive">
+   <topic href="guide/ua_help_war.htm" label="将信息中心部署为Web存档">
    </topic>
 		</topic>
-		<topic label="Cheat sheets" href="guide/ua_cheatsheet.htm" >
-			<topic label="Simple cheat sheets" href="guide/ua_cheatsheet_simple.htm" />		    
-			<topic label="Cheat sheet content file XML format" href="reference/extension-points/cheatSheetContentFileSpec.html" />
-			<topic label="Composite cheat sheets" href="guide/ua_cheatsheet_composite.htm" />		    
-			<topic label="Composite cheat sheet content file XML format" href="reference/extension-points/compositeContentFile.html" />			
-			<topic label="Cheat sheet authoring guidelines" href="guide/ua_cheatsheet_guidelines.htm" />
+		<topic label="备忘单" href="guide/ua_cheatsheet.htm" >
+			<topic label="简单的备忘单" href="guide/ua_cheatsheet_simple.htm" />		    
+			<topic label="备忘单内容文件XML格式" href="reference/extension-points/cheatSheetContentFileSpec.html" />
+			<topic label="复合备忘单" href="guide/ua_cheatsheet_composite.htm" />		    
+			<topic label="复合备忘单内容文件XML格式" href="reference/extension-points/compositeContentFile.html" />			
+			<topic label="备忘单编写指南" href="guide/ua_cheatsheet_guidelines.htm" />
 		</topic>
-		<topic label="Status handling" href="guide/ua_statushandling.htm">
-			<topic label="Defining a product status handler" href="guide/ua_statushandling_defining.htm" />
-			<topic label="Contributing a sample handler" href="guide/ua_statushandling_sample.htm" />
+		<topic label="状态处理" href="guide/ua_statushandling.htm">
+			<topic label="定义产品状态处理程序" href="guide/ua_statushandling_defining.htm" />
+			<topic label="贡献样本处理程序" href="guide/ua_statushandling_sample.htm" />
 		</topic>
-		<topic label="Dynamic content" href="guide/ua_dynamic.htm">
-			<topic label="Filters" href="guide/ua_dynamic_filters.htm" />
-			<topic label="Includes" href="guide/ua_dynamic_includes.htm" />
-			<topic label="Extensions" href="guide/ua_dynamic_extensions.htm" />
+		<topic label="动态内容" href="guide/ua_dynamic.htm">
+			<topic label="过滤器" href="guide/ua_dynamic_filters.htm" />
+			<topic label="包括" href="guide/ua_dynamic_includes.htm" />
+			<topic label="扩展" href="guide/ua_dynamic_extensions.htm" />
 		</topic>
 	</topic>
- <topic href="guide/p2_overview.htm" label="Provisioning platform, p2">
-    <topic href="guide/p2_api_overview.htm" label="API Overview">
+ <topic href="guide/p2_overview.htm" label="供应平台，p2">
+    <topic href="guide/p2_api_overview.htm" label="API概述">
     </topic>
-    <topic href="guide/p2_metadata.html" label="Metadata management">
-       <topic href="guide/p2_publisher.html" label="Publishing metadata">
+    <topic href="guide/p2_metadata.html" label="元数据管理">
+       <topic href="guide/p2_publisher.html" label="发布元数据">
        </topic>
-       <topic href="guide/p2_publishingtasks.htm" label="Ant tasks for publishing metadata">
+       <topic href="guide/p2_publishingtasks.htm" label="用于发布元数据的Ant任务">
        </topic>
-       <topic href="guide/p2_customizing_metadata.html" label="Customizing metadata">
+       <topic href="guide/p2_customizing_metadata.html" label="自定义元数据">
        </topic>
-       <topic href="guide/p2_actions_touchpoints.html" label="Provisioning Actions and Touchpoints">
-       </topic>
-    </topic>
-    <topic href="guide/p2_director.html" label="Installation management">
-    </topic>
-    <topic label="Repository management">
-       <topic href="guide/p2_mirror.html" label="Mirroring repositories">
-       </topic>
-       <topic href="guide/p2_composite_repositories.htm" label="Composite repositories">
-       </topic>
-       <topic href="guide/p2_category_generation.htm" label="Content categorization">
-       </topic>
-       <topic href="guide/p2_repositorytasks.htm" label="Ant tasks for managing repositories">
+       <topic href="guide/p2_actions_touchpoints.html" label="供应操作和接触点">
        </topic>
     </topic>
-    <topic label="Customizing the p2 UI" href="guide/p2_ui.htm">
-		<topic label="Reusing parts of the UI" href="guide/p2_uireuse.htm" />
-		<topic label="Configuring the UI Policy" href="guide/p2_uipolicy.htm" />
-		<topic label="Forced update on startup" href="guide/p2_startup.htm" />
+    <topic href="guide/p2_director.html" label="安装管理">
+    </topic>
+    <topic label="存储库管理">
+       <topic href="guide/p2_mirror.html" label="镜像存储库">
+       </topic>
+       <topic href="guide/p2_composite_repositories.htm" label="复合存储库">
+       </topic>
+       <topic href="guide/p2_category_generation.htm" label="内容分类">
+       </topic>
+       <topic href="guide/p2_repositorytasks.htm" label="用于管理存储库的Ant任务">
+       </topic>
+    </topic>
+    <topic label="自定义p2 UI" href="guide/p2_ui.htm">
+		<topic label="重用部分UI" href="guide/p2_uireuse.htm" />
+		<topic label="配置UI策略" href="guide/p2_uipolicy.htm" />
+		<topic label="启动时强制更新" href="guide/p2_startup.htm" />
 	</topic>
     
  </topic>
 
-	<topic label="Packaging and delivering Eclipse based products" href="guide/product.htm">
-		<topic label="Defining a Product" href="guide/product_def.htm" >
-			<topic label="The products extension point" href="guide/product_def_extpt.htm" />
-			<topic label="Customizing a product" href="guide/product_configproduct.htm" />
+	<topic label="打包和交付基于Eclipse的产品" href="guide/product.htm">
+		<topic label="定义产品" href="guide/product_def.htm" >
+			<topic label="产品扩展点" href="guide/product_def_extpt.htm" />
+			<topic label="定制产品" href="guide/product_configproduct.htm" />
 		</topic>
-		<topic label="Features" href="guide/product_def_feature.htm" />
-		<topic label="Plug-ins and fragments" href="guide/product_def_plugins.htm" />
-		<topic label="Locale specific files" href="guide/product_def_nl.htm" />
-		<topic label="Product installation guidelines" href="guide/product_config_install.htm" />
-		<topic label="Product extensions" href="guide/product_extension.htm" />
-		<topic label="Updating a product or extension" href="guide/product_update.htm" />
-		<topic label="Deploying eclipse based application with Java Web Start" href="guide/java_web_start.htm"/>
-		<topic label="Associate and open files with an eclipse based application" href="guide/product_open_file.htm"/>
+		<topic label="特征" href="guide/product_def_feature.htm" />
+		<topic label="插件和片段" href="guide/product_def_plugins.htm" />
+		<topic label="区域设置特定文件" href="guide/product_def_nl.htm" />
+		<topic label="产品安装指南" href="guide/product_config_install.htm" />
+		<topic label="产品扩展" href="guide/product_extension.htm" />
+		<topic label="更新产品或扩展程序" href="guide/product_update.htm" />
+		<topic label="使用Java Web Start部署基于eclipse的应用程序" href="guide/java_web_start.htm"/>
+		<topic label="使用基于eclipse的应用程序关联和打开文件" href="guide/product_open_file.htm"/>
 	</topic>
 	
-	<topic label="Building a Rich Client Platform application" href="guide/rcp.htm">
+	<topic label="构建富客户端平台应用程序" href="guide/rcp.htm">
 	</topic>			
 	
-	<topic label="Http Service and JSP Support" href="guide/httpservice.htm" />
+	<topic label="Http服务和JSP支持" href="guide/httpservice.htm" />
 </toc>

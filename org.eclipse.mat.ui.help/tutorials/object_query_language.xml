@@ -18,63 +18,63 @@
  -->
    <intro href="/org.eclipse.mat.ui.help/reference/oqlsyntax.html">
       <description>
-         OQL is the build-in object query language. Learn to perform
-			custom SQL-like queries on the heap dump in one minute.
-      </description>
+         OQL是内置对象查询语言。学会表演
+在一分钟内在堆转储上自定义类似SQL的查询。
+      </description>
    </intro>
    <item title="Open the heap dump" dialog="true" skip="false">
       <description>
-         Open a sample heap dump by activating the action link
-			below.
-      </description>
+         通过激活操作链接打开示例堆转储
+下面。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof"/>
    </item>
    <item title="FROM Clause" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/reference/oqlsyntaxfrom.html">
       <description>
-         Think of classes as tables, objects as rows, and fields as columns.
-			<br/>
-			<br/>
-			<b>SELECT * FROM java.lang.ref.SoftReference</b>
-			<br/>
-			<br/> This query will return all soft reference objects. To include objects of
-			subclasses, add the INSTANCEOF keyword:
-			<br/>
-			<br/>
-			<b>SELECT * FROM INSTANCEOF java.lang.ref.Reference</b>
-			<br/>
-			<br/>
-      </description>
+         将类视为表，将对象视为行，将字段视为列。
+<BR/>
+<BR/>
+<b> SELECT * FROM java.lang.ref.SoftReference </ b>
+<BR/>
+<br/>此查询将返回所有软引用对象。包括对象
+子类，添加INSTANCEOF关键字：
+<BR/>
+<BR/>
+<b> SELECT * FROM INSTANCEOF java.lang.ref.Reference </ b>
+<BR/>
+<BR/>
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="oql" param3="SELECT * FROM java.lang.ref.SoftReference"/>
    </item>
    <item title="WHERE Clause" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/reference/oqlsyntaxwhere.html">
       <description>
-         To conditionally select objects, a WHERE clause can be added to the
-			SELECT statement:
-			<br/>
-			<br/>
-			<b>SELECT * FROM java.lang.String s WHERE s.count &gt; 100</b>
-			<br/>
-			<br/> Possible operators are =, !=, &lt;, &lt;=, &gt;, &gt;= and LIKE. Fields can
-			be addressed with dot notation to reach fields of a table alias or even fields of
-			nested objects: &lt;field&gt;.&lt;field&gt;.&lt;field&gt;.
-      </description>
+         要有条件地选择对象，可以将WHERE子句添加到
+SELECT语句：
+<BR/>
+<BR/>
+<b> SELECT * FROM java.lang.String s WHERE s.count＆gt; 100 </ B>
+<BR/>
+<br/>可能的运算符是=，！=，＆lt;，＆lt; =，＆gt;，＆gt; =和LIKE。领域可以
+用点符号来表示，以达到表别名或甚至是字段的字段
+嵌套对象：＆lt; field＆gt;。＆lt; field＆gt;。＆lt; field＆gt;。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="oql" param3="SELECT * FROM java.lang.String s WHERE s.count > 100"/>
    </item>
    <item title="SELECT Clause" dialog="true" skip="true" href="/org.eclipse.mat.ui.help/reference/oqlsyntaxselect.html">
       <description>
-         To select the content of specific fields, use a SELECT statement like
-			this:
-			<br/>
-			<br/>
-			<b>SELECT toHex(m.@objectAddress), m.size, m.table.@length,
-				m.@retainedHeapSize FROM java.util.HashMap m</b>
-			<br/>
-			<br/> The
-			<b>@</b> symbol denotes fields and methods (from the Java API) like
-			objectAddress, usedHeapSize, retainedHeapSize, GCRootInfo and length (for
-			arrays). Functions like toHex(), toString(), classof(), dominatorof() etc.
-			allow simple transformations.
-      </description>
+         要选择特定字段的内容，请使用SELECT语句
+这个：
+<BR/>
+<BR/>
+<b> SELECT toHex（m。@ objectAddress），m.size，m.table。@ length，
+m。@ retainedHeapSize FROM java.util.HashMap m </ b>
+<BR/>
+<br/>
+<b> @ </ b>符号表示字段和方法（来自Java API）
+objectAddress，usedHeapSize，retainedHeapSize，GCRootInfo和length（for
+阵列）。函数如toHex（），toString（），classof（），dominatorof（）等。
+允许简单的转换。
+      </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="oql" param3="SELECT toHex(m.@objectAddress), m.size, m.table.@length, m.@retainedHeapSize FROM java.util.HashMap m"/>
    </item>
 </cheatsheet>

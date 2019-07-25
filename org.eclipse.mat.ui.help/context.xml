@@ -12,23 +12,23 @@
 
 <contexts>
 	<context id="oql">
-		<description>Object Query Language (OQL) Syntax</description>
-		<topic label="OQL Editor" href="tasks/queryingheapobjects.html" />
-		<topic label="OQL Syntax" href="reference/oqlsyntax.html" />
+		<description>对象查询语言（OQL）语法</description>
+		<topic label="OQL编辑器" href="tasks/queryingheapobjects.html" />
+		<topic label="OQL语法" href="reference/oqlsyntax.html" />
 	</context>
 	<context id="query_arguments">
-		<description>This wizard will help you to add arguments to the query</description>
-		<topic label="How to provide heap object arguments"
+		<description>该向导将帮助您向查询添加参数</description>
+		<topic label="如何提供堆对象参数"
 			href="reference/selectingqueries.html#queryarguments__arguments" />
 	</context>
 	<context id="acquire_arguments">
-		<description>This wizard will help you to acquire and analyze a heap dump from another process on the system</description>
-		<topic label="How to configure the acquire heap dump providers"
+		<description>该向导将帮助您从系统上的另一个进程获取和分析堆转储</description>
+		<topic label="如何配置获取堆转储提供程序"
 			href="tasks/acquiringheapdump.html" />
 	</context>
 	<context id="icon_assist">
-		<description>Icon reference</description>
-		<topic label="The meaning of various icons"
+		<description>图标参考</description>
+		<topic label="各种图标的含义"
 			href="reference/iconassist.html" />
 	</context>
 </contexts>
