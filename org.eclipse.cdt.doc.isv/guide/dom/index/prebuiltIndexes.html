@@ -1,15 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns="http://www.w3.org/TR/REC-html40">
+﻿<html lang="zh-Hans"  xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
-<meta name=ProgId content="Word.Document">
-<meta name=Generator content="Microsoft Word 10">
-<meta name=Originator content="Microsoft Word 10">
-<link rel=File-List href="prebuiltIndexes_files/filelist.xml">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 10">
+<meta name="Originator" content="Microsoft Word 10">
+<link rel="File-List" href="prebuiltIndexes_files/filelist.xml">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -18,7 +14,7 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<title>Building a PDOM for use with the CIndexProvider extension point</title>
+<title>构建PDOM以与CIndexProvider扩展点一起使用</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Administrator</o:Author>
@@ -533,351 +529,224 @@ table.MsoTableGrid
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang="EN-GB" link=blue vlink="#606420" style='tab-interval:36.0pt'>
+<body lang="EN-GB"  link="blue" vlink="#606420">
 
-<div class=Section1>
+<div class="Section1">
 
-<p class=MsoTitle><a name="_Toc164570181">Pre-built indexes in CDT 4.0</a></p>
+<p class="MsoTitle"><a name="_Toc164570181">CDT 4.0中的预建索引</a></p>
 
-<p class=MsoTitle style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoTitle" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><span class="bold" style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="bold"><span style="font-size:11.0pt"><o:p> </o:p></span></span></p>
 
-<p class=MsoToc1 style='tab-stops:right dotted 431.5pt'><!--[if supportFields]><span
-style='font-size:11.0pt;font-weight:normal;mso-bidi-font-weight:bold'><span
-style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'>�</span>TOC \o &quot;1-3&quot; \h \z \u <span
-style='mso-element:field-separator'></span></span><![endif]--><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570182">Overview<span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-tab-count:1 dotted'>... </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570182 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>1<!--[if gte mso 9]><xml>
+<p class="MsoToc1"><!--[if supportFields]><span
+style=&#39;font-size:11.0pt;font-weight:normal;mso-bidi-font-weight:bold&#39;><span
+style=&#39;mso-element:field-begin&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>TOC o "1-3" h z u <span
+style=&#39;mso-element:field-separator&#39;></span></span><![endif]--> <span class="MsoHyperlink"><span><a href="#_Toc164570182">概述<span style="color:windowtext;display:none;text-decoration:none"><span>......</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570182 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">1 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;text-transform:none;font-weight:normal;mso-no-proof:
-yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;text-transform:none;font-weight:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc1 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570183">Export
-of index content<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570183 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>1<!--[if gte mso 9]><xml>
+<p class="MsoToc1"><span class="MsoHyperlink"><span><a href="#_Toc164570183">出口指数内容<span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570183 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">1 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;text-transform:none;font-weight:normal;mso-no-proof:
-yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;text-transform:none;font-weight:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='text-transform:uppercase;mso-no-proof:yes'><a
-href="#_Toc164570184">IExportProjectProvider<span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570184 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>2<!--[if gte mso 9]><xml>
+<p class="MsoToc2"><span class="MsoHyperlink"><span style="text-transform:uppercase"><a href="#_Toc164570184">IExportProjectProvider <span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570184 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">2 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt"><o:p></o:p></span></p>
 
-<p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='text-transform:uppercase;mso-no-proof:yes'><a
-href="#_Toc164570185">The GeneratePDOM Application<span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570185 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>4<!--[if gte mso 9]><xml>
+<p class="MsoToc2"><span class="MsoHyperlink"><span style="text-transform:uppercase"><a href="#_Toc164570185">GeneratePDOM应用程序<span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570185 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">4 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt"><o:p></o:p></span></p>
 
-<p class=MsoToc3 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570186">Common
-command-line options<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570186 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>4<!--[if gte mso 9]><xml>
+<p class="MsoToc3"><span class="MsoHyperlink"><span><a href="#_Toc164570186">常见的命令行选项<span style="color:windowtext;display:none;text-decoration:none"><span>。</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570186 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">4 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380036000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;font-style:normal;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;font-style:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc3 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570187">ExternalExportProjectProvider
-command-line options<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570187 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>4<!--[if gte mso 9]><xml>
+<p class="MsoToc3"><span class="MsoHyperlink"><span><a href="#_Toc164570187">ExternalExportProjectProvider命令行选项<span style="color:windowtext;display:none;text-decoration:none"><span>。</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570187 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">4 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380037000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;font-style:normal;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;font-style:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='text-transform:uppercase;mso-no-proof:yes'><a
-href="#_Toc164570188">Invoking the GeneratePDOM application<span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570188 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>5<!--[if gte mso 9]><xml>
+<p class="MsoToc2"><span class="MsoHyperlink"><span style="text-transform:uppercase"><a href="#_Toc164570188">调用GeneratePDOM应用程序<span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570188 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">5 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380038000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt"><o:p></o:p></span></p>
 
-<p class=MsoToc3 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570189">Invoking
-as a self-hosted eclipse application<span style='color:windowtext;display:none;
-mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570189 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>5<!--[if gte mso 9]><xml>
+<p class="MsoToc3"><span class="MsoHyperlink"><span><a href="#_Toc164570189">作为自托管的eclipse应用程序调用<span style="color:windowtext;display:none;text-decoration:none"><span>。</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570189 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">5 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100380039000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;font-style:normal;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;font-style:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc3 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570190">Invoking
-via the command-line<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570190 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>6<!--[if gte mso 9]><xml>
+<p class="MsoToc3"><span class="MsoHyperlink"><span><a href="#_Toc164570190">通过命令行调用<span style="color:windowtext;display:none;text-decoration:none"><span>。</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570190 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">6 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390030000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;font-style:normal;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;font-style:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc3 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570191">Invoking
-via an Ant script<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570191 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>7<!--[if gte mso 9]><xml>
+<p class="MsoToc3"><span class="MsoHyperlink"><span><a href="#_Toc164570191">通过Ant脚本调用<span style="color:windowtext;display:none;text-decoration:none"><span> </span></span> <!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570191 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">7 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390031000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;font-style:normal;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;font-style:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc1 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570192">Import
-of index content<span style='color:windowtext;display:none;mso-hide:screen;
-text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570192 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>8<!--[if gte mso 9]><xml>
+<p class="MsoToc1"><span class="MsoHyperlink"><span><a href="#_Toc164570192">导入索引内容<span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570192 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">8 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390032000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;text-transform:none;font-weight:normal;mso-no-proof:
-yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;text-transform:none;font-weight:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='text-transform:uppercase;mso-no-proof:yes'><a
-href="#_Toc164570193">IReadOnlyPDOMProvider<span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570193 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>8<!--[if gte mso 9]><xml>
+<p class="MsoToc2"><span class="MsoHyperlink"><span style="text-transform:uppercase"><a href="#_Toc164570193">IReadOnlyPDOMProvider <span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570193 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">8 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390033000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;mso-no-proof:yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt"><o:p></o:p></span></p>
 
-<p class=MsoToc1 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570194">Appendix
-B<span style='color:windowtext;display:none;mso-hide:screen;text-decoration:
-none;text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570194 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>11<!--[if gte mso 9]><xml>
+<p class="MsoToc1"><span class="MsoHyperlink"><span><a href="#_Toc164570194">附录B <span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570194 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">11 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390034000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;text-transform:none;font-weight:normal;mso-no-proof:
-yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;text-transform:none;font-weight:normal"><o:p></o:p></span></p>
 
-<p class=MsoToc1 style='tab-stops:right dotted 431.5pt'><span
-class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc164570195">References<span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span><!--[if supportFields]><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'><span style='mso-element:field-begin'></span> PAGEREF
-_Toc164570195 \h </span><span style='color:windowtext;text-decoration:none;
-text-underline:none'><span style='display:none;mso-hide:screen'><span
-style='mso-element:field-separator'></span></span></span><![endif]--><span
-style='color:windowtext;display:none;mso-hide:screen;text-decoration:none;
-text-underline:none'>12<!--[if gte mso 9]><xml>
+<p class="MsoToc1"><span class="MsoHyperlink"><span><a href="#_Toc164570195">参考<span style="color:windowtext;display:none;text-decoration:none"><span>..</span></span><!--[if supportFields]><span
+style=&#39;color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none&#39;><span style=&#39;mso-element:field-begin&#39;></span> PAGEREF
+_Toc164570195 h </span><span style=&#39;color:windowtext;text-decoration:none;
+text-underline:none&#39;><span style=&#39;display:none;mso-hide:screen&#39;><span
+style=&#39;mso-element:field-separator&#39;></span></span></span><![endif]--> <span style="color:windowtext;display:none;text-decoration:none">12 <!--[if gte mso 9]><xml>
  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100360034003500370030003100390035000000</w:data>
-</xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
-display:none;mso-hide:screen;text-decoration:none;text-underline:none'><span
-style='mso-element:field-end'></span></span><![endif]--></a></span></span><span
-style='font-size:12.0pt;text-transform:none;font-weight:normal;mso-no-proof:
-yes'><o:p></o:p></span></p>
+</xml><![endif]--></span> <!--[if supportFields]><span style=&#39;color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span><![endif]--></a></span></span><span style="font-size:12.0pt;text-transform:none;font-weight:normal"><o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><!--[if supportFields]><span class="bold">
-style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><span
-style='mso-element:field-end'></span></span></span><![endif]--><span class="bold"
-style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal" style="text-align:justify"><!--[if supportFields]><span class="bold">
+style=&#39;mso-bidi-font-weight:normal&#39;><span style=&#39;font-size:11.0pt&#39;><span
+style=&#39;mso-element:field-end&#39;></span></span></span><![endif]--><span class="bold"><span style="font-size:11.0pt"><o:p> </o:p></span></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span class="bold" style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="bold"><span style="font-size:11.0pt"><o:p> </o:p></span></span></p>
 
-<h1 style='text-align:justify'><a name="_Toc164570182">Overview</a></h1>
+<h1 style="text-align:justify"><a name="_Toc164570182">概观</a></h1>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>This document describes two
-extension points used for generating reusable index content, and for adding
-this content into a CDT 4.0 based environment. The intended audience is ISVs
-who are looking to build indexes of libraries or SDKs that are of interest to
-them and their customers, and to integrate the pre-built index information into
-their IDE environment. The extension points are intended to be general enough
-to allow ISVs to support unforeseen pre-built index content scenarios, with a
-set of default implementations intended to be useful for standard situations.
-Other sources that may be helpful are the extension point descriptions, and the
-central interfaces� <span class=SpellE>javadoc</span>.</p>
+<p class="MsoBodyText" style="text-align:justify">本文档描述了两个扩展点，用于生成可重用索引内容，以及将此内容添加到基于CDT 4.0的环境中。目标受众是ISV，他们希望构建他们及其客户感兴趣的库或SDK索引，并将预先构建的索引信息集成到他们的IDE环境中。扩展点旨在通用，以允许ISV支持无法预见的预构建索引内容场景，其中一组默认实现旨在用于标准情况。其他可能有用的来源是扩展点描述和中央接口的<span class="SpellE">javadoc</span> 。</p>
 
-<h1 style='text-align:justify'><a name="_Toc164570183">Export of index content</a></h1>
+<h1 style="text-align:justify"><a name="_Toc164570183">导出索引内容</a></h1>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Export is performed by indexing a
-normal CDT project which has been setup and configured programmatically. A
-top-level summary of the steps needed is:</p>
+<p class="MsoNormal" style="text-align:justify">通过索引已以编程方式设置和配置的普通CDT项目来执行导出。所需步骤的顶级摘要是：</p>
 
-<p class=MsoList2 style='margin-left:54.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l1 level1 lfo2;tab-stops:list 54.0pt'><![if !supportLists]><span
-style='mso-list:Ignore'>(1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><![endif]>Write a class that can setup your index content as a
-CDT project, and register it against an extension point. For simple
-libraries/SDKs the default implementation can be used. </p>
+<p class="MsoList2" style="margin-left:54.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span>（1） <span style="font:7.0pt &quot;Times New Roman&quot;">  
+</span></span> <![endif]>编写一个可以将索引内容设置为CDT项目的类，并将其注册到扩展点。对于简单的库/ SDK，可以使用默认实现。</p>
 
-<p class=MsoList2 style='margin-left:54.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l1 level1 lfo2;tab-stops:list 54.0pt'><![if !supportLists]><span
-style='mso-list:Ignore'>(2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><![endif]>Invoke the GeneratePDOM application from the command-line.
-This involves invoking eclipse from an eclipse installation with the CDT 4.0
-plug-ins, and the plug-in containing the project generation code from step (1)</p>
+<p class="MsoList2" style="margin-left:54.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span>（2） <span style="font:7.0pt &quot;Times New Roman&quot;">  
+</span></span> <![endif]>从命令行调用GeneratePDOM应用程序。这涉及从使用CDT 4.0插件的eclipse安装调用eclipse，以及包含来自步骤（1）的项目生成代码的插件</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<h2 style='text-align:justify'><a name="_Toc164570184"><span style='font-style:
-normal;mso-bidi-font-style:italic'>IExportProjectProvider</span></a><span
-style='font-style:normal;mso-bidi-font-style:italic'><o:p></o:p></span></h2>
+<h2 style="text-align:justify"><a name="_Toc164570184"><span style="font-style:normal">IExportProjectProvider</span></a><span style="font-style:normal"><o:p></o:p></span></h2>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>It is expected that real-world
-libraries and SDK�s may need complex configuration before indexing. For
-example, per-file macro or include settings, or excluding certain files from
-being indexed. In this case, it is necessary for the ISV to write code which
-programmatically performs this configuration. If detailed configuration is not
-needed then a default implementation of IExportProjectProvider may be
-sufficient.</p>
+<p class="MsoNormal" style="text-align:justify">在索引之前，预计真实世界的库和SDK可能需要复杂的配置。例如，每个文件宏或包含设置，或排除某些文件被索引。在这种情况下，ISV必须编写以编程方式执行此配置的代码。如果不需要详细配置，则IExportProjectProvider的默认实现可能就足够了。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>The call-back for project
-creation must implement the following interface</p>
+<p class="MsoNormal" style="text-align:justify">项目创建的回调必须实现以下接口</p>
 
-<span class=MsoBodyText style='text-align:justify;text-indent:36.0pt'><strong 
-style='mso-bidi-font-weight:normal'>org.eclipse.cdt.core.index.export.IExportProjectProvider<o:p></o:p></strong></span>
+<span class="MsoBodyText" style="text-align:justify;text-indent:36.0pt"><strong>org.eclipse.cdt.core.index.export。IExportProjectProvider <o:p></o:p></strong></span>
 
-<p class=MsoBodyText style='text-align:justify;text-indent:36.0pt'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify;text-indent:36.0pt"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>The skeletal form of this
-interface is shown below: </p>
+<p class="MsoBodyText" style="text-align:justify">该界面的骨架形式如下所示：</p>
 
-<p class=MsoBodyText style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1046" editas="canvas" style='width:6in;height:135pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoBodyText" style="text-align:justify"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1046" editas="canvas" style=&#39;width:6in;height:135pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,3735" coordsize="7200,2314">
  <o:lock v:ext="edit" aspectratio="t"/>
  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
@@ -899,16 +768,16 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
   </v:formulas>
   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
   <o:lock v:ext="edit" aspectratio="t"/>
- </v:shapetype><v:shape id="_x0000_s1045" type="#_x0000_t75" style='position:absolute;
-  left:2520;top:3735;width:7200;height:2314' o:preferrelative="f">
+ </v:shapetype><v:shape id="_x0000_s1045" type="#_x0000_t75" style=&#39;position:absolute;
+  left:2520;top:3735;width:7200;height:2314&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
  </v:shape><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202"
   path="m,l,21600r21600,l21600,xe">
   <v:stroke joinstyle="miter"/>
   <v:path gradientshapeok="t" o:connecttype="rect"/>
- </v:shapetype><v:shape id="_x0000_s1047" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:3735;width:7200;height:2314'>
+ </v:shapetype><v:shape id="_x0000_s1047" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:3735;width:7200;height:2314&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
@@ -917,15 +786,15 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
      <div>
      <p class=MsoBodyText><span class=GramE>public</span> interface
      IExportProjectProvider {</p>
-     <p class=MsoBodyText style='text-indent:36.0pt'><span class=GramE>public</span>
+     <p class=MsoBodyText style=&#39;text-indent:36.0pt&#39;><span class=GramE>public</span>
      void setApplicationArguments(String[] arguments);</p>
-     <p class=MsoBodyText style='text-indent:36.0pt'><span class=GramE>public</span>
+     <p class=MsoBodyText style=&#39;text-indent:36.0pt&#39;><span class=GramE>public</span>
      ICProject createProject() throws CoreException;</p>
-     <p class=MsoBodyText style='text-indent:36.0pt'><span class=GramE>public</span>
+     <p class=MsoBodyText style=&#39;text-indent:36.0pt&#39;><span class=GramE>public</span>
      IIndexLocationConverter getLocationConverter(ICProject cproject);</p>
-     <p class=MsoBodyText style='text-indent:36.0pt'><span class=GramE>public</span>
-     Map/*&lt;String,String&gt;*/ getExportProperties();<span style='mso-tab-count:
-     1'>�� </span></p>
+     <p class=MsoBodyText style=&#39;text-indent:36.0pt&#39;><span class=GramE>public</span>
+     Map/*&lt;String,String&gt;*/ getExportProperties();<span style=&#39;mso-tab-count:
+     1&#39;>   </span></p>
      <p class=MsoBodyText>}</p>
      </div>
      <![if !mso]></td>
@@ -934,128 +803,92 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=582 height=186
-src="prebuiltIndexes_files/image001.gif" alt="IExportProjectProvider interface" v:shapes="_x0000_s1046 _x0000_s1045 _x0000_s1047"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1025" type="#_x0000_t75" style='width:6in;height:135pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="582" height="186" src="prebuiltIndexes_files/image001.gif" alt="IExportProjectProvider接口" v:shapes="_x0000_s1046 _x0000_s1045 _x0000_s1047"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1025" type="#_x0000_t75" style=&#39;width:6in;height:135pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--></p>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--></p>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>This interface allows any index
-export application to delegate the entire setting up of the project content to
-an ISV specific implementation. The interface javadoc describes each method in
-more detail but a summary is:</p>
+<p class="MsoBodyText" style="text-align:justify">此接口允许任何索引导出应用程序将项目内容的整个设置委派给ISV特定实现。接口javadoc更详细地描述了每个方法，但摘要是：</p>
 
-<p class=MsoBodyText style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l0 level1 lfo4;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>setApplicationArguments � this receives any
-application arguments specified on the command-line. Its expected
-implementations will simply store the arguments for later processing by
-createProject.</p>
+<p class="MsoBodyText" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span style="font-family:Symbol"><span>· <span style="font:7.0pt &quot;Times New Roman&quot;">       
+</span></span></span> <![endif]> setApplicationArguments  - 它接收在命令行上指定的任何应用程序参数。它的预期实现将简单地存储参数以供以后由createProject处理。</p>
 
-<p class=MsoBodyText style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l0 level1 lfo4;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>createProject � this is the key method which is
-expected to create and configure a project representing the content to be
-indexed</p>
+<p class="MsoBodyText" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span style="font-family:Symbol"><span>· <span style="font:7.0pt &quot;Times New Roman&quot;">       
+</span></span></span> <![endif]> createProject  - 这是期望创建和配置表示要编制索引的内容的项目的关键方法</p>
 
-<p class=MsoBodyText style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l0 level1 lfo4;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>getLocationConverter � this returns an
-IIndexLocationConverter which converts IIndexFileLocation objects (which
-represent file locations in the index) to an unspecified ISV determined
-internal (String) format. For convenience, an implementation which converts an
-IIndexFileLocation to an internal format relative path is provided</p>
+<p class="MsoBodyText" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span style="font-family:Symbol"><span>· <span style="font:7.0pt &quot;Times New Roman&quot;">       
+</span></span></span> <![endif]> getLocationConverter  - 返回一个IIndexLocationConverter，它将IIndexFileLocation对象（表示索引中的文件位置）转换为未指定的ISV确定的内部（String）格式。为方便起见，提供了将IIndexFileLocation转换为内部格式相对路径的实现</p>
 
-<p class=MsoBodyText style='margin-left:72.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l0 level2 lfo4;tab-stops:list 72.0pt'><![if !supportLists]><span
-style='font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
-style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>org.eclipse.cdt.core.index.ResourceContainerRelativeLocationConverter</p>
+<p class="MsoBodyText" style="margin-left:72.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span style="font-family:&quot;Courier New&quot;"><span>o <span style="font:7.0pt &quot;Times New Roman&quot;">      
+</span></span></span> <![endif]> org.eclipse.cdt.core.index。ResourceContainerRelativeLocationConverter</p>
 
-<p class=MsoBodyText style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l0 level1 lfo4;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>�<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>getExportProperties � this allows ISV�s to
-associate String values with String keys within exported content. This is
-mostly for debugging purposes as it is not exposed to the CDT user in the 4.0
-release.</p>
+<p class="MsoBodyText" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span style="font-family:Symbol"><span>· <span style="font:7.0pt &quot;Times New Roman&quot;">       
+</span></span></span> <![endif]> getExportProperties  - 这允许ISV将String值与导出内容中的String键相关联。这主要用于调试目的，因为它没有向4.0版本中的CDT用户公开。</p>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>A default implementation of
-this interface, which is also intended to be sub-classed, is<span
-style='mso-tab-count:1'>����������� </span><strong style='mso-bidi-font-weight:normal'>org.eclipse.cdt.core.index.export.ExternalExportProjectProvider</strong></p>
+<p class="MsoBodyText" style="text-align:justify">此接口的默认实现（也是用于子类）是<span>            </span> <strong>org.eclipse.cdt.core.index.export。ExternalExportProjectProvider</strong></p>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>The project provider must be
-registered as an extension to the <span class=SpellE>org.eclipse.cdt.core.CIndex</span>
-extension point under the <span class=SpellE>ExportProjectProvider</span> child
-element, in order that it is visible to the CDT core index generation code.</p>
+<p class="MsoBodyText" style="text-align:justify">必须将项目提供程序注册为<span class="SpellE">org.eclipse.cdt.core的扩展<span class="SpellE">。在<span class="SpellE">ExportProjectProvider</span>子元素下CINDEX</span>扩展点，以便它是对CDT核心指标生成代码可见。</p>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1052" editas="canvas" style='width:6in;height:252pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoBodyText" style="text-align:justify"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1052" editas="canvas" style=&#39;width:6in;height:252pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,2422" coordsize="7200,4320">
  <o:lock v:ext="edit" aspectratio="t"/>
- <v:shape id="_x0000_s1051" type="#_x0000_t75" style='position:absolute;left:2520;
-  top:2422;width:7200;height:4320' o:preferrelative="f">
+ <v:shape id="_x0000_s1051" type="#_x0000_t75" style=&#39;position:absolute;left:2520;
+  top:2422;width:7200;height:4320&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
- </v:shape><v:shape id="_x0000_s1053" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:2422;width:7200;height:4320'>
+ </v:shape><v:shape id="_x0000_s1053" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:2422;width:7200;height:4320&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
     <tr>
      <td><![endif]>
      <div>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'>&lt;<span class=SpellE><span class=GramE>plugin</span></span>&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>��� </span>...<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�� </span>&lt;extension <o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�������� </span><span
-     class=GramE>point</span>=&quot;org.eclipse.cdt.core.CIndex&quot;&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>����� </span>&lt;<span
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;>&lt;<span class=SpellE><span class=GramE>plugin</span></span>&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>    </span>...<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>   </span>&lt;extension <o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>         </span><span
+     class=GramE>point</span>="org.eclipse.cdt.core.CIndex"&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>      </span>&lt;<span
      class=SpellE>ExportProjectProvider</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>����������� </span><span
-     class=GramE>class</span>=&quot;com.acme.sdk.SDKProjectProvider_2_0_1&quot;&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>����� </span>&lt;/<span
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>            </span><span
+     class=GramE>class</span>="com.acme.sdk.SDKProjectProvider_2_0_1"&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>      </span>&lt;/<span
      class=SpellE>ExportProjectProvider</span>&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�� </span>&lt;/extension&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>��� </span>...<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'>&lt;/<span class=SpellE>plugin</span>&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>   </span>&lt;/extension&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>    </span>...<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;>&lt;/<span class=SpellE>plugin</span>&gt;<o:p></o:p></span></p>
      </div>
      <![if !mso]></td>
     </tr>
@@ -1063,367 +896,245 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=582 height=342
-src="prebuiltIndexes_files/image002.gif" alt="ExportProjectProvider extension point" v:shapes="_x0000_s1052 _x0000_s1051 _x0000_s1053"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1026" type="#_x0000_t75" style='width:6in;height:252pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="582" height="342" src="prebuiltIndexes_files/image002.gif" alt="ExportProjectProvider扩展点" v:shapes="_x0000_s1052 _x0000_s1051 _x0000_s1053"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1026" type="#_x0000_t75" style=&#39;width:6in;height:252pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--><br clear=all
-style='mso-special-character:line-break;page-break-before:always'>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--><br clear="all" style="page-break-before:always">
 </p>
 
-<h2 style='text-align:justify'><a name="_Toc164570185">The </a><span
-class=SpellE><span style='mso-bookmark:_Toc164570185'>GeneratePDOM</span></span><span
-style='mso-bookmark:_Toc164570185'> Application</span></h2>
+<h2 style="text-align:justify"><a name="_Toc164570185">该</a> <span class="SpellE"><span>GeneratePDOM</span></span> <span>应用</span></h2>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>CDT 4.0 provides an eclipse
-command-line application for generating the index. Its application ID is:</p>
+<p class="MsoBodyText" style="text-align:justify">CDT 4.0提供了一个用于生成索引的eclipse命令行应用程序。其应用程序ID为：</p>
 
-<p class=MsoBodyTextIndent style='text-align:justify'><span class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span></p>
+<p class="MsoBodyTextIndent" style="text-align:justify"><span class="SpellE">org.eclipse.cdt.core。GeneratePDOM</span></p>
 
-<p class=MsoBodyTextIndent style='margin-left:0cm;text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyTextIndent" style="margin-left:0cm;text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'><span style='font-size:11.0pt'>This
-application can be invoked as any other eclipse command-line application, some
-examples are provided later in this document.</span></p>
+<p class="MsoBodyText" style="text-align:justify"><span style="font-size:11.0pt">此应用程序可以作为任何其他eclipse命令行应用程序调用，本文档稍后将提供一些示例。</span></p>
 
-<h3 style='text-align:justify'><o:p>&nbsp;</o:p></h3>
+<h3 style="text-align:justify"><o:p> </o:p></h3>
 
-<h3 style='text-align:justify'><a name="_Toc164570186">Common command-line
-options</a></h3>
+<h3 style="text-align:justify"><a name="_Toc164570186">常见的命令行选项</a></h3>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Command-line options common to
-all IExportProjectProvider implementations are:</p>
+<p class="MsoNormal" style="text-align:justify">所有IExportProjectProvider实现共有的命令行选项是：</p>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
- <tr style='mso-yfti-irow:0'>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-pprovider</span></p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
+ <tr>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-pprovider</span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>The fully qualified <span class=SpellE>classname</span>
-  of a class implementing interface IExportProjectProvider<o:p></o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>Example:<o:p></o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-pprovider <span class=SpellE>com.acme.sdk.AcmeExportProjectProvider</span></span></p>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">实现接口IExportProjectProvider的类的完全限定<span class="SpellE">类</span>名<o:p></o:p></span></p>
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;"><o:p> </o:p></span></p>
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">例：<o:p></o:p></span></p>
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;"><o:p> </o:p></span></p>
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-pprovider <span class="SpellE">com.acme.sdk。AcmeExportProjectProvider</span></span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'>Optional. Defaults to the
-  fully qualified class name of <span class=SpellE>ExternalExportProjectProvider</span></p>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify">可选的。默认为<span class="SpellE">ExternalExportProjectProvider</span>的完全限定类名</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-target<o:p></o:p></span></p>
+ <tr>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-目标<o:p></o:p></span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>An absolute or relative path of the resulting file</span></p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">结果文件的绝对路径或相对路径</span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'>Needed</p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify">需要</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-properties &lt;key=value&gt;<o:p></o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>�<o:p></o:p></span></p>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>&lt;key=value&gt;</span></p>
+ <tr>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-properties &lt;key = value&gt;<o:p></o:p></span></p>
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;"><o:p></o:p></span></p>
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">&lt;键=值&gt;</span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'>Optional</p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify">可选的</p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-  <td width=197 valign=top style='width:147.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-quiet</span></p>
+ <tr>
+  <td width="197" valign="top" style="width:147.6pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-安静</span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>If present, problems, statistics and indexer
-  activity will be suppressed.</span></p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">如果存在，将阻止问题，统计和索引器活动。</span></p>
   </td>
-  <td width=197 valign=top style='width:147.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoBodyText style='text-align:justify'>Optional</p>
+  <td width="197" valign="top" style="width:147.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoBodyText" style="text-align:justify">可选的</p>
   </td>
  </tr>
 </table>
 
-<p class=MsoBodyText style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoBodyText" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoBodyText style='text-align:justify'>Other command-line options
-depend on what the project provider specified in �pprovider.</p>
+<p class="MsoBodyText" style="text-align:justify">其他命令行选项取决于项目提供程序在-pprovider中指定的内容。</p>
 
-<h3 style='text-align:justify'><a name="_Toc164570187"></a><span class=SpellE><span
-style='mso-bookmark:_Toc164570187'>ExternalExportProjectProvider</span></span><span
-style='mso-bookmark:_Toc164570187'> command-line options</span></h3>
+<h3 style="text-align:justify"><a name="_Toc164570187"></a> <span class="SpellE"><span>ExternalExportProjectProvider</span></span> <span>命令行选项</span></h3>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><span class=SpellE>ExternalExportProjectProvider</span>
-specific command-line options are:</p>
+<p class="MsoNormal" style="text-align:justify"><span class="SpellE">ExternalExportProjectProvider</span>特定的命令行选项是：</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=583
- style='width:437.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
- <tr style='mso-yfti-irow:0'>
-  <td width=163 valign=top style='width:122.4pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-source<o:p></o:p></span></p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.4pt;border-collapse:collapse;border:none">
+ <tr>
+  <td width="163" valign="top" style="width:122.4pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-资源<o:p></o:p></span></p>
   </td>
-  <td width=264 valign=top style='width:198.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>The absolute path of a directory to index.
-  Everything under this directory will be indexed. <o:p></o:p></span></p>
+  <td width="264" valign="top" style="width:198.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">要索引的目录的绝对路径。此目录下的所有内容都将被编入索引。<o:p></o:p></span></p>
   </td>
-  <td width=156 valign=top style='width:117.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>Needed<o:p></o:p></span></p>
+  <td width="156" valign="top" style="width:117.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">需要<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=163 valign=top style='width:122.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>-include<o:p></o:p></span></p>
+ <tr>
+  <td width="163" valign="top" style="width:122.4pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">-包括<o:p></o:p></span></p>
   </td>
-  <td width=264 valign=top style='width:198.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>An absolute or relative path of a pre-include file<o:p></o:p></span></p>
+  <td width="264" valign="top" style="width:198.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">预包含文件的绝对路径或相对路径<o:p></o:p></span></p>
   </td>
-  <td width=156 valign=top style='width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>Optional<o:p></o:p></span></p>
+  <td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">可选的<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
-  <td width=163 valign=top style='width:122.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>- id<o:p></o:p></span></p>
+ <tr>
+  <td width="163" valign="top" style="width:122.4pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">- ID<o:p></o:p></span></p>
   </td>
-  <td width=264 valign=top style='width:198.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>A <span class=SpellE>namespaced</span> identifier
-  identifying the indexed content<o:p></o:p></span></p>
+  <td width="264" valign="top" style="width:198.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">标识索引内容的<span class="SpellE">命名空间</span>标识符<o:p></o:p></span></p>
   </td>
-  <td width=156 valign=top style='width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt;
-  font-family:"Courier New"'>Optional<o:p></o:p></span></p>
+  <td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="text-align:justify"><span style="font-size:8.0pt;font-family:&quot;Courier New&quot;">可选的<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
 
-<h3 style='text-align:justify'><o:p>&nbsp;</o:p></h3>
+<h3 style="text-align:justify"><o:p> </o:p></h3>
 
-<span style='font-size:14.0pt;font-family:Arial;mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA'><br
-clear=all style='page-break-before:always'>
+<span style="font-size:14.0pt;font-family:Arial"><br clear="all" style="page-break-before:always">
 </span>
 
-<h2 style='text-align:justify'><a name="_Toc164570188">Invoking the
-GeneratePDOM application</a></h2>
+<h2 style="text-align:justify"><a name="_Toc164570188">调用GeneratePDOM应用程序</a></h2>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>As an eclipse application, the
-GeneratePDOM application can be invoked in the normal ways that any other
-eclipse application can [1]. For initial development, <span class=GramE>its</span>
-most convenient to invoke as a self-hosted eclipse application via a launch
-configuration. For integrating into an automated build, either direct
-command-line invocation or via an ant build is more convenient.</p>
+<p class="MsoNormal" style="text-align:justify">作为eclipse应用程序，可以按照任何其他eclipse应用程序可以正常的方式调用GeneratePDOM应用程序[1]。对于最初的开发， <span class="GramE">其</span>最方便的调用是通过启动配置自托管Eclipse应用程序。要集成到自动构建中，直接命令行调用或通过ant构建更方便。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<h3 style='text-align:justify'><a name="_Toc164570189">Invoking as a
-self-hosted eclipse application</a></h3>
+<h3 style="text-align:justify"><a name="_Toc164570189">作为自托管的eclipse应用程序调用</a></h3>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Running as a self-hosted eclipse
-application is straightforward. You will need to have the CDT 4.0 plug-ins
-installed, or in your workspace. Then the steps are:</p>
+<p class="MsoNormal" style="text-align:justify">作为自托管的eclipse应用程序运行很简单。您需要安装CDT 4.0插件，或者在工作区中安装。然后步骤是：</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l3 level1 lfo6;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><![endif]>Create a new launch configuration of type �Eclipse
-Application�</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span>1） <span style="font:7.0pt &quot;Times New Roman&quot;">     
+</span></span> <![endif]>创建“Eclipse Application”类型的新启动配置</p>
 
-<p class=MsoNormal style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l3 level1 lfo6;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><![endif]>Choose �Run an application� and select �<span
-class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span>�</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span>2） <span style="font:7.0pt &quot;Times New Roman&quot;">     
+</span></span> <![endif]>选择“运行应用程序”并选择“ <span class="SpellE">org.eclipse.cdt.core”。GeneratePDOM</span> “</p>
 
-<p class=MsoNormal style='margin-left:36.0pt;text-align:justify;text-indent:
--18.0pt;mso-list:l3 level1 lfo6;tab-stops:list 36.0pt'><![if !supportLists]><span
-style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><![endif]>Enter the Arguments to the application as detailed in
-the previous sections</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify"><![if !supportLists] gtc:encodedoriginal="PCFbaWYgIXN1cHBvcnRMaXN0c10-"> <span>3） <span style="font:7.0pt &quot;Times New Roman&quot;">     
+</span></span> <![endif]>输入应用程序的参数，如前几节中所述</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><v:shape id="_x0000_i1027"
- type="#_x0000_t75" style='width:431.25pt;height:321pt'>
+<p class="MsoNormal" style="text-align:justify"><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+ type="#_x0000_t75" style=&#39;width:431.25pt;height:321pt&#39;>
  <v:imagedata src="prebuiltIndexes_files/image003.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=575 height=428
-src="prebuiltIndexes_files/image004.jpg" alt="Run configuration, Run an application" v:shapes="_x0000_i1027"><![endif]></p>
+</v:shape><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="575" height="428" src="prebuiltIndexes_files/image004.jpg" alt="运行配置，运行应用程序" v:shapes="_x0000_i1027"><![endif]></p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
- type="#_x0000_t75" style='width:431.25pt;height:321pt'>
+<p class="MsoNormal" style="text-align:justify"><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style=&#39;width:431.25pt;height:321pt&#39;>
  <v:imagedata src="prebuiltIndexes_files/image005.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=575 height=428
-src="prebuiltIndexes_files/image006.jpg" alt="Run configuration, Arguments tab" v:shapes="_x0000_i1028"><![endif]></p>
+</v:shape><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="575" height="428" src="prebuiltIndexes_files/image006.jpg" alt="运行配置，参数选项卡" v:shapes="_x0000_i1028"><![endif]></p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<h3 style='text-align:justify'><a name="_Toc164570190">Invoking via the
-command-line</a></h3>
+<h3 style="text-align:justify"><a name="_Toc164570190">通过命令行调用</a></h3>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>The PDOM generation application
-can be invoked via the command-line. Since version 3.3, the Eclipse</p>
+<p class="MsoNormal" style="text-align:justify">可以通过命令行调用PDOM生成应用程序。自3.3版本开始，Eclipse</p>
 
-<p class=MsoNormal style='text-align:justify'><span class=GramE>distribution</span>
-on Windows includes an �ecilpsec.exe� which is for launching eclipse as a
-console application.</p>
+<p class="MsoNormal" style="text-align:justify">Windows上的<span class="GramE">发行版</span>包括一个“ecilpsec.exe”，用于启动eclipse作为控制台应用程序。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1043" editas="canvas" style='width:6in;height:205.5pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoNormal" style="text-align:justify"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1043" editas="canvas" style=&#39;width:6in;height:205.5pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,5160" coordsize="7200,3523">
  <o:lock v:ext="edit" aspectratio="t"/>
- <v:shape id="_x0000_s1042" type="#_x0000_t75" style='position:absolute;left:2520;
-  top:5160;width:7200;height:3523' o:preferrelative="f">
+ <v:shape id="_x0000_s1042" type="#_x0000_t75" style=&#39;position:absolute;left:2520;
+  top:5160;width:7200;height:3523&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
- </v:shape><v:shape id="_x0000_s1044" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:5160;width:7200;height:3446'>
+ </v:shape><v:shape id="_x0000_s1044" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:5160;width:7200;height:3446&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
     <tr>
      <td><![endif]>
      <div>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'>&lt;<span
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;>&lt;<span
      class=GramE>eclipse</span>&gt; &lt;app&gt; &lt;app <span class=SpellE>args</span>&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span class=GramE><span style='font-size:8.0pt;
-     font-family:"Courier New"'>where</span></span><span style='font-size:8.0pt;
-     font-family:"Courier New"'><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'><span
-     style='mso-tab-count:1'>������ </span>&lt;<span class=GramE>eclipse</span>&gt;
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span class=GramE><span style=&#39;font-size:8.0pt;
+     font-family:"Courier New"&#39;>where</span></span><span style=&#39;font-size:8.0pt;
+     font-family:"Courier New"&#39;><o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;><span
+     style=&#39;mso-tab-count:1&#39;>       </span>&lt;<span class=GramE>eclipse</span>&gt;
      = eclipse (or eclipsec.exe on windows)<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'><span
-     style='mso-tab-count:1'>������ </span>&lt;<span class=GramE>app</span>&gt;
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;><span
+     style=&#39;mso-tab-count:1&#39;>       </span>&lt;<span class=GramE>app</span>&gt;
      = -application <span class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'><span
-     style='mso-tab-count:1'>������ </span>&lt;<span class=GramE>app</span> <span
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;><span
+     style=&#39;mso-tab-count:1&#39;>       </span>&lt;<span class=GramE>app</span> <span
      class=SpellE>args</span>&gt; =<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'>-pprovider
-     <span style='color:black'>org.eclipse.cdt.core.index.export.ExternalExportProjectProvider</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'>-target
-     <span style='color:black'>C:\ExportedPDOMs\acmeSDK_2_5.pdom</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'>-source
-     <span style='color:black'>E:\AcmeSDK\v2.5\inc</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New"'>-id
-     <span style='color:black'>com.acme.mysdk.v2.5<o:p></o:p></span></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span class=GramE><span style='font-size:8.0pt;
-     font-family:"Courier New";color:black'>e.g.</span></span><span
-     style='font-size:8.0pt;font-family:"Courier New";color:black'> <o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:8.0pt;font-family:"Courier New";
-     color:black'>eclipsec.exe -application <span class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;>-pprovider
+     <span style=&#39;color:black&#39;>org.eclipse.cdt.core.index.export.ExternalExportProjectProvider</span><o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;>-target
+     <span style=&#39;color:black&#39;>C:ExportedPDOMsacmeSDK_2_5.pdom</span><o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;>-source
+     <span style=&#39;color:black&#39;>E:AcmeSDKv2.5inc</span><o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New"&#39;>-id
+     <span style=&#39;color:black&#39;>com.acme.mysdk.v2.5<o:p></o:p></span></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span class=GramE><span style=&#39;font-size:8.0pt;
+     font-family:"Courier New";color:black&#39;>e.g.</span></span><span
+     style=&#39;font-size:8.0pt;font-family:"Courier New";color:black&#39;> <o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt;font-family:"Courier New";
+     color:black&#39;>eclipsec.exe -application <span class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span>
      -<span class=SpellE>pprovider</span> <span class=SpellE>org.eclipse.cdt.core.index.export.ExternalExportProjectProvider</span>
-     -target C:\ExportedPDOMs\acmeSDK_2_5.pdom -source E:\AcmeSDK\v2.5\inc -id
+     -target C:ExportedPDOMsacmeSDK_2_5.pdom -source E:AcmeSDKv2.5inc -id
      com.acme.mysdk.v2.5<o:p></o:p></span></p>
      </div>
      <![if !mso]></td>
@@ -1432,38 +1143,35 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=582 height=277
-src="prebuiltIndexes_files/image007.gif" alt="launching Eclipse as a console application" v:shapes="_x0000_s1043 _x0000_s1042 _x0000_s1044"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1029" type="#_x0000_t75" style='width:6in;height:205.5pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="582" height="277" src="prebuiltIndexes_files/image007.gif" alt="将Eclipse作为控制台应用程序启动" v:shapes="_x0000_s1043 _x0000_s1042 _x0000_s1044"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1029" type="#_x0000_t75" style=&#39;width:6in;height:205.5pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--></p>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--></p>
 
-<h3 style='text-align:justify'><a name="_Toc164570191"><o:p>&nbsp;</o:p></a></h3>
+<h3 style="text-align:justify"><a name="_Toc164570191"><o:p> </o:p></a></h3>
 
-<h3 style='text-align:justify'><span style='mso-bookmark:_Toc164570191'>Invoking
-via an Ant script</span></h3>
+<h3 style="text-align:justify"><span>通过Ant脚本调用</span></h3>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>An example script invoking the
-application via Ant is shown below:</p>
+<p class="MsoNormal" style="text-align:justify">通过Ant调用应用程序的示例脚本如下所示：</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1040" editas="canvas" style='width:6in;height:348pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoNormal" style="text-align:justify"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1040" editas="canvas" style=&#39;width:6in;height:348pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,3825" coordsize="7200,5965">
  <o:lock v:ext="edit" aspectratio="t"/>
- <v:shape id="_x0000_s1039" type="#_x0000_t75" style='position:absolute;left:2520;
-  top:3825;width:7200;height:5965' o:preferrelative="f">
+ <v:shape id="_x0000_s1039" type="#_x0000_t75" style=&#39;position:absolute;left:2520;
+  top:3825;width:7200;height:5965&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
- </v:shape><v:shape id="_x0000_s1041" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:3825;width:7200;height:5965'>
+ </v:shape><v:shape id="_x0000_s1041" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:3825;width:7200;height:5965&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
@@ -1471,65 +1179,65 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
      <td><![endif]>
      <div><pre><span style='font-size:8.0pt;color:black'>&lt;project name=&quot;Generate PDOM&quot; default=&quot;generate&quot;&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'> &lt;target name=&quot;generate&quot;&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span><span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span><span
      class=GramE>&lt;!--</span> This script shows how to invoke the default project provider<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'>(<span class=SpellE>ExternalExportProjectProvider</span>) --&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;pprovider&quot;<o:p></o:p></span></pre><pre><span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;pprovider&quot;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'>value=&quot;org.eclipse.cdt.core.index.export.ExternalExportProjectProvider&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;target&quot; value=&quot;C:\ExportedPDOMs\acmeSDK_2_5.pdom&quot;/&gt; &lt;!--<o:p></o:p></span></pre><pre><span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;target&quot; value=&quot;C:\ExportedPDOMs\acmeSDK_2_5.pdom&quot;/&gt; &lt;!--<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'>Where the output <span class=SpellE>pdom</span> is to go --&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;source&quot; value=&quot;E:\AcmeSDK\v2.5\inc&quot;/&gt; &lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;source&quot; value=&quot;E:\AcmeSDK\v2.5\inc&quot;/&gt; &lt;<span
      class=GramE>!--</span> e.g. the directory<o:p></o:p></span></pre><pre><span
      class=GramE><span style='font-size:8.0pt;color:black'>to</span></span><span
      style='font-size:8.0pt;color:black'> source content from --&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;id&quot; value=&quot;com.acme.mysdk.v2.5&quot;/&gt; &lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;id&quot; value=&quot;com.acme.mysdk.v2.5&quot;/&gt; &lt;<span
      class=GramE>!--</span> the id to store in the<o:p></o:p></span></pre><pre><span
      class=GramE><span style='font-size:8.0pt;color:black'>generate</span></span><span
      style='font-size:8.0pt;color:black'> <span class=SpellE>pdom</span> --&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'><o:p>&nbsp;</o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;property name=&quot;<span
      class=SpellE>eclipse.home</span>&quot; value=&quot;C:\eclipse&quot;/&gt; &lt;<span
      class=GramE>!--</span> e.g. The eclipse<o:p></o:p></span></pre><pre><span
      class=GramE><span style='font-size:8.0pt;color:black'>installation</span></span><span
      style='font-size:8.0pt;color:black'> to use. This installation must contain CDT 4.0+ <span
      class=SpellE>plugins</span> --&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'><o:p>&nbsp;</o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;java <span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;java <span
      class=SpellE>classname</span>=&quot;<span class=SpellE>org.eclipse.equinox.launcher.Main</span>&quot;&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE><span class=GramE>classpath</span></span>&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>��� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>��� </span>&lt;<span
      class=SpellE>fileset</span> dir=&quot;${<span class=SpellE>eclipse.home</span>}/<span
      class=SpellE>plugins</span>&quot;&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>���� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>���� </span>&lt;<span
      class=GramE>include</span> name=&quot;*<span class=SpellE>equinox.launcher</span>*.jar&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>��� </span>&lt;/<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>��� </span>&lt;/<span
      class=SpellE>fileset</span>&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;/<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;/<span
      class=SpellE>classpath</span>&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-<span class=SpellE>nosplash</span>&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-<span class=SpellE>exitdata</span>&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-application&quot;/&gt;&lt;<span
      class=SpellE>arg</span> value=&quot;<span class=SpellE>org.eclipse.cdt.core.GeneratePDOM</span>&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-<span class=SpellE>pprovider</span>&quot;/&gt;&lt;<span
      class=SpellE>arg</span> value=&quot;${<span class=SpellE>pprovider</span>}&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-source&quot;/&gt;&lt;<span
      class=SpellE>arg</span> value=&quot;${source}&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-target&quot;/&gt;&lt;<span
      class=SpellE>arg</span> value=&quot;${target}&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>�� </span>&lt;<span
      class=SpellE>arg</span> value=&quot;-id&quot;/&gt;&lt;<span class=SpellE>arg</span> value=&quot;${id}&quot;/&gt;<o:p></o:p></span></pre><pre><span
-     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;/java&gt;<o:p></o:p></span></pre><pre><span
+     style='font-size:8.0pt;color:black'><span style='mso-spacerun:yes'>� </span>&lt;/java&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'> &lt;/target&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'>&lt;/project&gt;<o:p></o:p></span></pre><pre><span
      style='font-size:8.0pt;color:black'><o:p>&nbsp;</o:p></span></pre>
-     <p class=MsoNormal><span style='font-size:8.0pt'><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:8.0pt&#39;><o:p>&nbsp;</o:p></span></p>
      </div>
      <![if !mso]></td>
     </tr>
@@ -1537,80 +1245,56 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=582 height=470
-src="prebuiltIndexes_files/image008.gif" alt="invoking via an Ant script" v:shapes="_x0000_s1040 _x0000_s1039 _x0000_s1041"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1030" type="#_x0000_t75" style='width:6in;height:348pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="582" height="470" src="prebuiltIndexes_files/image008.gif" alt="通过Ant脚本调用" v:shapes="_x0000_s1040 _x0000_s1039 _x0000_s1041"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1030" type="#_x0000_t75" style=&#39;width:6in;height:348pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--></p>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:11.0pt"><o:p> </o:p></span></p>
 
-<span style='font-size:16.0pt;font-family:Arial;mso-fareast-font-family:"Times New Roman";
-mso-font-kerning:16.0pt;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;
-mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+<span style="font-size:16.0pt;font-family:Arial"><br clear="all" style="page-break-before:always">
 </span>
 
-<h1 style='text-align:justify'><a name="_Toc164570192">Import of index content</a><span
-style='mso-bookmark:_Toc164570192'></span><span style='font-size:11.0pt'><o:p></o:p></span></h1>
+<h1 style="text-align:justify"><a name="_Toc164570192">导入索引内容</a><span></span><span style="font-size:11.0pt"><o:p></o:p></span></h1>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Once ISV content has been
-generated and distributed to the user�s computer, the mechanism to have that
-content appear within a CDT 4.0 session is via another extension point:</p>
+<p class="MsoNormal" style="text-align:justify">生成ISV内容并将其分发到用户的计算机后，将该内容显示在CDT 4.0会话中的机制是通过另一个扩展点：</p>
 
-<span class=MsoNormal style='text-align:justify'><strong style='mso-bidi-font-weight:
-normal'><span style='mso-tab-count:1'>����������� </span><span class=SpellE>org.eclipse.cdt.core.CIndex.ReadOnlyPDOMProvider</span><em
-style='mso-bidi-font-style:normal'><o:p></o:p></em></strong></span>
+<span class="MsoNormal" style="text-align:justify"><strong><span>            </span> <span class="SpellE">org.eclipse.cdt.core。CINDEX。ReadOnlyPDOMProvider</span> <em><o:p></o:p></em></strong></span>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>An implementation of the <span
-class=SpellE>IReadOnlyPDOMProvider</span> interface is registered under this
-extension point.</p>
+<p class="MsoNormal" style="text-align:justify"><span class="SpellE">IReadOnlyPDOMProvider</span>接口的实现在此扩展点下注册。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<h2><a name="_Toc164570193"></a><span class=SpellE><span style='mso-bookmark:
-_Toc164570193'>IReadOnlyPDOMProvider</span></span><span style='mso-bookmark:
-_Toc164570193'></span></h2>
+<h2><a name="_Toc164570193"></a> <span class="SpellE"><span>IReadOnlyPDOMProvider</span></span><span></span></h2>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Since CDT 4.0, the project model
-has the concept of project configurations, which in terms of code corresponds
-to the interface:</p>
+<p class="MsoNormal" style="text-align:justify">从CDT 4.0开始，项目模型具有项目配置的概念，在代码方面对应于接口：</p>
 
-<span class=MsoNormal style='text-align:justify;text-indent:36.0pt'><span
-class=SpellE><strong style='mso-bidi-font-weight:normal'>org.eclipse.cdt.core.settings.model.ICConfigurationDescription</strong></span><strong
-style='mso-bidi-font-weight:normal'><o:p></o:p></strong></span>
+<span class="MsoNormal" style="text-align:justify;text-indent:36.0pt"><span class="SpellE"><strong>org.eclipse.cdt.core.settings.model。ICConfigurationDescription</strong></span> <strong><o:p></o:p></strong></span> <span class="MsoNormal" style="text-align:justify;text-indent:36.0pt"><strong><o:p> </o:p></strong></span>
 
-<span class=MsoNormal style='text-align:justify;text-indent:36.0pt'><strong
-style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></strong></span>
+<p class="MsoNormal" style="text-align:justify">索引模型允许内容通过<span class="SpellE">CIndex与<span class="SpellE">ICConfigurationDescription</span>对象相关联<span class="SpellE">。ReadOnlyPDOMProvider</span>扩展点。期望ISV实现检查指定的<span class="SpellE">ICConfigurationDescription</span>对象，并根据其ISV内容相关的属性（例如，宏和包含路径，或者可能是自定义构建器属性）来确定。</p>
 
-<p class=MsoNormal style='text-align:justify'>The index model allows content to
-be associated with <span class=SpellE>ICConfigurationDescription</span> objects
-via the <span class=SpellE>CIndex.ReadOnlyPDOMProvider</span> extension point.
-ISV implementations are expected to examine the specified <span class=SpellE>ICConfigurationDescription</span>
-object, and determine from its properties (for example, macros and include
-paths, or perhaps custom builder properties) which ISV content is relevant. </p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal style='text-align:justify'><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1037" editas="canvas" style='width:459pt;height:126pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoNormal" style="text-align:justify"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1037" editas="canvas" style=&#39;width:459pt;height:126pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,4297" coordsize="7650,2160">
  <o:lock v:ext="edit" aspectratio="t"/>
- <v:shape id="_x0000_s1036" type="#_x0000_t75" style='position:absolute;left:2520;
-  top:4297;width:7650;height:2160' o:preferrelative="f">
+ <v:shape id="_x0000_s1036" type="#_x0000_t75" style=&#39;position:absolute;left:2520;
+  top:4297;width:7650;height:2160&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
- </v:shape><v:shape id="_x0000_s1038" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:4297;width:7650;height:2160'>
+ </v:shape><v:shape id="_x0000_s1038" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:4297;width:7650;height:2160&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
@@ -1620,7 +1304,7 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
      <p class=MsoNormal><span class=GramE>public</span> interface <span
      class=SpellE>IReadOnlyPDOMProvider</span> extends <span class=SpellE>IIndexProvider</span>
      {</p>
-     <p class=MsoNormal><span style='mso-tab-count:1'>����������� </span><span
+     <p class=MsoNormal><span style=&#39;mso-tab-count:1&#39;>            </span><span
      class=GramE>public</span> <span class=SpellE>IPDOMDescriptor</span>[] <span
      class=SpellE>getDescriptors</span>(<span class=SpellE>ICConfigurationDescription</span>
      <span class=SpellE>config</span>);</p>
@@ -1628,10 +1312,10 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
      <p class=MsoNormal><o:p>&nbsp;</o:p></p>
      <p class=MsoNormal><span class=GramE>public</span> interface <span
      class=SpellE>IPDOMDescriptor</span> {</p>
-     <p class=MsoNormal><span style='mso-tab-count:1'>����������� </span><span
+     <p class=MsoNormal><span style=&#39;mso-tab-count:1&#39;>            </span><span
      class=SpellE>IPath</span> <span class=SpellE><span class=GramE>getLocation</span></span><span
      class=GramE>(</span>);</p>
-     <p class=MsoNormal><span style='mso-tab-count:1'>����������� </span><span
+     <p class=MsoNormal><span style=&#39;mso-tab-count:1&#39;>            </span><span
      class=SpellE>IIndexLocationConverter</span> <span class=SpellE><span
      class=GramE>getIndexLocationConverter</span></span><span class=GramE>(</span>);</p>
      <p class=MsoNormal>}</p>
@@ -1642,92 +1326,76 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=618 height=174
-src="prebuiltIndexes_files/image009.gif" alt="IReadOnlyPDOMProvider and IPDOMDescriptor interface " v:shapes="_x0000_s1037 _x0000_s1036 _x0000_s1038"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1031" type="#_x0000_t75" style='width:459pt;height:126pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="618" height="174" src="prebuiltIndexes_files/image009.gif" alt="IReadOnlyPDOMProvider和IPDOMDescriptor接口" v:shapes="_x0000_s1037 _x0000_s1036 _x0000_s1038"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1031" type="#_x0000_t75" style=&#39;width:459pt;height:126pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--></p>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--></p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>The interface <span class=SpellE>IReadOnlyPDOMProvider</span>
-allows index content contributors to register content related to a particular <span
-class=SpellE>ICConfigurationDescription</span>. This will be queried
-dynamically, so it is important to perform only inexpensive logic in this
-method. The resulting <span class=SpellE>IPDOMDescriptor</span> objects will be
-used to load PDOM format files into the logical index. </p>
+<p class="MsoNormal" style="text-align:justify">接口<span class="SpellE">IReadOnlyPDOMProvider</span>允许索引内容贡献者注册与特定<span class="SpellE">ICConfigurationDescription</span>相关的内容。这将被动态查询，因此在此方法中仅执行廉价逻辑非常重要。生成的<span class="SpellE">IPDOMDescriptor</span>对象将用于将PDOM格式文件加载到逻辑索引中。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>The <span class=SpellE>IPDOMDescriptor</span>
-consists of the absolute path of the PDOM format file, and a location converter
-suitable for converting from the file�s internal representation of paths to the
-runtime IIndexFileLocation objects used by the indexing API. The location
-converter must be compatible with the one used on export. Again, a default
-implementation is provided. If you exported your index content with
-org.eclipse.cdt.core.index.ResourceContainerRelativeLocationConverter then the
-location converter <span class=SpellE>org.eclipse.cdt.core.index.URIRelativeLocationConverter</span>
-is internal format compatible.</p>
+<p class="MsoNormal" style="text-align:justify"><span class="SpellE">IPDOMDescriptor</span>包含PDOM格式文件的绝对路径，以及适合于从文件的内部路径表示转换为索引API使用的运行时IIndexFileLocation对象的位置转换器。位置转换器必须与导出时使用的转换器兼容。同样，提供了默认实现。如果使用org.eclipse.cdt.core.index导出索引内容。ResourceContainerRelativeLocationConverter然后是位置转换器<span class="SpellE">org.eclipse.cdt.core.index。URIRelativeLocationConverter</span>兼容内部格式。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'>Once the provider is registered
-in the CDT extension point, then the pre-built index content will be available
-via index-based features in the IDE for the appropriate configurations.</p>
+<p class="MsoNormal" style="text-align:justify">一旦提供程序在CDT扩展点中注册，那么预构建的索引内容将通过IDE中的基于索引的功能提供，以用于适当的配置。</p>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal><!--[if mso & !supportInlineShapes & supportFields]><span
-style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'>�</span>SHAPE <span
-style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:group
- id="_x0000_s1049" editas="canvas" style='width:6in;height:162pt;
- mso-position-horizontal-relative:char;mso-position-vertical-relative:line'
+<p class="MsoNormal"><!--[if mso & !supportInlineShapes & supportFields]><span
+style=&#39;mso-element:field-begin;mso-field-lock:yes&#39;></span><span
+style=&#39;mso-spacerun:yes&#39;> </span>SHAPE <span
+style=&#39;mso-spacerun:yes&#39;> </span>* MERGEFORMAT <span style=&#39;mso-element:field-separator&#39;></span><![endif]--><!--[if gte vml 1]><v:group
+ id="_x0000_s1049" editas="canvas" style=&#39;width:6in;height:162pt;
+ mso-position-horizontal-relative:char;mso-position-vertical-relative:line&#39;
  coordorigin="2520,937" coordsize="7200,2777">
  <o:lock v:ext="edit" aspectratio="t"/>
- <v:shape id="_x0000_s1048" type="#_x0000_t75" style='position:absolute;left:2520;
-  top:937;width:7200;height:2777' o:preferrelative="f">
+ <v:shape id="_x0000_s1048" type="#_x0000_t75" style=&#39;position:absolute;left:2520;
+  top:937;width:7200;height:2777&#39; o:preferrelative="f">
   <v:fill o:detectmouseclick="t"/>
   <v:path o:extrusionok="t" o:connecttype="none"/>
- </v:shape><v:shape id="_x0000_s1050" type="#_x0000_t202" style='position:absolute;
-  left:2520;top:937;width:7200;height:2777'>
+ </v:shape><v:shape id="_x0000_s1050" type="#_x0000_t202" style=&#39;position:absolute;
+  left:2520;top:937;width:7200;height:2777&#39;>
   <v:textbox>
    <![if !mso]>
    <table cellpadding=0 cellspacing=0 width="100%">
     <tr>
      <td><![endif]>
      <div>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'>&lt;<span class=SpellE><span class=GramE>plugin</span></span>&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>��� </span>...<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�� </span>&lt;extension <o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>������� </span><span
-     class=GramE>point</span>=&quot;org.eclipse.cdt.core.CIndex&quot;&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>����� </span>&lt;<span
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;>&lt;<span class=SpellE><span class=GramE>plugin</span></span>&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>    </span>...<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>   </span>&lt;extension <o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>        </span><span
+     class=GramE>point</span>="org.eclipse.cdt.core.CIndex"&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>      </span>&lt;<span
      class=SpellE>ReadOnlyPDOMProvider</span><o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�����������
-     </span>class=&quot;<span class=SpellE>com.acme.sdk.PrebuiltSDKPDOMProvider</span>&quot;/&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>�� </span>&lt;/extension&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><span style='mso-spacerun:yes'>��� </span>...<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'>&lt;/<span class=SpellE>plugin</span>&gt;<o:p></o:p></span></p>
-     <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Courier New";
-     color:black'><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>           
+     </span>class="<span class=SpellE>com.acme.sdk.PrebuiltSDKPDOMProvider</span>"/&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>   </span>&lt;/extension&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><span style=&#39;mso-spacerun:yes&#39;>    </span>...<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;>&lt;/<span class=SpellE>plugin</span>&gt;<o:p></o:p></span></p>
+     <p class=MsoNormal><span style=&#39;font-size:10.0pt;font-family:"Courier New";
+     color:black&#39;><o:p>&nbsp;</o:p></span></p>
      </div>
      <![if !mso]></td>
     </tr>
@@ -1735,303 +1403,178 @@ style='mso-spacerun:yes'>�</span>\* MERGEFORMAT <span style='mso-element:field-s
    <![endif]></v:textbox>
  </v:shape><w:wrap type="none"/>
  <w:anchorlock/>
-</v:group><![endif]--><![if !vml]><img width=582 height=222
-src="prebuiltIndexes_files/image010.gif" alt="ReadOnlyPDOMProvider extension point" v:shapes="_x0000_s1049 _x0000_s1048 _x0000_s1050"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
- id="_x0000_i1032" type="#_x0000_t75" style='width:6in;height:162pt'>
+</v:group><![endif]--><![if !vml] gtc:encodedoriginal="PCFbaWYgIXZtbF0-"><img width="582" height="222" src="prebuiltIndexes_files/image010.gif" alt="ReadOnlyPDOMProvider扩展点" v:shapes="_x0000_s1049 _x0000_s1048 _x0000_s1050"><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+ id="_x0000_i1032" type="#_x0000_t75" style=&#39;width:6in;height:162pt&#39;>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-</v:shape><span style='mso-element:field-end'></span><![endif]--><br clear=all
-style='mso-special-character:line-break;page-break-before:always'>
+</v:shape><span style=&#39;mso-element:field-end&#39;></span><![endif]--><br clear="all" style="page-break-before:always">
 </p>
 
-<p class=MsoNormal><span class=Heading1Char><span style='font-size:11.0pt;
-mso-bidi-font-size:16.0pt'>Appendix A</span></span><span style='font-size:11.0pt;
-mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-family:"Times New Roman";
-mso-font-kerning:16.0pt'><o:p></o:p></span></p>
+<p class="MsoNormal"><span class="Heading1Char"><span style="font-size:11.0pt">附录A.</span></span><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
 
-<p class=MsoBodyText><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoBodyText"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal><span class=GramE><span style='font-size:10.0pt'>package</span></span><span
-style='font-size:10.0pt'> <span class=SpellE>org.eclipse.cdt.core.index</span>;<o:p></o:p></span></p>
+<p class="MsoNormal"><span class="GramE"><span style="font-size:10.0pt">包</span></span> <span style="font-size:10.0pt"><span class="SpellE">org.eclipse.cdt.core.index</span> ;<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'>/**<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt">/ **<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Each <span class=SpellE>IIndexFragment</span>
-stores file location representations in an implementation specific manner.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> *每个<span class="SpellE">IIndexFragment</span>以特定于实现的方式存储文件位置表示。<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* External to <span class=SpellE>IIndexFragment</span>
-files are identified by an {@link <span class=SpellE>IIndexFileLocation</span>}<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> * <span class="SpellE">IIndexFragment</span>文件的外部由{@link <span class="SpellE">IIndexFileLocation</span> }标识<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> *<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Internal to <span class=SpellE>IIndexFragment</span>
-a mechanism for converting between the string location format used<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> * <span class="SpellE">IIndexFragment</span>内部用于在所使用的字符串位置格式之间进行转换的机制<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <span class=GramE>and</span> the URI world
-is needed. This interface represents that mechanism.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> * <span class="GramE">并且</span>需要URI世界。此接口表示该机制。<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=GramE><span style='font-size:10.0pt'>public</span></span><span
-style='font-size:10.0pt'> interface <span class=SpellE>IIndexLocationConverter</span>
-{<o:p></o:p></span></p>
+<p class="MsoNormal"><span class="GramE"><span style="font-size:10.0pt">public</span></span> <span style="font-size:10.0pt">interface <span class="SpellE">IIndexLocationConverter</span> {<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span>/**<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span> / **<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* Convert a
-raw string in an internal <span class=SpellE>IIndexFragment</span>
-implementation specific format to <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> *将内部<span class="SpellE">IIndexFragment</span>实现特定格式的原始字符串转换为<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* <span
-class=GramE>an</span> <span class=SpellE>IIndexFileLocation</span> or null if
-the internal format could not be translated.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * <span class="GramE">一个</span> <span class="SpellE">IIndexFileLocation</span>或NULL，如果内部格式无法被翻译。<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* @<span
-class=SpellE>param</span> raw<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * <span class="SpellE">@param</span> raw<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* @return<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * @return<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span class=GramE>public</span> abstract <span
-class=SpellE>IIndexFileLocation</span> <span class=SpellE>fromInternalFormat</span>(String
-raw);<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span> <span class="GramE">public</span> abstract <span class="SpellE">IIndexFileLocation</span> <span class="SpellE">fromInternalFormat</span> （String raw）;<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span>/**<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span> / **<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* Convert <span
-class=GramE>a</span> <span class=SpellE>IIndexFileLocation</span> to the
-internal <span class=SpellE>IIndexFragment</span> implementation specific
-format<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> *将<span class="SpellE">IIndexFileLocation</span>转换<span class="GramE">为</span>内部<span class="SpellE">IIndexFragment</span>实现特定格式<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* <span
-class=GramE>or</span> null if the location could not be translated.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * <span class="GramE">或</span>空如果该位置不能被翻译。<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* @<span
-class=SpellE>param</span> location<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * <span class="SpellE">@param</span>位置<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>* @return an
-internal representation for the location specified<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * @return指定位置的内部表示<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><span style='mso-tab-count:
-1'>��������������� </span><span class=GramE>public</span> abstract String <span
-class=SpellE>toInternalFormat</span>(<span class=SpellE>IIndexFileLocation</span>
-location);<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><span>                </span> <span class="GramE">public</span> abstract String <span class="SpellE">toInternalFormat</span> （ <span class="SpellE">IIndexFileLocation</span> location）;<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:10.0pt'>}<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt">}<o:p></o:p></span></p>
 
-<span style='font-size:16.0pt;font-family:Arial;mso-fareast-font-family:"Times New Roman";
-mso-font-kerning:16.0pt;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;
-mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+<span style="font-size:16.0pt;font-family:Arial"><br clear="all" style="page-break-before:always">
 </span>
 
-<h1><a name="_Toc164570194"><span style='font-size:11.0pt;mso-bidi-font-size:
-16.0pt'>Appendix B</span></a><span style='font-size:11.0pt;mso-bidi-font-size:
-16.0pt'><o:p></o:p></span></h1>
+<h1><a name="_Toc164570194"><span style="font-size:11.0pt">附录B.</span></a><span style="font-size:11.0pt"><o:p></o:p></span></h1>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-font-family:"Courier New";color:black'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;;color:black"><o:p> </o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>/*******************************************************************************<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">/ ******************* ******************************<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Copyright (c) 2006 Symbian Software Ltd. and
-others.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *版权所有（c）2006 Symbian Software Ltd.等。<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* This program and the
-accompanying materials<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *本程序及随附资料<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* are made available under the terms of the
-Eclipse Public License 2.0<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *根据Eclipse Public License 2.0的条款提供<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <span class=GramE>which</span> accompanies
-this distribution, and is available at<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * <span class="GramE">伴随</span>这种分布，可在<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* https://www.eclipse.org/legal/epl-2.0/
->*
->* SPDX-License-Identifier: EPL-2.0<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * https://www.eclipse.org/legal/epl-2.0/&gt; *&gt; * SPDX-License-Identifier：EPL-2.0<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>*<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Contributors:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *贡献者：<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>*<span style='mso-spacerun:yes'>���
-</span>Andrew Ferguson (Symbian) - initial API and implementation<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * <span>   
+</span> Andrew Ferguson（Symbian） - 初始API和实现<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>*******************************************************************************/
-<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> ************************************************** ************ /<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span class=GramE><span
-style='font-size:10.0pt'>package</span></span><span style='font-size:10.0pt'> <span
-class=SpellE>org.eclipse.cdt.core.index</span>;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="GramE"><span style="font-size:10.0pt">包</span></span> <span style="font-size:10.0pt"><span class="SpellE">org.eclipse.cdt.core.index</span> ;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span class=GramE><span
-style='font-size:10.0pt'>import</span></span><span style='font-size:10.0pt'> <span
-class=SpellE>java.net.URI</span>;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="GramE"><span style="font-size:10.0pt">import</span></span> <span style="font-size:10.0pt"><span class="SpellE">java.net。URI</span> ;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>/**<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">/ **<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Files in the index are (conceptually)
-partitioned into workspace and non-workspace (external) files.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *索引中的文件（概念上）分区为工作空间和非工作空间（外部）文件。<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* Clients can obtain instances of
-IIndexFileLocation implementations from {@link <span class=SpellE>IndexLocationFactory</span>}<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *客户端可以从{@link <span class="SpellE">IndexLocationFactory</span> }获取IIndexFileLocation实现的实例<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* &lt;p&gt;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * &lt;p&gt;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* This interface is not intended to be
-implemented by clients.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *此接口不适用于客户端。<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* &lt;/p&gt;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * &lt;/ p&gt;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* &lt;p&gt;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * &lt;p&gt;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span><span class=GramE>*
-&lt;strong&gt;EXPERIMENTAL&lt;/strong&gt;.</span> This class or interface has
-been added as<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> <span class="GramE">* &lt;strong&gt;实验&lt;/ strong&gt;。</span> 此类或接口已添加为<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <span class=GramE>part</span> of a work in
-progress. There is no guarantee that this API will work or<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *正在进行的工作的<span class="GramE">一部分</span> 。无法保证此API可用或<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <span class=GramE>that</span> it will remain
-the same. Please do not use this API without consulting<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * <span class="GramE">这</span>将保持不变。未经咨询，请不要使用此API<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <span class=GramE>with</span> the CDT team.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * <span class="GramE">与</span> CDT团队合作。<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* &lt;/p&gt;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * &lt;/ p&gt;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> *<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>* @since 4.0<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * @since 4.0<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span class=GramE><span
-style='font-size:10.0pt'>public</span></span><span style='font-size:10.0pt'>
-interface IIndexFileLocation {<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span class="GramE"><span style="font-size:10.0pt">public</span></span> <span style="font-size:10.0pt">interface IIndexFileLocation {<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span>/**<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span> / **<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>* The URI of the indexed file<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> *索引文件的URI<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>* @return the URI of the indexed file
-(non-null)<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> * @return索引文件的URI（非null）<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span class=GramE>public</span>
-URI <span class=SpellE>getURI</span>();<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span> <span class="GramE">public</span> URI <span class="SpellE">getURI</span> （）;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span>/**<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span> / **<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>* Return the workspace relative path of the
-indexed file or null if the file<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> *返回索引文件的工作空间相对路径，如果是文件，则返回null<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>* is not in the workspace <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> *不在工作区中<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>* @return the workspace relative path of the
-file in the index, or null if the<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> * @return索引中文件的工作空间相对路径，如果是，则返回null<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-spacerun:yes'>���� </span>* <span class=GramE>file</span> is not in
-the workspace<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>     </span> * <span class="GramE">文件</span>不在工作区中<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span
-style='mso-spacerun:yes'>�</span>*/<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span><span> </span> * /<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><span
-style='mso-tab-count:1'>��������������� </span><span class=GramE>public</span>
-String <span class=SpellE>getFullPath</span>();<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><span>                </span> <span class="GramE">public</span> String <span class="SpellE">getFullPath</span> （）;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>}<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt">}<o:p></o:p></span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt"><o:p> </o:p></span></p>
 
-<span style='font-size:16.0pt;font-family:Arial;mso-fareast-font-family:"Times New Roman";
-mso-font-kerning:16.0pt;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;
-mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+<span style="font-size:16.0pt;font-family:Arial"><br clear="all" style="page-break-before:always">
 </span>
 
-<h1><a name="_Toc164570195">References</a></h1>
+<h1><a name="_Toc164570195">参考</a></h1>
 
-<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal" style="text-align:justify"><o:p> </o:p></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:9.0pt'>[1]<span
-style='mso-tab-count:1'>���������� </span><a
-href="../../../../org.eclipse.platform.doc.user/tasks/running_eclipse.htm">http://help.eclipse.org/help32/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm</a><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:9.0pt">[1] <span>           </span> <a href="../../../../org.eclipse.platform.doc.user/tasks/running_eclipse.htm">http://help.eclipse.org/help32/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm</a><o:p></o:p></span></p>
 
 </div>
 

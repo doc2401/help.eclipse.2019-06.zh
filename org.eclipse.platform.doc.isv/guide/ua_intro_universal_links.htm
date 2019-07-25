@@ -1,32 +1,20 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html lang="en">
+<html lang="zh-Hans" >
 <head>
-<meta name="copyright" content="Copyright (c) IBM Corporation and others 2000, 2011. This page is made available under license. For full details see the LEGAL in the documentation book that contains this page." >
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="copyright" content="Copyright (c) IBM Corporation and others 2000, 2011. This page is made available under license. For full details see the LEGAL in the documentation book that contains this page.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link rel="STYLESHEET" href="../book.css" charset="ISO-8859-1" type="text/css">
+<link rel="STYLESHEET" href="../book.css" type="text/css" charset="ISO-8859-1">
 <script language="JavaScript" src="PLUGINS_ROOT/org.eclipse.help/livehelp.js" type="text/javascript"></script>
-<title>Managing links</title>
+<title>管理链接</title>
 </head>
-<body>
+<body >
 
-<h2>Managing links</h2>
+<h2>管理链接</h2>
 
-<p>
-Most of the extensions coming into the main Welcome pages offer links to open 
-further pages contributed by the extensions themselves. It is recommended to 
-create these pages in such a way as to continue with the shared Welcome visual 
-design. The main requirement is to show the appropriate navigator at the top of 
-the page.
+<p>进入主欢迎页面的大多数扩展提供了链接以打开由扩展本身贡献的更多页面。建议以继续使用共享的欢迎视觉设计的方式创建这些页面。主要要求是在页面顶部显示相应的导航器。
 </p>
 
-<p>
-It is fairly easy to do that using the 'include' element. The idea is to 
-include the navigation content at the beginning of contributed page. Unlike the 
-current Welcome implementation, shared Welcome main pages have navigation 
-section that is different for each page. For this reason, pages that branch off 
-these pages should include the navigation from the parent page. For example:
-</p>
+<p>使用'include'元素很容易做到这一点。我们的想法是在贡献页面的开头包含导航内容。与当前的Welcome实现不同，共享的欢迎主页具有针对每个页面不同的导航部分。因此，分支这些页面的页面应包括父页面的导航。例如：</p>
 
 <pre>
    &lt;introContent&gt;
@@ -53,16 +41,7 @@ these pages should include the navigation from the parent page. For example:
    &lt;/introContent&gt;
 </pre>
 
-<p>
-The extension above contributed into the overview page contributes a
-link that shows another page whose definition is part of the extension.
-Note how we define the title element using substitution variable (the
-variable will be resolved based on the product property). We also
-include the group 'navigation-links' that belongs to the 'overview'
-page at the beginning of the page content definition. We also add the
-'extra-group1' div because it is can be used by some themes for adding
-additional page decoration (indeed, it is used in 'Purple Mesh' theme
-for that exact purpose).
+<p>上面的扩展在概述页面中提供了一个链接，显示了另一个页面，其定义是扩展的一部分。注意我们如何使用替换变量定义title元素（该变量将根据product属性进行解析）。我们还在页面内容定义的开头包含属于“概述”页面的“导航链接”组。我们还添加了'extra-group1'div，因为它可以被某些主题用于添加额外的页面装饰（实际上，它用于'Purple Mesh'主题用于该确切目的）。
 </p>
 
 </body>
