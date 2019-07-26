@@ -18,7 +18,7 @@
 	<topic href="help/user/user-guide.html#Launch_Comparison" label="发布比较">
 		<topic href="help/user/user-guide.html#Compare_with_local_models" label="与本地型号比较">
 			<topic href="help/user/user-guide.html#Compare_with_each_other" label="相互比较"></topic>
-			<topic href="help/user/user-guide.html#Compare_with_local_history" label="与当地历史比较"></topic>
+			<topic href="help/user/user-guide.html#Compare_with_local_history" label="与本地历史比较"></topic>
 		</topic>
 		<topic href="help/user/user-guide.html#Compare_with_remote_models_.28EGit.29" label="与远程型号（EGit）比较">
 			<topic href="help/user/user-guide.html#Compare_with_latest" label="与最新的比较"></topic>

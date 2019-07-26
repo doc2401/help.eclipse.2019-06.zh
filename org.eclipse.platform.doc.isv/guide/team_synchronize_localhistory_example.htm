@@ -14,7 +14,7 @@
 <p>理解Synchronize API的最佳方法是创建一个实际可行的简单示例。在此示例中，我们将在Synchronize View中创建一个页面，该页面将显示工作空间中所有文件的最新本地历史记录状态。当对工作空间进行更改时，本地历史记录同步将自动更新，并且比较编辑器可以打开以进行浏览，合并，然后更改。我们还将添加一个自定义装饰器来显示本地历史元素的最后一个时间戳，以及一个将工作区文件还原到其最新保存的本地历史状态的操作。这是一个很好的例子，因为我们已经有了一个可用的资源变量存储，我们不必管理它。</p>
 <p>对于本示例的其余部分，我们将使用一个运行示例。很多（但不是全部）源代码将包含在此页面中。完整的源代码可以在<a href="http://git.eclipse.org/c/www.eclipse.org/eclipse.git/tree/platform-ui/plugins/org.eclipse.ui.examples.filesystem/">org.eclipse.ui.examples.filesystem</a>插件的本地历史记录包中找到。您可以从Git存储库中检查项目，并在阅读本教程时将其用作参考。<em>免责声明</em> ：示例插件中的源代码可能会随时间而变化。要获得与此示例中使用的副本匹配的副本，您可以使用3.3.2版本标记（最有可能是R3_3_2）或2007年6月10日的日期标记来检出项目。<br>
   <br>
-  <img src="images/team_synchronize_example_localhistory_overview.png" alt="当地历史概述"><br>
+  <img src="images/team_synchronize_example_localhistory_overview.png" alt="本地历史概述"><br>
   <br>此屏幕快照显示同步视图中的本地历史记录同步。有了它，您可以浏览本地资源和历史中最新状态之间的更改。它有一个自定义装饰器，用于显示与本地历史记录条目关联的时间戳，以及一个自定义操作，用于将文件还原为本地历史记录中的内容。另请注意，使用标准的Synchronize View演示文稿，它提供问题注释，压缩文件夹布局和导航按钮。</p>
 <h3>定义本地历史的变体</h3>
 <p>第一步是定义一个变体来表示本地历史中的元素。这将允许同步API访问本地历史记录中的内容，以便可以将其与当前内容进行比较并显示给用户。</p>

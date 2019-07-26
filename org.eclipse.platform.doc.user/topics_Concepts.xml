@@ -19,10 +19,10 @@
       <topic label="资源过滤器" href="concepts/resourcefilters.htm" />
       <topic label="工作集" href="concepts/cworkset.htm"/>
       <topic label="构建" href="concepts/concepts-22.htm" />
-      <topic label="当地历史" href="concepts/concepts-17a.htm" />
+      <topic label="本地历史" href="concepts/concepts-17a.htm" />
    </topic>
    <anchor id="c_afterworkbench" />
-   <topic label="展望" href="concepts/concepts-4.htm" />
+   <topic label="透视图" href="concepts/concepts-4.htm" />
    <anchor id="c_afterperspectives" />
    <topic label="编者" href="concepts/concepts-6.htm" >
       <topic href="reference/ref-anteditor.htm" label="Ant编辑器">

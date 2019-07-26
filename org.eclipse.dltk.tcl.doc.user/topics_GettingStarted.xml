@@ -13,7 +13,7 @@
 		   <topic label="使用快速查看" href="gettingStarted/qs-Quickviews.htm" />
 		   <topic label="使用内容辅助" href="gettingStarted/qs-ContentAssist.htm"/>
 		   <!-- <topic label="识别代码中的问题" href="gettingStarted/.htm"/> -->
-		   <topic label="使用当地历史" href="gettingStarted/qs-LocalHistory.htm"/>
+		   <topic label="使用本地历史" href="gettingStarted/qs-LocalHistory.htm"/>
 	   </topic>
 	   
 	   <topic label="移动和复制Tcl元素" href="gettingStarted/qs-10.htm"/>

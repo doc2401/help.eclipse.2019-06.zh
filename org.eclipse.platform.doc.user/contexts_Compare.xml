@@ -32,33 +32,33 @@
 	<context id="add_from_history_dialog_context">
 		<description>一个对话框，允许您从本地历史记录中恢复已删除的文件。</description>
 		<topic label="从本地历史记录中恢复已删除的资源" href="tasks/tasks-87b.htm"/>
-		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
-		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
-		<topic label="当地历史" href="reference/ref-6a.htm"/>
+		<topic label="本地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与本地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="本地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="compare_with_edition_dialog_context">
 		<description>一个对话框，可让您将文件与本地历史记录中的条目进行比较。</description>
 		<topic label="将资源与本地历史进行比较" href="tasks/tasks-70.htm"/>
-		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
-		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
-		<topic label="当地历史" href="reference/ref-6a.htm"/>
+		<topic label="本地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与本地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="本地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="replace_with_edition_dialog_context">
 		<description>一个对话框，允许您使用本地历史记录中的条目替换文件。</description>
 		<topic label="用本地历史记录替换资源" href="tasks/tasks-87.htm"/>
-		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
-		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
-		<topic label="当地历史" href="reference/ref-6a.htm"/>
+		<topic label="本地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与本地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="本地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="replace_with_edition_action_context">
 		<description>用本地历史记录中的条目替换文件。</description>
 		<topic label="用本地历史记录替换资源" href="tasks/tasks-87.htm"/>
-		<topic label="当地历史" href="concepts/concepts-17a.htm"/>
-		<topic label="与当地历史合作" href="tasks/tasks-1f.htm"/>
-		<topic label="当地历史" href="reference/ref-6a.htm"/>
+		<topic label="本地历史" href="concepts/concepts-17a.htm"/>
+		<topic label="与本地历史合作" href="tasks/tasks-1f.htm"/>
+		<topic label="本地历史" href="reference/ref-6a.htm"/>
 	</context>
 
 	<context id="text_merge_view_context">

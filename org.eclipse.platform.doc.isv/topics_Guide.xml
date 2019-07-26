@@ -206,7 +206,7 @@
 		<topic label="无法撤消的操作" href="guide/wrkAdv_undo.htm" >
 			<topic label="撤消和IDE Workbench" href="guide/wrkAdv_undo_ide.htm" />
 		</topic>
-		<topic label="展望" href="guide/workbench_perspectives.htm" >
+		<topic label="透视图" href="guide/workbench_perspectives.htm" >
 			<topic label="org.eclipse.ui.perspectives" href="guide/workbench_advext_perspectives.htm" />
 			<topic label="org.eclipse.ui.perspectiveExtensions" href="guide/workbench_advext_perspectiveExtension.htm" />
 		</topic>

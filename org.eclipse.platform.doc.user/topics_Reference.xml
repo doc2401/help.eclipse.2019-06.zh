@@ -136,13 +136,13 @@
 		<topic label="标签装饰" href="reference/ref-decorations.htm"></topic>
 		<topic label="链接处理程序" href="reference/ref-linkhandlersprefs.htm"></topic>
 		<topic label="链接资源" href="reference/ref-14b.htm"></topic>
-		<topic label="当地历史" href="reference/ref-14.htm"></topic>
+		<topic label="本地历史" href="reference/ref-14.htm"></topic>
 		<topic label="网络连接" href="reference/ref-net-preferences.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ui.net"/>
 			</enablement>
 		</topic>
-		<topic label="展望" href="reference/ref-15.htm"></topic>
+		<topic label="透视图" href="reference/ref-15.htm"></topic>
 		<topic label="快速差异" href="reference/ref-35.htm"></topic>
 		<topic label="搜索" href="reference/ref-search.htm"></topic>
 		<topic label="安全存储" href="reference/ref-securestorage-prefs.htm"></topic>
@@ -225,8 +225,8 @@
 		<topic label="透视栏" href="reference/ref-3.htm"></topic>
 		<topic label="查看工具栏" href="reference/ref-4.htm"></topic>
 		<topic label="构建" href="reference/ref-5.htm"></topic>
-		<topic label="展望" href="reference/ref-6.htm"></topic>
-		<topic label="当地历史" href="reference/ref-6a.htm"></topic>		
+		<topic label="透视图" href="reference/ref-6.htm"></topic>
+		<topic label="本地历史" href="reference/ref-6a.htm"></topic>		
 		<topic label="键绑定列表" href="reference/ref-keybindings.htm"></topic>
 		<topic label="切换工作区" href="reference/ref-workspaceswitch.htm"></topic>
 	</topic>

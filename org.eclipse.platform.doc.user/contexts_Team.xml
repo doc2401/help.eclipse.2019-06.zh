@@ -142,7 +142,7 @@
 
 	<context id="local_history_context">
 		<description>“本地历史记录”视图允许用户查看文件的本地历史记录或文件中包含的元素。</description>
-		<topic label="当地历史" href="gettingStarted/qs-55.htm"/>
+		<topic label="本地历史" href="gettingStarted/qs-55.htm"/>
 		<topic label="本地历史偏好" href="reference/ref-14.htm"/>
 		<topic label="使用本地历史记录" href="tasks/tasks-1f.htm"/>
 	</context>

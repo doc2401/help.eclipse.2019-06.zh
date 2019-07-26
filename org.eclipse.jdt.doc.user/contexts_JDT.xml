@@ -806,19 +806,19 @@
     <context id="add_element_from_history_dialog_context">
         <description>一个对话框，允许您从本地历史记录中恢复已删除的Java元素。</description>
         <topic label="还原已删除的工作台元素" href="tasks/tasks-64.htm"/>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="compare_element_with_history_dialog_context">
         <description>一个对话框，允许您将Java元素与本地历史记录中的条目进行比较。</description>
         <topic label="将Java元素与本地历史版本进行比较" href="tasks/tasks-63a.htm"/>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="replace_element_with_history_dialog_context">
         <description>一个对话框，允许您使用本地历史记录中的条目替换Java元素。</description>
         <topic label="用本地历史版本替换Java元素" href="tasks/tasks-63.htm"/>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="sort_members_dialog_context">
@@ -1540,22 +1540,22 @@
 
     <context id="replace_with_previous_from_history_action">
         <description>此命令允许您使用本地历史记录中的版本替换所选元素。</description>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="compare_with_history_action">
         <description>此命令允许您将所选元素与本地历史记录中的版本进行比较。</description>        
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="add_from_history_action">
         <description>此命令添加本地历史记录中的元素。</description>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="replace_with_history_action">
         <description>此命令将使用本地历史记录中的版本替换所选元素。</description>
-        <topic label="使用当地历史" href="tasks/tasks-62.htm"/>
+        <topic label="使用本地历史" href="tasks/tasks-62.htm"/>
     </context>
 
     <context id="comment_action">
