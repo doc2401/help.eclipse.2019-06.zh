@@ -1,0 +1,200 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: dGmtDYxKpmrYE1WdeAL8Qe7x0cTXm
+ /jUWmEBLN2dUpg=
+SHA-256-Digest-Manifest: 9aT+LYYTjkcFUZn83AM7cXntCBYSJVpdP8SE+OqssfM=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: 1eanSAxiYWpb1/TUE2vxDLneVIeGxl9basafea8K2rg=
+
+Name: images/ycwin.gif
+SHA-256-Digest: DusMC0RbA0OFOi7vH2FAqCp6RC3gWqbINezCcnWG/lE=
+
+Name: topics/tjvaldisable.html
+SHA-256-Digest: B3gGbgdN4q3qQHNO7i5X8pNXBIA2srqfUNlDwmi/7n4=
+
+Name: topics/tjimpear.html
+SHA-256-Digest: mcpXgcPDs0TFyrzW/xuJctFwLRxP64/dDKpJGuRfnRQ=
+
+Name: topics/tjtargetserver.html
+SHA-256-Digest: uZyhzo1m/Ht5p5U2229g/tlzGSB1J7pAUJtb+o6OFMw=
+
+Name: topics/tchangejavalevel.html
+SHA-256-Digest: 0/XmGPFzOgmS+onUihRWdhAVCHzgOew+LRC1vN+Q380=
+
+Name: index/deletable
+SHA-256-Digest: lJvrIrO4AFAFORn0g/j9TcU6EfB09qDZPgwYkJcvXTk=
+
+Name: index/_18.cfs
+SHA-256-Digest: AdKU8dIAPBngu9ShNdQ95tEWt4NyhgxuCEqZnBFeddY=
+
+Name: topics/tjear.html
+SHA-256-Digest: byMpv8gCcKLLV7Ec/YHvC6145/OEC8LzN30QTjnAjaw=
+
+Name: images/webfrag.jpg
+SHA-256-Digest: PNTSrV+C2hUi0kZrfXUOSybJPAm0IXVr946qa4ihtyM=
+
+Name: topics/cjee5overview.html
+SHA-256-Digest: JsL1KHypXhXAC5HPvqTHTs7UZrO+VAFTuSW2KAHclEw=
+
+Name: plugin.properties
+SHA-256-Digest: 7Q8q4nAY6xf5zYLRj4O5x9yVc7S55Nxkqbe0JpCZGcc=
+
+Name: topics/ph-j2eeapp.html
+SHA-256-Digest: I3kK3SiIb1t7v+yn4ZTQehfl+kdvm2/su4vF6B4GlJs=
+
+Name: topics/twebfragproj.html
+SHA-256-Digest: XG0zTuu8qUmwI40BX6WSXcGhRfZ3irsmyOTbjBWPCh0=
+
+Name: META-INF/maven/org.eclipse.webtools.javaee/org.eclipse.jst.j2ee.
+ doc.user/pom.xml
+SHA-256-Digest: bMXWdPpm1I+Wq9tpgdQ0u22VoIIkUFBlnhC15wwxhSE=
+
+Name: topics/tjimprar.html
+SHA-256-Digest: Pba6CRpWrmntkPcpGpE62ZwXHkH+CaA/AVeWuiAtRRw=
+
+Name: topics/tjappproj.html
+SHA-256-Digest: BsD8NJAriLWzxCZJ2KCywm3JL323J+tm99T8HQ0KiiA=
+
+Name: topics/cjviewfilters.html
+SHA-256-Digest: RN2XdLhmbjKXnxz7IPuDhVX+bRECXRI/7QjGBa8aMTk=
+
+Name: topics/ctypesofanno.html
+SHA-256-Digest: 4cKvXWXX7B+XzjTtvFwWgGQwEjOQOkXBNXIG8AB6W1g=
+
+Name: topics/rvalidators.html
+SHA-256-Digest: CVWbCYFosQU9UFCiDGaWmQH5uVr9sTfG9A0D1ZpAQ8E=
+
+Name: topics/rtunevalidat.html
+SHA-256-Digest: AvEmCyLzkw1d88DB++KyalRhVSt203XQQxsgbZrK8XE=
+
+Name: topics/tjviewfilters.html
+SHA-256-Digest: 4mjVgOtynn8deViWy1nRip1ecblofPWnrIjhy7jkyao=
+
+Name: jst_j2ee_relsmap.xml
+SHA-256-Digest: 4b0EFtvQXkmpRHaf7GNhXvY0t4DhMpgD4j3F/f2iV8k=
+
+Name: topics/ph-importexport.html
+SHA-256-Digest: gL27bzGaQZi7sys7odhlAMEKbSiN2+3k+GLHJoeHWyY=
+
+Name: org.eclipse.jst.j2ee.doc.userindex.xml
+SHA-256-Digest: 3ChK8dy2vaWodOj7xmvPWXZoy1yXGOx0WHZASKXdqs4=
+
+Name: images/AddRelationship.gif
+SHA-256-Digest: R2hQm89gbT0wOysPwHw6+wknQBw3MdhStTr6UqPAS20=
+
+Name: topics/tjvalglobalpref.html
+SHA-256-Digest: furg6OicNZtIr8ney+dYWn4y23kowlmekTndjgVWfqI=
+
+Name: topics/tcreatingawebproject.html
+SHA-256-Digest: n0w7TV4cuS9kY8v2WaNEuQ+RhRDp/a+U1L0/4C1+6bE=
+
+Name: topics/ph-projects.html
+SHA-256-Digest: PDL8WTR3gBOq1NhowSnfndQjDmBZMyR8+xYh4l5gkG0=
+
+Name: topics/tjexpear.html
+SHA-256-Digest: LmzjABeBXfNWXQ9Tzf5h9sf6owSfXAbckaSME1KKtc0=
+
+Name: topics/cjearproj.html
+SHA-256-Digest: VgfA/a4zFSBKOdUObYACMKQRdBOfnstEyMznICmR00A=
+
+Name: images/Relationships.gif
+SHA-256-Digest: B2jj7NzaYVs2W9XLAO5WpaoSWg8WUSP9DgqO+EtBRts=
+
+Name: index/indexed_docs
+SHA-256-Digest: SiUN5FoCxqKJO38xqDSKRzI+eIK7FA6AvwTnyczFdYc=
+
+Name: topics/cjarch.html
+SHA-256-Digest: 56KLkdx3zcdFdhARm1MNvO5wicw77J2CJRAS8p54+2Y=
+
+Name: topics/tjcircleb.html
+SHA-256-Digest: qgU7wfhKHtPxblOegPTHp2nkUXh2hhk7obtlygZhSLs=
+
+Name: topics/tchangefacet.html
+SHA-256-Digest: StChg2oG7EYZCv9EVARTaXSKOWXKnDk+8MvcP3RFpBQ=
+
+Name: images/ProjectExplorer.gif
+SHA-256-Digest: omkgg67us8ypNIWjXIFfdDfcPjo3W2nYj6T8GwRvqag=
+
+Name: topics/tdefiningannotations.html
+SHA-256-Digest: dkJzE09GWNWQzA8MvGcGLy6YyYyP2844IHVwMxOm8wE=
+
+Name: topics/cjview.html
+SHA-256-Digest: fgOXzbZYEdTixlCz9byKR8VXMs/9UgWjRPh3bcRHSIk=
+
+Name: topics/cjappcliproj.html
+SHA-256-Digest: 9pmw1vlONgi0azZaaKnKRR1Cg4bewFpZTY3quewmCiY=
+
+Name: jst_j2ee_toc.xml
+SHA-256-Digest: oplyWUg7FdurA/RLdpwBCxM4MqgXrWsftVVxMnF1IQ8=
+
+Name: topics/cannotations.html
+SHA-256-Digest: 0MlWjGjHy6rPutx/JaHOtmzx/ptuPMDIwMNkdCDSqF4=
+
+Name: topics/tjrar.html
+SHA-256-Digest: e6TQZYBB1peXEdmZwojuscjKeKG1og8VD0e6GoTr77I=
+
+Name: topics/tjval.html
+SHA-256-Digest: nhi/pQyrwCM29TsLH3u62LPB9hfvQE+cpiES+PM5WIQ=
+
+Name: topics/cjavaee5.html
+SHA-256-Digest: EYggRGwWPf+/mRXcIMHEAyU5XcJbKxb9OhXHfz6+t0I=
+
+Name: META-INF/maven/org.eclipse.webtools.javaee/org.eclipse.jst.j2ee.
+ doc.user/pom.properties
+SHA-256-Digest: cjcl+vkyRZEjHwDAiAWa0/Aqeu0sl/HV+XTYES6cECc=
+
+Name: topics/tjexpapp.html
+SHA-256-Digest: WmShu6uIHsnrwWLpafBOMulRXA08PkU31OHbsPDnl0M=
+
+Name: topics/cjpers.html
+SHA-256-Digest: HjR9bLq2RF3iN6YBtTRIgJAx0ufhrVAv8AMIn0sr8kk=
+
+Name: images/validatefilters.jpg
+SHA-256-Digest: IPNYp+eDxcwGsLYQ64QU7rblko6vhXhxTNcnGIlgaBo=
+
+Name: topics/tjvalselect.html
+SHA-256-Digest: 5+Z0kW7tKUGGf7FKUncH46Q6Q0HaG6ChVC6wCk+FSD8=
+
+Name: about.html
+SHA-256-Digest: pMTxBAbfKxQZ7X92s18Wq7M5Oj3u2S30h/OCwRkPIXM=
+
+Name: topics/taddingfacet.html
+SHA-256-Digest: U1p31VkBjLoOcbCWkWUumH/zKb0H1S5Us58ZneoPHx8=
+
+Name: topics/cfacets.html
+SHA-256-Digest: sd7moKhhuOOp7TRwYR25MKzW1sCxGXOqTMaQ48k8Q5c=
+
+Name: topics/cjcircle.html
+SHA-256-Digest: 920bTEeiCZ0ORXWAaOf6q8x+7H1d75TPzxL6cKa5Zr4=
+
+Name: images/n5rpdcst.gif
+SHA-256-Digest: cHjU5DC3CqhLi43H4nzL6gAQg0i+o0AdcN8ScE5ERNI=
+
+Name: topics/rjlimitcurrent.html
+SHA-256-Digest: JkfGBzfc9SfKk9wOLecayz4jBA9iU9aGq+QlPXT1FIs=
+
+Name: index/segments
+SHA-256-Digest: rpPhwUs02FDPBOyii7hCbnKx6H9uxTxeUJiAgRrXTPw=
+
+Name: topics/ph-ref.html
+SHA-256-Digest: DZwOgvfqmX6Ud0SEVpag+HUSA3w0R5JlaEvi8NuM+9Q=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: AEUbFC7dt5tRbDdio3fN8Ny0ccvR/h8nhmziUbG04rY=
+
+Name: topics/rvalerr.html
+SHA-256-Digest: /ujm+birKb9Cx5hBzlEHvYnKXT0sySyiPLIfMcCR1BI=
+
+Name: index/indexed_contributions
+SHA-256-Digest: Y0beu46ztc4ATY6YoM9SaL1M751thX0xfx8P2D40XFY=
+
+Name: topics/tjimpapp.html
+SHA-256-Digest: 4ESmtxDau+aAIl+BkP0e6l6ptLzZZHjTwHT9SDuZYww=
+
+Name: topics/tjvalmanual.html
+SHA-256-Digest: QDtGqm/3DadIiRTpLTqEHTnJSYPG55LqyHIB3LuLEzg=
+
+Name: topics/tjexprar.html
+SHA-256-Digest: 6tPWKGlWdMv+hVAv5BLGxzQR8MlIFs5SSn7HxzOAl/E=
+

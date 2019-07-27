@@ -1,0 +1,131 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: V7rADiCK8Ijsxolu9ypjMb7AplqgR
+ kbFH8YNqkq8Sh0=
+SHA-256-Digest-Manifest: hO1ml679kdZoKltkpxLz6GypR5rZ6uzNLB5MU46aacw=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: ZHoYSg1mqpgvxfVcUU9yaQnCu8Rn1YhJDXwdiNhPWDU=
+
+Name: index/indexed_docs
+SHA-256-Digest: lMPlX9N7t2g3yELihgUxWRSF/VOw+dO7fQVuEbsHyro=
+
+Name: topics/tsrcedt007.html
+SHA-256-Digest: 6SlsN1dggfS6j5Si2KszRWAWLaMLqGmMDkdTQNwFDAM=
+
+Name: images/njscdast.gif
+SHA-256-Digest: nxMmA3ueQNRZJqgkZZq/4gksjmVZzDiWpbJlkfc05Mk=
+
+Name: topics/tsrcedt024.html
+SHA-256-Digest: NVI4fc0/nMONBN9wASkBoHS7HQfA+fIQvC8Klzg+jvM=
+
+Name: topics/csrcedt004.html
+SHA-256-Digest: vNdFbhMQK+RDtyWX85sjQU9wNAf52f7n87OQtCfxPak=
+
+Name: topics/tsrcedt015.html
+SHA-256-Digest: hK+xYL/5E/WLhGpG+X3r+rEvObpo6Zggn/C81KhmQhI=
+
+Name: topics/tsrcedt010.html
+SHA-256-Digest: kn9UQlvpBL6KjeMjJzTWTFC8z0cvArrQ1Dc5d7ZIQWw=
+
+Name: index/deletable
+SHA-256-Digest: lJvrIrO4AFAFORn0g/j9TcU6EfB09qDZPgwYkJcvXTk=
+
+Name: topics/tsrcedt026.html
+SHA-256-Digest: c7C1R1yvRerK0XsO7h63Cg2xtzghzh/pmhtn96ejKiQ=
+
+Name: index/_p.cfs
+SHA-256-Digest: fZ/cR8vG4NnTLuNMjuuTAPzvkY2Xmu3WuEid904oUAo=
+
+Name: topics/tsrcedt029.html
+SHA-256-Digest: otvNoEsKnmR9laKcxWF4Zm/9IZW9WFIhnUqby3MkQsI=
+
+Name: images/nwin.gif
+SHA-256-Digest: rwSJNrtveZH0Mettg5iJuf9hMCA8A7+LAe2riMrJfr8=
+
+Name: plugin.properties
+SHA-256-Digest: V84n8g/yiXwKpzGPNGP89apWkzYnUpjjiRMGTbjhsfg=
+
+Name: images/nquest.gif
+SHA-256-Digest: msQu/JJxM7j11BTZ0ItMSuHs04O7KC3hwDjDv2DuqnY=
+
+Name: topics/csrcedt001.html
+SHA-256-Digest: /uVE37DPK4fLx5CKvuRLHJSCPoXUYZf4pv9HjlX5ruQ=
+
+Name: topics/tsrcedt025.html
+SHA-256-Digest: Fuf5synXI+pEfjvbPC/7VBY0iBxXJudE5FStlXtodhg=
+
+Name: topics/tsrcedt022.html
+SHA-256-Digest: B+vGkUFUF85QUUoZ4rUceid7zrCsklMv4CCLIYFVU0I=
+
+Name: topics/cencoding.html
+SHA-256-Digest: Zz2eOg6CbXEu+DHY8j0Z35f5M93Lczc2RxJXQknFlaU=
+
+Name: topics/tsrcedt014.html
+SHA-256-Digest: DAlK5dYMiyK9BqvoVQg7cb9+TsBukH7y4rALIw3UUjQ=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: images/nlinux.gif
+SHA-256-Digest: hRQkDNp7xRCrfdI/0HZP+N5I9I5/UFU/JZWI0xFN//E=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.sse.doc.user/pom.properties
+SHA-256-Digest: LFXhmug6erPSbjPHuXo4SdaFKTZ0piXRcrEgHjip0FM=
+
+Name: topics/tcontenttype.html
+SHA-256-Digest: NjXIQLC2Dgwov0XD3u+DY76q7AGs2OcUrsjwYj59nw8=
+
+Name: topics/tsrcedt000.html
+SHA-256-Digest: Xliez4bmYqho6nmbT5o8/96h7+n3JeX4XDUB3lF0bAw=
+
+Name: topics/tsrcedt028.html
+SHA-256-Digest: gj9m1QIojoFcw0STJw0htSzNk3o81YaZJWx50TgTb2c=
+
+Name: sse_toc.xml
+SHA-256-Digest: dxHI1iXvVUMziNas6rVvTWMMcVWpzdvtQDOzUvHv+oc=
+
+Name: topics/cvalidate.html
+SHA-256-Digest: u0RkPw7P8TxOEwlHqrqxGreFsc1qQQJhz5j2CXi/47I=
+
+Name: org.eclipse.wst.sse.doc.userindex.xml
+SHA-256-Digest: /f5aOKNWHfvOa9PnMLj36a8r3Ygt/FhTMnM+8OkmJv4=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.sse.doc.user/pom.xml
+SHA-256-Digest: j2xyappj3SfEr9CLEprRRexOIy6AkGSPYGQnvO6qFDk=
+
+Name: index/segments
+SHA-256-Digest: ayJ7COeLgxm0MZ3lDLVqYjc02vHdoRzMGm+X9Cb0My4=
+
+Name: images/ncontass.gif
+SHA-256-Digest: JGI++wj+yCKYmveArYCmO/3JXWNrldod4VajCo8RI/U=
+
+Name: topics/tsrcedt005.html
+SHA-256-Digest: EYTe0ikOHrcIKaWBZP7FBgjeqXMJC2WwT1sSKP9i8wk=
+
+Name: topics/tsrcedt023.html
+SHA-256-Digest: 3A0DiNNPCn9cjljTBnwQCy8jHosMkyXrkngQqJCuoh8=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: MPReSKiAPJu1ylygF29BFpncpQQg08aYAB87KNKDNEQ=
+
+Name: topics/tsrcedt016.html
+SHA-256-Digest: Yct5gnp+AfIk5LevW6qUlpIIr1EmpvGrL7YjbPRekXw=
+
+Name: index/indexed_contributions
+SHA-256-Digest: yrUirI4jCWbaR2vJ+zVTTven+JECIhQMNx5F5Zx5NGA=
+
+Name: topics/tsrcedt027.html
+SHA-256-Digest: kcTnJ1RV3XqqjT1DyHKOmhjl318oz3IhqRSkDYPUOzE=
+
+Name: images/nmacscrp.gif
+SHA-256-Digest: vyyM/DlDbIM/WSsPVCyUU2YcEoL5H1Kgah4jTKuifDk=
+
+Name: topics/csrcedt006.html
+SHA-256-Digest: N/HwMCVorFa85k8qKVYVxW2/CoI0fKAmmLcM4fr/EWk=
+
+Name: topics/tsrcedt001.html
+SHA-256-Digest: /luRZS3+W91Gy491ezcu1f5qDSbY9lRG4PX25jYYij4=
+

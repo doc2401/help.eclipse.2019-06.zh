@@ -1,0 +1,140 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.wst.sse.doc.user; singleton:=true
+Bundle-Name: %Bundle-Name.0
+Bundle-Version: 1.2.0.v201903222120
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/source
+ editing/webtools.sourceediting.git;path="core/docs/org.eclipse.wst.ss
+ e.doc.user";commitId=12232675002034e762f9182b4e5f6852b344004a
+Bundle-Vendor: %Bundle-Vendor.0
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_192
+
+Name: plugin.xml
+SHA-256-Digest: 0G3GRRBrsW1Q9Eebo557evLTuGzS2bpFkEjnGNwY/Ak=
+
+Name: index/indexed_docs
+SHA-256-Digest: Wzu0It4M/7X610m2PAFQr06FCeQQvzw0KSKOl2ED8vY=
+
+Name: topics/tsrcedt007.html
+SHA-256-Digest: BRbp/TFTGqzxz/QaFgZzINOQQwK3oj4itf0542W2E48=
+
+Name: images/njscdast.gif
+SHA-256-Digest: /+WBNr4AqFRbNHSqwEIzHgzv2k005ySh9eJgudoBsbU=
+
+Name: topics/tsrcedt024.html
+SHA-256-Digest: VJuMM/0TOWL4KHfEjEg6CW1LUPCObRMHv3o56GomB5w=
+
+Name: topics/csrcedt004.html
+SHA-256-Digest: rBsJFNQeNZdTLvnnX+QKOj8ZkI1KBF89ri/3D50C9zU=
+
+Name: topics/tsrcedt015.html
+SHA-256-Digest: PZYapAy2ucmpIaxisPgX8cq/E6cbLqSsfTnez3dNORs=
+
+Name: topics/tsrcedt010.html
+SHA-256-Digest: QuPGinOCoIUgsAeEfFvhwniIhA0w4Zu9Ir9ce5pcIPk=
+
+Name: index/deletable
+SHA-256-Digest: 3z9hmASpL9tAVxktxD3XSOp3itxSvEmM6AUkwBS4ERk=
+
+Name: topics/tsrcedt026.html
+SHA-256-Digest: eSxfNZsKns9f5fOOM27SMo4BldyoCsI9lscHU7vxDzg=
+
+Name: index/_p.cfs
+SHA-256-Digest: C3NVcCUg39pCnPRR4mI2Wq7mvHSG8ckekb37Wgh+ZKY=
+
+Name: topics/tsrcedt029.html
+SHA-256-Digest: y+PQ/0f7Z3+jcHcEmh0UJCe8fJP7Zf7zyr9LXXfKZrw=
+
+Name: images/nwin.gif
+SHA-256-Digest: 2Ih3RFFh2O5V05ZThNRNu7O6LJIsBr8Wi23XCRCtE8o=
+
+Name: plugin.properties
+SHA-256-Digest: ZGaWkr/VNdGT83RdZjndvONR/V5Gk7M4kAvhvsLX/tg=
+
+Name: images/nquest.gif
+SHA-256-Digest: T9s32izCe0jMlHfxwtfuhtG2rWHxTJSo6MmBSyL/BtA=
+
+Name: topics/csrcedt001.html
+SHA-256-Digest: lb+KI1FSPsuDsCBtElGb+CxximO5Ishx+V/7b8+PejM=
+
+Name: topics/tsrcedt025.html
+SHA-256-Digest: +oI0jXCoZBe/wmF9zmlhDdvOI1OkH6lvN6zcm2Fea7s=
+
+Name: topics/tsrcedt022.html
+SHA-256-Digest: IojP87EvGAA0FSYRf+lRe0Zr+9mlK4czpU86a6m0Q90=
+
+Name: topics/cencoding.html
+SHA-256-Digest: CyO9si0OuGI7g5h4FlzTFyMKdWQM9BK5qVBAEcvJzec=
+
+Name: topics/tsrcedt014.html
+SHA-256-Digest: Gt68FHgT9MQBo3XmMg+0KhIcxbZ80dCEk/TTGBDBZCM=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: images/nlinux.gif
+SHA-256-Digest: I3KlS2dAET0SVm+unmlLHGDTzGxHP9s9HIefMMzQQVA=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.sse.doc.user/pom.properties
+SHA-256-Digest: IDfhzFqzy4N+m3Vbsox0Du4Dv/6rdkNS1qudT/iMBKk=
+
+Name: topics/tcontenttype.html
+SHA-256-Digest: fIjuD73pePJx9rjQJnorKY7ZNFssGNsVlaeZLLtsfoo=
+
+Name: topics/tsrcedt000.html
+SHA-256-Digest: /Y3S2knGBvDnZJIltEmRe6I8Q7SHarrv7Laq7gPMz20=
+
+Name: topics/tsrcedt028.html
+SHA-256-Digest: uuEhaCExrkAruH1c5OTwvV/JV9O3n/oVfME1CgDjj4U=
+
+Name: sse_toc.xml
+SHA-256-Digest: dHr7g9ZCufcSkhwolC4KoGViE01kJQm0yJCtPl7K5Vk=
+
+Name: topics/cvalidate.html
+SHA-256-Digest: 5Hpyzr3XMK74hX0bmvXdrbI8YZoLVty134A1WtfAgK0=
+
+Name: org.eclipse.wst.sse.doc.userindex.xml
+SHA-256-Digest: 5GCqmkYcwF7jJIQ6vuDLEEdXXb20l3SjO1+Urz3bFAk=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.sse.doc.user/pom.xml
+SHA-256-Digest: mzAp/u55LZOGhJtWN7nhOjeXBFLxsX78tVL09ECFrRE=
+
+Name: index/segments
+SHA-256-Digest: Xj5fnIUmQxlQZZ1Lsi82lL6i5BparTo1bGwtMtfGm9s=
+
+Name: images/ncontass.gif
+SHA-256-Digest: BvJxRvUgHvhTytRcbKLAowpjHU4BTH97wCrXawQqMAg=
+
+Name: topics/tsrcedt005.html
+SHA-256-Digest: bkBZIYuI86+cjlzRcCguriTHXuoi9ByagyyhIAkqr74=
+
+Name: topics/tsrcedt023.html
+SHA-256-Digest: PjZRIT8UvRVwl1R/SccJYaO3rSZzbJGI2GaarMwkWY4=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: FVSWcn0Ji/m/P8HBKMmHYmqGsKkSB8WvjEFp/IxGWSw=
+
+Name: topics/tsrcedt016.html
+SHA-256-Digest: 1X+TSutsImWs9cRla0uouRf7oqT6RT0okVSf09PILNA=
+
+Name: index/indexed_contributions
+SHA-256-Digest: YIUT6LqjZoO3BSCqmQhJStj9Ijl3vgfpp/f3QqE7AQw=
+
+Name: topics/tsrcedt027.html
+SHA-256-Digest: SACrKkRsTVNPYFiWtR0HWdFb3NiQFUgAUlThHME7Aek=
+
+Name: images/nmacscrp.gif
+SHA-256-Digest: uFnlh0JFLnhZNwHyk/oQHhnZXAQaeXJVkRQFpwQRMQs=
+
+Name: topics/csrcedt006.html
+SHA-256-Digest: bawUHvwKEi4ilWL0+J2K4EWZc6GVjhgw725/IB+boHo=
+
+Name: topics/tsrcedt001.html
+SHA-256-Digest: fkPZOV5dy+tBHzmFezGCE6X36tgfEXPynwxe0v89EAo=
+
