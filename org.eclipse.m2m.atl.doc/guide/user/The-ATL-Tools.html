@@ -124,9 +124,14 @@
 		</ul>
 		<p>仅支持EMF元模型。您必须指定文件到工作区的相对路径。</p>
 		<p>这是UML2AnyMM转换的顶部：</p>
-		<pre>-  @path AnyMM = / AnyProject / AnyFolder / AnyMM.ecore  -  @nsURI UML = http：//www.eclipse.org/uml2/2.1.0/UML</pre>
-		<pre>模块Class2Relational;从IN：UML创建OUT：AnyMM;</pre>
-		<pre>-  ......转型助手和规则</pre>
+		<pre>-- @path AnyMM=/AnyProject/AnyFolder/AnyMM.ecore
+-- @nsURI UML=http://www.eclipse.org/uml2/2.1.0/UML
+</pre>
+		<pre>module Class2Relational;
+create OUT : AnyMM from IN : UML;
+</pre>
+		<pre>-- ...transformation helpers and rules
+</pre>
 		<p>使用Ctrl +空格键触发完成，或者在某些内容辅助可用的上下文中键入空格时触发完成。</p>
 		<h4 id="Since_ATL_3.1_2">自ATL 3.1起</h4>
 		<p>要在完成时包含库提案，还需要其他标记信息：<br>
@@ -275,15 +280,23 @@
 		</table>
 		<h4 id="Parameters_specified_as_nested_elements">指定为嵌套元素的参数</h4>
 		<p>有时，能够通过扩展<a href="http://wiki.eclipse.org/ATL/Developer_Guide#Core">ATL Core</a>的注入器加载模型很有意思。您需要使用在定义时指定的进样器名称。此示例显示如何将ATL文件作为ATL模型加载：</p>
-		<pre>&lt;！ - 加载ATL元模型 - &gt; &lt;atl.loadModel modelHandler =“EMF”name =“ATL”metamodel =“MOF”path =“metamodels / ATL.ecore”/&gt;</pre>
-		<pre>&lt;atl.loadModel name =“myATL”metamodel =“ATL”path =“inputs / MySample.atl”&gt; &lt;injector name =“ATL”/&gt; &lt;/atl.loadModel&gt;</pre>
+		<pre>&lt;!-- load ATL metamodel -->
+&lt;atl.loadModel modelHandler="EMF" name="ATL" metamodel="MOF" path="metamodels/ATL.ecore" />
+</pre>
+		<pre>&lt;atl.loadModel name="myATL" metamodel="ATL" path="inputs/MySample.atl">
+ &lt;injector name="ATL" />
+&lt;/atl.loadModel>
+</pre>
 		<h4 id="Examples_4">例子</h4>
 		<p>使用EMF加载元模型（和Ecore作为元模型）：</p>
-		<pre>&lt;atl.loadModel modelHandler =“EMF”name =“News”metamodel =“MOF”path =“metamodel / News.ecore”/&gt;</pre>
+		<pre>&lt;atl.loadModel modelHandler="EMF" name="News" metamodel="MOF" path="metamodel/News.ecore" />
+</pre>
 		<p>相当于</p>
-		<pre>&lt;atl.loadModel modelHandler =“EMF”name =“News”metamodel =“％EMF”path =“metamodels / News.ecore”/&gt;</pre>
+		<pre>&lt;atl.loadModel modelHandler="EMF" name="News" metamodel="%EMF" path="metamodels/News.ecore" />
+</pre>
 		<p>加载符合先前加载的元模型的终端模型：</p>
-		<pre>&lt;atl.loadModel modelHandler =“EMF”name =“SampleNews”metamodel =“News”path =“models / MyInput-News.xmi”/&gt;</pre>
+		<pre>&lt;atl.loadModel modelHandler="EMF" name="SampleNews" metamodel="News" path="models/MyInput-News.xmi" />
+</pre>
 		<h3 id="Task_atl.saveModel">任务atl.saveModel</h3>
 		<p>此任务（在<a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.m2m/org.eclipse.m2m.atl/plugins/org.eclipse.m2m.atl.core.ant/src_ant/org/eclipse/m2m/atl/core/ant/tasks/SaveModelTask.java?root=Modeling_Project&amp;view=markup">SaveModelTask</a>类中<a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.m2m/org.eclipse.m2m.atl/plugins/org.eclipse.m2m.atl.core.ant/src_ant/org/eclipse/m2m/atl/core/ant/tasks/SaveModelTask.java?root=Modeling_Project&amp;view=markup">实现</a> ）用于保存模型，可选择使用提取器。可以保存任何模型：终端模型，元模型或元模型。
 		</p>
@@ -321,10 +334,14 @@
 			</tr>
 		</table>
 		<p>保存以前加载的新闻元模型：</p>
-		<pre>&lt;atl.saveModel model =“News”path =“outputs / NewsMM.ecore”/&gt;</pre>
+		<pre>&lt;atl.saveModel model="News" path="outputs/NewsMM.ecore" />
+</pre>
 		<p>您可以看到model属性与先前atl.loadModel任务的name属性相同。加载后，模型将通过此属性名称进行标识。因此，您应该避免为两个不同的模型指定相同的名称。每次发生时，您的先前模型都会被覆盖。</p>
 		<p>有时，使用提取器保存模型很有意思。例如，如果你有一个符合ATL的模型（即ATL源代码的模型），使用ATL提取器将其保存为.atl文件会很有趣：</p>
-		<pre>&lt;atl.saveModel model =“myATL”path =“outputs / SavingMySample.atl”&gt; &lt;extractor name =“ATL”/&gt; &lt;/atl.saveModel&gt;</pre>
+		<pre>&lt;atl.saveModel model="myATL" path="outputs/SavingMySample.atl">
+ &lt;extractor name="ATL"/>
+&lt;/atl.saveModel>
+</pre>
 		<h3 id="Task_atl.launch">任务atl.launch</h3>
 		<p>此任务的目的（在类<a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.m2m/org.eclipse.m2m.atl/plugins/org.eclipse.m2m.atl.core.ant/src_ant/org/eclipse/m2m/atl/core/ant/tasks/ATLModelTransformationTask.java?root=Modeling_Project&amp;view=markup">ATLModelTransformationTask中</a>实现）是执行ATL转换。转换使用的模型由其名称引用，使用<a href="The-ATL-Tools.html#Task_atl.loadModel">atl.loadModel</a>任务（name属性）定义。
 		</p>
@@ -361,9 +378,17 @@
 				<b>库</b>库助手</li>
 		</ul>
 		<p>例如，如果您有此模块标题：</p>
-		<pre>模块Families2Persons;创造OUT：来自IN的人：家庭;使用myLib;</pre>
+		<pre>module Families2Persons;
+create OUT : Persons from IN : Families;
+uses myLib;
+</pre>
 		<p>您必须创建一个inModel参数（对于IN），一个outModel（对于OUT）和一个库（对于myLib）。例如：</p>
-		<pre>&lt;atl.launch path =“ATLFiles / MyTransformation.asm”&gt; &lt;inmodel name =“IN”model =“...”/&gt; &lt;outmodel name =“OUT”model =“...”metamodel =“Persons”/ &gt; &lt;library name =“strings”path =“lib / mylib.atl”/&gt; &lt;/atl.launch&gt;</pre>
+		<pre>&lt;atl.launch path="ATLFiles/MyTransformation.asm">
+ &lt;inmodel name="IN" model="..."/>			
+ &lt;outmodel name="OUT" model="..." metamodel="Persons"/>
+ &lt;library name="strings" path="lib/mylib.atl" />
+&lt;/atl.launch>
+</pre>
 		<p>每个参数的名称必须与模块头中的名称完全相同（区分大小写）。对于inmodel参数，model属性指的是先前加载的模型的名称，例如atl.loadModel。outmodel的属性模型不会引用已加载的模型，因为它尚未创建。后面应该使用此属性的值作为atl.saveModel任务的标识符。</p>
 		<p>每个嵌套参数的每个属性在此汇总：</p>
 		<h4 id="Parameters_specified_as_nested_elements_2">指定为嵌套元素的参数</h4>
@@ -489,26 +514,66 @@
 		<p>（请参阅org.eclipse.m2m.atl.core.launcher扩展中的选项）</p>
 		<h4 id="Launcher_configuration">启动器配置</h4>
 		<p>要选择要使用的启动程序（即特定于EMF的VM或常规VM），必须将其指定为ant项目中的属性。默认选择EMF特定的VM。例如，要使用常规VM：</p>
-		<pre>&lt;？xml版本=“1.0”？&gt; &lt;project name =“test.types”default =“run”basedir =“。”&gt; &lt;property name =“atl.launcher”value =“常规VM（带调试器）”/&gt; ...&lt;/项目&gt;</pre>
+		<pre>&lt;?xml version="1.0"?>
+&lt;project name="test.types" default="run" basedir=".">
+    &lt;property name="atl.launcher" value="Regular VM (with debugger)"/>
+    ...
+&lt;/project>
+</pre>
 		<h4 id="Making_ATL_transformations_chains_without_intermediate_serialization">使ATL转换链没有中间序列化</h4>
 		<p>假设您有两个转换A2B和B2C链。A2B将符合A的模型转换为符合B的模型.B2C将符合B的模型转换为符合C的模型。我们只想序列化符合C的模型，但没有符合B的中间模型。解决方案是它可以直接作为B2C转换的输入传递，如下所示：</p>
 		<p>加载元模型：</p>
-		<pre>&lt;atl.loadModel metamodel =“％EMF”name =“A”path =“...”/&gt; &lt;atl.loadModel metamodel =“％EMF”name =“B”path =“...”/&gt; &lt;atl .loadModel metamodel =“％EMF”name =“C”path =“...”/&gt;</pre>
+		<pre>&lt;atl.loadModel metamodel="%EMF" name="A" path="..."/> 
+&lt;atl.loadModel metamodel="%EMF" name="B" path="..."/>
+&lt;atl.loadModel metamodel="%EMF" name="C" path="..."/>
+</pre>
 		<p>加载源模型：</p>
-		<pre>&lt;atl.loadModel metamodel =“A”name =“myModel-A”path =“...”/&gt;＆lt;！ - “ -  A”在这里不要忘记myModel符合元模型“A”，但是你可以给任何名字 - &gt;</pre>
+		<pre>&lt;atl.loadModel metamodel="A" name="myModel-A" path="..."/> &amp;lt;!-- "-A" is here not to forget that myModel is conforming to metamodel "A", but you can give any name -->
+</pre>
 		<p>第一次转型：</p>
-		<pre>&lt;atl.launch path =“...”&gt;＆lt;！ - 执行转换的标题是：module myModule1;从SourceM创建TargetM：TargetMM：SourceMM; - &gt; &lt;inmodel name =“SourceM”model =“myModel-A”/&gt; &lt;outmodel name =“''''TargetM'''”model =“'''myModel-B'''”metamodel =“B” /&gt; &lt;/atl.launch&gt;</pre>
+		<pre>&lt;atl.launch path="...">
+ &amp;lt;!--
+ the header of the executed transformation is:
+ module myModule1;
+ create TargetM : TargetMM from SourceM : SourceMM;
+ -->
+ &lt;inmodel name="SourceM" model="myModel-A"/>			
+ &lt;outmodel name="'''TargetM'''" model="'''myModel-B'''" metamodel="B"/>
+&lt;/atl.launch >
+</pre>
 		<p>第二次转型：</p>
-		<pre>&lt;atl.launch path =“...”&gt;＆lt;！ - 执行转换的标题是：module myModule2;从SourceM创建TargetM：TargetMM：SourceMM; - &gt; &lt;inmodel name =“''''SourceM'''”model =“'''myModel-B'''”/&gt; &lt;outmodel name =“TargetM”model =“myModel-C”metamodel =“C” /&gt; &lt;/atl.launch&gt;</pre>
+		<pre>&lt;atl.launch path="...">
+ &amp;lt;!--
+ the header of the executed transformation is:
+ module myModule2;
+ create TargetM : TargetMM from SourceM : SourceMM;
+ -->
+ &lt;inmodel name="'''SourceM'''" model="'''myModel-B'''"/>			
+ &lt;outmodel name="TargetM" model="myModel-C" metamodel="C"/>
+&lt;/atl.launch >
+</pre>
 		<p>请注意，myModel-B可用于第二次转换，就好像它已被atl.loadModel调用加载一样。</p>
 		<p>仅序列化第二个转换的输出（模型myModel-C）</p>
-		<pre>&lt;atl.saveModel model =“myModel-C”path =“...”/&gt;</pre>
+		<pre>&lt;atl.saveModel model="myModel-C" path="..." />
+</pre>
 		<h4 id="Examples_5">例子</h4>
 		<p>炼油改造（完全可用<a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.m2m/org.eclipse.m2m.atl/examples/org.eclipse.m2m.atl.examples.public2private/?root=Modeling_Project">在这里</a> ），具体的EMF-VM推出：</p>
-		<pre>&lt;？xml版本=“1.0”？&gt; &lt;project name =“Public2Private”default =“run”basedir =“。”&gt; &lt;property name =“samplePath”value =“../ model / sample.uml”/&gt;</pre>
-		<pre>&lt;target name =“run”&gt; &lt;atl.loadModel name =“UML”metamodel =“MOF”nsUri =“http://www.eclipse.org/uml2/2.1.0/UML”/&gt; &lt;atl.loadModel name =“sample”metamodel =“UML”path =“$ {samplePath}”/&gt;</pre>
-		<pre>&lt;atl.launch path =“../ transformation / public2private.asm”refining =“true”&gt; &lt;inoutmodel model =“sample”name =“IN”/&gt; &lt;/atl.launch&gt;</pre>
-		<pre>&lt;atl.saveModel model =“sample”path =“$ {samplePath}”/&gt; &lt;/ target&gt; &lt;/ project&gt;</pre>
+		<pre>&lt;?xml version="1.0"?>
+&lt;project name="Public2Private" default="run" basedir=".">
+	&lt;property name="samplePath" value="../model/sample.uml" />
+</pre>
+		<pre>	&lt;target name="run">
+		&lt;atl.loadModel name="UML" metamodel="MOF" nsUri="http://www.eclipse.org/uml2/2.1.0/UML" />
+		&lt;atl.loadModel name="sample" metamodel="UML" path="${samplePath}" />
+</pre>
+		<pre>		&lt;atl.launch path="../transformation/public2private.asm" refining="true">
+			&lt;inoutmodel model="sample" name="IN" />
+		&lt;/atl.launch>
+</pre>
+		<pre>		&lt;atl.saveModel model="sample" path="${samplePath}" />
+	&lt;/target>
+&lt;/project>
+</pre>
 		<h3 id="Mapping_with_AM3_ant_tasks">使用AM3 ant任务进行映射</h3>
 		<p>Ant任务已添加到ATL，以提供与<a href="http://wiki.eclipse.org/AM3_Ant_Tasks">AM3 ant任务</a>相同的支持，适用于ATL3.0.x API。以下是AM3和ATL任务之间的映射和更改列表：</p>
 		<ul>
@@ -525,7 +590,12 @@
 				</ul>
 			</li>
 		</ul>
-		<pre>&lt;atl.launch path =“test.asm”&gt; &lt;option name =“allowInterModelReferences”value =“true”/&gt; &lt;inmodel model =“sample”name =“IN”/&gt; ...&lt;/atl.launch&gt;</pre>
+		<pre>&lt;atl.launch path="test.asm">
+    &lt;option name="allowInterModelReferences" value="true"/>
+    &lt;inmodel model="sample" name="IN" />
+    ...
+&lt;/atl.launch>
+</pre>
 		<ul>
 			<li>
 				<ul>
