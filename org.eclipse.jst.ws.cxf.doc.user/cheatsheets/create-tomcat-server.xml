@@ -42,7 +42,7 @@
          执行以下步骤以在工作台中创建Tomcat服务器。
       </description>
       <subitem
-            label="选择“文件 - &gt;新 - &gt;其他...＆QUOT;从主菜单中，展开“服务器”按钮。产生的“新向导”中的类别对话框并选择“服务器”。点击“下一步”&gt;。"
+            label="选择“文件 - &gt;新 - &gt;其他...&QUOT;从主菜单中，展开“服务器”按钮。产生的“新向导”中的类别对话框并选择“服务器”。点击“下一步”&gt;。"
             skip="true">
          <command
                required="false"
@@ -57,7 +57,7 @@
             skip="true">
       </subitem>
       <subitem
-            label="选择“Window  - &gt;打开Servers视图。显示视图 - &gt;其它..＆QUOT;从主菜单中，展开“服务器”按钮。结果“显示视图”中的类别对话框并选择“服务器”。点击“确定”。"
+            label="选择“Window  - &gt;打开Servers视图。显示视图 - &gt;其它..&QUOT;从主菜单中，展开“服务器”按钮。结果“显示视图”中的类别对话框并选择“服务器”。点击“确定”。"
             skip="true">
          <command
                required="false"

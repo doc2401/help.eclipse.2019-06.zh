@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <toc topic="help/developer/logical-model.html#Logical_Model" label="逻辑模型">
-	<topic href="help/developer/logical-model.html#Eclipse" label="日食">
+	<topic href="help/developer/logical-model.html#Eclipse" label="eclipse">
 		<topic href="help/developer/logical-model.html#What_is_a_logical_model_.3F" label="什么是逻辑模型？"></topic>
 		<topic href="help/developer/logical-model.html#Eclipse_Team" label="Eclipse团队"></topic>
 		<topic href="help/developer/logical-model.html#Limitations" label="限制"></topic>

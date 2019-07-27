@@ -216,7 +216,7 @@
 	<topic href="doc/LTTng-UST-Analyses.html" label="LTTng-UST分析">
 		<topic href="doc/LTTng-UST-Analyses.html#Call_Stack_View" label="调用堆栈视图">
 			<topic href="doc/LTTng-UST-Analyses.html#Using_the_Callstack_View_with_LTTng-UST_traces" label="使用带有LTTng-UST跟踪的Callstack视图"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29" label="导入二进制或函数名称映射文件（对于LTTng-UST＆lt; 2.8跟踪）"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29" label="导入二进制或函数名称映射文件（对于LTTng-UST&lt; 2.8跟踪）"></topic>
 			<topic href="doc/LTTng-UST-Analyses.html#Navigation_5" label="导航"></topic>
 			<topic href="doc/LTTng-UST-Analyses.html#Marker_Axis_3" label="标记轴"></topic>
 		</topic>
@@ -227,7 +227,7 @@
 			<topic href="doc/LTTng-UST-Analyses.html#Using_the_mouse_3" label="用鼠标"></topic>
 			<topic href="doc/LTTng-UST-Analyses.html#Using_the_keyboard_3" label="使用键盘"></topic>
 			<topic href="doc/LTTng-UST-Analyses.html#Toolbar_6" label="工具栏"></topic>
-			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29_2" label="导入二进制或函数名称映射文件（对于LTTng-UST＆lt; 2.8跟踪）"></topic>
+			<topic href="doc/LTTng-UST-Analyses.html#Importing_a_binary_or_function_name_mapping_file_.28for_LTTng-UST_.3C2.8_traces.29_2" label="导入二进制或函数名称映射文件（对于LTTng-UST&lt; 2.8跟踪）"></topic>
 		</topic>
 		<topic href="doc/LTTng-UST-Analyses.html#Function_Duration_Density" label="功能持续时间密度"></topic>
 		<topic href="doc/LTTng-UST-Analyses.html#Memory_Usage" label="内存使用情况">

@@ -18,7 +18,7 @@
 	<item title="Start Clone Wizard" dialog="true">
 		<description>
 单击“单击以执行”可以启动克隆向导。下面。<br /> <br />
-或者，您可以从“从Git导入项目”中启动此向导。向导使用“导入...&gt; Git&gt;来自Git的项目&gt;下一个&gt;克隆...＆QUOT;或者来自“Git Repositories View”或使用“克隆一个Git存储库”工具栏按钮。<br /> <br />
+或者，您可以从“从Git导入项目”中启动此向导。向导使用“导入...&gt; Git&gt;来自Git的项目&gt;下一个&gt;克隆...&QUOT;或者来自“Git Repositories View”或使用“克隆一个Git存储库”工具栏按钮。<br /> <br />
 <b>要从单独打开的向导启动此备忘单，请单击帮助图标，然后选择“克隆Git存储库”。</ b>
 </description>
 		<command required="false" serialization="org.eclipse.egit.ui.RepositoriesViewClone" />

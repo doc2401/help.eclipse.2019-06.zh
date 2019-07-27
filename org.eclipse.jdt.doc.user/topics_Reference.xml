@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?NLS TYPE="org.eclipse.help.toc"?>
-<toc label="Reference">
+<toc label="参考">
 <!--
 	Copyright (c) IBM Corporation and others 2000, 2019. This page is made available under license. For full details see the LEGAL in the documentation book that contains 					this page.
 
@@ -12,425 +12,425 @@
 <!--
 	Breakpoints
 -->
-	<topic label="Breakpoints" href="concepts/cbrkpnts.htm">
-		<topic label="Condition Option" href="reference/breakpoints/ref-condition_option.htm"/>
-		<topic label="Enabled Option" href="reference/breakpoints/ref-enabled_option.htm"/>
-		<topic label="Exception Breakpoint Caught Option" href="reference/breakpoints/ref-caught_option.htm" />
-		<topic label="Exception Breakpoint Suspend on Subclass Option" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
-		<topic label="Exception Breakpoint Uncaught Option" href="reference/breakpoints/ref-uncaught_option.htm" />
-		<topic label="Hit Count Option" href="reference/breakpoints/ref-hitcount_option.htm" />
-		<topic label="Method Breakpoint Entry Option" href="reference/breakpoints/ref-entry_option.htm" />
-		<topic label="Method Breakpoint Exit Option" href="reference/breakpoints/ref-exit_option.htm" />
-		<topic label="Suspend Policy Option" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
-		<topic label="Watchpoint Modification Option" href="reference/breakpoints/ref-modification_option.htm" />
-		<topic label="Watchpoint Access Option" href="reference/breakpoints/ref-access_option.htm" />
+	<topic label="断点" href="concepts/cbrkpnts.htm">
+		<topic label="条件选项" href="reference/breakpoints/ref-condition_option.htm"/>
+		<topic label="启用选项" href="reference/breakpoints/ref-enabled_option.htm"/>
+		<topic label="异常断点捕获选项" href="reference/breakpoints/ref-caught_option.htm" />
+		<topic label="异常断点暂停子类选项" href="reference/breakpoints/ref-suspendsubclass_option.htm"/>
+		<topic label="异常断点未捕获选项" href="reference/breakpoints/ref-uncaught_option.htm" />
+		<topic label="命中计数选项" href="reference/breakpoints/ref-hitcount_option.htm" />
+		<topic label="方法断点输入选项" href="reference/breakpoints/ref-entry_option.htm" />
+		<topic label="方法断点退出选项" href="reference/breakpoints/ref-exit_option.htm" />
+		<topic label="暂停政策选项" href="reference/breakpoints/ref-suspendpolicy_option.htm"/>
+		<topic label="观察点修改选项" href="reference/breakpoints/ref-modification_option.htm" />
+		<topic label="观察点访问选项" href="reference/breakpoints/ref-access_option.htm" />
 	</topic>
 <!--
 	Java Editor
 -->
-	<topic label="Java Editor" href="reference/views/ref-java-editor.htm">
-		<topic label="Java Content Assist" href="reference/ref-java-editor-code-assist.htm" />
-		<topic label="Java Formatter" href="reference/ref-java-editor-formatter.htm" />
-		<topic label="Quick fix" href="reference/ref-java-editor-quickfix.htm" />
-		<topic label="Quick assist" href="reference/ref-java-editor-quickassist.htm" />
-		<topic label="Suppress warnings" href="tasks/task-suppress_warnings.htm" />
+	<topic label="Java编辑器" href="reference/views/ref-java-editor.htm">
+		<topic label="Java内容辅助" href="reference/ref-java-editor-code-assist.htm" />
+		<topic label="Java格式化程序" href="reference/ref-java-editor-formatter.htm" />
+		<topic label="快速解决" href="reference/ref-java-editor-quickfix.htm" />
+		<topic label="快速帮助" href="reference/ref-java-editor-quickassist.htm" />
+		<topic label="抑制警告" href="tasks/task-suppress_warnings.htm" />
 	</topic>
 <!--
 	Launch Configuration
 -->
-    <topic label="Launching">
-       <topic href="reference/ref-launchconfiguration-commontab.htm" label="Launch Configuration Common Tab">
+    <topic label="发射">
+       <topic href="reference/ref-launchconfiguration-commontab.htm" label="启动配置公共选项卡">
        </topic>
     </topic>
 <!--
 	Actions
 -->
-	<topic label="Menus and Actions" href="reference/ref-jdt-actions.htm">
-		<topic label="File Menu Actions" href="reference/ref-menu-file.htm" />
-		<topic label="Edit Menu Actions" href="reference/ref-menu-edit.htm" />
-		<topic label="Source Menu Actions" href="reference/ref-menu-source.htm" />
-		<topic label="Refactor Menu Actions" href="reference/ref-menu-refactor.htm" />
-		<topic label="Navigate Menu Actions" href="reference/ref-menu-navigate.htm" />
-		<topic label="Search Menu Actions" href="reference/ref-menu-search.htm" />
-		<topic label="Project Menu Actions" href="reference/ref-menu-project.htm" />
-		<topic label="Run Menu Actions" href="reference/menus/run/ref-menu-run.htm" />
-		<topic label="Java Toolbar Actions" href="reference/ref-actions-toolbar.htm"/>
-		<topic label="Run and Debug Toolbar Actions" href="reference/ref-toolbar-run.htm" />
-		<topic label="Java Editor Actions" href="reference/views/ref-java-editor.htm" />
+	<topic label="菜单和行动" href="reference/ref-jdt-actions.htm">
+		<topic label="文件菜单操作" href="reference/ref-menu-file.htm" />
+		<topic label="编辑菜单操作" href="reference/ref-menu-edit.htm" />
+		<topic label="源菜单操作" href="reference/ref-menu-source.htm" />
+		<topic label="重构菜单操作" href="reference/ref-menu-refactor.htm" />
+		<topic label="导航菜单操作" href="reference/ref-menu-navigate.htm" />
+		<topic label="搜索菜单操作" href="reference/ref-menu-search.htm" />
+		<topic label="项目菜单操作" href="reference/ref-menu-project.htm" />
+		<topic label="运行菜单操作" href="reference/menus/run/ref-menu-run.htm" />
+		<topic label="Java工具栏操作" href="reference/ref-actions-toolbar.htm"/>
+		<topic label="运行和调试工具栏操作" href="reference/ref-toolbar-run.htm" />
+		<topic label="Java编辑器操作" href="reference/views/ref-java-editor.htm" />
 	</topic>
 	
 <!--
 	Preferences
 -->
-	<topic label="Preferences" >
-		<topic label="Java" href="reference/preferences/ref-preferences-java.htm" >
-			<topic label="Appearance" href="reference/preferences/java/ref-preferences-appearance.htm">
-				<topic label="Member Sort Order" href="reference/preferences/java/appearance/ref-preferences-member-sort-order.htm" />
-				<topic label="Type Filters" href="reference/preferences/java/appearance/ref-preferences-type-filters.htm" />
+	<topic label="喜好" >
+		<topic label="Java的" href="reference/preferences/ref-preferences-java.htm" >
+			<topic label="出现" href="reference/preferences/java/ref-preferences-appearance.htm">
+				<topic label="会员排序顺序" href="reference/preferences/java/appearance/ref-preferences-member-sort-order.htm" />
+				<topic label="类型过滤器" href="reference/preferences/java/appearance/ref-preferences-type-filters.htm" />
 			</topic>
-			<topic label="Build Path" href="reference/preferences/java/ref-preferences-build-path.htm">
-			<topic label="Classpath Variables" href="reference/preferences/java/buildpath/ref-preferences-classpath-variables.htm" />
-				<topic label="User Libraries" href="reference/preferences/java/buildpath/ref-preferences-user-libraries.htm" />
+			<topic label="构建路径" href="reference/preferences/java/ref-preferences-build-path.htm">
+			<topic label="类路径变量" href="reference/preferences/java/buildpath/ref-preferences-classpath-variables.htm" />
+				<topic label="用户库" href="reference/preferences/java/buildpath/ref-preferences-user-libraries.htm" />
 			</topic>
-			<topic label="Code Style" href="reference/preferences/java/ref-preferences-code-style.htm">
-			    <topic label="Clean Up" href="reference/preferences/java/codestyle/ref-preferences-cleanup.htm" />
-				<topic label="Code Templates" href="reference/preferences/java/codestyle/ref-preferences-code-templates.htm" />
-				<topic label="Formatter" href="reference/preferences/java/codestyle/ref-preferences-formatter.htm" />
-				<topic label="Organize Imports" href="reference/preferences/java/codestyle/ref-preferences-organize-imports.htm" />
+			<topic label="代码风格" href="reference/preferences/java/ref-preferences-code-style.htm">
+			    <topic label="清理" href="reference/preferences/java/codestyle/ref-preferences-cleanup.htm" />
+				<topic label="代码模板" href="reference/preferences/java/codestyle/ref-preferences-code-templates.htm" />
+				<topic label="格式化" href="reference/preferences/java/codestyle/ref-preferences-formatter.htm" />
+				<topic label="组织进口" href="reference/preferences/java/codestyle/ref-preferences-organize-imports.htm" />
 			</topic>
-			<topic label="Compiler" href="reference/preferences/java/ref-preferences-compiler.htm">
-				<topic label="Building" href="reference/preferences/java/compiler/ref-preferences-building.htm" />
-				<topic label="Errors/Warnings" href="reference/preferences/java/compiler/ref-preferences-errors-warnings.htm" />
-				<topic label="Javadoc" href="reference/preferences/java/compiler/ref-preferences-javadoc.htm" />
-				<topic label="Task Tags" href="reference/preferences/java/compiler/ref-preferences-task-tags.htm" />
+			<topic label="编译器" href="reference/preferences/java/ref-preferences-compiler.htm">
+				<topic label="建造" href="reference/preferences/java/compiler/ref-preferences-building.htm" />
+				<topic label="错误/警告" href="reference/preferences/java/compiler/ref-preferences-errors-warnings.htm" />
+				<topic label="的Javadoc" href="reference/preferences/java/compiler/ref-preferences-javadoc.htm" />
+				<topic label="任务标签" href="reference/preferences/java/compiler/ref-preferences-task-tags.htm" />
 			</topic>
-			<topic label="Debug" href="reference/preferences/java/debug/ref-debug.htm">
-				<topic label="Detail Formatters" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
-				<topic label="Heap Walking" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
-				<topic label="Logical Structures" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
-				<topic label="Primitive Display Options" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
-				<topic label="Step Filtering" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
+			<topic label="调试" href="reference/preferences/java/debug/ref-debug.htm">
+				<topic label="细节格式化程序" href="reference/preferences/java/debug/ref-detail_formatters.htm"/>
+				<topic label="堆行走" href="reference/preferences/java/debug/ref-heap_walking.htm"/>
+				<topic label="逻辑结构" href="reference/preferences/java/debug/ref-logical_structures.htm"/>
+				<topic label="原始显示选项" href="reference/preferences/java/debug/ref-primitive_display_options.htm"/>
+				<topic label="步骤过滤" href="reference/preferences/java/debug/ref-step_filtering.htm"/>
 			</topic>
-			<topic label="Editor" href="reference/preferences/java/ref-preferences-editor.htm" >
-	  			<topic label="Content Assist" href="reference/preferences/java/editor/ref-preferences-content-assist.htm">
-	  				<topic label="Advanced" href="reference/preferences/java/editor/ref-preferences-content-assist-advanced.htm" />
-	  				<topic label="Favorites" href="reference/preferences/java/editor/ref-preferences-content-assist-favorites.htm" />
+			<topic label="编辑" href="reference/preferences/java/ref-preferences-editor.htm" >
+	  			<topic label="内容辅助" href="reference/preferences/java/editor/ref-preferences-content-assist.htm">
+	  				<topic label="高级" href="reference/preferences/java/editor/ref-preferences-content-assist-advanced.htm" />
+	  				<topic label="最爱" href="reference/preferences/java/editor/ref-preferences-content-assist-favorites.htm" />
 	  			</topic>
-	  			<topic label="Folding" href="reference/preferences/java/editor/ref-preferences-folding.htm" />
-	  			<topic label="Hovers" href="reference/preferences/java/editor/ref-preferences-hovers.htm" />
+	  			<topic label="折页" href="reference/preferences/java/editor/ref-preferences-folding.htm" />
+	  			<topic label="悬停" href="reference/preferences/java/editor/ref-preferences-hovers.htm" />
 	  			<topic label="Mark Occurrences" href="reference/preferences/java/editor/ref-preferences-mark-occurrences.htm" />
-	  			<topic label="Save Actions" href="reference/preferences/java/editor/ref-preferences-save-actions.htm" />
-	  			<topic label="Syntax Coloring" href="reference/preferences/java/editor/ref-preferences-syntax-coloring.htm" />
-	  			<topic label="Templates" href="reference/preferences/java/editor/ref-preferences-templates.htm">
-	  				<topic label="Template Editing" href="reference/preferences/java/editor/ref-preferences-edit-template-dialog.htm"/>
+	  			<topic label="保存操作" href="reference/preferences/java/editor/ref-preferences-save-actions.htm" />
+	  			<topic label="语法着色" href="reference/preferences/java/editor/ref-preferences-syntax-coloring.htm" />
+	  			<topic label="模板" href="reference/preferences/java/editor/ref-preferences-templates.htm">
+	  				<topic label="模板编辑" href="reference/preferences/java/editor/ref-preferences-edit-template-dialog.htm"/>
 	  			</topic>
-	  			<topic label="Typing" href="reference/preferences/java/editor/ref-preferences-typing.htm" />
+	  			<topic label="打字" href="reference/preferences/java/editor/ref-preferences-typing.htm" />
 			</topic>
-			<topic label="Installed JREs" href="reference/preferences/java/debug/ref-installed_jres.htm">
-				<topic label="Execution Environments" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
+			<topic label="已安装的JRE" href="reference/preferences/java/debug/ref-installed_jres.htm">
+				<topic label="执行环境" href="reference/preferences/java/debug/ref-execution_environments.htm"/>
 			</topic>
-			<topic label="JUnit" href="reference/preferences/java/ref-preferences-junit.htm" />
-			<topic label="Properties Files Editor" href="reference/preferences/java/ref-preferences-properties-files-editor.htm" />
+			<topic label="JUnit的" href="reference/preferences/java/ref-preferences-junit.htm" />
+			<topic label="属性文件编辑器" href="reference/preferences/java/ref-preferences-properties-files-editor.htm" />
 		</topic>
-		<topic label="Run/Debug" href="reference/preferences/run-debug/ref-run_debug.htm">
-			<topic label="Console" href="reference/preferences/run-debug/ref-console.htm"/>
-			<topic label="Launching" href="reference/preferences/run-debug/ref-launching.htm">
-				<topic label="Default Launchers" href="reference/preferences/run-debug/ref-default_launchers.htm"/>
-				<topic label="Launch Configurations" href="reference/preferences/run-debug/ref-launch_configurations.htm"/>
+		<topic label="运行/调试" href="reference/preferences/run-debug/ref-run_debug.htm">
+			<topic label="安慰" href="reference/preferences/run-debug/ref-console.htm"/>
+			<topic label="发射" href="reference/preferences/run-debug/ref-launching.htm">
+				<topic label="默认启动器" href="reference/preferences/run-debug/ref-default_launchers.htm"/>
+				<topic label="启动配置" href="reference/preferences/run-debug/ref-launch_configurations.htm"/>
 			</topic>
-			<topic label="Perspectives" href="reference/preferences/run-debug/ref-perspectives.htm"/>
-			<topic label="String Substitution" href="reference/preferences/run-debug/ref-string_substitution.htm"/>
-			<topic label="View Management" href="reference/preferences/run-debug/ref-view_management.htm"/>
+			<topic label="展望" href="reference/preferences/run-debug/ref-perspectives.htm"/>
+			<topic label="字符串替换" href="reference/preferences/run-debug/ref-string_substitution.htm"/>
+			<topic label="查看管理" href="reference/preferences/run-debug/ref-view_management.htm"/>
 		</topic>
 	</topic>
 
 <!--
 	Property Pages
 -->
-	<topic label="Property Pages">
-        <topic label="Javadoc Location" href="reference/ref-dialog-javadoc-location.htm" />
- 		<topic label="Java Build Path" href="reference/ref-properties-build-path.htm">
- 			<topic label="Modularity Details" href="reference/propertypages/ref-properties-buildpath-modularity.htm" />
+	<topic label="物业页面">
+        <topic label="Javadoc位置" href="reference/ref-dialog-javadoc-location.htm" />
+ 		<topic label="Java构建路径" href="reference/ref-properties-build-path.htm">
+ 			<topic label="模块化细节" href="reference/propertypages/ref-properties-buildpath-modularity.htm" />
  		</topic>
- 		<topic label="Java Compiler" href="reference/ref-properties-compiler.htm" />
- 		<topic label="Java Task Tags" href="reference/ref-properties-task-tags.htm" />
-		<topic label="Source Attachment" href="reference/ref-properties-source-attachment.htm" />
-  <topic href="reference/propertypages/ref-properties-rundebug.htm" label="Run / Debug">
+ 		<topic label="Java编译器" href="reference/ref-properties-compiler.htm" />
+ 		<topic label="Java任务标签" href="reference/ref-properties-task-tags.htm" />
+		<topic label="来源附件" href="reference/ref-properties-source-attachment.htm" />
+  <topic href="reference/propertypages/ref-properties-rundebug.htm" label="运行/调试">
   </topic>
     </topic>
 	
 <!--
 	Refactoring
 -->
-	<topic label="Refactoring" href="concepts/concept-refactoring.htm">
-		<topic label="Refactor Actions" href="reference/ref-menu-refactor.htm" />
-		<topic label="Refactor Wizard" href="reference/ref-wizard-refactorings.htm" />
-		<topic label="Extract Method Errors" href="reference/ref-refactoring-extract-method.htm" />
+	<topic label="重构" href="concepts/concept-refactoring.htm">
+		<topic label="重构行动" href="reference/ref-menu-refactor.htm" />
+		<topic label="重构向导" href="reference/ref-wizard-refactorings.htm" />
+		<topic label="提取方法错误" href="reference/ref-refactoring-extract-method.htm" />
 	</topic>
 
 <!--
 	Search
 -->
-	<topic label="Search" >
-		<topic label="Java Search Tab" href="reference/ref-dialog-java-search.htm" />
-		<topic label="Java Search Actions" href="reference/ref-menu-search.htm" />
+	<topic label="搜索" >
+		<topic label="Java搜索选项卡" href="reference/ref-dialog-java-search.htm" />
+		<topic label="Java搜索操作" href="reference/ref-menu-search.htm" />
 	</topic>
 
 <!--
 	Toolbar
 -->	
-	<topic label="Toolbar">
-		<topic label="Java Toolbar Actions" href="reference/ref-actions-toolbar.htm"/>
-		<topic label="Java Editor Toolbar Actions" href="reference/views/ref-java-editor.htm" />
-		<topic label="Run and Debug Toolbar Actions" href="reference/ref-toolbar-run.htm" />
+	<topic label="工具栏">
+		<topic label="Java工具栏操作" href="reference/ref-actions-toolbar.htm"/>
+		<topic label="Java编辑器工具栏操作" href="reference/views/ref-java-editor.htm" />
+		<topic label="运行和调试工具栏操作" href="reference/ref-toolbar-run.htm" />
 	</topic>
 <!-- 
 	Views
  -->	
- 	<topic label="Views" href="reference/views/ref-viewsandeditors.htm">	
+ 	<topic label="查看" href="reference/views/ref-viewsandeditors.htm">	
 <!--
 	Breakpoints View
 -->
-	<topic label="Breakpoints View" href="reference/views/breakpoints/ref-breakpoints_view.htm">
-		<topic label="Access" href="reference/views/breakpoints/ref-access_contextaction.htm" />
-		<topic label="Add Java Exception Breakpoint" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
-		<topic label="Breakpoint Properties" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
-		<topic label="Caught" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
-		<topic label="Collapse All" href="reference/views/shared/ref-collapseall.htm"/>	
-		<topic label="Copy" href="reference/views/shared/ref-copy.htm" />
-		<topic label="Disable" href="reference/views/breakpoints/ref-disable_contextaction.htm" />
-		<topic label="Enable" href="reference/views/breakpoints/ref-enable_contextaction.htm" />
-		<topic label="Entry" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
-		<topic label="Exit" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
-		<topic label="Expand All" href="reference/views/breakpoints/ref-expandall_viewaction.htm"/>
-		<topic label="Export Breakpoints" href="reference/views/breakpoints/ref-export_contextaction.htm"/>
-		<topic label="Go to File for Breakpoint" href="reference/views/breakpoints/ref-gotofile_viewaction.htm" />
-		<topic label="Group By" href="reference/views/breakpoints/ref-groupby_viewaction.htm"/>
-		<topic label="Hit Count" href="reference/views/breakpoints/ref-hitcount_contextaction.htm"/>
-		<topic label="Import Breakpoints" href="reference/views/breakpoints/ref-import_contextaction.htm"/>
-		<topic label="Link with Debug View" href="reference/views/breakpoints/ref-linkwith_viewaction.htm"/>
-		<topic label="Modification" href="reference/views/breakpoints/ref-modification_contextaction.htm" />
-		<topic label="Paste" href="reference/views/shared/ref-paste.htm" />
-		<topic label="Remove Selected Breakpoints" href="reference/views/breakpoints/ref-remove_viewaction.htm" />
-		<topic label="Remove All Breakpoints" href="reference/views/breakpoints/ref-removeall_viewaction.htm" />
-		<topic label="Select All" href="reference/views/shared/ref-selectall.htm" />
-		<topic label="Select Default Working Set" href="reference/views/breakpoints/ref-selectdefaultws_viewaction.htm"/>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm" /> 
-		<topic label="Show Supported Breakpoints" href="reference/views/breakpoints/ref-showsupported_viewaction.htm" /> 
-		<topic label="Skip All Breakpoints" href="reference/views/breakpoints/ref-skipall_viewaction.htm"/>
-		<topic label="Suspend Policy" href="reference/views/breakpoints/ref-suspendpolicy_contextaction.htm" />
-		<topic label="Working Sets..." href="reference/views/breakpoints/ref-workingsets_viewaction.htm"/>
-		<topic label="Uncaught" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
+	<topic label="断点视图" href="reference/views/breakpoints/ref-breakpoints_view.htm">
+		<topic label="访问" href="reference/views/breakpoints/ref-access_contextaction.htm" />
+		<topic label="添加Java异常断点" href="reference/views/breakpoints/ref-addexception_viewaction.htm" />
+		<topic label="断点属性" href="reference/views/breakpoints/ref-properties_contextaction.htm" />
+		<topic label="抓住" href="reference/views/breakpoints/ref-caught_contextaction.htm" />
+		<topic label="全部收缩" href="reference/views/shared/ref-collapseall.htm"/>	
+		<topic label="复制" href="reference/views/shared/ref-copy.htm" />
+		<topic label="禁用" href="reference/views/breakpoints/ref-disable_contextaction.htm" />
+		<topic label="启用" href="reference/views/breakpoints/ref-enable_contextaction.htm" />
+		<topic label="条目" href="reference/views/breakpoints/ref-entry_contextaction.htm" />
+		<topic label="出口" href="reference/views/breakpoints/ref-exit_contextaction.htm" />
+		<topic label="展开全部" href="reference/views/breakpoints/ref-expandall_viewaction.htm"/>
+		<topic label="导出断点" href="reference/views/breakpoints/ref-export_contextaction.htm"/>
+		<topic label="转到File for Breakpoint" href="reference/views/breakpoints/ref-gotofile_viewaction.htm" />
+		<topic label="通过...分组" href="reference/views/breakpoints/ref-groupby_viewaction.htm"/>
+		<topic label="命中数" href="reference/views/breakpoints/ref-hitcount_contextaction.htm"/>
+		<topic label="导入断点" href="reference/views/breakpoints/ref-import_contextaction.htm"/>
+		<topic label="与Debug View链接" href="reference/views/breakpoints/ref-linkwith_viewaction.htm"/>
+		<topic label="修改" href="reference/views/breakpoints/ref-modification_contextaction.htm" />
+		<topic label="糊" href="reference/views/shared/ref-paste.htm" />
+		<topic label="删除选定的断点" href="reference/views/breakpoints/ref-remove_viewaction.htm" />
+		<topic label="删除所有断点" href="reference/views/breakpoints/ref-removeall_viewaction.htm" />
+		<topic label="全选" href="reference/views/shared/ref-selectall.htm" />
+		<topic label="选择默认工作集" href="reference/views/breakpoints/ref-selectdefaultws_viewaction.htm"/>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm" /> 
+		<topic label="显示支持的断点" href="reference/views/breakpoints/ref-showsupported_viewaction.htm" /> 
+		<topic label="跳过所有断点" href="reference/views/breakpoints/ref-skipall_viewaction.htm"/>
+		<topic label="暂停政策" href="reference/views/breakpoints/ref-suspendpolicy_contextaction.htm" />
+		<topic label="工作集......" href="reference/views/breakpoints/ref-workingsets_viewaction.htm"/>
+		<topic label="未捕获" href="reference/views/breakpoints/ref-uncaught_contextaction.htm" />
 	</topic>
 		
 <!--
 	Console View
 -->
-	<topic label="Console View" href="reference/views/console/ref-console_view.htm">
-		<topic label="CVS Console" href="reference/views/console/ref-cvs_console.htm">
-			<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-			<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-			<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-			<topic label="Open Link" href="reference/views/console/ref-openlink_action.htm"/>
-			<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-			<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
+	<topic label="控制台视图" href="reference/views/console/ref-console_view.htm">
+		<topic label="CVS控制台" href="reference/views/console/ref-cvs_console.htm">
+			<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+			<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+			<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+			<topic label="打开链接" href="reference/views/console/ref-openlink_action.htm"/>
+			<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+			<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
 		</topic>
-		<topic label="Process Console" href="reference/views/console/ref-process_console.htm">
-			<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-			<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-			<topic label="Console Preferences" href="reference/views/console/ref-prefs_action.htm"/>
-			<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-			<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-			<topic label="Remove All Terminated Launches" href="reference/views/console/ref-removeallterminated_action.htm"/>
-			<topic label="Remove Launch" href="reference/views/console/ref-removelaunch_action.htm"/>
-			<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
-			<topic label="Show Console When Standard Out Changes"  href="reference/views/console/ref-show_out_action.htm"/>
-			<topic label="Show Console When Standard Error Changes"  href="reference/views/console/ref-show_err_action.htm"/>
-			<topic label="Terminate" href="reference/views/console/ref-terminate_action.htm"/>
+		<topic label="进程控制台" href="reference/views/console/ref-process_console.htm">
+			<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+			<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+			<topic label="控制台偏好" href="reference/views/console/ref-prefs_action.htm"/>
+			<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+			<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+			<topic label="删除所有已终止的启动" href="reference/views/console/ref-removeallterminated_action.htm"/>
+			<topic label="删除启动" href="reference/views/console/ref-removelaunch_action.htm"/>
+			<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
+			<topic label="标准输出更改时显示控制台"  href="reference/views/console/ref-show_out_action.htm"/>
+			<topic label="标准错误更改时显示控制台"  href="reference/views/console/ref-show_err_action.htm"/>
+			<topic label="终止" href="reference/views/console/ref-terminate_action.htm"/>
 		</topic>
-		<topic label="Stacktrace Console" href="reference/views/console/ref-stacktrace_console.htm">
-			<topic label="Autoformat Console" href="reference/views/console/ref-autoformat_action.htm"/>
-			<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-			<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-			<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-			<topic label="Format" href="reference/views/console/ref-format_action.htm"/>
-			<topic label="Open Link" href="reference/views/console/ref-openlink_action.htm"/>
-			<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-			<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
+		<topic label="Stacktrace控制台" href="reference/views/console/ref-stacktrace_console.htm">
+			<topic label="Autoformat控制台" href="reference/views/console/ref-autoformat_action.htm"/>
+			<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+			<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+			<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+			<topic label="格式" href="reference/views/console/ref-format_action.htm"/>
+			<topic label="打开链接" href="reference/views/console/ref-openlink_action.htm"/>
+			<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+			<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
 		</topic>
-		<topic label="Clear the Console" href="reference/views/console/ref-clear_action.htm"/>
-		<topic label="Display Selected Console" href="reference/views/console/ref-display_action.htm"/>
-		<topic label="Open Console" href="reference/views/console/ref-open_action.htm"/>
-		<topic label="Pin the Console" href="reference/views/console/ref-pin_action.htm"/>
-		<topic label="Scroll Lock" href="reference/views/console/ref-scrolllock_action.htm"/>
+		<topic label="清除控制台" href="reference/views/console/ref-clear_action.htm"/>
+		<topic label="显示所选控制台" href="reference/views/console/ref-display_action.htm"/>
+		<topic label="打开控制台" href="reference/views/console/ref-open_action.htm"/>
+		<topic label="固定控制台" href="reference/views/console/ref-pin_action.htm"/>
+		<topic label="滚动锁定" href="reference/views/console/ref-scrolllock_action.htm"/>
 	</topic>
 
 <!--
 	Debug View
 -->
-	<topic label="Debug View" href="reference/views/debug/ref-debug_view.htm">
-		<topic label="Execution Control Commands" href="reference/views/debug/ref-executioncontrolcommands.htm">
-			<topic label="Resume" href="reference/views/debug/ref-resume.htm"/>
-			<topic label="Step Into" href="reference/views/debug/ref-stepinto.htm"/>
-			<topic label="Step Over" href="reference/views/debug/ref-stepover.htm"/>
-			<topic label="Step Return" href="reference/views/debug/ref-stepreturn.htm"/>
-			<topic label="Suspend" href="reference/views/debug/ref-suspend.htm"/>
-			<topic label="Terminate" href="reference/views/debug/ref-terminate.htm"/>
-			<topic label="Terminate/Disconnect All" href="reference/views/debug/ref-terminateall.htm"/>
-			<topic label="Terminate and Relaunch" href="reference/views/debug/ref-terminaterelaunch.htm"/>
-			<topic label="Terminate and Remove" href="reference/views/debug/ref-terminateandremove.htm"/>
+	<topic label="调试视图" href="reference/views/debug/ref-debug_view.htm">
+		<topic label="执行控制命令" href="reference/views/debug/ref-executioncontrolcommands.htm">
+			<topic label="恢复" href="reference/views/debug/ref-resume.htm"/>
+			<topic label="踏入" href="reference/views/debug/ref-stepinto.htm"/>
+			<topic label="跳过" href="reference/views/debug/ref-stepover.htm"/>
+			<topic label="退一步" href="reference/views/debug/ref-stepreturn.htm"/>
+			<topic label="暂停" href="reference/views/debug/ref-suspend.htm"/>
+			<topic label="终止" href="reference/views/debug/ref-terminate.htm"/>
+			<topic label="终止/断开所有" href="reference/views/debug/ref-terminateall.htm"/>
+			<topic label="终止并重新启动" href="reference/views/debug/ref-terminaterelaunch.htm"/>
+			<topic label="终止和删除" href="reference/views/debug/ref-terminateandremove.htm"/>
 		</topic>
-		<topic label="Copy Stack" href="reference/views/shared/ref-copy.htm" />
-		<topic label="Disconnect" href="reference/views/debug/ref-disconnect.htm" />
-		<topic label="Drop to Frame" href="reference/views/debug/ref-droptoframe.htm" />
-		<topic label="Edit Launch Configuration" href="reference/views/debug/ref-editlaunchconfig.htm"/>
-		<topic label="Edit Source Lookup" href="reference/views/debug/ref-editsourcelookup.htm"/>
-		<topic label="Edit Step Filters" href="reference/views/debug/ref-editstepfilters.htm"/>
-		<topic label="Filter Package" href="reference/views/debug/ref-filterpackage.htm"/>
-		<topic label="Filter Type" href="reference/views/debug/ref-filtertype.htm"/>
-		<topic label="Find..." href="reference/views/shared/ref-find.htm"/>
-		<topic label="Lookup Source" href="reference/views/debug/ref-lookupsource.htm"/>
-		<topic label="Open Declared Type" href="reference/views/debug/ref-opendeclared.htm"/>
-		<topic label="Open Declared Type Hierarchy" href="reference/views/debug/ref-opendeclaredhier.htm"/>
-		<topic label="Properties" href="reference/views/debug/ref-properties.htm"/>
-		<topic label="Relaunch" href="reference/views/debug/ref-relaunch.htm"/>
-		<topic label="Remove All Terminated" href="reference/views/debug/ref-removeallterminated.htm"/>
-		<topic label="Show Monitors" href="reference/views/debug/ref-showmonitors.htm"/>
-		<topic label="Show Qualified Names" href="reference/views/shared/ref-showqualified.htm" />
-		<topic label="Show System Threads" href="reference/views/debug/ref-showsystemthreads.htm"/>
-		<topic label="Show Thread Groups" href="reference/views/debug/ref-showthreadgroups.htm"/>
-		<topic label="Use Step Filters" href="reference/views/debug/ref-usestepfilters.htm"/>
+		<topic label="复制堆栈" href="reference/views/shared/ref-copy.htm" />
+		<topic label="断开" href="reference/views/debug/ref-disconnect.htm" />
+		<topic label="掉到相框" href="reference/views/debug/ref-droptoframe.htm" />
+		<topic label="编辑启动配置" href="reference/views/debug/ref-editlaunchconfig.htm"/>
+		<topic label="编辑源查找" href="reference/views/debug/ref-editsourcelookup.htm"/>
+		<topic label="编辑步骤过滤器" href="reference/views/debug/ref-editstepfilters.htm"/>
+		<topic label="过滤包" href="reference/views/debug/ref-filterpackage.htm"/>
+		<topic label="过滤器类型" href="reference/views/debug/ref-filtertype.htm"/>
+		<topic label="找..." href="reference/views/shared/ref-find.htm"/>
+		<topic label="查找源" href="reference/views/debug/ref-lookupsource.htm"/>
+		<topic label="打开声明的类型" href="reference/views/debug/ref-opendeclared.htm"/>
+		<topic label="打开声明的类型层次结构" href="reference/views/debug/ref-opendeclaredhier.htm"/>
+		<topic label="属性" href="reference/views/debug/ref-properties.htm"/>
+		<topic label="重新开张" href="reference/views/debug/ref-relaunch.htm"/>
+		<topic label="删除全部终止" href="reference/views/debug/ref-removeallterminated.htm"/>
+		<topic label="显示监视器" href="reference/views/debug/ref-showmonitors.htm"/>
+		<topic label="显示合格的名称" href="reference/views/shared/ref-showqualified.htm" />
+		<topic label="显示系统线程" href="reference/views/debug/ref-showsystemthreads.htm"/>
+		<topic label="显示线程组" href="reference/views/debug/ref-showthreadgroups.htm"/>
+		<topic label="使用步骤过滤器" href="reference/views/debug/ref-usestepfilters.htm"/>
 	</topic>
 				
 <!--
 	Debug Shell View
 -->
-	<topic label="Debug Shell View" href="reference/views/display/ref-debug_shell_view.htm">
-		<topic label="Clear" href="reference/views/display/ref-clear.htm"/>
-		<topic label="Content Assist" href="reference/views/shared/ref-contentassist.htm"/>
-		<topic label="Copy Selected Statements" href="reference/views/shared/ref-copy.htm"/>
-		<topic label="Cut Selected Statements" href="reference/views/shared/ref-cut.htm"/>
-		<topic label="Display" href="reference/views/shared/ref-display.htm"/>
-		<topic label="Execute Selected Statement" href="reference/views/shared/ref-execute.htm"/>
-		<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-		<topic label="Inspect" href="reference/views/shared/ref-inspect.htm"/>
-		<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-		<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
+	<topic label="调试Shell视图" href="reference/views/display/ref-debug_shell_view.htm">
+		<topic label="明确" href="reference/views/display/ref-clear.htm"/>
+		<topic label="内容辅助" href="reference/views/shared/ref-contentassist.htm"/>
+		<topic label="复制选定的语句" href="reference/views/shared/ref-copy.htm"/>
+		<topic label="剪切选定的语句" href="reference/views/shared/ref-cut.htm"/>
+		<topic label="显示" href="reference/views/shared/ref-display.htm"/>
+		<topic label="执行选定的声明" href="reference/views/shared/ref-execute.htm"/>
+		<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+		<topic label="检查" href="reference/views/shared/ref-inspect.htm"/>
+		<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+		<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
 	</topic>
 		
 <!--
 	Expressions View
 -->
-	<topic label="Expressions View" href="reference/views/expressions/ref-expressions_view.htm">
-		<topic label="Detail Pane" href="reference/views/shared/ref-detailpane.htm">
-			<topic label="Assign Value" href="reference/views/shared/ref-assignvalue.htm"/>
-			<topic label="Content Assist" href="reference/views/shared/ref-contentassist.htm"/>
-			<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-			<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-			<topic label="Display" href="reference/views/shared/ref-display.htm"/>
-			<topic label="Execute" href="reference/views/shared/ref-execute.htm"/>
-			<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-			<topic label="Force Return" href="reference/views/shared/ref-forcereturn.htm"/>
-			<topic label="Inspect" href="reference/views/shared/ref-inspect.htm"/>
-			<topic label="Max Length" href="reference/views/shared/ref-maxlength.htm"/>
-			<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-			<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
-			<topic label="Wrap Text" href="reference/views/shared/ref-wrap.htm"/>
+	<topic label="表达式视图" href="reference/views/expressions/ref-expressions_view.htm">
+		<topic label="细节窗格" href="reference/views/shared/ref-detailpane.htm">
+			<topic label="分配价值" href="reference/views/shared/ref-assignvalue.htm"/>
+			<topic label="内容辅助" href="reference/views/shared/ref-contentassist.htm"/>
+			<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+			<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+			<topic label="显示" href="reference/views/shared/ref-display.htm"/>
+			<topic label="执行" href="reference/views/shared/ref-execute.htm"/>
+			<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+			<topic label="强制回归" href="reference/views/shared/ref-forcereturn.htm"/>
+			<topic label="检查" href="reference/views/shared/ref-inspect.htm"/>
+			<topic label="最长长度" href="reference/views/shared/ref-maxlength.htm"/>
+			<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+			<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
+			<topic label="换行文字" href="reference/views/shared/ref-wrap.htm"/>
 		</topic>
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm">
-			<topic label="Show Contants" href="reference/views/shared/ref-showconstants.htm"/>
-			<topic label="Show Logical" href="reference/views/shared/ref-showlogical.htm"/>
-			<topic label="Show Null" href="reference/views/shared/ref-shownull.htm"/>
-			<topic label="Show Qualified" href="reference/views/shared/ref-showqualified.htm"/>
-			<topic label="Show References" href="reference/views/shared/ref-showreferences.htm"/>
-			<topic label="Show Static" href="reference/views/shared/ref-showstatic.htm"/>
-			<topic label="Show Type Names" href="reference/views/shared/ref-showtypenames.htm"/>
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm">
+			<topic label="显示包含" href="reference/views/shared/ref-showconstants.htm"/>
+			<topic label="显示逻辑" href="reference/views/shared/ref-showlogical.htm"/>
+			<topic label="显示空" href="reference/views/shared/ref-shownull.htm"/>
+			<topic label="显示合格" href="reference/views/shared/ref-showqualified.htm"/>
+			<topic label="显示参考文献" href="reference/views/shared/ref-showreferences.htm"/>
+			<topic label="显示静态" href="reference/views/shared/ref-showstatic.htm"/>
+			<topic label="显示类型名称" href="reference/views/shared/ref-showtypenames.htm"/>
 		</topic>
-		<topic label="View Layout Commands" href="reference/views/shared/ref-viewlayoutcommands.htm">
-			<topic label="Show Columns" href="reference/views/shared/ref-showcolumns.htm"/>
-			<topic label="Select Columns" href="reference/views/shared/ref-selectcolumns.htm"/>
-			<topic label="Horizontal Layout" href="reference/views/shared/ref-horizview.htm"/>
-			<topic label="Vertical Layout" href="reference/views/shared/ref-vertview.htm"/>
-			<topic label="View Only" href="reference/views/shared/ref-viewonly.htm"/>
+		<topic label="查看布局命令" href="reference/views/shared/ref-viewlayoutcommands.htm">
+			<topic label="显示列" href="reference/views/shared/ref-showcolumns.htm"/>
+			<topic label="选择列" href="reference/views/shared/ref-selectcolumns.htm"/>
+			<topic label="水平布局" href="reference/views/shared/ref-horizview.htm"/>
+			<topic label="垂直布局" href="reference/views/shared/ref-vertview.htm"/>
+			<topic label="只读" href="reference/views/shared/ref-viewonly.htm"/>
 		</topic>
-		<topic label="Add Watch Expression" href="reference/views/expressions/ref-addwatch.htm"/>
-		<topic label="All Instances" href="reference/views/shared/ref-allinstances.htm"/>
-		<topic label="All References" href="reference/views/shared/ref-allreferences.htm"/>
-		<topic label="Change Variable Value" href="reference/views/shared/ref-changevarvalue.htm" /> 
-		<topic label="Collapse All" href="reference/views/shared/ref-collapseall.htm"/>	
-		<topic label="Copy Expressions" href="reference/views/shared/ref-copy.htm"/>	
-		<topic label="Convert to Watch Expression" href="reference/views/expressions/ref-convert.htm"/>
-		<topic label="Disable Selected Watch Expression" href="reference/views/expressions/ref-disable.htm"/>
-		<topic label="Edit Watch Expression" href="reference/views/expressions/ref-edit.htm"/>
-		<topic label="Enable Selected Watch Expression" href="reference/views/expressions/ref-enable.htm"/>
-		<topic label="Find..." href="reference/views/shared/ref-find.htm"/>
-		<topic label="Inspect Variable" href="reference/views/shared/ref-inspectvariable.htm" />
-		<topic label="Java Preferences" href="reference/views/shared/ref-preferences.htm"/>
-		<topic label="Reevaluate Watch Expression" href="reference/views/expressions/ref-reevaluate.htm"/>
-		<topic label="Remove Selected Expressions" href="reference/views/expressions/ref-remove.htm"/>
-		<topic label="Remove All Expressions" href="reference/views/expressions/ref-removeall.htm"/>
-		<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
-		<topic label="Toggle Watchpoint" href="reference/views/shared/ref-togglewp.htm"/> 
+		<topic label="添加监视表达式" href="reference/views/expressions/ref-addwatch.htm"/>
+		<topic label="所有实例" href="reference/views/shared/ref-allinstances.htm"/>
+		<topic label="所有参考文献" href="reference/views/shared/ref-allreferences.htm"/>
+		<topic label="更改变量值" href="reference/views/shared/ref-changevarvalue.htm" /> 
+		<topic label="全部收缩" href="reference/views/shared/ref-collapseall.htm"/>	
+		<topic label="复制表达式" href="reference/views/shared/ref-copy.htm"/>	
+		<topic label="转换为观看表达式" href="reference/views/expressions/ref-convert.htm"/>
+		<topic label="禁用所选手表表达式" href="reference/views/expressions/ref-disable.htm"/>
+		<topic label="编辑观察表达" href="reference/views/expressions/ref-edit.htm"/>
+		<topic label="启用选定的观察表达" href="reference/views/expressions/ref-enable.htm"/>
+		<topic label="找..." href="reference/views/shared/ref-find.htm"/>
+		<topic label="检查变量" href="reference/views/shared/ref-inspectvariable.htm" />
+		<topic label="Java首选项" href="reference/views/shared/ref-preferences.htm"/>
+		<topic label="重新评估观察表达" href="reference/views/expressions/ref-reevaluate.htm"/>
+		<topic label="删除选定的表达式" href="reference/views/expressions/ref-remove.htm"/>
+		<topic label="删除所有表达式" href="reference/views/expressions/ref-removeall.htm"/>
+		<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
+		<topic label="切换观察点" href="reference/views/shared/ref-togglewp.htm"/> 
 	</topic>
 <!--
 	Package Explorer
 -->
-	<topic label="Package Explorer view" href="reference/views/ref-view-package-explorer.htm">
-		<topic label="Java Element Filters dialog" href="reference/ref-dialog-java-element-filters.htm" />
+	<topic label="Package Explorer视图" href="reference/views/ref-view-package-explorer.htm">
+		<topic label="Java元素过滤器对话框" href="reference/ref-dialog-java-element-filters.htm" />
 	</topic>
 		
 <!--
 	Variables View
 -->
-	<topic label="Variables View" href="reference/views/variables/ref-variables_view.htm">
-		<topic label="Detail Pane" href="reference/views/shared/ref-detailpane.htm">
-			<topic label="Assign Value" href="reference/views/shared/ref-assignvalue.htm"/>
-			<topic label="Content Assist" href="reference/views/shared/ref-contentassist.htm"/>
-			<topic label="Cut" href="reference/views/shared/ref-cut.htm"/>
-			<topic label="Copy" href="reference/views/shared/ref-copy.htm"/>
-			<topic label="Display" href="reference/views/shared/ref-display.htm"/>
-			<topic label="Execute" href="reference/views/shared/ref-execute.htm"/>
-			<topic label="Find/Replace" href="reference/views/shared/ref-findreplace.htm"/>
-			<topic label="Force Return" href="reference/views/shared/ref-forcereturn.htm"/>
-			<topic label="Inspect" href="reference/views/shared/ref-inspect.htm"/>
-			<topic label="Max Length" href="reference/views/shared/ref-maxlength.htm"/>
-			<topic label="Paste" href="reference/views/shared/ref-paste.htm"/>
-			<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
-			<topic label="Wrap Text" href="reference/views/shared/ref-wrap.htm"/>
+	<topic label="变量视图" href="reference/views/variables/ref-variables_view.htm">
+		<topic label="细节窗格" href="reference/views/shared/ref-detailpane.htm">
+			<topic label="分配价值" href="reference/views/shared/ref-assignvalue.htm"/>
+			<topic label="内容辅助" href="reference/views/shared/ref-contentassist.htm"/>
+			<topic label="切" href="reference/views/shared/ref-cut.htm"/>
+			<topic label="复制" href="reference/views/shared/ref-copy.htm"/>
+			<topic label="显示" href="reference/views/shared/ref-display.htm"/>
+			<topic label="执行" href="reference/views/shared/ref-execute.htm"/>
+			<topic label="查找/替换" href="reference/views/shared/ref-findreplace.htm"/>
+			<topic label="强制回归" href="reference/views/shared/ref-forcereturn.htm"/>
+			<topic label="检查" href="reference/views/shared/ref-inspect.htm"/>
+			<topic label="最长长度" href="reference/views/shared/ref-maxlength.htm"/>
+			<topic label="糊" href="reference/views/shared/ref-paste.htm"/>
+			<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
+			<topic label="换行文字" href="reference/views/shared/ref-wrap.htm"/>
 		</topic>
-		<topic label="View Display Commands" href="reference/views/shared/ref-viewdisplaycommands.htm">
-			<topic label="Show Contants" href="reference/views/shared/ref-showconstants.htm"/>
-			<topic label="Show Logical" href="reference/views/shared/ref-showlogical.htm"/>
-			<topic label="Show Null" href="reference/views/shared/ref-shownull.htm"/>
-			<topic label="Show Qualified" href="reference/views/shared/ref-showqualified.htm"/>
-			<topic label="Show References" href="reference/views/shared/ref-showreferences.htm"/>
-			<topic label="Show Static" href="reference/views/shared/ref-showstatic.htm"/>
-			<topic label="Show Type Names" href="reference/views/shared/ref-showtypenames.htm"/>
+		<topic label="查看显示命令" href="reference/views/shared/ref-viewdisplaycommands.htm">
+			<topic label="显示包含" href="reference/views/shared/ref-showconstants.htm"/>
+			<topic label="显示逻辑" href="reference/views/shared/ref-showlogical.htm"/>
+			<topic label="显示空" href="reference/views/shared/ref-shownull.htm"/>
+			<topic label="显示合格" href="reference/views/shared/ref-showqualified.htm"/>
+			<topic label="显示参考文献" href="reference/views/shared/ref-showreferences.htm"/>
+			<topic label="显示静态" href="reference/views/shared/ref-showstatic.htm"/>
+			<topic label="显示类型名称" href="reference/views/shared/ref-showtypenames.htm"/>
 		</topic>
-		<topic label="View Layout Commands" href="reference/views/shared/ref-viewlayoutcommands.htm">
-			<topic label="Show Columns" href="reference/views/shared/ref-showcolumns.htm"/>
-			<topic label="Select Columns" href="reference/views/shared/ref-selectcolumns.htm"/>
-			<topic label="Horizontal Layout" href="reference/views/shared/ref-horizview.htm"/>
-			<topic label="Vertical Layout" href="reference/views/shared/ref-vertview.htm"/>
-			<topic label="View Only" href="reference/views/shared/ref-viewonly.htm"/>
+		<topic label="查看布局命令" href="reference/views/shared/ref-viewlayoutcommands.htm">
+			<topic label="显示列" href="reference/views/shared/ref-showcolumns.htm"/>
+			<topic label="选择列" href="reference/views/shared/ref-selectcolumns.htm"/>
+			<topic label="水平布局" href="reference/views/shared/ref-horizview.htm"/>
+			<topic label="垂直布局" href="reference/views/shared/ref-vertview.htm"/>
+			<topic label="只读" href="reference/views/shared/ref-viewonly.htm"/>
 		</topic>
-		<topic label="All Instances" href="reference/views/shared/ref-allinstances.htm"/>
-		<topic label="All References" href="reference/views/shared/ref-allreferences.htm"/>
-		<topic label="Change Variable Value" href="reference/views/shared/ref-changevarvalue.htm" />
-		<topic label="Collapse All" href="reference/views/shared/ref-collapseall.htm"/>	
-		<topic label="Copy Variables" href="reference/views/shared/ref-copy.htm"/>
-		<topic label="Create Watch Expression" href="reference/views/variables/ref-createwatch.htm"/>
-		<topic label="Find..." href="reference/views/shared/ref-find.htm"/>
-		<topic label="Inspect Variable" href="reference/views/shared/ref-inspectvariable.htm"/>
-		<topic label="Java Preferences" href="reference/views/shared/ref-preferences.htm"/>
-		<topic label="Select All" href="reference/views/shared/ref-selectall.htm"/>
-		<topic label="Toggle Watchpoint" href="reference/views/shared/ref-togglewp.htm"/> 
+		<topic label="所有实例" href="reference/views/shared/ref-allinstances.htm"/>
+		<topic label="所有参考文献" href="reference/views/shared/ref-allreferences.htm"/>
+		<topic label="更改变量值" href="reference/views/shared/ref-changevarvalue.htm" />
+		<topic label="全部收缩" href="reference/views/shared/ref-collapseall.htm"/>	
+		<topic label="复制变量" href="reference/views/shared/ref-copy.htm"/>
+		<topic label="创建观察表达" href="reference/views/variables/ref-createwatch.htm"/>
+		<topic label="找..." href="reference/views/shared/ref-find.htm"/>
+		<topic label="检查变量" href="reference/views/shared/ref-inspectvariable.htm"/>
+		<topic label="Java首选项" href="reference/views/shared/ref-preferences.htm"/>
+		<topic label="全选" href="reference/views/shared/ref-selectall.htm"/>
+		<topic label="切换观察点" href="reference/views/shared/ref-togglewp.htm"/> 
 	</topic>
 
 <!--
 	Java Outline View
 -->
-	<topic label="Java Outline View" href="reference/views/ref-view-outline.htm" />
+	<topic label="Java大纲视图" href="reference/views/ref-view-outline.htm" />
 		
 <!--
 	Java Scrapbook Page
 -->
-	<topic label="Java Scrapbook Page" href="reference/views/ref-view-scrapbook.htm" />
+	<topic label="Java剪贴簿" href="reference/views/ref-view-scrapbook.htm" />
 		
 <!--
 	Java Type Hierarchy View
 -->
-	<topic label="Type Hierarchy View" href="reference/views/ref-type-hierarchy.htm" />
+	<topic label="键入层次结构视图" href="reference/views/ref-type-hierarchy.htm" />
 
 <!--
 	Java Call Hierarchy View
 -->
-	<topic label="Call Hierarchy View" href="reference/views/ref-call-hierarchy.htm" />
+	<topic label="调用层次结构视图" href="reference/views/ref-call-hierarchy.htm" />
 
 <!--
 	JUnit View
 -->
-	<topic label="JUnit View" href="reference/views/ref-view-junit.htm" />
+	<topic label="JUnit视图" href="reference/views/ref-view-junit.htm" />
 
 <!--
 	Javadoc View
@@ -446,46 +446,46 @@
 <!--
 	Wizards
 -->
-    <topic label="Wizards and Dialogs">
-		<topic label="Create New Elements">
-			<topic label="New Java Project Wizard" href="reference/ref-wizard-java-project.htm">
-				<topic label="Java Build Path Page" href="reference/ref-properties-build-path.htm" />
-				<topic label="Attaching Source to JAR Files and Variables" href="reference/ref-properties-source-attachment.htm" />
+    <topic label="向导和对话">
+		<topic label="创建新元素">
+			<topic label="新的Java项目向导" href="reference/ref-wizard-java-project.htm">
+				<topic label="Java构建路径页面" href="reference/ref-properties-build-path.htm" />
+				<topic label="将源附加到JAR文件和变量" href="reference/ref-properties-source-attachment.htm" />
 			</topic>
-			<topic label="New Java Package Wizard" href="reference/ref-wizard-package.htm" />
-			<topic label="New Java Class Wizard" href="reference/ref-wizard-class.htm" />
-			<topic label="New Java Enum Wizard" href="reference/ref-wizard-enum.htm" />
-			<topic label="New Java Interface Wizard" href="reference/ref-wizard-interface.htm" />
-			<topic label="New Java Annotation Wizard" href="reference/ref-wizard-annotation.htm" />
-			<topic label="New Source Folder Wizard" href="reference/ref-wizard-source-folder.htm" />
-			<topic label="New Java Scrapbook Page Wizard" href="reference/ref-wizard-scrapbook.htm" />
+			<topic label="新的Java包向导" href="reference/ref-wizard-package.htm" />
+			<topic label="新的Java类向导" href="reference/ref-wizard-class.htm" />
+			<topic label="新的Java枚举向导" href="reference/ref-wizard-enum.htm" />
+			<topic label="新的Java接口向导" href="reference/ref-wizard-interface.htm" />
+			<topic label="新的Java注释向导" href="reference/ref-wizard-annotation.htm" />
+			<topic label="新源文件夹向导" href="reference/ref-wizard-source-folder.htm" />
+			<topic label="新的Java剪贴簿页面向导" href="reference/ref-wizard-scrapbook.htm" />
 		</topic>
-		<topic label="Export Breakpoints" href="reference/wizards/ref-export_breakpoints.htm"/>
-     	<topic href="reference/wizards/ref-export_launch_configs.htm" label="Export Launch Configurations" />
-        <topic label="Externalize Strings wizard" href="reference/ref-wizard-externalize-strings.htm" />
-		<topic label="Import Breakpoints" href="reference/wizards/ref-import_breakpoints.htm"/>
-  		<topic href="reference/wizards/ref-import_launch_configs.htm" label="Import Launch Configurations" />
-		<topic label="JAR File Exporter" href="reference/ref-export-jar.htm" />
+		<topic label="导出断点" href="reference/wizards/ref-export_breakpoints.htm"/>
+     	<topic href="reference/wizards/ref-export_launch_configs.htm" label="导出启动配置" />
+        <topic label="Externalize Strings向导" href="reference/ref-wizard-externalize-strings.htm" />
+		<topic label="导入断点" href="reference/wizards/ref-import_breakpoints.htm"/>
+  		<topic href="reference/wizards/ref-import_launch_configs.htm" label="导入启动配置" />
+		<topic label="JAR文件导出器" href="reference/ref-export-jar.htm" />
 		<topic label="Javadoc Generation" href="reference/ref-export-javadoc.htm" />
-		<topic label="Runnable JAR File Exporter" href="reference/ref-export-runnable-jar.htm" />
-		<topic label="Java Element Filters" href="reference/ref-dialog-java-element-filters.htm" />
-        <topic label="Open Type Dialog" href="reference/ref-dialog-open-type.htm" />
-		<topic label="Create Getter and Setter" href="reference/ref-dialog-gettersetter.htm" />
-		<topic href="reference/ref-dialog-tostring.htm" label="Generate toString()">
-     		<topic href="reference/ref-tostring-templates.htm" label="Format Templates" />
-     		<topic href="reference/ref-tostring-styles.htm" label="Code Styles" />
-     		<topic href="reference/ref-tostring-listcontent.htm" label="Content Listing" />
+		<topic label="Runnable JAR文件导出器" href="reference/ref-export-runnable-jar.htm" />
+		<topic label="Java元素过滤器" href="reference/ref-dialog-java-element-filters.htm" />
+        <topic label="打开类型对话框" href="reference/ref-dialog-open-type.htm" />
+		<topic label="创建Getter和Setter" href="reference/ref-dialog-gettersetter.htm" />
+		<topic href="reference/ref-dialog-tostring.htm" label="生成toString（）">
+     		<topic href="reference/ref-tostring-templates.htm" label="格式模板" />
+     		<topic href="reference/ref-tostring-styles.htm" label="代码样式" />
+     		<topic href="reference/ref-tostring-listcontent.htm" label="内容列表" />
   		</topic>
-    	<topic label="Override Methods" href="reference/ref-dialog-override-method.htm" />
+    	<topic label="覆盖方法" href="reference/ref-dialog-override-method.htm" />
     </topic>
     
 <!--
 	Topics that do not fall under a main topic
 -->
-    <topic label="Frequently-Asked Questions: JDT" href="reference/ref-jdt-faq.htm" />
-	<topic label="Glossary" href="reference/ref-jdt-glossary.htm" />
-	<topic label="Icons" href="reference/ref-icons.htm" />
-	<topic label="Available Quick Assists" href="reference/ref-java-editor-quickassist.htm"/>
-	<topic label="Available Quick Fixes" href="reference/ref-java-editor-quickfix.htm"/>
-	<topic label="List of JDT Key Bindings" href="reference/ref-keybindings.htm"/>
+    <topic label="常见问题：JDT" href="reference/ref-jdt-faq.htm" />
+	<topic label="词汇表" href="reference/ref-jdt-glossary.htm" />
+	<topic label="图标" href="reference/ref-icons.htm" />
+	<topic label="可用的快速助手" href="reference/ref-java-editor-quickassist.htm"/>
+	<topic label="可用的快速修复" href="reference/ref-java-editor-quickfix.htm"/>
+	<topic label="JDT密钥绑定列表" href="reference/ref-keybindings.htm"/>
 </toc>

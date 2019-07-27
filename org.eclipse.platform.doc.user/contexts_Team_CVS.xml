@@ -565,7 +565,7 @@
    	</context>
    	
    	<context id="ext_preference_rsh_context">
-		<description>将调用此程序以连接到远程CVS服务器。使用以下调用模式调用RSH命令：＆lt; CVS_RSH&gt; ＆LT;参数&gt; ＆LT; CVS_SERVER&gt;</description> 
+		<description>将调用此程序以连接到远程CVS服务器。使用以下调用模式调用RSH命令：&lt; CVS_RSH&gt; &lt;参数&gt; &lt; CVS_SERVER&gt;</description> 
 	</context>
 	
 	<context id="ext_preference_param_context">

@@ -36,7 +36,7 @@
          要从Java实现bean创建Web服务，请执行以下步骤：
       </description>
       <subitem
-            label="选择“文件 - &gt;新 - &gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
+            label="选择“文件 - &gt;新 - &gt;其他...&QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.creation.ui.wizard.serverwizard)"/>

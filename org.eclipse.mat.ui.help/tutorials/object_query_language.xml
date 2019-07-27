@@ -54,9 +54,9 @@ SELECT语句：
 <BR/>
 <b> SELECT * FROM java.lang.String s WHERE s.count&gt; 100 </ B>
 <BR/>
-<br/>可能的运算符是=，！=，＆lt;，＆lt; =，&gt;，&gt; =和LIKE。领域可以
+<br/>可能的运算符是=，！=，&lt;，&lt; =，&gt;，&gt; =和LIKE。领域可以
 用点符号来表示，以达到表别名或甚至是字段的字段
-嵌套对象：＆lt; field&gt;。＆lt; field&gt;。＆lt; field&gt;。
+嵌套对象：&lt; field&gt;。&lt; field&gt;。&lt; field&gt;。
       </description>
       <action class="org.eclipse.mat.ui.snapshot.actions.OpenSampleHeapDumpAction" pluginId="org.eclipse.mat.ui" confirm="false" param1="org.eclipse.mat.ui.help/heapdump/HeapDumpSample.hprof" param2="oql" param3="SELECT * FROM java.lang.String s WHERE s.count > 100"/>
    </item>

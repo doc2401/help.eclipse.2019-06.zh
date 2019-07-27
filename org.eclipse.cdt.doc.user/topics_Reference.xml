@@ -62,7 +62,7 @@
 			<topic label="安慰" href="reference/cdt_u_console_pref.htm"/>
 			<topic label="环境" href="reference/cdt_u_environment_pref.htm"/>
 			<topic label="制作目标" href="reference/cdt_u_make_targets_pref.htm" />
-			<topic label="Makefile编辑器" href="reference/cdt_u_makefile_settings_pref.htm">
+			<topic label="Makefile文件编辑器" href="reference/cdt_u_makefile_settings_pref.htm">
 				<topic label="设置" href="reference/cdt_u_make_settings_pref.htm"/>
 			</topic>
 			<topic label="错误解析器" href="reference/cdt_u_pref_build_error_parsers.htm"/>
@@ -100,7 +100,7 @@
 		<topic label="新的CDT项目向导">
 			<topic label="首选工具链选项卡" href="reference/cdt_u_pref_wizard_toolchains.htm"/> 
 			<topic label="向导默认选项卡" href="reference/cdt_u_pref_wizard_defaults.htm"/> 
-			<topic label="Makefile项目页面" >
+			<topic label="Makefile的项目页面" >
 				<topic label="二进制解析器" href="reference/cdt_u_newproj_parser_binary.htm"/>
 				<topic label="错误解析器" href="reference/cdt_u_newproj_parser_error.htm"/>
 				<topic label="发现选项" href="reference/cdt_u_newproj_discovery_options.htm"/>
