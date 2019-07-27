@@ -1,92 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="task" name="DC.Type" />
-<meta name="DC.Title" content="Overriding global validation preferences" />
-<meta name="abstract" content="For a given project, you can override the global validation preferences." />
-<meta name="description" content="For a given project, you can override the global validation preferences." />
-<meta content="validation, overriding global preferences, code validation" name="DC.subject" />
-<meta content="validation, overriding global preferences, code validation" name="keywords" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tjvaldisable.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tjvalmanual.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tjvalselect.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/rtunevalidat.html" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="tjvalglobalpref" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Overriding global validation preferences</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="task">
+<meta name="DC.Title" content="Overriding global validation preferences">
+<meta name="abstract" content="For a given project, you can override the global validation preferences.">
+<meta name="description" content="For a given project, you can override the global validation preferences.">
+<meta name="DC.subject" content="validation, overriding global preferences, code validation">
+<meta name="keywords" content="validation, overriding global preferences, code validation">
+<meta name="DC.Relation" scheme="URI" content="../topics/tjvaldisable.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/tjvalmanual.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/tjvalselect.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/rtunevalidat.html">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="tjvalglobalpref">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>覆盖全局验证首选项</title>
 </head>
-<body id="tjvalglobalpref"><a name="tjvalglobalpref"><!-- --></a>
+<body id="tjvalglobalpref" ><a name="tjvalglobalpref"><!-- --></a>
 
 
-<h1 class="id_title">Overriding global validation preferences</h1>
+<h1 class="id_title">覆盖全局验证首选项</h1>
 
 
 
-<div class="id_taskbody"><p class="id_shortdesc">For a given project, you can override
-the global validation preferences.</p>
+<div class="id_taskbody"><p class="id_shortdesc">对于给定项目，您可以覆盖全局验证首选项。</p>
 
-<div class="id_context"> <p class="anchor_topictop" />
- <p>The
-default validation preferences are specified globally on the Validation page
-of the Preferences dialog. To allow projects to override these default validation
-preferences, complete the following steps:</p>
+<div class="id_context"> <p class="anchor_topictop"></p>
+ <p>默认验证首选项在“首选项”对话框的“验证”页面上全局指定。要允许项目覆盖这些默认验证首选项，请完成以下步骤：</p>
 </div>
 
 <ol class="id_steps">
-<li class="stepexpand"><span>Click <span class="menucascade"><span class="uicontrol">Window</span> &gt; <span class="uicontrol">Preferences</span>
-</span> and select <span class="uicontrol">Validation</span> in the left pane.</span>
- The Validation page of the Preferences window lists the validators
-available in your project and their settings.</li>
+<li class="stepexpand"><span>单击<span class="menucascade"><span class="uicontrol">窗口</span> &gt; <span class="uicontrol">首选项，</span></span>然后在左窗格中选择<span class="uicontrol">验证</span> 。</span>“首选项”窗口的“验证”页面列出了项目中可用的验证器及其设置。</li>
 
-<li class="stepexpand"><span>Select the <span class="uicontrol">Allow projects to override these preference
-settings</span> check box and click <span class="uicontrol">OK</span>.</span>
- Now individual projects can override the global preferences.
+<li class="stepexpand"><span>选中“ <span class="uicontrol">允许项目覆盖这些首选项设置”</span>复选框，然后单击“ <span class="uicontrol">确定”</span> 。</span>现在，单个项目可以覆盖全局首选项。
 </li>
 
-<li class="stepexpand"><span>Right-click a project and then click <span class="uicontrol">Properties</span>.</span>
+<li class="stepexpand"><span>右键单击项目，然后单击“ <span class="uicontrol">属性”</span> 。</span>
 </li>
 
-<li class="stepexpand"><span>In the left pane of the Properties window, click <span class="uicontrol">Validation</span>.</span>
+<li class="stepexpand"><span>在“属性”窗口的左窗格中，单击“ <span class="uicontrol">验证”</span> 。</span>
 </li>
 
-<li class="stepexpand"><span>Select the <span class="uicontrol">Override validation preferences</span> check
-box.</span> This check box is available only if you checked the <span class="uicontrol">Allow
-projects to override these preference settings</span> check box on the
-workbench validation preferences page.</li>
+<li class="stepexpand"><span>选中“ <span class="uicontrol">覆盖验证首选项”</span>复选框。</span> 仅当您在工作台验证首选项页面上选中了<span class="uicontrol">允许项目覆盖这些首选项设置</span>复选框时，此复选框才可用。</li>
 
-<li class="stepexpand"><span>To prevent validation for this project, select the <span class="uicontrol">Suspend
-all validators</span> check box.</span></li>
+<li class="stepexpand"><span>要阻止验证此项目，请选中“ <span class="uicontrol">挂起所有验证器”</span>复选框。</span></li>
 
-<li class="stepexpand"><span>In the list of validators, select the check boxes next to each
-validator you want to use.</span> Each validator has a check box to specify
-whether it is used on manual validation or on a build.</li>
+<li class="stepexpand"><span>在验证程序列表中，选中要使用的每个验证程序旁边的复选框。</span> 每个验证器都有一个复选框，用于指定它是用于手动验证还是用于构建。</li>
 
-<li class="stepexpand"><span>Choose an alternate implementation for a validator by clicking
-the button in the <span class="uicontrol">Settings</span> column, then click <span class="uicontrol">OK</span>.</span>
- Not all validators have alternate implementations.</li>
+<li class="stepexpand"><span>通过单击“ <span class="uicontrol">设置”</span>列中的按钮，为验证器选择备用实现，然后单击“ <span class="uicontrol">确定”</span> 。</span>并非所有验证器都有替代实现。</li>
 
 </ol>
 
-<div class="id_postreq"><p class="anchor_topicbottom" />
+<div class="id_postreq"><p class="anchor_topicbottom"></p>
 </div>
 
 </div>
 
-<div><div class="reltasks"><strong>Related tasks</strong><br />
-<div><a href="../topics/tjvaldisable.html" title="You can disable one or more validators individually or disable validation entirely. Also, you can set validation settings for your entire workspace and for individual projects.">Disabling validation</a></div>
-<div><a href="../topics/tjvalmanual.html" title="When you run a manual validation, all resources in the selected project are validated according to the validation settings.">Manually validating code</a></div>
-<div><a href="../topics/tjvalselect.html" title="You can select specific validators to run during manual and build code validation. You can set each validator to run on manual validation, build validation, both, or neither.">Selecting code validators</a></div>
+<div><div class="reltasks"><strong>相关任务</strong><br>
+<div><a href="../topics/tjvaldisable.html" title="您可以单独禁用一个或多个验证器，也可以完全禁用验证。此外，您还可以为整个工作区和单个项目设置验证设置。">禁用验证</a></div>
+<div><a href="../topics/tjvalmanual.html" title="运行手动验证时，将根据验证设置验证所选项目中的所有资源。">手动验证代码</a></div>
+<div><a href="../topics/tjvalselect.html" title="您可以选择在手动和构建代码验证期间运行的特定验证器。您可以将每个验证器设置为在手动验证，构建验证，两者或两者都不运行。">选择代码验证器</a></div>
 </div>
-<div class="relref"><strong>Related reference</strong><br />
-<div><a href="../topics/rtunevalidat.html" title="Whether or not a validator validates a particular resource depends on the filters that are in place for that validator.">Tuning validators</a></div>
+<div class="relref"><strong>相关参考</strong><br>
+<div><a href="../topics/rtunevalidat.html" title="验证器是否验证特定资源取决于该验证器的适当过滤器。">调整验证器</a></div>
 </div>
 </div>
 

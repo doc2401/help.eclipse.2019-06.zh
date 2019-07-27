@@ -1,74 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="task" name="DC.Type" />
-<meta name="DC.Title" content="Changing the Java compiler version for a Java EE project" />
-<meta name="abstract" content="You can change the version of Java used in a Java EE project by changing the value of the Java facet." />
-<meta name="description" content="You can change the version of Java used in a Java EE project by changing the value of the Java facet." />
-<meta content="Java EE, project compiler level, projects, Java compiler level" name="DC.subject" />
-<meta content="Java EE, project compiler level, projects, Java compiler level" name="keywords" />
-<meta scheme="URI" name="DC.Relation" content="../topics/taddingfacet.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tchangefacet.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cfacets.html" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="tchangejavalevel" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Changing the Java compiler version for a Java EE project</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="task">
+<meta name="DC.Title" content="Changing the Java compiler version for a Java EE project">
+<meta name="abstract" content="You can change the version of Java used in a Java EE project by changing the value of the Java facet.">
+<meta name="description" content="You can change the version of Java used in a Java EE project by changing the value of the Java facet.">
+<meta name="DC.subject" content="Java EE, project compiler level, projects, Java compiler level">
+<meta name="keywords" content="Java EE, project compiler level, projects, Java compiler level">
+<meta name="DC.Relation" scheme="URI" content="../topics/taddingfacet.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/tchangefacet.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cfacets.html">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="tchangejavalevel">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>更改Java EE项目的Java编译器版本</title>
 </head>
-<body id="tchangejavalevel"><a name="tchangejavalevel"><!-- --></a>
+<body id="tchangejavalevel" ><a name="tchangejavalevel"><!-- --></a>
 
 
-<h1 class="id_title">Changing the Java compiler version for a Java EE project</h1>
+<h1 class="id_title">更改Java EE项目的Java编译器版本</h1>
 
 
 
-<div class="id_taskbody"><p class="id_shortdesc">You can change the version of Java™ used
-in a Java EE project by changing the value of the <span class="uicontrol">Java</span> facet.</p>
+<div class="id_taskbody"><p class="id_shortdesc">您可以通过更改<span class="uicontrol">Java</span>构面的值来更改Java EE项目中使用的Java™版本。</p>
 
-<div class="id_context"><p class="anchor_topictop" />
- <p>The <span class="uicontrol">Java</span> facet
-applies only to J2EE projects. To set the Java compiler level of a non-Java EE project,
-such as a Java project, see <a href="../../org.eclipse.jdt.doc.user/reference/ref-properties-compiler.htm">Java Compiler</a>.</p>
-<p>To change the Java compiler
-version, complete the following steps:</p>
+<div class="id_context"><p class="anchor_topictop"></p>
+ <p><span class="uicontrol">Java</span> facet仅适用于J2EE项目。要设置非Java EE项目（例如Java项目）的Java编译器级别，请参阅<a href="../../org.eclipse.jdt.doc.user/reference/ref-properties-compiler.htm">Java编译器</a> 。</p>
+<p>要更改Java编译器版本，请完成以下步骤：</p>
 </div>
 
 <ol class="id_steps">
-<li class="stepexpand"><span>In the Project Explorer view of the Java EE perspective, right-click the project
-and then select <span class="uicontrol">Properties</span>.</span></li>
+<li class="stepexpand"><span>在Java EE透视图的Project Explorer视图中，右键单击该项目，然后选择<span class="uicontrol">Properties</span> 。</span></li>
 
-<li class="stepexpand"><span>Select the <span class="uicontrol">Project Facets</span> page in the in
-the Properties window.</span>  This page lists the facets in the project
-and their versions.</li>
+<li class="stepexpand"><span>在“属性”窗口中选择“ <span class="uicontrol">项目构面”</span>页面。</span>  此页面列出了项目中的构面及其版本。</li>
 
-<li class="stepexpand"><span>Click <span class="uicontrol">Modify Project</span>.</span></li>
+<li class="stepexpand"><span>单击<span class="uicontrol">修改项目</span> 。</span></li>
 
-<li class="stepexpand"><span>Double click the version number next to the<span class="uicontrol">Java</span> facet
-to select a different level of Java compiler.</span></li>
+<li class="stepexpand"><span>双击<span class="uicontrol">Java</span> facet旁边的版本号以选择不同级别的Java编译器。</span></li>
 
-<li class="stepexpand"><span>Click <span class="uicontrol">Finish</span> to close the Modify Faceted
-Project window and then click <span class="uicontrol">OK</span>.</span></li>
+<li class="stepexpand"><span>单击“ <span class="uicontrol">完成”</span>以关闭“修改分面项目”窗口，然后单击“ <span class="uicontrol">确定”</span> 。</span></li>
 
 </ol>
 
-<div class="id_postreq"><p class="anchor_topicbottom" />
+<div class="id_postreq"><p class="anchor_topicbottom"></p>
 </div>
 
 </div>
 
-<div><div class="relconcepts"><strong>Related concepts</strong><br />
-<div><a href="../topics/cfacets.html" title="Facets define characteristics and requirements for Java EE projects and are used as part of the runtime configuration.">Project facets</a></div>
+<div><div class="relconcepts"><strong>相关概念</strong><br>
+<div><a href="../topics/cfacets.html" title="Facets定义Java EE项目的特征和要求，并用作运行时配置的一部分。">项目方面</a></div>
 </div>
-<div class="reltasks"><strong>Related tasks</strong><br />
-<div><a href="../topics/taddingfacet.html" title="This topic explains how to add a facet to an existing project in your workspace.">Adding a facet to a Java EE project</a></div>
-<div><a href="../topics/tchangefacet.html" title="You can change the version of a facet in a Java EE project by editing the facets for the project.">Changing the version of a facet</a></div>
+<div class="reltasks"><strong>相关任务</strong><br>
+<div><a href="../topics/taddingfacet.html" title="本主题说明如何将facet添加到工作区中的现有项目。">将构面添加到Java EE项目</a></div>
+<div><a href="../topics/tchangefacet.html" title="您可以通过编辑项目的构面来更改Java EE项目中构面的版本。">更改构面的版本</a></div>
 </div>
 </div>
 

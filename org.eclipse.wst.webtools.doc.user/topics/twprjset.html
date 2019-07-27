@@ -1,183 +1,134 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2008 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v2.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2008" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="task" name="DC.Type" />
-<meta name="DC.Title" content="Setting Web project properties" />
-<meta content="Web projects, properties settings" name="DC.subject" />
-<meta content="Web projects, properties settings" name="keywords" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="twprjset" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Setting Web project properties</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2008 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v2.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2008">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="task">
+<meta name="DC.Title" content="Setting Web project properties">
+<meta name="DC.subject" content="Web projects, properties settings">
+<meta name="keywords" content="Web projects, properties settings">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="twprjset">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>设置Web项目属性</title>
 </head>
-<body id="twprjset"><a name="twprjset"><!-- --></a>
+<body id="twprjset" ><a name="twprjset"><!-- --></a>
 
 
-<h1 class="topictitle1">Setting Web project properties</h1>
+<h1 class="topictitle1">设置Web项目属性</h1>
 
 
 <div>
-<div class="section"> <p>There are many Web project properties that you can set that affect
-the phases in the lifecycle of your project and its dependencies on other
-Web resources and Web development processes. You might want to verify or update
-these properties after you have updated an existing project or have imported
-Web resources into a project .</p>
-<p>To view or set Web project properties,
-do the following: </p>
+<div class="section"> <p>您可以设置许多Web项目属性，这些属性会影响项目生命周期中的阶段及其对其他Web资源和Web开发过程的依赖性。在更新现有项目或将Web资源导入项目后，您可能需要验证或更新这些属性。</p>
+<p>要查看或设置Web项目属性，请执行以下操作：</p>
  </div>
 
 <ol>
-<li class="stepexpand"><span>Right-click on a Web Project, and from the pop-up menu select <span><span class="uicontrol">Properties</span></span>.</span>
+<li class="stepexpand"><span>右键单击Web项目，然后从弹出菜单中选择“ <span><span class="uicontrol">属性”</span></span> 。</span>
 </li>
 
-<li class="stepexpand"><span>Select a property type in the left pane of the Properties dialog
-to view or update properties in the Web project. For each property, you can
-apply changes and modify default settings. Based on whether you have a static
-or a dynamic Web project, the following property types are available:</span>
+<li class="stepexpand"><span>在“属性”对话框的左窗格中选择属性类型，以查看或更新Web项目中的属性。对于每个属性，您可以应用更改并修改默认设置。根据您是否具有静态或动态Web项目，可以使用以下属性类型：</span>
  <dl>
-<dt class="dlterm">Info</dt>
+<dt class="dlterm">信息</dt>
 
-<dd>Provides general information about project type, location, and modification
-status. </dd>
-
-
-<dt class="dlterm">BeanInfo Path (Dynamic Web project only)</dt>
-
-<dd>If you select the Enable Beaninfo Introspection on this project, you can
-specify the contents and order of Java™ Bean search paths to provide Bean information
-relevant to the project. You can add, remove, and reorder (using the <span>Up</span> and <span>Down</span> buttons)
-the packages used to include Bean information.</dd>
+<dd>提供有关项目类型，位置和修改状态的一般信息。</dd>
 
 
-<dt class="dlterm">Builders</dt>
+<dt class="dlterm">BeanInfo路径（仅限动态Web项目）</dt>
 
-<dd>Add, remove, or reorder external tools in the build order. When you select <span class="uicontrol">New</span> to
-create a new external tool to the list, the New External Tool wizard opens,
-so that you can define the new build tool.</dd>
+<dd>如果在此项目上选择“启用Beaninfo内省”，则可以指定Java™Bean搜索路径的内容和顺序，以提供与项目相关的Bean信息。您可以添加，删除和重新排序（使用<span>向上</span>和<span>向下</span>按钮）用于包含Bean信息的包。</dd>
 
 
-<dt class="dlterm">Java EE (Dynamic Web project only)</dt>
+<dt class="dlterm">建设者</dt>
 
-<dd>Identify Web level specification and modify context root and Web content
-folder name</dd>
+<dd>在构建顺序中添加，删除或重新排序外部工具。选择“ <span class="uicontrol">新建”</span>以在列表中创建新的外部工具时，将打开“新建外部工具”向导，以便您可以定义新的构建工具。</dd>
 
 
-<dt class="dlterm">Java Build
-Path (Dynamic Web project only)</dt>
+<dt class="dlterm">Java EE（仅限动态Web项目）</dt>
 
-<dd>View or change the information about the Java build path that you supplied when creating
-the project using the <span>Create a DynamicWeb Project</span> wizard. Whenever
-the Web project is rebuilt, any class files that are created or updated will
-be output to the specified output folder. <div class="note"><span class="notetitle">Note:</span> A library entry on the Java build
-path will remain there unless the actual JAR file is deleted from the WEB-INF/lib
-folder. If you remove a library path entry but not the JAR file, the library
-entry will be re-added to the path automatically.</div>
+<dd>确定Web级别规范并修改上下文根和Web内容文件夹名称</dd>
+
+
+<dt class="dlterm">Java构建路径（仅限动态Web项目）</dt>
+
+<dd>使用“ <span>创建DynamicWeb项目”</span>向导查看或更改有关使用“ <span>创建动态Web项目”</span>向导<span>创建</span>项目时提供的Java构建路径的信息。每当重建Web项目时，创建或更新的任何类文件都将输出到指定的输出文件夹。<div class="note"><span class="notetitle">注意：</span>除非从WEB-INF / lib文件夹中删除实际的JAR文件，否则Java构建路径上的库条目将保留在那里。如果删除库路径条目但不删除JAR文件，则库条目将自动重新添加到路径中。</div>
 </dd>
 
 
-<dt class="dlterm">Java Compiler
-(Dynamic Web project only)</dt>
+<dt class="dlterm">Java编译器（仅限动态Web项目）</dt>
 
-<dd>Define whether to use workspace settings or project setting for compiling Java code,
-including settings for Problems, Style, Compliance and Classfiles, and Build
-Path.</dd>
+<dd>定义是否使用工作区设置或项目设置来编译Java代码，包括“问题”，“样式”，“合规性”和“类文件”以及“构建路径”的设置。</dd>
 
 
-<dt class="dlterm">Javadoc Location (Dynamic Web project only)</dt>
+<dt class="dlterm">Javadoc位置（仅限动态Web项目）</dt>
 
-<dd>Define a default location (URL) for any Javadoc available to the project.</dd>
-
-
-<dt class="dlterm">Java JAR
-Dependencies (Dynamic Web project only)</dt>
-
-<dd>Define and reorder JAR dependencies for the project. Note that these dependencies
-may differ based on a Web project's association with multiple Enterprise application
-projects.</dd>
+<dd>为项目可用的任何Javadoc定义默认位置（URL）。</dd>
 
 
-<dt class="dlterm">JSP Task Tags</dt>
+<dt class="dlterm">Java JAR依赖项（仅限动态Web项目）</dt>
 
-<dd>Add, edit, or remove JSP task tags and assign tag priorities. These "to
-do" items appear in your Tasks view.</dd>
-
-
-<dt class="dlterm">JSP Compilation</dt>
-
-<dd>Specify when in the build process a JSP should be set to compile</dd>
+<dd>定义和重新排序项目的JAR依赖项。请注意，这些依赖项可能因Web项目与多个企业应用程序项目的关联而有所不同。</dd>
 
 
-<dt class="dlterm">JSP Fragment (dynamic Web project only)</dt>
+<dt class="dlterm">JSP任务标签</dt>
 
-<dd>Define default encoding, page directive, and content type values for JSP
-fragment documents in the web project.</dd>
-
-
-<dt class="dlterm">Links Validation/Refactoring</dt>
-
-<dd>Define project-level link management and validation settings. These settings
-override corresponding settings in the Workbench Preference settings for the
-current project.</dd>
+<dd>添加，编辑或删除JSP任务标记并分配标记优先级。这些“待办事项”项目显示在“任务”视图中。</dd>
 
 
-<dt class="dlterm">Project References</dt>
+<dt class="dlterm">JSP编译</dt>
 
-<dd>Reference other Web projects that exist on your workbench workspace.</dd>
-
-
-<dt class="dlterm">Server</dt>
-
-<dd>Select the server instance used to perform necessary development, test,
-and publishing functions for the project.</dd>
+<dd>指定在构建过程中何时应将JSP设置为compile</dd>
 
 
-<dt class="dlterm">Validation</dt>
+<dt class="dlterm">JSP Fragment（仅限动态Web项目）</dt>
 
-<dd>Specify which validators should run for the project, and whether validation
-should occur automatically when resource updates are written to the project.
-The available validators are based on the types of resources in your project.
-By default, validators are automatically run when you save resources in a
-Web project. If you do not want validators to run automatically when you save
-these resources, enable the <span class="uicontrol">Override validation</span> preferences
-option and disable the <span class="uicontrol">Run validation automatically when you save
-changes to resources</span> option. <div class="note"><span class="notetitle">Note:</span> You can also  disable automatic
-validation (and builds) for all projects by disabling <span class="uicontrol">Perform build
- automatically on resource modification</span> from the <span class="uicontrol">Workbench</span> properties.
-If  you disable automatic builds, you can manually  run a build (and validation)
-by selecting  <span class="menucascade"><span class="uicontrol">Project</span> &gt; <span class="uicontrol">Rebuild
-project</span></span>.</div>
+<dd>为Web项目中的JSP片段文档定义默认编码，页面指令和内容类型值。</dd>
+
+
+<dt class="dlterm">链接验证/重构</dt>
+
+<dd>定义项目级链接管理和验证设置。这些设置会覆盖当前项目的Workbench Preference设置中的相应设置。</dd>
+
+
+<dt class="dlterm">项目参考</dt>
+
+<dd>引用工作台工作区中存在的其他Web项目。</dd>
+
+
+<dt class="dlterm">服务器</dt>
+
+<dd>选择用于为项目执行必要的开发，测试和发布功能的服务器实例。</dd>
+
+
+<dt class="dlterm">验证</dt>
+
+<dd>指定应为项目运行哪些验证程序，以及在将资源更新写入项目时是否应自动进行验证。可用的验证程序基于项目中的资源类型。默认情况下，在Web项目中保存资源时会自动运行验证程序。如果您不希望在保存这些资源<span class="uicontrol">时自动运行验证程序</span> ，请启用“ <span class="uicontrol">覆盖验证</span>首选项”选项并<span class="uicontrol">在保存对资源的更改时自动</span>禁用“ <span class="uicontrol">运行验证”</span>选项。<div class="note"><span class="notetitle">注意：</span>您还可以通过禁用<span class="uicontrol">Workbench</span>属性<span class="uicontrol">上的资源修改时自动执行构建</span>来禁用所有项目的自动验证（和构建）。如果禁用自动构建，则可以通过选择“ <span class="menucascade"><span class="uicontrol">项目”</span> &gt;“ <span class="uicontrol">重建项目”</span></span>来手动运行构建（和验证）。</div>
 </dd>
 
 
-<dt class="dlterm">Web Content Settings</dt>
+<dt class="dlterm">网页内容设置</dt>
 
-<dd>Provide any applicable Web content settings for a Web project. You can
-specify the document type, CSS profile, and target device.</dd>
+<dd>为Web项目提供任何适用的Web内容设置。您可以指定文档类型，CSS配置文件和目标设备。</dd>
 
 
-<dt class="dlterm">Web Project Features</dt>
+<dt class="dlterm">Web项目功能</dt>
 
-<dd>Select the features you want to be enabled for your Web project, such
-as Page Template support.</dd>
+<dd>选择要为Web项目启用的功能，例如页面模板支持。</dd>
 
 </dl>
 </li>
 
-<li class="stepexpand"><span>When you have completed updates to Web project settings, click <span><span class="uicontrol">OK</span></span> to
-save and close the Properties dialog.</span></li>
+<li class="stepexpand"><span>完成Web项目设置的更新后，单击“ <span><span class="uicontrol">确定”</span></span>以保存并关闭“属性”对话框。</span></li>
 
 </ol>
 
 </div>
 
-<div />
+<div></div>
 
 </body>
 </html>

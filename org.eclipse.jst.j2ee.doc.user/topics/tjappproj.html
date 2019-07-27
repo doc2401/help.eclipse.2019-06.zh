@@ -1,130 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="task" name="DC.Type" />
-<meta name="DC.Title" content="Creating an application client project" />
-<meta name="abstract" content="You can use a wizard to create a new application client project and add it to a new or existing enterprise application project." />
-<meta name="description" content="You can use a wizard to create a new application client project and add it to a new or existing enterprise application project." />
-<meta content="application client projects, creating" name="DC.subject" />
-<meta content="application client projects, creating" name="keywords" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tjexpapp.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/tjimpapp.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cjarch.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cjappcliproj.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cjearproj.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cfacets.html" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="tjappproj" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Creating an application client project</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="task">
+<meta name="DC.Title" content="Creating an application client project">
+<meta name="abstract" content="You can use a wizard to create a new application client project and add it to a new or existing enterprise application project.">
+<meta name="description" content="You can use a wizard to create a new application client project and add it to a new or existing enterprise application project.">
+<meta name="DC.subject" content="application client projects, creating">
+<meta name="keywords" content="application client projects, creating">
+<meta name="DC.Relation" scheme="URI" content="../topics/tjexpapp.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/tjimpapp.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cjarch.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cjappcliproj.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cjearproj.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cfacets.html">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="tjappproj">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>创建应用程序客户端项目</title>
 </head>
-<body id="tjappproj"><a name="tjappproj"><!-- --></a>
+<body id="tjappproj" ><a name="tjappproj"><!-- --></a>
 
 
-<h1 class="id_title">Creating an application client project</h1>
+<h1 class="id_title">创建应用程序客户端项目</h1>
 
 
 
-<div class="id_taskbody"><p class="id_shortdesc">You can use a wizard to create a new
-application client project and add it to a new or existing enterprise application
-project.</p>
+<div class="id_taskbody"><p class="id_shortdesc">您可以使用向导创建新的应用程序客户端项目，并将其添加到新的或现有的企业应用程序项目中。</p>
 
-<div class="id_context"> <p class="anchor_topictop" />
- <p>Application
-client projects contain the resources needed for application client modules
-and programs that run on networked client systems. An application client project
-is deployed as a JAR file.</p>
-<p>Like the other types of projects, application
-client projects can contain one or more project facets, which represent units
-of functionality in the project. A new application client project should have
-the Application Client module facet. Depending on what you want to use the
-project for, you may want to enable other facets for the project.</p>
-<p>To
-create a J2EE application client project, complete the following steps:</p>
+<div class="id_context"> <p class="anchor_topictop"></p>
+ <p>应用程序客户端项目包含在联网客户端系统上运行的应用程序客户端模块和程序所需的资源。应用程序客户端项目部署为JAR文件。</p>
+<p>与其他类型的项目一样，应用程序客户端项目可以包含一个或多个项目构面，它们代表项目中的功能单元。新的应用程序客户端项目应具有Application Client模块构面。根据您要使用项目的内容，您可能希望为项目启用其他方面。</p>
+<p>要创建J2EE应用程序客户机项目，请完成以下步骤：</p>
 </div>
 
 <ol class="id_steps">
-<li class="stepexpand"><span>In the Java™ EE perspective, click <span class="menucascade"><span class="uicontrol">File</span>
- &gt; <span class="uicontrol">New</span> &gt; <span class="uicontrol">Project</span></span>.</span>
+<li class="stepexpand"><span>在Java™EE透视图中，单击“ <span class="menucascade"><span class="uicontrol">文件”</span> &gt;“ <span class="uicontrol">新建”</span> &gt;“ <span class="uicontrol">项目”</span></span> 。</span>
 </li>
 
-<li class="stepexpand"><span>In the New Project Wizard, select <span class="menucascade"><span class="uicontrol">Java
-EE</span> &gt; <span class="uicontrol">Application Client Project</span></span> and
-click <span class="uicontrol">Next</span>.</span></li>
+<li class="stepexpand"><span>在New Project Wizard中，选择<span class="menucascade"><span class="uicontrol">Java EE</span> &gt; <span class="uicontrol">Application Client Project</span></span> ，然后单击<span class="uicontrol">Next</span> 。</span></li>
 
-<li class="stepexpand"><span>In the <span class="uicontrol">Project Name</span> field, type a name for
-the application client project. </span></li>
+<li class="stepexpand"><span>在“ <span class="uicontrol">项目名称”</span>字段中，键入应用程序客户端项目的名称。</span></li>
 
-<li class="stepexpand"><strong>Optional: </strong><span>To change the default project location, clear
-the <span class="uicontrol">Use default</span> check box under <span class="uicontrol">Project
-contents</span> and select a new location with the <span class="uicontrol">Browse</span> button.</span>
- If you specify a non-default project location that is already being
-used by another project, the project creation will fail.<div class="note"><span class="notetitle">Note:</span> If you type
-a new EAR project name, the EAR project will be created in the default location
-with the lowest compatible Java EE version based on the version of the project
-being created. If you want to specify a different version or a different location
-for the enterprise application, you must use the New Enterprise Application
-Project wizard.</div>
+<li class="stepexpand"><strong>可选：</strong> <span>要更改默认项目位置，请清除“ <span class="uicontrol">项目内容</span> ”下的“ <span class="uicontrol">使用默认值”</span>复选框，然后<span class="uicontrol">使用</span> “ <span class="uicontrol">浏览”</span>按钮选择新位置。</span>如果指定另一个项目已在使用的非默认项目位置，则项目创建将失败。<div class="note"><span class="notetitle">注意：</span>如果键入新的EAR项目名称，则将根据正在创建的项目的版本，在默认位置创建具有最低兼容Java EE版本的EAR项目。如果要为企业应用程序指定其他版本或不同位置，则必须使用“新建企业应用程序项目”向导。</div>
 </li>
 
-<li class="stepexpand"><strong>Optional: </strong><span>To add the new project to an enterprise application
-project, select the <span class="uicontrol">Add project to an EAR</span> check box
-and select a project in the <span class="uicontrol">EAR Project Name</span> list.</span>
- If you choose to add the project to an existing EAR project, the <span class="uicontrol">Target
-runtime</span> field becomes disabled because the target runtime for
-the new project will be the same as that of the EAR project.</li>
+<li class="stepexpand"><strong>可选：</strong> <span>要将新项目添加到企业应用程序项目，请选中“ <span class="uicontrol">将项目添加到EAR”</span>复选框，然后在“ <span class="uicontrol">EAR项目名称”</span>列表中选择一个项目。</span>如果选择将项目添加到现有EAR项目，则<span class="uicontrol">目标运行时</span>字段将被禁用，因为新项目的目标运行时将与EAR项目的目标运行时相同。</li>
 
-<li class="stepexpand"><span>In the <span class="uicontrol">Target runtime</span> field, select the
-target runtime for the project.</span></li>
+<li class="stepexpand"><span>在“ <span class="uicontrol">目标运行时”</span>字段中，选择项目的目标运行时。</span></li>
 
-<li class="stepexpand"><strong>Optional: </strong><span>To use a predefined configuration for your
-project, select a configuration in the <span class="uicontrol">Configurations</span> list.
-You can click the <span class="uicontrol">Modify</span> button to do the following:</span>
+<li class="stepexpand"><strong>可选：</strong> <span>要为项目使用预定义配置，请在“ <span class="uicontrol">配置”</span>列表中选择一个配置。您可以单击“ <span class="uicontrol">修改”</span>按钮执行以下操作：</span>
  <ul>
-<li>Customize project facets. Select the check boxes next to the facets you
-want the project to have and select a version number for each facet. Select
-a facet name to see more information about that facet in the <span class="uicontrol">Details</span> tab.
-You can also choose a preset combination of facets from the <span class="uicontrol">Configurations</span> list.</li>
+<li>自定义项目方面。选中希望项目具有的构面旁边的复选框，然后为每个构面选择版本号。选择构面名称可在“ <span class="uicontrol">详细信息”</span>选项卡中查看有关该构面的更多信息。您还可以从“ <span class="uicontrol">配置”</span>列表中选择预设的构面组合。</li>
 
-<li>Limit your project to be compatible with one or more runtimes. Click the <span class="uicontrol">Show
-Runtimes</span> tab and select the runtimes that you want the project
-to be compatible with. </li>
+<li>限制您的项目与一个或多个运行时兼容。单击“ <span class="uicontrol">显示运行时”</span>选项卡，然后选择希望项目与之兼容的运行时。</li>
 
-</ul>
-Click <span class="uicontrol">Next</span>.</li>
+</ul>单击<span class="uicontrol">下一步</span> 。</li>
 
-<li class="stepexpand"><span>In the <span class="uicontrol">Source Folder</span> field, enter the name
-of the folder to use for source code. </span></li>
+<li class="stepexpand"><span>在“ <span class="uicontrol">源文件夹”</span>字段中，输入要用于源代码的文件夹的名称。</span></li>
 
-<li class="stepexpand"><strong>Optional: </strong><span>To create a default class for the module,
-select the <span class="uicontrol">Create a default Main class</span> check box.</span>
+<li class="stepexpand"><strong>可选：</strong> <span>要为模块创建默认类，请选中“ <span class="uicontrol">创建默认主类”</span>复选框。</span>
 </li>
 
-<li class="stepexpand"><span>Click <span class="uicontrol">Finish</span>.</span></li>
+<li class="stepexpand"><span>单击<span class="uicontrol">完成</span> 。</span></li>
 
 </ol>
 
-<div class="id_postreq"><p class="anchor_topicbottom" />
+<div class="id_postreq"><p class="anchor_topicbottom"></p>
 </div>
 
 </div>
 
-<div><div class="relconcepts"><strong>Related concepts</strong><br />
-<div><a href="../topics/cjarch.html" title="The Java 2 Platform, Enterprise Edition (J2EE) provides a standard for developing multitier, enterprise applications.">J2EE architecture</a></div>
-<div><a href="../topics/cjappcliproj.html" title="Application client projects contain programs that run on networked client systems so the project can benefit from a server's tools.">Application client projects</a></div>
-<div><a href="../topics/cjearproj.html" title="An enterprise application project ties together the resources that are required to deploy a J2EE enterprise application.">Enterprise application projects</a></div>
-<div><a href="../topics/cfacets.html" title="Facets define characteristics and requirements for Java EE projects and are used as part of the runtime configuration.">Project facets</a></div>
+<div><div class="relconcepts"><strong>相关概念</strong><br>
+<div><a href="../topics/cjarch.html" title="Java 2平台企业版（J2EE）为开发多层企业应用程序提供了标准。">J2EE架构</a></div>
+<div><a href="../topics/cjappcliproj.html" title="应用程序客户端项目包含在联网客户端系统上运行的程序，因此项目可以从服务器的工具中受益。">应用客户端项目</a></div>
+<div><a href="../topics/cjearproj.html" title="企业应用程序项目将部署J2EE企业应用程序所需的资源联系在一起。">企业应用项目</a></div>
+<div><a href="../topics/cfacets.html" title="Facets定义Java EE项目的特征和要求，并用作运行时配置的一部分。">项目方面</a></div>
 </div>
-<div class="reltasks"><strong>Related tasks</strong><br />
-<div><a href="../topics/tjexpapp.html" title="You can export an application client project as a JAR file.">Exporting an application client project</a></div>
-<div><a href="../topics/tjimpapp.html" title="Application client projects are deployed as JAR files. You can import an application client project that has been deployed into a JAR file by using the Import wizard.">Importing an application client JAR file</a></div>
+<div class="reltasks"><strong>相关任务</strong><br>
+<div><a href="../topics/tjexpapp.html" title="您可以将应用程序客户端项目导出为JAR文件。">导出应用程序客户端项目</a></div>
+<div><a href="../topics/tjimpapp.html" title="应用程序客户端项目部署为JAR文件。您可以使用“导入”向导导入已部署到JAR文件中的应用程序客户端项目。">导入应用程序客户端JAR文件</a></div>
 </div>
 </div>
 

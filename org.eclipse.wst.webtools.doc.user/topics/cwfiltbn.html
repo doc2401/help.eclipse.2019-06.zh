@@ -1,82 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2008 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v2.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2008" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="concept" name="DC.Type" />
-<meta name="DC.Title" content="Listeners" />
-<meta content="filters, overview" name="DC.subject" />
-<meta content="filters, overview" name="keywords" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cwservbn.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/cwlistbn.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/ccwtover.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/twsrvwiz.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/twlstwiz.html" />
-<meta scheme="URI" name="DC.Relation" content="../topics/twfltwiz.html" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="cwfiltbn" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Listeners</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2008 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v2.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2008">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="concept">
+<meta name="DC.Title" content="Listeners">
+<meta name="DC.subject" content="filters, overview">
+<meta name="keywords" content="filters, overview">
+<meta name="DC.Relation" scheme="URI" content="../topics/cwservbn.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/cwlistbn.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/ccwtover.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/twsrvwiz.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/twlstwiz.html">
+<meta name="DC.Relation" scheme="URI" content="../topics/twfltwiz.html">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="cwfiltbn">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>听众</title>
 </head>
-<body id="cwfiltbn"><a name="cwfiltbn"><!-- --></a>
+<body id="cwfiltbn" ><a name="cwfiltbn"><!-- --></a>
 
 
-<h1 class="topictitle1">Listeners</h1>
+<h1 class="topictitle1">听众</h1>
 
 
 <div>
-<p>Filters are new in the <cite>Sun Microsystems Java Servlet
-2.3 Specification</cite>. They enable you to intercept to intercept a
-request before it reaches a resource. In other words, a filter gives you
-access to the HttpServletRequest and the HttpServletResponse objects
-before they are passed on to a servlet.</p>
+<p>过滤器是<cite>Sun Microsystems Java Servlet 2.3规范</cite>中的新增功能。它们使您能够拦截请求在到达资源之前拦截请求。换句话说，过滤器允许您在将HttpServletRequest和HttpServletResponse对象传递给servlet之前访问它们。</p>
 
-<p>Filters can be very useful. For example, you can write a filter
-that records all incoming requests and logs the IP addresses of the
-computers from which the requests originate. You also can use a filter
-as an encryption and decryption device. Other uses include user
-authentication, data compression, user input validation, and so on.</p>
+<p>过滤器非常有用。例如，您可以编写一个记录所有传入请求的过滤器，并记录发出请求的计算机的IP地址。您还可以使用过滤器作为加密和解密设备。其他用途包括用户身份验证，数据压缩，用户输入验证等。</p>
 
-<p>You also can put a set of filters in a chain. The first filter in
-the chain will be called first and then pass control to the second
-filter, and so on. Filter chaining ensures that you can write a filter
-that does a specific task but adds some functionality in another filter.</p>
+<p>您还可以在链中放置一组过滤器。将首先调用链中的第一个过滤器，然后将控制权传递给第二个过滤器，依此类推。过滤器链确保您可以编写执行特定任务的过滤器，但在另一个过滤器中添加一些功能。</p>
 
-<div class="p">When writing a filter, you basically deal with the
-following three interfaces in the javax.servlet package:
-<ul>
-	<li><strong>javax.servlet.Filter:</strong> represents the
-	life-cycle of the filter.</li>
+<div class="p">在编写过滤器时，您基本上处理javax.servlet包中的以下三个接口：<ul>
+	<li><strong>的javax.servlet。过滤器：</strong>表示过滤器</strong>的生命周期。</li>
 
-	<li><strong>javax.servlet.FilterConfig:</strong> represents the
-	configuration of the filter.</li>
+	<li><strong>的javax.servlet。FilterConfig：</strong>表示过滤器的配置。</li>
 
-	<li><strong>javax.servlet.FilterChain:</strong> object provided by
-	the servlet container to the developer giving a view into the
-	invocation chain of a filtered request for a resource.</li>
+	<li><strong>的javax.servlet。FilterChain：</strong> servlet容器向开发人员提供的对象，用于查看已过滤的资源请求的调用链。</li>
 
 </ul>
 </div>
 
-<p>For more information about filters, refer to the <cite>Sun Microsystems Java™ Servlet
-2.3 Specification</cite> at <samp class="codeph">java.sun.com/products/servlet/download.html</samp>.</p>
+<p>有关过滤器的更多信息，请参阅<samp class="codeph">java.sun.com/products/servlet/download.html</samp>上的<cite>Sun Microsystems Java™Servlet 2.3规范</cite> 。</p>
 
 </div>
 
-<div><div class="relconcepts"><strong>Related concepts</strong><br />
-<div><a href="../topics/cwservbn.html" title="">Servlets</a></div>
-<div><a href="../topics/cwlistbn.html" title="">Listeners</a></div>
-<div><a href="../topics/ccwtover.html" title="">Web application overview</a></div>
+<div><div class="relconcepts"><strong>相关概念</strong><br>
+<div><a href="../topics/cwservbn.html" title="">Servlet的</a></div>
+<div><a href="../topics/cwlistbn.html" title="">听众</a></div>
+<div><a href="../topics/ccwtover.html" title="">Web应用程序概述</a></div>
 </div>
-<div class="reltasks"><strong>Related tasks</strong><br />
-<div><a href="../topics/twsrvwiz.html">Creating Servlets</a></div>
-<div><a href="../topics/twlstwiz.html">Creating Listeners</a></div>
-<div><a href="../topics/twfltwiz.html">Creating Filters</a></div>
+<div class="reltasks"><strong>相关任务</strong><br>
+<div><a href="../topics/twsrvwiz.html">创建Servlet</a></div>
+<div><a href="../topics/twlstwiz.html">创建听众</a></div>
+<div><a href="../topics/twfltwiz.html">创建过滤器</a></div>
 </div>
 </div>
 

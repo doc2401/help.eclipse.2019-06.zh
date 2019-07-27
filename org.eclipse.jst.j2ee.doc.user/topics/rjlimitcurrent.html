@@ -1,86 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-us" xml:lang="en-us">
+<html lang="zh-Hans"  xml:lang="zh-Hans">
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation" />
-<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009" />
-<meta content="public" name="security" />
-<meta content="index,follow" name="Robots" />
-<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0) "http://www.classify.org/safesurf/" l gen true r (SS~~000 1))' />
-<meta content="reference" name="DC.Type" />
-<meta name="DC.Title" content="Limitations of J2EE development tools" />
-<meta name="abstract" content="This topic outlines current known limitations and restrictions for J2EE tooling." />
-<meta name="description" content="This topic outlines current known limitations and restrictions for J2EE tooling." />
-<meta content="J2EE, tool limitations" name="DC.subject" />
-<meta content="J2EE, tool limitations" name="keywords" />
-<meta content="XHTML" name="DC.Format" />
-<meta content="rjlimitcurrent" name="DC.Identifier" />
-<meta content="en-us" name="DC.Language" />
-<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet" />
-<title>Limitations of J2EE development tools</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="copyright" content="Copyright (c) 2000, 2009 IBM Corporation and others. All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at https://www.eclipse.org/legal/epl-2.0/. Contributors: IBM Corporation - initial API and implementation">
+<meta name="DC.rights.owner" content="(C) Copyright 2000, 2009">
+<meta name="security" content="public">
+<meta name="Robots" content="index,follow">
+<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l gen true r (SS~~000 1))">
+<meta name="DC.Type" content="reference">
+<meta name="DC.Title" content="Limitations of J2EE development tools">
+<meta name="abstract" content="This topic outlines current known limitations and restrictions for J2EE tooling.">
+<meta name="description" content="This topic outlines current known limitations and restrictions for J2EE tooling.">
+<meta name="DC.subject" content="J2EE, tool limitations">
+<meta name="keywords" content="J2EE, tool limitations">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="rjlimitcurrent">
+<meta name="DC.Language" content="en-us">
+<link href="../../org.eclipse.wst.doc.user/common.css" type="text/css" rel="stylesheet">
+<title>J2EE开发工具的局限性</title>
 </head>
-<body id="rjlimitcurrent"><a name="rjlimitcurrent"><!-- --></a>
+<body id="rjlimitcurrent" ><a name="rjlimitcurrent"><!-- --></a>
 
 
-<h1 class="id_title">Limitations of J2EE development tools</h1>
+<h1 class="id_title">J2EE开发工具的局限性</h1>
 
 
 
-<div class="id_refbody"><p class="id_shortdesc">This topic outlines current known limitations
-and restrictions for J2EE tooling.</p>
+<div class="id_refbody"><p class="id_shortdesc">本主题概述了当前已知的J2EE工具限制和限制。</p>
 
-<div class="id_spacesLimitation"><h4 class="sectiontitle">Spaces
-not supported in JAR URIs within an enterprise application</h4><p class="anchor_topictop" />
-Spaces are
-not supported in the URI for modules or utility JAR files in an enterprise
-application. The "Class-Path:" attribute of a MANIFEST.MF file in a JAR file
-or module is a space-delimited list of relative paths within an enterprise
-application. A JAR file would not be able to reference another JAR file in
-the EAR if the URI of the referenced JAR file contained spaces.</div>
+<div class="id_spacesLimitation"><h4 class="sectiontitle">企业应用程序中的JAR URI不支持的空间</h4><p class="anchor_topictop"></p>企业应用程序中的模块或实用程序JAR文件的URI不支持空格。JAR文件或模块中MANIFEST.MF文件的“Class-Path：”属性是企业应用程序中以空格分隔的相对路径列表。如果引用的JAR文件的URI包含空格，则JAR文件将无法引用EAR中的另一个JAR文件。</div>
 
-<div class="id_EARDBCSLimitation"><h4 class="sectiontitle">Enterprise application
-project names should not contain DBCS characters</h4><p id="rjlimitcurrent__limitation_ear_dbcs"><a name="rjlimitcurrent__limitation_ear_dbcs"><!-- --></a>When
-you create an enterprise application project, it is recommended that you do
-not give it a name that contains double-byte character set (DBCS) characters.</p>
+<div class="id_EARDBCSLimitation"><h4 class="sectiontitle">企业应用程序项目名称不应包含DBCS字符</h4><p id="rjlimitcurrent__limitation_ear_dbcs"><a name="rjlimitcurrent__limitation_ear_dbcs"><!-- --></a>创建企业应用程序项目时，建议您不要为其指定包含双字节字符集（DBCS）字符的名称。</p>
 </div>
 
-<div class="id_utilityJARLimitation"><h4 class="sectiontitle">Java™ build
-path updates when removing the dependency on a Utility JAR file</h4>When
-removing the dependency on a Utility JAR, the corresponding Java project
-will be removed from the Java build path only if the dependent JAR
-is still referenced by the EAR project. For example, suppose you create a
-J2EE 1.3 Web project and EAR along with the JUnit Java Example project. Next, add the JUnit
-project as a Utility JAR in the EAR, then add JUnit as a Java JAR
-Dependency of the Web project. If you then wanted to remove the dependency
-between JUnit and the Web project, remove the Java JAR Dependency from the Web project
-first, then remove the Utility JAR from the EAR. Follow this order to ensure
-that this works correctly.</div>
+<div class="id_utilityJARLimitation"><h4 class="sectiontitle">删除对Utility JAR文件的依赖关系时，Java™构建路径更新</h4>删除对Utility JAR的依赖关系时，仅当依赖JAR仍由EAR项目引用时，才会从Java构建路径中删除相应的Java项目。例如，假设您创建了一个J2EE 1.3 Web项目和EAR以及JUnit Java Example项目。接下来，将JUnit项目添加为EAR中的Utility JAR，然后将JUnit添加为Web项目的Java JAR依赖项。如果您希望删除JUnit和Web项目之间的依赖关系，请首先从Web项目中删除Java JAR依赖项，然后从EAR中删除Utility JAR。按照此顺序确保此操作正常。</div>
 
-<div class="id_JARdepLimitation"><h4 class="sectiontitle">Java JAR Dependencies page fails to update Java build
-path</h4>The Java JAR Dependencies page is not synchronized with
-the Java build
-path page in the project properties dialog. Therefore, a change applied in
-one may not be reflected in the other within the same dialog session. There
-are also some instances where flipping back and forth between the pages will
-cause the update from one to cancel out the update from another when the <span class="uicontrol">OK</span> button
-is clicked or if the <span class="uicontrol">Apply</span> button is clicked prior
-to the <span class="uicontrol">OK</span> button. Typically this will appear as if
-a JAR dependency was added, but the project did not get added to the Java build
-path. The workaround is to reopen the properties dialogs, switch to the JAR
-dependency page, clear and re-select the dependent JAR files, then click <span class="uicontrol">OK</span>.</div>
+<div class="id_JARdepLimitation"><h4 class="sectiontitle">Java JAR Dependencies页面无法更新Java构建路径</h4>Java JAR依赖项页面未与项目属性对话框中的Java构建路径页面同步。因此，在一个中应用的更改可能不会在同一对话会话中反映在另一个中。还有一些情况，当单击“ <span class="uicontrol">确定”</span>按钮或在“ <span class="uicontrol">确定”</span>按钮之前单击“ <span class="uicontrol">应用”</span>按钮时，在页面之间来回切换将导致从一个更新以从另一个更新取消更新。通常，这看起来好像添加了JAR依赖项，但项目未添加到Java构建路径中。解决方法是重新打开属性对话框，切换到JAR依赖关系页面，清除并重新选择依赖的JAR文件，然后单击“ <span class="uicontrol">确定”</span> 。</div>
 
-<div class="id_locationLimitation"><h4 class="sectiontitle">'Invalid project description'
-error when using a non-default project location for a new J2EE project</h4>When
-you create a new J2EE project (including Java, enterprise application, Dynamic Web,
-EJB, application client, and connector projects), you cannot use a project
-location that is already used by another project in the workbench. If you
-choose a project location that is used by another project, the wizard displays
-an "Invalid project description" error dialog or message. If after you receive
-this message you then select a valid project location by clicking the Browse
-button, the project creation will still not finish. The workaround is to click
-Cancel and reopen the project creation wizard.</div>
+<div class="id_locationLimitation"><h4 class="sectiontitle">为新J2EE项目使用非默认项目位置时出现“项目描述无效”错误</h4>创建新的J2EE项目（包括Java，企业应用程序，动态Web，EJB，应用程序客户端和连接器项目）时，不能使用工作台中另一个项目已使用的项目位置。如果选择另一个项目使用的项目位置，向导将显示“无效的项目描述”错误对话框或消息。如果在收到此消息后，通过单击“浏览”按钮选择有效的项目位置，项目创建仍将无法完成。解决方法是单击“取消”并重新打开项目创建向导。</div>
 
-<div class="anchor_topicbottom" />
+<div class="anchor_topicbottom"></div>
 
 </div>
 
