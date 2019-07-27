@@ -1,0 +1,110 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 8REAu11rTEvkhFpZHKFvKUFejRR+l
+ CK8WGMRcwW9Dzo=
+SHA-256-Digest-Manifest: VU31XR7+GD128f2/uMFtyigjBr3bRqQxR5oRtEkvDS4=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: concepts/cwsilud.html
+SHA-256-Digest: 1xQFXXpb5UxiB+OOo82dlnFYcbbwv5wY8XMQHKwaD3w=
+
+Name: plugin.xml
+SHA-256-Digest: Ggww96dg7yJk+DsG7t/Wa7Yegno0Gv3X6qlEB6+Vn4A=
+
+Name: ref/rwswizpref.html
+SHA-256-Digest: L6uAERgtSkt5YS2rlLI/7sRJnv0NFqWZRRQqbaIVDo8=
+
+Name: index/indexed_docs
+SHA-256-Digest: KgMhlOea1zAgpEEdybYYYZWB9hdvapTKJdgpvyFEMI0=
+
+Name: index/_v.cfs
+SHA-256-Digest: gTKtU5PMoRSVflQmHLERVt1yRaPO32vZpvBrAE2utVo=
+
+Name: concepts/cwstopdown.html
+SHA-256-Digest: FaQ+aW4qbWWRGyn7S0XB+Bs8ySKnpp6zygSOOH865e0=
+
+Name: concepts/cwsinwsa.html
+SHA-256-Digest: cekEAFr0/r3gU3XK15nCiofMAX9bO7cwXQpDnlE9l/k=
+
+Name: concepts/csoap.html
+SHA-256-Digest: oKArheLQYAI3UD3x8v9y/Rx0gr4slSjsoifEE2cXYkM=
+
+Name: index/deletable
+SHA-256-Digest: lJvrIrO4AFAFORn0g/j9TcU6EfB09qDZPgwYkJcvXTk=
+
+Name: ref/rservpolpref.html
+SHA-256-Digest: f65tIXGbbiIZ/LVrricbGXTl6RykIHgQlD0kWGeCvIQ=
+
+Name: webservice_toc.xml
+SHA-256-Digest: E5TKWsxJJuq390RBOM00QmNstnEF7u9VP2KlLWMF8LM=
+
+Name: concepts/cwsiover.html
+SHA-256-Digest: FCrKmPHHKV6I+NsFeH1JcFdBM+SyINfoguQuliYNy+c=
+
+Name: concepts/cws.html
+SHA-256-Digest: Zi3s8NTQWieoWkq4PYCY/sk3g2bkCl9wiU8nkfinQuA=
+
+Name: plugin.properties
+SHA-256-Digest: 4NssXePIIaWXCjIqF47uVjGnWR7zv7615Zo/wSbqPl4=
+
+Name: concepts/cwsbtmup.html
+SHA-256-Digest: kqfpbqOph8tzVkDD9nqxaBwzzJXKi+k9MK3uX/vK8Bc=
+
+Name: images/soapudws.gif
+SHA-256-Digest: d9dir3Dn4xmYzOSnGuFQAPIhDb4pQ7gOL8RI3iPhQ5g=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: concepts/cwsstandards.html
+SHA-256-Digest: UjQ9mbgvgEEIqCXG/aGxbb7bb9iyzW9C84D5A7kluaI=
+
+Name: tasks/twspref.html
+SHA-256-Digest: xXKNxe2J9m8sWi+vxgQc7iIPs4q150JSmlTkEJIbfuc=
+
+Name: concepts/cwsil.html
+SHA-256-Digest: R2npSxJejgCIzms0aJwps7CrpaOnVpIvAhA09+s8rFQ=
+
+Name: ref/rwsdl.html
+SHA-256-Digest: t/NP+KSq+f2CIJUzks73Q13PWn9mxq6MWWol2wRqST8=
+
+Name: concepts/cwsdl.html
+SHA-256-Digest: yavzc409BFmxErH7CdNUgo0YjAL9LENiCFgACxTZIFw=
+
+Name: concepts/cjsr109.html
+SHA-256-Digest: OU4d3TQQ+VxsJcO1qgCiweM7lFsMW96tsAHp2HwRutU=
+
+Name: images/roles.gif
+SHA-256-Digest: MDnSjpUcANmTZDcO2NOy8/vdaXbWC/lXZwzOdajJFjA=
+
+Name: concepts/cjaxrpc.html
+SHA-256-Digest: IoD2ncem/SGMMclLjZSv6PUtpTUN0dsxKSh3kCMB6D4=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.doc.user/pom.xml
+SHA-256-Digest: Dhoxk63+gxtFQiYQPE7FNF8HGgqDVBX8T0VJQu6LNYc=
+
+Name: index/segments
+SHA-256-Digest: H04StvfLXVgp7rVoI8/6IByBszIIQlU5BQIJdMatZX8=
+
+Name: ref/raxispref.html
+SHA-256-Digest: kunJxOER/6gWsXn6sD1LEBueOpIyHHWNQiR1iJXEhls=
+
+Name: tasks/toverws.html
+SHA-256-Digest: NKxpU3+kjnZz90d4TIx48FfTpUSqUfrNKGY6+IjjtI4=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: kl5s/PghaK1Xhh0VDiLg+wa75BCBhk2MswfHNTb91Sw=
+
+Name: index/indexed_contributions
+SHA-256-Digest: 8lElSTJPp94/nxkvmvEc70vVL5fK7xTMmXIVwos3jKA=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.doc.user/pom.properties
+SHA-256-Digest: dwKShr1ClpH2XxRIJ2wU+6hWBzmENwsRJitohEYQrOU=
+
+Name: org.eclipse.jst.ws.doc.userindex.xml
+SHA-256-Digest: uNJJgOa2cv9fa53vHavP/C/+ntMlS39ynAdw23tGR5E=
+
+Name: ref/rwsdlpref.html
+SHA-256-Digest: vP908kuwLDRFcILm/c+XazETZRe+BhGb6TuiDgfB3XM=
+

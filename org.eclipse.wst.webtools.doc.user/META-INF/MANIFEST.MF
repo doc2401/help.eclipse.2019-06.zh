@@ -1,0 +1,216 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.wst.webtools.doc.user; singleton:=tru
+ e
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.500.v201903222120
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/source
+ editing/webtools.sourceediting.git;path="web/docs/org.eclipse.wst.web
+ tools.doc.user";commitId=12232675002034e762f9182b4e5f6852b344004a
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_192
+Eclipse-LazyStart: true
+
+Name: images/nwlnkind.gif
+SHA-256-Digest: khU1SknNolLc56QCg/IrkUuVZBlRBLFY9JOWCxZimO8=
+
+Name: plugin.xml
+SHA-256-Digest: lc3jXe9+pA9zSDGSqWuR+tcKd7UgcCMdLgU9YPET6xM=
+
+Name: topics/cwlistbn.html
+SHA-256-Digest: vhAp4rlZ1Uljw7ytU7CwSAn+8aIFNqU9S/OtXOUIIZo=
+
+Name: index/deletable
+SHA-256-Digest: 3z9hmASpL9tAVxktxD3XSOp3itxSvEmM6AUkwBS4ERk=
+
+Name: topics/cwebartifact.html
+SHA-256-Digest: k8e3TouVyqLCLYVxU04I7PFM6K4cFvMHZtkX7DymaOg=
+
+Name: topics/twsrvwiz.html
+SHA-256-Digest: xs57pACWzRqcsqJC3UXf44x27KN7o/KBCVuVXW/pAiI=
+
+Name: topics/twcrewar.html
+SHA-256-Digest: 6qU1pv8LWre7/Zdic/24w2Y4Rh2CvbtEwD8ospMISdc=
+
+Name: topics/cwtfeatures.html
+SHA-256-Digest: 7J17dRuqvJ0mBy3krD9t+MFweAtw79yKv9xyp9TF3w4=
+
+Name: topics/tjdetags.html
+SHA-256-Digest: M3SZqPIaqNxfSSlJCtL8y2S1PQyuHc9CjmxvG4AQ2iQ=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.webtools.doc.user/pom.properties
+SHA-256-Digest: c7sn5WorC19p1Uhfm0KOhzdhuQx4cG0W7RHFDNaPTqk=
+
+Name: index/_10.cfs
+SHA-256-Digest: P097c2hrFIJ4RDmQpGx1iUuvDzmrYdx4AQaJ/l6WQ+E=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.webtools.doc.user/pom.xml
+SHA-256-Digest: +t78xm5J9v4pSPnwc+kPC/IGN/5N5++nW3n4iFodlGA=
+
+Name: plugin.properties
+SHA-256-Digest: gM5bvbsefZAQ9VwruBrLFdyRvqeplqeTAbgzA95E94s=
+
+Name: images/menubutton.gif
+SHA-256-Digest: Sx8GrPuKU6fnHJrrjUeNpA1KO5SkjklEWgGgHE8Ez2o=
+
+Name: images/nwarning.gif
+SHA-256-Digest: ly+Pha1vcgE6RDD2/XB3pwnmVu9HUj5QRVoCUCisKuA=
+
+Name: images/nwlnkgr-l.gif
+SHA-256-Digest: FSvvMGHSQPoi3c5N0ZHPzcHJ7oEPJOTxH9pmfMVQ8hg=
+
+Name: topics/tjcrejsp.html
+SHA-256-Digest: MyxFZCHE82tG9pHVPuyvBLIWbUVitq/AwUwyhhH5YZU=
+
+Name: topics/ccwebprj.html
+SHA-256-Digest: IO2QKmibyzp+JvKa3TlcMJ+xJRNTdxuW/BEBDwxkpXQ=
+
+Name: topics/tstylesheet.html
+SHA-256-Digest: 1doCg+sp7+uudZpYmkCzCwUL8oUpY/JI88q0i/wpRl8=
+
+Name: images/nlinux.gif
+SHA-256-Digest: I3KlS2dAET0SVm+unmlLHGDTzGxHP9s9HIefMMzQQVA=
+
+Name: topics/cwebpagedesign.html
+SHA-256-Digest: q+NNdGAcyxMIVsSGzfCLBHqOG52LietJZzrgMxO1v3k=
+
+Name: topics/cwservbn.html
+SHA-256-Digest: mZUCdnvZFft11S7FMXY+pdDSUhtFAzCmfztnySuOdUA=
+
+Name: images/grptype.gif
+SHA-256-Digest: NGJJcvL7lAVDE3FOCUUrCRnLh+GnstU2b0AOWwWdsIE=
+
+Name: topics/twfltwiz.html
+SHA-256-Digest: E1REIF0Q0QuTnv13ZGRR9sijzzg6qeSfRcYKv7xQKmw=
+
+Name: topics/twimpwar.html
+SHA-256-Digest: rfqVpA53/arVD8O2ulA7+hRtxo09HClhbi85RdNqN+Q=
+
+Name: images/nwlnkmal.gif
+SHA-256-Digest: 9CmOkWqVov82O4LV958oedwKQtF9ZsQu9x3J3UXRzoU=
+
+Name: topics/twplib.html
+SHA-256-Digest: 3ODyzaCMhww62o8ayz4lGi8XV64ZUFjUMY6TkzBRua4=
+
+Name: topics/cwebprojects.html
+SHA-256-Digest: 7/uRCX1Eb5RRyH8ggOXNDjcpWb3K72caBZIGRrh0RoI=
+
+Name: topics/twcresta.html
+SHA-256-Digest: JKlpPlqHO3pN6ao549IaK4BbvSWzTZ4FPC7zOSvzH3o=
+
+Name: images/skipit.gif
+SHA-256-Digest: iW3ekF5WXUXarod15Yv9hGn75QhS6y4dc/s7c4GTtps=
+
+Name: index/indexed_docs
+SHA-256-Digest: W5vUBf7cLdXjjcZheyUMhbuiYR24tHyJijORQw/2sdw=
+
+Name: topics/ccwebvw.html
+SHA-256-Digest: UjP50pv4dy4US41RU5AMls9Z1P9KK0hO0AGx1/KBKRA=
+
+Name: topics/twprjset.html
+SHA-256-Digest: BZIv5HQjGrAAyLdla4NjxzGL33S19Ey19ewS/0jWYBI=
+
+Name: images/viewlink.gif
+SHA-256-Digest: /Hv1zoWtdO8EVZYN37kN6GPuKs9Wciw0d5qNqxtcAtM=
+
+Name: images/nwlnknum.gif
+SHA-256-Digest: 24VwXxx3W2oOuPjmt9m6Y+8YEsJZpK3lajPsfiCgISk=
+
+Name: images/nwlnkque.gif
+SHA-256-Digest: ayxvI2c/7XYaM4mqhgfwgH71KQ+JB7zG6KJJVhb/+wg=
+
+Name: topics/cwwarovr.html
+SHA-256-Digest: l0JLy0jmdU4vrZi2aVkzJFOY2o8ODYj2ohHN0BY9/cM=
+
+Name: topics/tjprefs.html
+SHA-256-Digest: ubzXFuj2DkTf3eKnTj2tdVlhSIDPQBJXc0SiHGXiOQ0=
+
+Name: topics/ccwtover.html
+SHA-256-Digest: +3TMGOf7NjB+lLQ6i/92y6rM7TWQ+ubmbQ7k9BkOJng=
+
+Name: org.eclipse.wst.webtools.doc.userindex.xml
+SHA-256-Digest: rbZpYKUB1KsEgrKMci6not4rX7fOhtS//+jpK0FdJ8E=
+
+Name: images/nwin.gif
+SHA-256-Digest: 2Ih3RFFh2O5V05ZThNRNu7O6LJIsBr8Wi23XCRCtE8o=
+
+Name: topics/tjchgxdt.html
+SHA-256-Digest: M6RCKAvZyBhRGqCV+64+wrNDp0lARUgIfQbS3XQ6HoE=
+
+Name: topics/twcreprj.html
+SHA-256-Digest: H6vp6U+74AkDGNALVlQB+keQBt4jsWibAml0TB5hOuM=
+
+Name: topics/twpcnvrt.html
+SHA-256-Digest: hPbuNKGJVu4Wqak3jEVrhWNR0NVCNur1tFb+orvNx8I=
+
+Name: webtools_toc.xml
+SHA-256-Digest: Qk2e6m3wOzJkNxzl3lgWsl5e/JQe8yCX0jo5xPyMS9g=
+
+Name: topics/cwfiltbn.html
+SHA-256-Digest: OiDYz23GALKq6ylERe5XYracLrI5xhsZwiPwjaTfM8g=
+
+Name: images/nshowerr.gif
+SHA-256-Digest: 7aU5kd+X7kpmzS6NvcT9gcik+KgIxr/Aes1hio5g6fk=
+
+Name: topics/cwwedtvw.html
+SHA-256-Digest: /ee6XbIiRCqcyp1kAeV+yPUuyX0RQxSn/Qz0pZiq8lA=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: topics/cpdjsps.html
+SHA-256-Digest: +epKY0wfnAjaK1L2AQ727vpUXal9oALI0rKxNkE9WYI=
+
+Name: images/nwlnktsk.gif
+SHA-256-Digest: XL32a8Sv8MUdB/p//ydqCt08NBkPrOlM/hc4gymckGM=
+
+Name: topics/tservertarget.html
+SHA-256-Digest: gHQmdVF92OphBCh5e/vWrTk07/QaiIQM9EjsHDOlv2E=
+
+Name: topics/twlstwiz.html
+SHA-256-Digest: WPP0T/xHeOEgNA6bMa2GRQL0vU9ZoIdL8YplNVu15yA=
+
+Name: topics/tjcrehtm.dita
+SHA-256-Digest: WgB3pyS2aDBLDbWYVP82fZBXNxMvxfmSCo4dsq2bkbA=
+
+Name: index/segments
+SHA-256-Digest: Yf52Obr1aS5uqvNtF+FJa/aBSc2MX+RVhq0YQ672Sis=
+
+Name: images/nwlnkotr.gif
+SHA-256-Digest: sw6PjIEthzfQJOs993nvD1qOPoG8YHVYFIt8ycv7WWw=
+
+Name: images/nwlnkbrk.gif
+SHA-256-Digest: RrDnnzmwznO1h+x6DUhy6R046qOCylFCgdWwIuqIMY8=
+
+Name: topics/cwebresources.html
+SHA-256-Digest: pWKKiwLKbCq9g18K3tObWsFT9rYK84jlSj/F+NNw0YU=
+
+Name: topics/tjcrehtm.html
+SHA-256-Digest: a6kMbAHw94SpfcjoXFcYeXAxMfQJLetq7h0dCoWvgXM=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: 71zRWrzcMYGyt5GDxRBOHdKS0ZDKCLGb9EWr0uKnJsw=
+
+Name: images/nwlnkcss.gif
+SHA-256-Digest: R7sxHqhgi3ODebshMZRZIxzeY7wsEnEnKkM6uVjZs34=
+
+Name: topics/ccstatic.html
+SHA-256-Digest: 1LSn7dKTCt69BoW4jzrq8gwPMkzH2gEC0Krm+hygBps=
+
+Name: index/indexed_contributions
+SHA-256-Digest: zGPinly6Nmb1ShsOyQswqg55jVENcyc5/Ggfj+Bqipk=
+
+Name: images/nwlnkgr.gif
+SHA-256-Digest: Y+dgua74is2AONQxKVK9uLnSmcX625q1Elg2tRLbdAo=
+
+Name: topics/twcvsr.html
+SHA-256-Digest: 4fUo9FwBMGeYzFTv2lZjXir9imtbsg2La8rAr2N4cEQ=
+
+Name: images/fixit.gif
+SHA-256-Digest: NVsYsvn1ec8Ityb3CGpUL5/aaf6KVoHlBfNH2CbFh1k=
+
