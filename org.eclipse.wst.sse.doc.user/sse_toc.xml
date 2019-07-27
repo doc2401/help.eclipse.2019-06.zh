@@ -15,34 +15,34 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Editing text coded in markup languages - overview" topic="topics/csrcedt004.html">
-<topic label="Structured text editors" href="topics/csrcedt004.html">
-<topic label="Editing text coded in markup languages " href="topics/tsrcedt000.html">
-<topic label="Source and batch validation" href="topics/cvalidate.html"/>
-<topic label="Setting preferences for structured text editors" href="topics/tsrcedt025.html">
-<topic label="Setting annotation preferences for markup languages" href="topics/tsrcedt001.html"/>
+<toc label="编辑以标记语言编码的文本 - 概述" topic="topics/csrcedt004.html">
+<topic label="结构化文本编辑器" href="topics/csrcedt004.html">
+<topic label="编辑以标记语言编码的文本" href="topics/tsrcedt000.html">
+<topic label="源和批次验证" href="topics/cvalidate.html"/>
+<topic label="设置结构化文本编辑器的首选项" href="topics/tsrcedt025.html">
+<topic label="设置标记语言的注释首选项" href="topics/tsrcedt001.html"/>
 </topic>
-<topic label="Getting content assistance in structured text editors" href="topics/tsrcedt005.html">
-<topic label="Content assist" href="topics/csrcedt006.html"/>
-<topic label="Making content assist work for JSP files" href="topics/tsrcedt023.html"/>
+<topic label="在结构化文本编辑器中获取内容帮助" href="topics/tsrcedt005.html">
+<topic label="内容辅助" href="topics/csrcedt006.html"/>
+<topic label="使内容辅助工作JSP文件" href="topics/tsrcedt023.html"/>
 </topic>
-<topic label="Associating editors with file types" href="topics/tcontenttype.html"/>
-<topic label="File Encoding" href="topics/cencoding.html"/>
-<topic label="Searching or finding text within a file" href="topics/tsrcedt007.html"/>
-<topic label="Checking spelling" href="topics/tsrcedt010.html"/>
-<topic label="Adding and removing markup language templates - overview" href="topics/tsrcedt027.html">
-<topic label="Adding and removing HTML templates" href="topics/tsrcedt024.html"/>
-<topic label="Adding and removing JSP templates" href="topics/tsrcedt028.html"/>
-<topic label="Adding and removing XML templates" href="topics/tsrcedt029.html"/>
+<topic label="将编辑器与文件类型相关联" href="topics/tcontenttype.html"/>
+<topic label="文件编码" href="topics/cencoding.html"/>
+<topic label="在文件中搜索或查找文本" href="topics/tsrcedt007.html"/>
+<topic label="检查拼写" href="topics/tsrcedt010.html"/>
+<topic label="添加和删除标记语言模板 - 概述" href="topics/tsrcedt027.html">
+<topic label="添加和删除HTML模板" href="topics/tsrcedt024.html"/>
+<topic label="添加和删除JSP模板" href="topics/tsrcedt028.html"/>
+<topic label="添加和删除XML模板" href="topics/tsrcedt029.html"/>
 </topic>
-<topic label="Editing with snippets - overview" href="topics/tsrcedt026.html">
-<topic label="Snippets view" href="topics/csrcedt001.html"/>
-<topic label="Adding snippets drawers" href="topics/tsrcedt014.html"/>
-<topic label="Adding items to snippets drawers" href="topics/tsrcedt015.html"/>
-<topic label="Editing snippet items" href="topics/tsrcedt022.html"/>
-<topic label="Deleting or hiding snippet items or drawers" href="topics/tsrcedt016.html"/>
+<topic label="使用片段进行编辑 - 概述" href="topics/tsrcedt026.html">
+<topic label="片段视图" href="topics/csrcedt001.html"/>
+<topic label="添加片段抽屉" href="topics/tsrcedt014.html"/>
+<topic label="将片段添加到片段抽屉" href="topics/tsrcedt015.html"/>
+<topic label="编辑代码段项" href="topics/tsrcedt022.html"/>
+<topic label="删除或隐藏片段项或抽屉" href="topics/tsrcedt016.html"/>
 </topic>
-<topic label="Source editor keyboard shortcuts" href="../org.eclipse.wst.xmleditor.doc.user/topics/rxmltoolskey.html"/>
+<topic label="源编辑器键盘快捷键" href="../org.eclipse.wst.xmleditor.doc.user/topics/rxmltoolskey.html"/>
 </topic>
 </topic>
 </toc>

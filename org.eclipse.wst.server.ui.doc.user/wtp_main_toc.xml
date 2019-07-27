@@ -15,58 +15,58 @@
         IBM Corporation - initial API and implementation
  -->
 
-<toc label="Testing and publishing applications" topic="topics/cwover.html">
-<topic label="Testing and publishing on your server" href="topics/cwover.html">
-<topic label="Servers view" href="topics/rwrcview.html">
-<topic label="Keyboard shortcuts for Server Tools" href="topics/raccessserver.html"/>
+<toc label="测试和发布应用程序" topic="topics/cwover.html">
+<topic label="在您的服务器上测试和发布" href="topics/cwover.html">
+<topic label="服务器视图" href="topics/rwrcview.html">
+<topic label="服务器工具的键盘快捷键" href="topics/raccessserver.html"/>
 </topic>
-<topic label="Resources used by the Server Tools" href="topics/cwres.html"/>
-<topic label="Which server will start" href="topics/cwflow.html"/>
-<topic label="Testing applications on a server" href="topics/tj2ee.html">
-<topic label="Testing artifacts on a server" href="topics/testing.html"/>
-<topic label="Testing on a HTTP Preview server" href="topics/thttppreview.html"/>
-<topic label="Testing on a J2EE Preview server" href="topics/tj2eepreview.html"/>
+<topic label="服务器工具使用的资源" href="topics/cwres.html"/>
+<topic label="哪个服务器将启动" href="topics/cwflow.html"/>
+<topic label="测试服务器上的应用程序" href="topics/tj2ee.html">
+<topic label="测试服务器上的工件" href="topics/testing.html"/>
+<topic label="在HTTP预览服务器上进行测试" href="topics/thttppreview.html"/>
+<topic label="在J2EE预览服务器上进行测试" href="topics/tj2eepreview.html"/>
 </topic>
-<topic label="Debugging applications on a server" href="topics/tdebug.html">
-<topic label="Debugging a servlet on a server" href="topics/tservlet.html"/>
-<topic label="Debugging a JSP file on a server" href="topics/tdbgjsp.html"/>
-<topic label="Monitoring server ports" href="topics/tmonitorport.html"/>
+<topic label="调试服务器上的应用程序" href="topics/tdebug.html">
+<topic label="调试服务器上的servlet" href="topics/tservlet.html"/>
+<topic label="调试服务器上的JSP文件" href="topics/tdbgjsp.html"/>
+<topic label="监控服务器端口" href="topics/tmonitorport.html"/>
 </topic>
-<topic label="Publishing applications to a server" href="topics/tpublish.html">
-<topic label="Publishing your application" href="topics/twpub.html"/>
+<topic label="将应用程序发布到服务器" href="topics/tpublish.html">
+<topic label="发布您的申请" href="topics/twpub.html"/>
 </topic>
-<topic label="Creating, editing and deleting servers" href="topics/tcreate.html">
-<topic label="Creating a server " href="topics/twcrtins.html">
+<topic label="创建，编辑和删除服务器" href="topics/tcreate.html">
+<topic label="创建服务器" href="topics/twcrtins.html">
 <link toc="../org.eclipse.jst.server.ui.doc.user/tomcat_create.xml"/>
-<topic label="...HTTP Preview server" href="topics/thttppreview.html"/>
-<topic label="...J2EE Preview server" href="topics/tj2eepreview.html"/>
+<topic label="... HTTP预览服务器" href="topics/thttppreview.html"/>
+<topic label="... J2EE预览服务器" href="topics/tj2eepreview.html"/>
 </topic>
-<topic label="Editing a server" href="topics/twedtins.html"/>
-<topic label="Deleting a server" href="topics/twdelins.html"/>
+<topic label="编辑服务器" href="topics/twedtins.html"/>
+<topic label="删除服务器" href="topics/twdelins.html"/>
 </topic>
-<topic label="Managing servers " href="topics/twmanage.html">
-<topic label="Adding projects to a server " href="topics/twaddprj.html"/>
-<topic label="Removing a project from a server" href="topics/twremprj.html"/>
-<topic label="Starting a server" href="topics/twsrtins.html">
-<topic label="Starting a server in debug mode" href="topics/twsrtdbg.html"/>
+<topic label="管理服务器" href="topics/twmanage.html">
+<topic label="将项目添加到服务器" href="topics/twaddprj.html"/>
+<topic label="从服务器中删除项目" href="topics/twremprj.html"/>
+<topic label="启动服务器" href="topics/twsrtins.html">
+<topic label="以调试模式启动服务器" href="topics/twsrtdbg.html"/>
 </topic>
-<topic label="Stopping a server" href="topics/twstpins.html"/>
-<topic label="Setting timeout on the start or stop of the server" href="topics/ttimeout.html"/>
-<topic label="Setting a default server" href="topics/twprefin.html"/>
-<topic label="Displaying or hiding the metadata of the server" href="topics/tmetasrv.html"/>
-<topic label="Cleaning projects published on the server" href="topics/tclean.html"/>
+<topic label="停止服务器" href="topics/twstpins.html"/>
+<topic label="设置服务器启动或停止时的超时" href="topics/ttimeout.html"/>
+<topic label="设置默认服务器" href="topics/twprefin.html"/>
+<topic label="显示或隐藏服务器的元数据" href="topics/tmetasrv.html"/>
+<topic label="清理服务器上发布的项目" href="topics/tclean.html"/>
 </topic>
-<topic label="Defining server preferences" href="topics/tpref.html">
-<topic label="Defining the server preferences" href="topics/twsrvprf.html"/>
-<topic label="Defining the audio preferences" href="topics/tprefaud.html"/>
-<topic label="Defining the launching preferences" href="topics/twlaunchpref.html"/>
-<topic label="Defining the server runtime environments preferences" href="topics/twinstprf.html">
+<topic label="定义服务器首选项" href="topics/tpref.html">
+<topic label="定义服务器首选项" href="topics/twsrvprf.html"/>
+<topic label="定义音频首选项" href="topics/tprefaud.html"/>
+<topic label="定义启动首选项" href="topics/twlaunchpref.html"/>
+<topic label="定义服务器运行时环境首选项" href="topics/twinstprf.html">
 <link toc="../org.eclipse.jst.server.ui.doc.user/tomcat_pref.xml"/>
 </topic>
-<topic label="Defining the TCP/IP Monitor preferences" href="topics/twtcpprf.html">
-<topic label="TCP/IP Monitor view" href="topics/rwtcpvw.html"/>
+<topic label="定义TCP / IP Monitor首选项" href="topics/twtcpprf.html">
+<topic label="TCP / IP Monitor视图" href="topics/rwtcpvw.html"/>
 </topic>
-<topic label="Showing the state and status in the Servers view" href="topics/tdecor.html"/>
+<topic label="在Servers视图中显示状态和状态" href="topics/tdecor.html"/>
 </topic>
 </topic>
 </toc>
