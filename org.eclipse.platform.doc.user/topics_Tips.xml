@@ -6,7 +6,7 @@
 <toc label="技巧和窍门">
 	<topic label="工作台" href="tips/platform_tips.html#Workbench"/>
 	<topic label="编辑" href="tips/platform_tips.html#Editing"/>
-	<topic label="蚂蚁" href="tips/platform_tips.html#Ant"/>
+	<topic label="Ant" href="tips/platform_tips.html#Ant"/>
 	<topic label="救命" href="tips/platform_tips.html#Help"/>
 	<topic label="团队 -  CVS" href="tips/platform_tips.html#CVS"/>
 </toc>

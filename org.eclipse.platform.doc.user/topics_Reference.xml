@@ -13,12 +13,12 @@
 	<topic label="喜好" href="reference/ref-72.htm">
 		<topic label="无障碍" href="reference/ref-7.htm"></topic>
 		<topic label="注释" href="reference/ref-22.htm"></topic>
-		<topic label="蚂蚁" href="reference/ref-antprefs.htm">
+		<topic label="Ant" href="reference/ref-antprefs.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
 		</topic>
-		<topic label="蚂蚁内容协助" href="reference/ref-antcontentassist.htm">
+		<topic label="Ant内容协助" href="reference/ref-antcontentassist.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
@@ -33,7 +33,7 @@
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
 		</topic>		
-		<topic label="蚂蚁运行时" href="reference/ref-antruntimeprefs.htm">
+		<topic label="Ant运行时" href="reference/ref-antruntimeprefs.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
@@ -257,7 +257,7 @@
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
 		</topic>
-		<topic label="蚂蚁观" href="reference/ref-antview.htm">
+		<topic label="Ant视图" href="reference/ref-antview.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
 			</enablement>
@@ -309,7 +309,7 @@
 		<topic label="编辑区标记栏" href="reference/ref-66.htm"></topic>
 		<topic label="任务视图" href="reference/ref-67.htm"></topic>
 		<topic label="工具栏按钮" href="reference/ref-68.htm"></topic>
-		<topic label="外部工具和蚂蚁图标" href="reference/ref-anticons.htm">
+		<topic label="外部工具和Ant图标" href="reference/ref-anticons.htm">
 			<enablement>
 				<test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ui.externaltools"/>
 			</enablement>

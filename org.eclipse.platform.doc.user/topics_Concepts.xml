@@ -32,7 +32,7 @@
    <anchor id="c_aftereditors" />
    <topic label="查看" href="concepts/concepts-5.htm" >
       <topic label="独立的意见" href="concepts/concepts-21a.htm" />
-      <topic href="reference/ref-antview.htm" label="蚂蚁观">
+      <topic href="reference/ref-antview.htm" label="Ant视图">
       </topic>
       <topic label="Project Explorer视图" href="concepts/cnav.htm" />
       <topic label="帮助查看" href="concepts/help_view.htm">
@@ -61,8 +61,8 @@
       </enablement>
    </topic>
    <anchor id="c_afterhelp" />
-   <topic label="蚂蚁＆amp;外部工具" href="concepts/concepts-antexttools.htm" >
-      <topic label="蚂蚁支持" href="concepts/concepts-antsupport.htm"/>
+   <topic label="Ant＆amp;外部工具" href="concepts/concepts-antexttools.htm" >
+      <topic label="Ant支持" href="concepts/concepts-antsupport.htm"/>
       <enablement>
          <test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
       </enablement>

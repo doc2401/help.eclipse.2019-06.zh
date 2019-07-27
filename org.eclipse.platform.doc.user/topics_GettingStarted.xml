@@ -125,7 +125,7 @@
 
    <anchor id="gs_afterteam" />
 
-   <topic label="蚂蚁＆amp;外部工具教程" href="gettingStarted/qs-80_ant.htm">
+   <topic label="Ant＆amp;外部工具教程" href="gettingStarted/qs-80_ant.htm">
      <topic label="Eclipse Ant基础知识" href="gettingStarted/qs-81_basics.htm">
        <topic label="创建Ant构建文件" href="gettingStarted/qs-82_create.htm"/>
        <topic label="编辑Ant构建文件" href="gettingStarted/qs-83_edit.htm"/>

@@ -148,7 +148,7 @@
 			</topic>
 			<topic href="guide/user/The-ATL-Tools.html#Running_an_ATL_launch_configuration" label="运行ATL启动配置"></topic>
 		</topic>
-		<topic href="guide/user/The-ATL-Tools.html#ATL_ant_tasks" label="ATL蚂蚁任务">
+		<topic href="guide/user/The-ATL-Tools.html#ATL_ant_tasks" label="ATLAnt任务">
 			<topic href="guide/user/The-ATL-Tools.html#Task_atl.loadModel" label="任务atl.loadModel">
 				<topic href="guide/user/The-ATL-Tools.html#Parameters_specified_as_attributes" label="参数指定为属性"></topic>
 				<topic href="guide/user/The-ATL-Tools.html#Parameters_specified_as_nested_elements" label="指定为嵌套元素的参数"></topic>
