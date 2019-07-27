@@ -27,7 +27,7 @@
          skip="true"
          title="Open the Java EE perspective">
       <description>
-         使用JAX-WS Web服务时，应使用Java EE透视图。如果您已激活Java EE透视图，则可以通过单击<b>单击以跳过</ b>按钮跳过此步骤。如果没有，请选择<b>窗口 - ＆gt;开放视角 - ＆gt;其他...... </ b>从主菜单中选择<b> Open Perspective </ b>对话框中的<b> Java EE </ b>。
+         使用JAX-WS Web服务时，应使用Java EE透视图。如果您已激活Java EE透视图，则可以通过单击<b>单击以跳过</ b>按钮跳过此步骤。如果没有，请选择<b>窗口 - &gt;开放视角 - &gt;其他...... </ b>从主菜单中选择<b> Open Perspective </ b>对话框中的<b> Java EE </ b>。
       </description>
       <command
             required="false"
@@ -42,7 +42,7 @@
          在创建JAX-WS Web服务之前，我们需要一个项目来放入它。执行以下步骤来创建动态Web项目。
 <BR/>
 <BR/>
-选择<b>文件 - ＆gt;新 - ＆gt;项目... </ b>从主菜单中，在结果<b>新建项目</ b>对话框中展开<b> Web </ b>类别，然后选择<b>动态Web项目</ b> 。
+选择<b>文件 - &gt;新 - &gt;项目... </ b>从主菜单中，在结果<b>新建项目</ b>对话框中展开<b> Web </ b>类别，然后选择<b>动态Web项目</ b> 。
 <BR/>
 <BR/>
 在向导的第一页上输入<b>项目名称：</ b>，选择Apache Tomcat作为<b>目标运行时</ b>，然后单击<b>完成</ b>。

@@ -8,11 +8,11 @@
    <item title="Check out the test project" dialog="true" skip="false">
       <description>
       </description>
-      <subitem label="从主菜单中，选择文件 - ＆gt;导入...  - ＆gt; CVS的项目。" skip="false">
+      <subitem label="从主菜单中，选择文件 - &gt;导入...  - &gt; CVS的项目。" skip="false">
          <command serialization="org.eclipse.ui.file.import(importWizardId=org.eclipse.team.cvs.ui.newProjectCheckout)" confirm="false">
          </command>
       </subitem>
-      <subitem label="如果以下存储库尚不存在，请通过选择“创建新存储库位置”，按“下一步”并填写以下信息来创建它：主机：sourceware.org存储库路径：/ cvs / eclipse用户：＆lt ;匿名＆GT;连接类型：pserver" skip="true">
+      <subitem label="如果以下存储库尚不存在，请通过选择“创建新存储库位置”，按“下一步”并填写以下信息来创建它：主机:  sourceware.org 存储库路径:  /cvs/eclipse 用户: &lt;anonymous&gt;连接类型：pserver" skip="true">
       </subitem>
       <subitem label="按Next进入CVS模块选择。" skip="false">
       </subitem>
@@ -24,7 +24,7 @@
       </subitem>
       <subitem label="按完成。" skip="false">
       </subitem>
-      <subitem label="选择C / C ++  - ＆gt; C项目" skip="false">
+      <subitem label="选择C / C ++  - &gt; C项目" skip="false">
       </subitem>
       <subitem
             label="在C Project对话框中，在树视图中打开GNU Autotools类别，然后选择“Empty Project”。">
@@ -53,7 +53,7 @@
    </item>
    <item title="View build output" dialog="true" skip="false">
       <description>
-         在控制台视图中，有一个标题为“显示所选控制台”的按钮。它的图标描绘了一个带有两行文字的显示器。按此按钮将下拉以显示所有可用的控制台。此时，您应该有三个控制台：一个用于配置输出（“配置”），一个用于构建输出（“C-Build”），另一个用于您刚刚运行的二进制输出（＆lt;＆lt; terminated＆gt; ;来源......“）。
+         在控制台视图中，有一个标题为“显示所选控制台”的按钮。它的图标描绘了一个带有两行文字的显示器。按此按钮将下拉以显示所有可用的控制台。此时，您应该有三个控制台：一个用于配置输出（“配置”），一个用于构建输出（“C-Build”），另一个用于您刚刚运行的二进制输出（＆lt;＆lt; terminated&gt; ;来源......“）。
       </description>
       <subitem label="通过在下拉列表中选择配置控制台来查看配置输出。" skip="false">
       </subitem>
@@ -71,7 +71,7 @@
       </subitem>
       <subitem label="选择二进制文件本身。这将被称为“a.out”。如果你按照这个例子。" skip="false">
       </subitem>
-      <subitem label="右键单击二进制文件本身，然后选择“运行方式”。 - ＆GT; “本地C / C ++应用程序”。" skip="false">
+      <subitem label="右键单击二进制文件本身，然后选择“运行方式”。 - &gt; “本地C / C ++应用程序”。" skip="false">
       </subitem>
       <subitem label="选择“gdb Debugger” “启动调试配置选择”中的（默认值）对话。" skip="false">
       </subitem>
@@ -88,7 +88,7 @@
       </description>
       <subitem label="选择项目“来源”如果尚未在Project Explorer中选择它。" skip="false">
       </subitem>
-      <subitem label="从主菜单中，选择Project  - ＆gt;属性。" skip="false">
+      <subitem label="从主菜单中，选择Project  - &gt;属性。" skip="false">
       </subitem>
       <subitem label="展开“Autotools”并选择“配置设置”。" skip="false">
       </subitem>
@@ -101,7 +101,7 @@
    </item>
    <item title="Finished!" dialog="true" skip="false">
       <description>
-         <B>恭喜！</ b>的
+         <B>恭喜！</B>的
 您现在有一个简单的GNU autotools项目。
       </description>
    </item>

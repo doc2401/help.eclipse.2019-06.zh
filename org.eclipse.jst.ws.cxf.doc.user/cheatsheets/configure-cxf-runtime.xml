@@ -42,7 +42,7 @@
          在使用Apache CXF创建JAX-WS Web服务之前，必须在工作台中配置它。
 <BR/>
 <BR/>
-从主菜单中选择<b> Window-＆gt; Preferences </ b>，在结果对话框中展开<b> Web Services </ b>大纲树节点，然后选择<b> CXF 2.x首选项</ b >。选择“点击执行”按钮按钮自动执行此操作。
+从主菜单中选择<b> Window-&gt; Preferences </ b>，在结果对话框中展开<b> Web Services </ b>大纲树节点，然后选择<b> CXF 2.x首选项</ b >。选择“点击执行”按钮按钮自动执行此操作。
 <BR/>
 <BR/>
 浏览到安装Apache CXF的位置，然后单击“首选项”对话框中的<b>确定</ b>。
@@ -57,7 +57,7 @@
          title="Set Apache CXF as the default runtime"
          dialog="true">
       <description>
-         要在工作台中将Apache CXF设置为默认Web服务运行时，请从主菜单中选择<b>窗口 - ＆gt;首选项</ b>，在结果对话框中展开<b> Web服务</ b>大纲树节点，并选择<b>服务器和运行时</ b>。选择“点击执行”按钮将打开此首选项页面。
+         要在工作台中将Apache CXF设置为默认Web服务运行时，请从主菜单中选择<b>窗口 - &gt;首选项</ b>，在结果对话框中展开<b> Web服务</ b>大纲树节点，并选择<b>服务器和运行时</ b>。选择“点击执行”按钮将打开此首选项页面。
 <BR/>
 <BR/>
 在<b> Web服务运行时</ b>下拉列表中，选择“Apache CXF 2.x”。然后单击<b>确定</ b>。

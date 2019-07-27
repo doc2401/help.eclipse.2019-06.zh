@@ -38,7 +38,7 @@
          要从WSDL文档生成JAX-WS SEI和框架实现bean，请执行以下步骤：
       </description>
       <subitem
-            label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
+            label="选择“文件 - &gt;新 - &gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务”。点击“确定”启动Web服务向导或选择“单击以执行”按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.creation.ui.wizard.serverwizard)"/>
@@ -56,10 +56,10 @@
             label="将服务滑块移动到“开发服务”阶段。">
       </subitem>
       <subitem
-            label="接受此页面上的所有其他默认值，然后点击“下一步＆gt;”。">
+            label="接受此页面上的所有其他默认值，然后点击“下一步&gt;”。">
       </subitem>
       <subitem
-            label="在Apache CXF WSDL to Java页面上接受默认值，然后单击“下一步＆gt;”。">
+            label="在Apache CXF WSDL to Java页面上接受默认值，然后单击“下一步&gt;”。">
       </subitem>
       <subitem
             label="选择“生成实施”在WSDL to Java首选项覆盖页面上，单击“完成”。">

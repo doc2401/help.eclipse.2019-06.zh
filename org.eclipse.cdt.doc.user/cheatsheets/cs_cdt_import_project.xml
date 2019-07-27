@@ -18,15 +18,15 @@
       <description>
          通过选择以下向导之一来创建C ++或C项目。
       </description>
-      <subitem label="点击文件＆gt;新＆gt;用于启动新C ++项目向导的C ++ Project。" skip="true">
+      <subitem label="点击文件&gt;新&gt;用于启动新C ++项目向导的C ++ Project。" skip="true">
          <command serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.cdt.ui.wizards.NewCWizard1)" confirm="false">
          </command>
       </subitem>
-      <subitem label="点击文件＆gt;新＆gt; C Project启动新的C项目向导。" skip="true">
+      <subitem label="点击文件&gt;新&gt; C Project启动新的C项目向导。" skip="true">
          <command serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.cdt.ui.wizards.NewCWizard2)" confirm="false">
          </command>
       </subitem>
-      <subitem label="选择可执行文件＆gt;项目类型列表中的Hello World C / C ++示例。" skip="false">
+      <subitem label="选择可执行文件&gt;项目类型列表中的Hello World C / C ++示例。" skip="false">
       </subitem>
       <subitem label="键入项目名称，设置其位置，然后选择工具链，然后单击“下一步”。" skip="false">
       </subitem>
@@ -39,22 +39,22 @@
       <description>
          要使项目工作，需要文件。在此步骤中，您将旧项目文件导入新的C / C ++项目。
       </description>
-      <subitem label="点击文件＆gt;导入然后使用以下导入方法之一。" skip="true">
+      <subitem label="点击文件&gt;导入然后使用以下导入方法之一。" skip="true">
 		<!--
          <command serialization="org.eclipse.ui.file.import" confirm="false">
          </command>
 		-->
       </subitem>
-      <subitem label="要从其他项目导入文件，请单击“常规”＆gt;现有项目进入工作区。" skip="true">
+      <subitem label="要从其他项目导入文件，请单击“常规”&gt;现有项目进入工作区。" skip="true">
       </subitem>
-      <subitem label="要从文件系统导入文件，请单击“常规”＆gt;文件系统。" skip="true">
+      <subitem label="要从文件系统导入文件，请单击“常规”&gt;文件系统。" skip="true">
       </subitem>
    </item>
    <item title="Building projects and inspecting files" dialog="true" skip="false" href="/org.eclipse.cdt.doc.user/tasks/cdt_o_build_task.htm">
       <description>
          构建程序以创建二进制文件并在Outline和Project Explorer视图中检查它。
       </description>
-      <subitem label="单击项目＆gt; Build All来创建源文件的二进制文件。" skip="true">
+      <subitem label="单击项目&gt; Build All来创建源文件的二进制文件。" skip="true">
 		<!--
          <command serialization="org.eclipse.ui.project.buildAll" confirm="false">
          </command>
@@ -82,7 +82,7 @@
       <description>
          创建一个定义程序启动方式的运行配置。请注意，您可以根据需要定义多个运行配置，每个配置都有自己的设置。
       </description>
-      <subitem label="选择项目，然后单击Run As＆gt;打开运行对话框...以启动该程序。" skip="false">
+      <subitem label="选择项目，然后单击Run As&gt;打开运行对话框...以启动该程序。" skip="false">
 		<!--
 		  <command serialization="org.eclipse.debug.ui.commands.OpenRunConfigurations" confirm="false">
          </command>

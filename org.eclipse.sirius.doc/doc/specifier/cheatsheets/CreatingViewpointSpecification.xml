@@ -7,7 +7,7 @@
     <description>首先，您需要创建一个Viewpoint规范项目。</description>
     
     <subitem label="转到'Sirius'的观点。" />
-    <subitem label="在“模型资源管理器”视图中，右键单击并选择“新建”＆gt;观点规范项目。" />
+    <subitem label="在“模型资源管理器”视图中，右键单击并选择“新建”&gt;观点规范项目。" />
     <subitem label="输入新项目的名称，然后单击“下一步”。惯例是使用主域模型的插件的名称，然后是'.design'。" />
     <subitem label="在下一页上，输入Viewpoint规范模型文件的名称，然后输入“完成”。" />
   </item>

@@ -5,7 +5,7 @@
 		<anchor id="codegeneration" />
 	</topic>
 	<topic href="html/features/internationalization.html" label="国际化（i18n）" />
-	<topic href="html/features/custom_composites.html" label="Custom Composites＆amp;面板" />
+	<topic href="html/features/custom_composites.html" label="Custom Composites&amp;面板" />
 	<topic href="html/features/factories.html" label="工厂" />
 	<topic href="html/features/visual_inheritance.html" label="可视化继承" />
 	<topic href="html/features/event_handling.html" label="事件处理" />

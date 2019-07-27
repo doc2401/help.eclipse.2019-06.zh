@@ -19,15 +19,15 @@
       <description>
          通过选择以下向导之一来创建C ++或C项目。
       </description>
-      <subitem label="点击文件＆gt;新＆gt;用于启动新C ++项目向导的C ++ Project。" skip="true">
+      <subitem label="点击文件&gt;新&gt;用于启动新C ++项目向导的C ++ Project。" skip="true">
          <command serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.cdt.ui.wizards.NewCWizard1)" confirm="false">
          </command>
       </subitem>
-      <subitem label="点击文件＆gt;新＆gt; C Project启动新的C项目向导。" skip="true">
+      <subitem label="点击文件&gt;新&gt; C Project启动新的C项目向导。" skip="true">
          <command serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.cdt.ui.wizards.NewCWizard2)" confirm="false">
          </command>
       </subitem>
-      <subitem label="选择可执行文件＆gt;项目类型列表中的Hello World C / C ++示例。" skip="false">
+      <subitem label="选择可执行文件&gt;项目类型列表中的Hello World C / C ++示例。" skip="false">
       </subitem>
       <subitem label="键入项目名称，设置其位置，然后选择工具链，然后单击“下一步”。" skip="false">
       </subitem>
@@ -40,7 +40,7 @@
       <description>
          构建程序以创建二进制文件并在Project Explorer和Outline视图中检查它。
       </description>
-      <subitem label="单击项目＆gt; Build All来创建源文件的二进制文件。" skip="true">
+      <subitem label="单击项目&gt; Build All来创建源文件的二进制文件。" skip="true">
 		<!--
          <command serialization="org.eclipse.ui.project.buildAll" confirm="false">
          </command>
@@ -61,7 +61,7 @@
       <description>
          最后一步是创建一个运行配置，定义程序的启动方式。请注意，您可以根据需要定义多个运行配置，每个配置都有自己的设置。
       </description>
-      <subitem label="选择项目，然后单击Run As＆gt;打开运行对话框...以启动该程序。" skip="false">
+      <subitem label="选择项目，然后单击Run As&gt;打开运行对话框...以启动该程序。" skip="false">
 		<!--
          <command serialization="org.eclipse.debug.ui.commands.OpenRunConfigurations" confirm="false">
          </command>

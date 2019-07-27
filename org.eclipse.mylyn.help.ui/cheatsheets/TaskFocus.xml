@@ -19,16 +19,16 @@
    </intro>
    <item title="Open the Task List view" dialog="true" skip="false">
       <description>
-         如果未打开任务列表视图，请在主菜单中选择<b>窗口＆gt;显示视图＆gt;其他...＆gt;任务＆gt;任务列表</ b>或点击“点击执行”下方链接。
+         如果未打开任务列表视图，请在主菜单中选择<b>窗口&gt;显示视图&gt;其他...&gt;任务&gt;任务列表</ b>或点击“点击执行”下方链接。
       </description>
       <command serialization="org.eclipse.ui.views.showView(org.eclipse.ui.views.showView.viewId=org.eclipse.mylyn.tasks.ui.views.tasks)" confirm="true">
       </command>
    </item>
    <item title="Create and activate a task" dialog="true" skip="false">
       <description>
-在“任务列表”视图中，单击鼠标右键，然后选择<b>新建＆gt;分类</ b>的。输入<b>教程</ b>作为类别的名称。
+在“任务列表”视图中，单击鼠标右键，然后选择<b>新建&gt;分类</ b>的。输入<b>教程</ b>作为类别的名称。
 <BR/> <BR/>
-然后右键单击<b>教程</ b>类别，然后选择<b>新建＆gt;任务</ b>的。在<b>新任务</ b>对话框中选择<b>本地</ b>，然后单击<b>完成</ b>按钮。
+然后右键单击<b>教程</ b>类别，然后选择<b>新建&gt;任务</ b>的。在<b>新任务</ b>对话框中选择<b>本地</ b>，然后单击<b>完成</ b>按钮。
  输入<b>探索Mylyn </ b>以获取任务的标题，并使用摘要左侧的下拉菜单将优先级更改为<b>高</ b>。您也可以添加一些注释。
 <BR/> <BR/>
 右键单击新任务，然后选择<b>激活</ b>开始处理该任务。
@@ -86,7 +86,7 @@
       <description>
          在“任务列表”视图中，单击<b>学习任务焦点</ b>任务上的鼠标右键，然后选择停用。
 <BR/>
-用鼠标右键再次单击该任务，然后选择<b>标记＆gt;完整的</ b>的。 <BR/>
+用鼠标右键再次单击该任务，然后选择<b>标记&gt;完整的</ b>的。 <BR/>
 该任务的名称将在任务列表中显示，表示完成。
       </description>
    </item>

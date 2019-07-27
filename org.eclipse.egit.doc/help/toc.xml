@@ -358,10 +358,10 @@
 						<topic href="help/EGit/User_Guide/Reference.html#Revert_Commit" label="还原提交"></topic>
 						<topic href="help/EGit/User_Guide/Reference.html#Merge" label="合并"></topic>
 						<topic href="help/EGit/User_Guide/Reference.html#Rebase_on_top_of" label="重新基础"></topic>
-						<topic href="help/EGit/User_Guide/Reference.html#Reset_.3E_Soft.2FMixed.2FHard" label="重置＆gt;软/混合/硬"></topic>
-						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Reset_Quickdiff_Basline_to_HEAD" label="Quickdiff＆gt;将Quickdiff Basline重置为HEAD"></topic>
-						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Reset_Quickdiff_Basline_to_first_parent_of_HEAD" label="Quickdiff＆gt;将Quickdiff Basline重置为HEAD的第一个父级"></topic>
-						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Set_as_Baseline" label="Quickdiff＆gt;设为基线"></topic>
+						<topic href="help/EGit/User_Guide/Reference.html#Reset_.3E_Soft.2FMixed.2FHard" label="重置&gt;软/混合/硬"></topic>
+						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Reset_Quickdiff_Basline_to_HEAD" label="Quickdiff&gt;将Quickdiff Basline重置为HEAD"></topic>
+						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Reset_Quickdiff_Basline_to_first_parent_of_HEAD" label="Quickdiff&gt;将Quickdiff Basline重置为HEAD的第一个父级"></topic>
+						<topic href="help/EGit/User_Guide/Reference.html#Quickdiff_.3E_Set_as_Baseline" label="Quickdiff&gt;设为基线"></topic>
 						<topic href="help/EGit/User_Guide/Reference.html#Copy" label="复制"></topic>
 						<topic href="help/EGit/User_Guide/Reference.html#Show_Revision_Comment" label="显示修订评论"></topic>
 						<topic href="help/EGit/User_Guide/Reference.html#Show_Revision_Details" label="显示修订详情"></topic>
@@ -582,7 +582,7 @@
 			<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#Code_Review" label="代码审查"></topic>
 			<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#IP_Review" label="知识产权审查"></topic>
 			<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#Submission_Guidelines" label="提交指南"></topic>
-			<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#Tips_.26_Tricks" label="小贴士＆amp;技巧">
+			<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#Tips_.26_Tricks" label="小贴士&amp;技巧">
 				<topic href="help/EGit/Contributor_Guide/Gerrit-Code-Review-Cheatsheet.html#Class_Loading_Issues" label="类加载问题"></topic>
 			</topic>
 		</topic>

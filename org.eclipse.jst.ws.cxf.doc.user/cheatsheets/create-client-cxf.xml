@@ -28,7 +28,7 @@
          要从WSDL文档生成JAX-WS客户端，请执行以下步骤。
          
       </description>
-      <subitem label="选择“文件 - ＆gt;新 - ＆gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务客户端”。点击“确定”。选择“点击执行”按钮下面的按钮自动执行此操作。">
+      <subitem label="选择“文件 - &gt;新 - &gt;其他...＆QUOT;从主菜单中，展开“Web服务”。类别并选择“Web服务客户端”。点击“确定”。选择“点击执行”按钮下面的按钮自动执行此操作。">
          <command
                required="false"
                serialization="org.eclipse.ui.newWizard(newWizardId=org.eclipse.jst.ws.internal.consumption.ui.wizard.client.clientwizard)"/>
@@ -56,7 +56,7 @@
          在运行客户端之前，请检查CXF为您生成的操作参数，并在必要时进行编辑。
 <BR/>
 <BR/>
-要<b>运行</ b>您的客户端，请在项目浏览器中右键单击客户端，然后选择<b>运行方式＆gt; Java应用程序</ b>。将打开一个新的控制台视图，并显示操作调用的响应。
+要<b>运行</ b>您的客户端，请在项目浏览器中右键单击客户端，然后选择<b>运行方式&gt; Java应用程序</ b>。将打开一个新的控制台视图，并显示操作调用的响应。
       </description>
    </item>
 </cheatsheet>

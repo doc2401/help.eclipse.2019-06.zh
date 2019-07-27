@@ -61,7 +61,7 @@
       </enablement>
    </topic>
    <anchor id="c_afterhelp" />
-   <topic label="Ant＆amp;外部工具" href="concepts/concepts-antexttools.htm" >
+   <topic label="Ant&amp;外部工具" href="concepts/concepts-antexttools.htm" >
       <topic label="Ant支持" href="concepts/concepts-antsupport.htm"/>
       <enablement>
          <test property="org.eclipse.core.runtime.isBundleInstalled" args="org.eclipse.ant.ui"/>
